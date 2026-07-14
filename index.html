@@ -88,9 +88,7 @@
             gap: 0.5rem;
         }
 
-        .tab-btn:hover {
-            border-color: var(--text-muted);
-        }
+        .tab-btn:hover { border-color: var(--text-muted); }
 
         .tab-btn.active[data-tab="nfl"] {
             background-color: var(--nfl-blue);
@@ -394,7 +392,6 @@
     </footer>
 
     <script>
-        // Det maxade nyhetsnätet (10 källor totalt)
         const nflFeeds = [
             { name: 'ESPN NFL', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.espn.com%2Fespn%2Frss%2Fnfl%2Fnews' },
             { name: 'ProFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fprofootballtalk.nbcsports.com%2Ffeed%2F' },
@@ -415,38 +412,35 @@
 
         async function fetchAllNews() {
             const statusContainer = document.getElementById('status');
+            const newsContainer = document.getElementById('news');
             statusContainer.style.display = 'block';
             statusContainer.innerText = 'Hämtar de senaste nyheterna...';
+            newsContainer.innerHTML = '';
             allLoadedArticles = [];
 
             const activeFeeds = (currentTab === 'nfl') ? nflFeeds : ncaaFeeds;
 
-            try {
-                for (const feed of activeFeeds) {
-                    try {
-                        const response = await fetch(feed.url);
-                        const data = await response.json();
-                        if (data.status === 'ok') {
-                            data.items.forEach(item => {
-                                allLoadedArticles.push({
-                                    title: item.title,
-                                    link: item.link,
-                                    description: item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 180) + '...' : '',
-                                    pubDate: new Date(item.pubDate),
-                                    source: feed.name
-                                });
+            for (const feed of activeFeeds) {
+                try {
+                    const response = await fetch(feed.url);
+                    const data = await response.json();
+                    if (data.status === 'ok') {
+                        data.items.forEach(item => {
+                            allLoadedArticles.push({
+                                title: item.title,
+                                link: item.link,
+                                description: item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 180) + '...' : '',
+                                pubDate: new Date(item.pubDate),
+                                source: feed.name
                             });
-                        }
-                    } catch (e) { console.error("Kunde inte hämta flöde: " + feed.name); }
-                }
-
-                // Sortera nyaste först
-                allLoadedArticles.sort((a, b) => b.pubDate - a.pubDate);
-                statusContainer.style.display = 'none';
-                renderArticles(allLoadedArticles);
-            } catch (error) {
-                statusContainer.innerText = 'Ett fel uppstod vid laddning av nyheter.';
+                        });
+                    }
+                } catch (e) { console.error("Kunde inte hämta flöde: " + feed.name); }
             }
+
+            allLoadedArticles.sort((a, b) => b.pubDate - a.pubDate);
+            statusContainer.style.display = 'none';
+            renderArticles(allLoadedArticles);
         }
 
         function renderArticles(articles) {
@@ -500,7 +494,6 @@
             document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
             document.querySelector(`.tab-btn[data-tab="${tabName}"]`).classList.add('active');
 
-            // Nollställ "Alla nyheter"-knappen till aktiv
             document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
 
             if (tabName === 'nfl') {
@@ -508,7 +501,6 @@
                 document.getElementById('ncaa-view').classList.remove('active');
             } else {
                 document.getElementById('ncaa-view').classList.add('active');
-                document.getElementById('nfl-view').classList.remove('remove');
                 document.getElementById('nfl-view').classList.remove('active');
             }
             fetchAllNews();
