@@ -10,7 +10,8 @@
             --card-bg: #ffffff;
             --text-main: #0f172a;
             --text-muted: #475569;
-            --accent-color: #013369; /* Klassisk NFL-blå */
+            --accent-color: #013369; /* NFL Blue */
+            --accent-red: #d50a0a;   /* NFL Red */
             --border-color: #e2e8f0;
         }
 
@@ -43,7 +44,7 @@
         }
 
         .header-container {
-            max-width: 800px;
+            max-width: 900px;
             margin: 0 auto;
             display: flex;
             align-items: center;
@@ -58,7 +59,6 @@
             margin: 0;
             font-size: 1.75rem;
             font-weight: 800;
-            color: var(--text-main);
         }
 
         .subtitle {
@@ -68,14 +68,87 @@
         }
 
         main {
-            max-width: 800px;
+            max-width: 900px;
             margin: 2rem auto;
             padding: 0 1rem;
         }
 
+        /* --- Smart division- och pillerlayout --- */
+        .filter-section {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .conference-title {
+            font-size: 1.1rem;
+            font-weight: bold;
+            margin: 0.5rem 0;
+            padding-bottom: 0.25rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+        .afc-title { color: var(--accent-red); }
+        .nfc-title { color: var(--accent-color); }
+
+        .division-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .division-box h4 {
+            margin: 0 0 0.5rem 0;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.05em;
+        }
+
+        .pill-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+        }
+
+        .pill {
+            background-color: var(--bg-color);
+            border: 1px solid var(--border-color);
+            color: var(--text-main);
+            padding: 0.35rem 0.7rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.1s ease;
+        }
+
+        .pill:hover {
+            border-color: var(--text-muted);
+        }
+
+        .pill.active {
+            background-color: var(--accent-color);
+            color: #ffffff;
+            border-color: var(--accent-color);
+        }
+
+        .pill-all {
+            width: 100%;
+            max-width: 150px;
+            margin-bottom: 1rem;
+            text-align: center;
+            justify-content: center;
+            font-weight: bold;
+            background-color: var(--border-color);
+        }
+
+        /* --- Nyhetsflöde --- */
         .status {
             text-align: center;
-            padding: 2rem;
+            padding: 3rem;
             color: var(--text-muted);
             font-style: italic;
         }
@@ -94,9 +167,8 @@
             transition: transform 0.15s ease, box-shadow 0.15s ease;
         }
 
-        article:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        article.hidden {
+            display: none;
         }
 
         .meta {
@@ -110,7 +182,6 @@
         h2 {
             margin: 0 0 0.5rem 0;
             font-size: 1.25rem;
-            font-weight: 700;
         }
 
         h2 a {
@@ -130,14 +201,13 @@
         }
 
         footer {
-            max-width: 800px;
+            max-width: 900px;
             margin: 4rem auto 2rem auto;
-            padding: 0 1rem;
+            padding: 1.5rem 1rem 0 1rem;
             text-align: center;
             font-size: 0.8rem;
             color: var(--text-muted);
             border-top: 1px solid var(--border-color);
-            padding-top: 1.5rem;
         }
     </style>
 </head>
@@ -154,25 +224,113 @@
     </header>
 
     <main>
+        <!-- Filtreringssektion för alla 32 lag -->
+        <div class="filter-section">
+            <button class="pill pill-all active" onclick="filterLeague('ALL', this)">Layout: Alla nyheter</button>
+            
+            <!-- AFC -->
+            <div class="conference-title afc-title">AFC</div>
+            <div class="division-grid">
+                <div class="division-box">
+                    <h4>East</h4>
+                    <div class="pill-container">
+                        <button class="pill" onclick="filterLeague('Bills', this)">Bills</button>
+                        <button class="pill" onclick="filterLeague('Dolphins', this)">Dolphins</button>
+                        <button class="pill" onclick="filterLeague('Patriots', this)">Patriots</button>
+                        <button class="pill" onclick="filterLeague('Jets', this)">Jets</button>
+                    </div>
+                </div>
+                <div class="division-box">
+                    <h4>North</h4>
+                    <div class="pill-container">
+                        <button class="pill" onclick="filterLeague('Ravens', this)">Ravens</button>
+                        <button class="pill" onclick="filterLeague('Bengals', this)">Bengals</button>
+                        <button class="pill" onclick="filterLeague('Browns', this)">Browns</button>
+                        <button class="pill" onclick="filterLeague('Steelers', this)">Steelers</button>
+                    </div>
+                </div>
+                <div class="division-box">
+                    <h4>South</h4>
+                    <div class="pill-container">
+                        <button class="pill" onclick="filterLeague('Texans', this)">Texans</button>
+                        <button class="pill" onclick="filterLeague('Colts', this)">Colts</button>
+                        <button class="pill" onclick="filterLeague('Jaguars', this)">Jaguars</button>
+                        <button class="pill" onclick="filterLeague('Titans', this)">Titans</button>
+                    </div>
+                </div>
+                <div class="division-box">
+                    <h4>West</h4>
+                    <div class="pill-container">
+                        <button class="pill" onclick="filterLeague('Broncos', this)">Broncos</button>
+                        <button class="pill" onclick="filterLeague('Chiefs', this)">Chiefs</button>
+                        <button class="pill" onclick="filterLeague('Raiders', this)">Raiders</button>
+                        <button class="pill" onclick="filterLeague('Chargers', this)">Chargers</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- NFC -->
+            <div class="conference-title nfc-title">NFC</div>
+            <div class="division-grid">
+                <div class="division-box">
+                    <h4>East</h4>
+                    <div class="pill-container">
+                        <button class="pill" onclick="filterLeague('Cowboys', this)">Cowboys</button>
+                        <button class="pill" onclick="filterLeague('Giants', this)">Giants</button>
+                        <button class="pill" onclick="filterLeague('Eagles', this)">Eagles</button>
+                        <button class="pill" onclick="filterLeague('Commanders', this)">Commanders</button>
+                    </div>
+                </div>
+                <div class="division-box">
+                    <h4>North</h4>
+                    <div class="pill-container">
+                        <button class="pill" onclick="filterLeague('Bears', this)">Bears</button>
+                        <button class="pill" onclick="filterLeague('Lions', this)">Lions</button>
+                        <button class="pill" onclick="filterLeague('Packers', this)">Packers</button>
+                        <button class="pill" onclick="filterLeague('Vikings', this)">Vikings</button>
+                    </div>
+                </div>
+                <div class="division-box">
+                    <h4>South</h4>
+                    <div class="pill-container">
+                        <button class="pill" onclick="filterLeague('Falcons', this)">Falcons</button>
+                        <button class="pill" onclick="filterLeague('Panthers', this)">Panthers</button>
+                        <button class="pill" onclick="filterLeague('Saints', this)">Saints</button>
+                        <button class="pill" onclick="filterLeague('Buccaneers', this)">Buccaneers</button>
+                    </div>
+                </div>
+                <div class="division-box">
+                    <h4>West</h4>
+                    <div class="pill-container">
+                        <button class="pill" onclick="filterLeague('Cardinals', this)">Cardinals</button>
+                        <button class="pill" onclick="filterLeague('Rams', this)">Rams</button>
+                        <button class="pill" onclick="filterLeague('49ers', this)">49ers</button>
+                        <button class="pill" onclick="filterLeague('Seahawks', this)">Seahawks</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div id="status" class="status">Hämtar de senaste NFL-nyheterna...</div>
         <div id="news" class="news-container"></div>
     </main>
 
     <footer>
-        NFL-briefen • Amerikansk fotboll i korthet från de största nyhetskällorna.
+        NFL-briefen • Snabba amerikanska fotbollsnyheter sorterade live.
     </footer>
 
     <script>
-        // RSS-flöden anpassade för amerikansk fotboll översatta via RSS2JSON-appen
+        // Nyhetskällor (ESPN och NBC Sports ProFootballTalk)
         const feeds = [
             { name: 'ESPN NFL', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.espn.com%2Fespn%2Frss%2Fnfl%2Fnews' },
             { name: 'ProFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fprofootballtalk.nbcsports.com%2Ffeed%2F' }
         ];
 
+        let loadedArticles = [];
+
         async function fetchNews() {
             const newsContainer = document.getElementById('news');
             const statusContainer = document.getElementById('status');
-            let allArticles = [];
 
             try {
                 for (const feed of feeds) {
@@ -181,7 +339,7 @@
                     
                     if (data.status === 'ok') {
                         data.items.forEach(item => {
-                            allArticles.push({
+                            loadedArticles.push({
                                 title: item.title,
                                 link: item.link,
                                 description: item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 180) + '...' : '',
@@ -192,39 +350,73 @@
                     }
                 }
 
-                // Sortera nyheterna så att de nyaste hamnar först
-                allArticles.sort((a, b) => b.pubDate - a.pubDate);
+                // Sortera nyaste först
+                loadedArticles.sort((a, b) => b.pubDate - a.pubDate);
 
                 statusContainer.style.display = 'none';
-                newsContainer.innerHTML = '';
-
-                if (allArticles.length === 0) {
-                    statusContainer.style.display = 'block';
-                    statusContainer.innerText = 'Inga nyheter kunde hittas just nu.';
-                    return;
-                }
-
-                allArticles.forEach(article => {
-                    const timeString = article.pubDate.toLocaleTimeString('sv-SE', { hour: '2-digit', minute: '2-digit' });
-                    const dateString = article.pubDate.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' });
-                    
-                    const html = `
-                        <article>
-                            <div class="meta">
-                                <span>${article.source}</span>
-                                <span>${dateString} ${timeString}</span>
-                            </div>
-                                <h2><a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a></h2>
-                            <p>${article.description}</p>
-                        </article>
-                    `;
-                    newsContainer.innerHTML += html;
-                });
+                renderArticles(loadedArticles);
 
             } catch (error) {
                 console.error(error);
                 statusContainer.innerText = 'Ett fel uppstod när nyheterna skulle hämtas.';
             }
+        }
+
+        function renderArticles(articles) {
+            const newsContainer = document.getElementById('news');
+            newsContainer.innerHTML = '';
+
+            if (articles.length === 0) {
+                newsContainer.innerHTML = '<div class="status">Inga nyheter matchar ditt val för tillfället.</div>';
+                return;
+            }
+
+            articles.forEach(article => {
+                const timeString = article.pubDate.toLocaleTimeString('sv-SE', { hour: '2-digit', minute: '2-digit' });
+                const dateString = article.pubDate.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' });
+                
+                const html = `
+                    <article data-title="${article.title.toLowerCase()}" data-desc="${article.description.toLowerCase()}">
+                        <div class="meta">
+                            <span>${article.source}</span>
+                            <span>${dateString} ${timeString}</span>
+                        </div>
+                        <h2><a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a></h2>
+                        <p>${article.description}</p>
+                    </article>
+                `;
+                newsContainer.innerHTML += html;
+            });
+        }
+
+        // Filterfunktion som kollar om lagets namn finns i rubrik eller beskrivning
+        function filterLeague(teamName, buttonElement) {
+            // Uppdatera aktiv klass på knapparna
+            document.querySelectorAll('.pill').forEach(pill => pill.classList.remove('active'));
+            buttonElement.classList.add('active');
+
+            const articles = document.querySelectorAll('#news article');
+            const statusContainer = document.getElementById('status');
+            let foundAny = false;
+
+            if (teamName === 'ALL') {
+                articles.forEach(article => article.classList.remove('hidden'));
+                return;
+            }
+
+            const searchKey = teamName.toLowerCase();
+
+            articles.forEach(article => {
+                const title = article.getAttribute('data-title');
+                const desc = article.getAttribute('data-desc');
+
+                if (title.includes(searchKey) || desc.includes(searchKey)) {
+                    article.classList.remove('hidden');
+                    foundAny = true;
+                } else {
+                    article.classList.add('hidden');
+                }
+            });
         }
 
         fetchNews();
