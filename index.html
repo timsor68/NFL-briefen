@@ -72,7 +72,7 @@
         }
         .countdown-label { font-size: 0.65rem; color: var(--text-muted); text-transform: uppercase; display: block; }
 
-        /* --- Matchcenter Remse --- */
+        /* --- Matchcenter Remsa --- */
         .matchcenter {
             background-color: #0f172a;
             color: white;
@@ -100,9 +100,6 @@
         .ticker-team { font-weight: bold; display: flex; align-items: center; gap: 0.2rem; }
         .ticker-team img { width: 14px; height: 14px; }
         .ticker-time { color: #94a3b8; border-left: 1px solid #334155; padding-left: 0.6rem; }
-        .ticker-live { color: var(--nfl-red); font-weight: bold; animation: blink 1.5s infinite; }
-
-        @keyframes blink { 50% { opacity: 0.5; } }
 
         main { max-width: 1000px; margin: 1.5rem auto; padding: 0 1rem; }
 
@@ -193,9 +190,11 @@
         .standings-content { display: none; padding: 1rem; overflow-x: auto; }
         .standings-content.active { display: block; }
         
-        table { width: 100%; border-collapse: collapse; font-size: 0.85rem; text-align: left; min-width: 450px; }
-        th, td { padding: 0.5rem; border-bottom: 1px solid var(--border-color); }
+        table { width: 100%; border-collapse: collapse; font-size: 0.85rem; text-align: left; min-width: 500px; }
+        th, td { padding: 0.6rem; border-bottom: 1px solid var(--border-color); }
         th { color: var(--text-muted); font-weight: 600; }
+        .td-team { display: flex; align-items: center; gap: 0.5rem; font-weight: bold; }
+        .td-team img { width: 18px; height: 18px; object-fit: contain; }
 
         .status { text-align: center; padding: 3rem; color: var(--text-muted); font-style: italic; }
         footer { text-align: center; margin: 4rem 0 2rem 0; font-size: 0.8rem; color: var(--text-muted); }
@@ -354,25 +353,15 @@
         <div id="status" class="status">Hämtar de senaste nyheterna...</div>
         <div id="news" class="news-container"></div>
 
-        <!-- Tabellsektion (Dragspel) -->
+        <!-- Tabellsektion (Live via JavaScript) -->
         <div class="standings-accordion">
             <div class="standings-header" onclick="toggleStandings()">
-                <span>📊 Visa Aktuell Divisionstabell (NFL Top Teams)</span>
+                <span>📊 Visa Aktuella Divisionstabeller (Live från NFL)</span>
                 <span id="accordion-arrow">▼</span>
             </div>
             <div class="standings-content" id="standings-content">
-                <table>
-                    <thead>
-                        <tr><th>Lag</th><th>W</th><th>L</th><th>T</th><th>PCT</th></tr>
-                    </thead>
-                    <tbody>
-                        <tr><td><b>KC</b> Chiefs</td><td>12</td><td>3</td><td>0</td><td>.800</td></tr>
-                        <tr><td><b>BUF</b> Bills</td><td>11</td><td>4</td><td>0</td><td>.733</td></tr>
-                        <tr><td><b>DET</b> Lions</td><td>11</td><td>4</td><td>0</td><td>.733</td></tr>
-                        <tr><td><b>PHI</b> Eagles</td><td>10</td><td>5</td><td>0</td><td>.667</td></tr>
-                        <tr><td><b>BAL</b> Ravens</td><td>9</td><td>6</td><td>0</td><td>.600</td></tr>
-                    </tbody>
-                </table>
+                <div id="standings-loading" style="text-align:center; padding:1rem; font-style:italic; color:var(--text-muted);">Laddar tabell från NFL...</div>
+                <div id="standings-tables-container"></div>
             </div>
         </div>
     </main>
@@ -490,7 +479,6 @@
             });
         }
 
-        // --- Smart Fantasy-filtrering ---
         function toggleFantasyFilter(button) {
             document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
             isFantasyActive = !isFantasyActive;
@@ -530,9 +518,81 @@
             arrow.innerText = content.classList.contains('active') ? '▲' : '▼';
         }
 
-        // --- Countdown-skript ---
+        // --- Hämta Live-tabell från ESPN ---
+        async function fetchLiveStandings() {
+            const container = document.getElementById('standings-tables-container');
+            const loader = document.getElementById('standings-loading');
+            
+            try {
+                const response = await fetch('https://site.api.espn.com/apis/site/v2/sports/football/nfl/standings');
+                const data = await response.json();
+                
+                if (data.children) {
+                    loader.style.display = 'none';
+                    container.innerHTML = '';
+                    
+                    // Gå igenom konferenser (AFC, NFC)
+                    data.children.forEach(conference => {
+                        let confHtml = `<h3 style="margin-top:1.5rem; color:var(--nfl-blue); border-bottom:2px solid var(--border-color); padding-bottom:0.25rem;">${conference.name}</h3>`;
+                        
+                        // Gå igenom divisioner (East, North, etc.)
+                        conference.children.forEach(division => {
+                            let divHtml = `
+                                <div style="margin-bottom: 1.5rem;">
+                                    <h4 style="margin: 0.5rem 0; color:var(--text-muted); font-size:0.85rem; text-transform:uppercase;">${division.name}</h4>
+                                    <table>
+                                        <thead>
+                                            <tr>
+                                                <th>Lag</th>
+                                                <th style="text-align:center;">W</th>
+                                                <th style="text-align:center;">L</th>
+                                                <th style="text-align:center;">T</th>
+                                                <th style="text-align:center;">PCT</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                            `;
+                            
+                            // Hämta lagen i divisionen
+                            division.standings.entries.forEach(entry => {
+                                const team = entry.team;
+                                const stats = entry.stats;
+                                
+                                const wins = stats.find(s => s.name === 'wins')?.value ?? 0;
+                                const losses = stats.find(s => s.name === 'losses')?.value ?? 0;
+                                const ties = stats.find(s => s.name === 'ties')?.value ?? 0;
+                                const pct = stats.find(s => s.name === 'winPercent')?.displayValue ?? '.000';
+                                
+                                divHtml += `
+                                    <tr>
+                                        <td>
+                                            <div class="td-team">
+                                                <img src="${team.logos?.[0]?.href ?? ''}" alt="">
+                                                <span>${team.displayName}</span>
+                                            </div>
+                                        </td>
+                                        <td style="text-align:center;">${wins}</td>
+                                        <td style="text-align:center;">${losses}</td>
+                                        <td style="text-align:center;">${ties}</td>
+                                        <td style="text-align:center; font-weight:500;">${pct}</td>
+                                    </tr>
+                                `;
+                            });
+                            
+                            divHtml += `</tbody></table></div>`;
+                            confHtml += divHtml;
+                        });
+                        
+                        container.innerHTML += confHtml;
+                    });
+                }
+            } catch (error) {
+                console.error(error);
+                loader.innerText = 'Kunde inte hämta live-tabellen just nu.';
+            }
+        }
+
         function startCountdown() {
-            // Vi sätter ett fiktivt datum för nästa torsdagsmatch (Kickoff)
             const kickoff = new Date();
             kickoff.setDate(kickoff.getDate() + ((4 + 7 - kickoff.getDay()) % 7 || 7));
             kickoff.setHours(20, 15, 0, 0);
@@ -545,10 +605,11 @@
                 const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
                 document.getElementById('countdown').innerText = `${days}d ${hours}h ${minutes}m`;
             }, 60000);
-            document.getElementById('countdown').innerText = "3d 08h 14m"; // Default startvy
+            document.getElementById('countdown').innerText = "3d 08h 14m";
         }
 
         fetchAllNews();
+        fetchLiveStandings();
         startCountdown();
     </script>
 </body>
