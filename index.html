@@ -15,9 +15,7 @@
         :root {
             --bg-color: #f1f5f9; --card-bg: #ffffff; --text-main: #0f172a; --text-muted: #64748b;
             --border-color: #e2e8f0; --nfl-blue: #013369; --nfl-red: #d50a0a; --ncaa-green: #006341;
-            --fantasy-gold: #eab308; --playoff-green: #10b981; --box-bg-pastel: #f8fafc;
-            --pill-all-bg: #e2e8f0; --active-pastel-blue: #e0f2fe; --active-pastel-border: #38bdf8;
-            --afc-pastel-header: #fee2e2; --nfc-pastel-header: #e0f2fe; --ncaa-pastel-header: #d1fae5;
+            --fantasy-gold: #eab308; --box-bg-pastel: #f8fafc;
         }
         body.tab-nfl { background-color: #f1f5f9; }
         body.tab-insider { background-color: #fefcf0; }
@@ -27,30 +25,24 @@
         header { background-color: var(--card-bg); border-bottom: 1px solid var(--border-color); padding: 1rem; position: sticky; top: 0; z-index: 100; }
         .header-container { max-width: 1000px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
         main { max-width: 1000px; margin: 1.5rem auto; padding: 0 1rem; }
-        .main-tabs { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; }
-        .tab-btn { flex: 1; padding: 0.8rem; font-weight: 800; border: 2px solid var(--border-color); background: var(--card-bg); cursor: pointer; border-radius: 12px; }
-        .tab-btn.active[data-tab="nfl"] { background-color: var(--nfl-blue); color: white; }
-        .tab-btn.active[data-tab="insider"] { background-color: var(--fantasy-gold); }
-        .tab-btn.active[data-tab="ncaa"] { background-color: var(--ncaa-green); color: white; }
         
-        .filter-section { background: var(--card-bg); border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 16px; margin-bottom: 1.5rem; }
-        .pill-all { background: var(--pill-all-bg); border: none; padding: 0.5rem 1rem; border-radius: 20px; cursor: pointer; }
-        .pill-all.active { background: var(--active-pastel-blue); border: 1px solid var(--active-pastel-border); }
+        .tab-btn { padding: 0.8rem; font-weight: 800; border: 2px solid var(--border-color); background: var(--card-bg); cursor: pointer; border-radius: 12px; }
+        .tab-btn.active { background-color: var(--nfl-blue); color: white; }
         
-        .news-wrapper-box { background: var(--card-bg); border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 16px; margin-bottom: 2rem; min-height: 200px; }
-        article { background: var(--box-bg-pastel); border: 1px solid var(--border-color); padding: 1rem; border-radius: 12px; margin-bottom: 1rem; display: flex; gap: 1rem; }
-        .standings-accordion { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; }
-        .standings-header { background: #0f172a; color: white; padding: 1rem; cursor: pointer; }
-        .standings-content { display: none; padding: 1rem; }
-        .standings-content.active { display: block; }
+        .news-wrapper-box { background: var(--card-bg); border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 16px; margin-bottom: 2rem; }
+        .news-header-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.2rem; }
+        
+        .refresh-btn { cursor: pointer; background: var(--pill-all-bg); border: none; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.8rem; }
+        .refresh-btn:hover { background: var(--border-color); }
+        
+        article { background: var(--box-bg-pastel); border: 1px solid var(--border-color); padding: 1rem; border-radius: 12px; margin-bottom: 1rem; }
     </style>
 </head>
 <body class="tab-nfl">
 
     <header>
         <div class="header-container">
-            <div class="header-left"><h1>NFL-briefen</h1></div>
-            <div class="countdown-box"><span id="countdown">Laddar...</span></div>
+            <h1>NFL-briefen</h1>
         </div>
     </header>
 
@@ -61,20 +53,13 @@
             <button class="tab-btn" data-tab="ncaa" onclick="switchMainTab('ncaa')">College (NCAA)</button>
         </div>
 
-        <div id="filter-wrapper" class="filter-section">
-            <button class="pill-all active" id="btn-all-news" onclick="clearActiveFilters()">Alla nyheter</button>
-            <button class="pill-fantasy" onclick="toggleFantasyFilter(this)">⭐ Fantasy</button>
-        </div>
-
         <div class="news-wrapper-box">
-            <div id="news-section-title" class="news-section-title">📰 Nyhetsflöde</div>
+            <div class="news-header-row">
+                <div class="news-section-title">📰 Senaste nyheterna</div>
+                <button class="refresh-btn" onclick="fetchAllNews()">🔄 Uppdatera nu</button>
+            </div>
             <div id="status">Hämtar nyheter...</div>
             <div id="news" class="news-container"></div>
-        </div>
-
-        <div class="standings-accordion">
-            <div class="standings-header" onclick="document.getElementById('standings-content').classList.toggle('active')">📊 Live Standings</div>
-            <div id="standings-content" class="standings-content"><div id="standings-tables-container"></div></div>
         </div>
     </main>
 
@@ -92,6 +77,7 @@
             const status = document.getElementById('status');
             newsContainer.innerHTML = '';
             status.style.display = 'block';
+            status.innerText = 'Uppdaterar...';
 
             let activeFeeds = feeds[currentTab];
             let allItems = [];
@@ -120,8 +106,8 @@
             fetchAllNews();
         }
 
-        function clearActiveFilters() { fetchAllNews(); }
-        function toggleFantasyFilter() { alert("Fantasy-filter aktiverat"); }
+        // Automatisk uppdatering var 45:e minut (45 * 60 * 1000ms)
+        setInterval(fetchAllNews, 2700000);
 
         fetchAllNews();
     </script>
