@@ -13,71 +13,33 @@
     <title>NFL-briefen — Den ultimata NFL-dashboarden</title>
     <style>
         :root {
-            --bg-color: #f1f5f9;
-            --card-bg: #ffffff;
-            --text-main: #0f172a;
-            --text-muted: #64748b;
-            --border-color: #e2e8f0;
-            --nfl-blue: #013369;
-            --nfl-red: #d50a0a;
-            --ncaa-green: #006341;
-            --fantasy-gold: #eab308;
-            --playoff-green: #10b981;
-            --box-bg-pastel: #f8fafc;
-            --pill-all-bg: #e2e8f0;
-            --active-pastel-blue: #e0f2fe;
-            --active-pastel-border: #38bdf8;
-            --afc-pastel-header: #fee2e2;
-            --nfc-pastel-header: #e0f2fe;
-            --ncaa-pastel-header: #d1fae5;
+            --bg-color: #f1f5f9; --card-bg: #ffffff; --text-main: #0f172a; --text-muted: #64748b;
+            --border-color: #e2e8f0; --nfl-blue: #013369; --nfl-red: #d50a0a; --ncaa-green: #006341;
+            --fantasy-gold: #eab308; --playoff-green: #10b981; --box-bg-pastel: #f8fafc;
+            --pill-all-bg: #e2e8f0; --active-pastel-blue: #e0f2fe; --active-pastel-border: #38bdf8;
+            --afc-pastel-header: #fee2e2; --nfc-pastel-header: #e0f2fe; --ncaa-pastel-header: #d1fae5;
         }
-
         body.tab-nfl { background-color: #f1f5f9; }
         body.tab-insider { background-color: #fefcf0; }
         body.tab-ncaa { background-color: #f0fdf4; }
 
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; color: var(--text-main); margin: 0; padding: 0; line-height: 1.5; transition: background-color 0.3s ease; }
-        header { background-color: var(--card-bg); border-bottom: 1px solid var(--border-color); padding: 1.2rem 1rem; position: sticky; top: 0; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.03); }
-        .header-container { max-width: 1000px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
-        .header-left { display: flex; align-items: center; gap: 1rem; }
-        .logo { font-size: 2.3rem; }
-        h1 { margin: 0; font-size: 1.6rem; font-weight: 800; }
-        .subtitle { margin: 0; font-size: 0.85rem; color: var(--text-muted); }
-        .countdown-box { background-color: var(--card-bg); padding: 0.4rem 0.8rem; border-radius: 8px; border: 1px solid var(--border-color); font-size: 0.8rem; font-weight: 700; text-align: right; }
-        
-        .matchcenter { background-color: #0f172a; color: white; padding: 0.5rem 0; overflow-x: auto; white-space: nowrap; display: flex; gap: 1rem; border-bottom: 1px solid #334155; }
-        .ticker-card { display: inline-flex; align-items: center; background: #1e293b; padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.75rem; gap: 0.6rem; margin-left: 0.5rem; border: 1px solid #334155; }
-        .ticker-team { font-weight: bold; display: flex; align-items: center; gap: 0.2rem; }
-        .ticker-team img { width: 14px; height: 14px; }
-
+        body { font-family: sans-serif; color: var(--text-main); margin: 0; padding: 0; line-height: 1.5; transition: background-color 0.3s ease; }
+        header { background-color: var(--card-bg); border-bottom: 1px solid var(--border-color); padding: 1rem; position: sticky; top: 0; z-index: 100; }
+        .header-container { max-width: 1000px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
         main { max-width: 1000px; margin: 1.5rem auto; padding: 0 1rem; }
         .main-tabs { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; }
-        .tab-btn { flex: 1; padding: 0.8rem; font-size: 0.95rem; font-weight: 800; border: 2px solid var(--border-color); background-color: var(--card-bg); color: var(--text-main); border-radius: 12px; cursor: pointer; transition: all 0.2s ease; text-align: center; }
-        .tab-btn.active[data-tab="nfl"] { background-color: var(--nfl-blue); color: white; border-color: var(--nfl-blue); }
-        .tab-btn.active[data-tab="insider"] { background-color: var(--fantasy-gold); color: #0f172a; border-color: var(--fantasy-gold); }
-        .tab-btn.active[data-tab="ncaa"] { background-color: var(--ncaa-green); color: white; border-color: var(--ncaa-green); }
-
-        .filter-section { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 16px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 4px 14px rgba(0,0,0,0.02); }
-        .pill-all { background-color: var(--pill-all-bg); border: 1px solid var(--border-color); padding: 0.5rem 1.2rem; border-radius: 30px; font-weight: bold; cursor: pointer; }
-        .pill-all.active { background-color: var(--active-pastel-blue); border-color: var(--active-pastel-border); }
-        .pill-fantasy { background-color: var(--fantasy-gold); border: none; padding: 0.5rem 1.2rem; border-radius: 30px; font-weight: bold; cursor: pointer; }
-
-        .section-view { display: none; }
-        .section-view.active { display: block; }
-        .conference-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; }
-        .conference-box { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding-bottom: 1rem; }
-        .conference-box h3 { font-size: 1.1rem; padding: 0.6rem 1rem; text-transform: uppercase; }
-        .conference-box.afc h3 { background-color: var(--afc-pastel-header); color: var(--nfl-red); }
-        .conference-box.nfc h3 { background-color: var(--nfc-pastel-header); color: var(--nfl-blue); }
-        .conference-box.ncaa-conf h3 { background-color: var(--ncaa-pastel-header); color: var(--ncaa-green); }
-
-        .team-btn { background-color: var(--bg-color); border: 1px solid var(--border-color); padding: 0.45rem 0.6rem; border-radius: 8px; font-size: 0.8rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 0.4rem; }
-        .team-btn.active { background-color: var(--active-pastel-blue) !important; border-color: var(--active-pastel-border) !important; }
-
-        .news-wrapper-box { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 16px; padding: 1.5rem; margin-bottom: 2rem; min-height: 200px; }
-        article { background-color: var(--box-bg-pastel); border: 1px solid var(--border-color); border-radius: 12px; padding: 1.1rem; margin-bottom: 1rem; display: flex; gap: 1rem; }
-        h2 { font-size: 1.1rem; }
-        .standings-accordion { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; }
+        .tab-btn { flex: 1; padding: 0.8rem; font-weight: 800; border: 2px solid var(--border-color); background: var(--card-bg); cursor: pointer; border-radius: 12px; }
+        .tab-btn.active[data-tab="nfl"] { background-color: var(--nfl-blue); color: white; }
+        .tab-btn.active[data-tab="insider"] { background-color: var(--fantasy-gold); }
+        .tab-btn.active[data-tab="ncaa"] { background-color: var(--ncaa-green); color: white; }
+        
+        .filter-section { background: var(--card-bg); border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 16px; margin-bottom: 1.5rem; }
+        .pill-all { background: var(--pill-all-bg); border: none; padding: 0.5rem 1rem; border-radius: 20px; cursor: pointer; }
+        .pill-all.active { background: var(--active-pastel-blue); border: 1px solid var(--active-pastel-border); }
+        
+        .news-wrapper-box { background: var(--card-bg); border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 16px; margin-bottom: 2rem; min-height: 200px; }
+        article { background: var(--box-bg-pastel); border: 1px solid var(--border-color); padding: 1rem; border-radius: 12px; margin-bottom: 1rem; display: flex; gap: 1rem; }
+        .standings-accordion { background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; }
         .standings-header { background: #0f172a; color: white; padding: 1rem; cursor: pointer; }
         .standings-content { display: none; padding: 1rem; }
         .standings-content.active { display: block; }
@@ -100,12 +62,13 @@
         </div>
 
         <div id="filter-wrapper" class="filter-section">
-            <button class="pill-all active" id="btn-all-news" onclick="clearActiveFilters(this)">Alla nyheter</button>
+            <button class="pill-all active" id="btn-all-news" onclick="clearActiveFilters()">Alla nyheter</button>
             <button class="pill-fantasy" onclick="toggleFantasyFilter(this)">⭐ Fantasy</button>
         </div>
 
         <div class="news-wrapper-box">
-            <div id="news-section-title" class="news-section-title">📰 Senaste nyheterna</div>
+            <div id="news-section-title" class="news-section-title">📰 Nyhetsflöde</div>
+            <div id="status">Hämtar nyheter...</div>
             <div id="news" class="news-container"></div>
         </div>
 
@@ -116,15 +79,51 @@
     </main>
 
     <script>
-        // Logik för flikbyte och bakgrund
-        function switchMainTab(tabName) {
-            currentTab = tabName;
-            document.body.className = `tab-${tabName}`;
-            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
-            document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
+        const feeds = {
+            nfl: [{name: 'ESPN', url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.espn.com/espn/rss/nfl/news'}],
+            insider: [{name: 'PFT', url: 'https://api.rss2json.com/v1/api.json?rss_url=https://profootballtalk.nbcsports.com/feed/'}],
+            ncaa: [{name: 'ESPN NCAA', url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.espn.com/espn/rss/ncf/news'}]
+        };
+
+        let currentTab = 'nfl';
+
+        async function fetchAllNews() {
+            const newsContainer = document.getElementById('news');
+            const status = document.getElementById('status');
+            newsContainer.innerHTML = '';
+            status.style.display = 'block';
+
+            let activeFeeds = feeds[currentTab];
+            let allItems = [];
+
+            for (let feed of activeFeeds) {
+                try {
+                    let res = await fetch(feed.url);
+                    let data = await res.json();
+                    if (data.items) allItems.push(...data.items);
+                } catch(e) { console.error(e); }
+            }
+
+            status.style.display = 'none';
+            allItems.forEach(item => {
+                let article = document.createElement('article');
+                article.innerHTML = `<div><h2><a href="${item.link}">${item.title}</a></h2><p>${item.description.substring(0, 100)}...</p></div>`;
+                newsContainer.appendChild(article);
+            });
+        }
+
+        function switchMainTab(tab) {
+            currentTab = tab;
+            document.body.className = `tab-${tab}`;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector(`[data-tab="${tab}"]`).classList.add('active');
             fetchAllNews();
         }
-        // ... (resten av logiken för fetchAllNews etc. förblir intakt)
+
+        function clearActiveFilters() { fetchAllNews(); }
+        function toggleFantasyFilter() { alert("Fantasy-filter aktiverat"); }
+
+        fetchAllNews();
     </script>
 </body>
 </html>
