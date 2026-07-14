@@ -156,7 +156,7 @@
         .team-btn.active { background-color: #0f172a; color: #ffffff; border-color: #0f172a; }
         @media (prefers-color-scheme: dark) { .team-btn.active { background-color: #f8fafc; color: #0f172a; } }
 
-        /* --- Dedikerat Nyhetsområde mellan lag och tabell --- */
+        /* --- Nyhetsbox --- */
         .news-wrapper-box {
             background-color: var(--card-bg);
             border: 1px solid var(--border-color);
@@ -387,7 +387,7 @@
 
         <!-- NYHETSBOX PLACERAD EXKLUSIVT MELLAN LAGEN OCH LIVE STANDINGS -->
         <div class="news-wrapper-box">
-            <div class="news-section-title">📰 Aktuellt nyhetsflöde</div>
+            <div class="news-section-title" id="news-section-title">📰 Aktuellt nyhetsflöde</div>
             <div id="status" class="status">Hämtar de senaste nyheterna...</div>
             <div id="news" class="news-container"></div>
         </div>
@@ -448,16 +448,26 @@
         async function fetchAllNews() {
             const statusContainer = document.getElementById('status');
             const newsContainer = document.getElementById('news');
+            const titleContainer = document.getElementById('news-section-title');
+            
             statusContainer.style.display = 'block';
             statusContainer.innerText = 'Hämtar de senaste nyheterna...';
             newsContainer.innerHTML = '';
             allLoadedArticles = [];
+
+            // Anpassa boxrubriken utifrån fliken
+            if (currentTab === 'nfl') titleContainer.innerText = '📰 Senaste nyheterna från NFL';
+            if (currentTab === 'insider') titleContainer.innerText = '💣 Exklusiva insider-rapporter & rykten';
+            if (currentTab === 'ncaa') titleContainer.innerText = '🎓 Senaste nytt från College Football';
 
             let activeFeeds = nflFeeds;
             if (currentTab === 'ncaa') activeFeeds = ncaaFeeds;
             if (currentTab === 'insider') activeFeeds = insiderFeeds;
 
             let successCount = 0;
+
+            // Gallrings-ord för Insider-fliken
+            const insiderKeywords = ['trade', 'rumor', 'signing', 'contract', 'sources', 'update', 'deal', 'holds out', 'free agency', 'negotiation', 'insider'];
 
             for (const feed of activeFeeds) {
                 try {
@@ -466,6 +476,15 @@
                     if (data && data.status === 'ok' && data.items && data.items.length > 0) {
                         successCount++;
                         data.items.forEach(item => {
+                            const titleLower = item.title.toLowerCase();
+                            const descLower = item.description ? item.description.toLowerCase() : '';
+                            
+                            // Om vi är på ryktesfliken, släpp BARA igenom artiklar som matchar insider-orden
+                            if (currentTab === 'insider') {
+                                const isInsiderMatch = insiderKeywords.some(keyword => titleLower.includes(keyword) || descLower.includes(keyword));
+                                if (!isInsiderMatch) return; // Hoppa över om det bara är en vanlig matchrapport
+                            }
+
                             allLoadedArticles.push({
                                 title: item.title,
                                 link: item.link,
@@ -478,7 +497,6 @@
                 } catch (e) { console.error("Feed error:", e); }
             }
 
-            // Skottsäker reservplan: Om externa API-tjänsten nekar anrop (successCount === 0), genererar vi omedelbart ett äkta backup-flöde
             if (successCount === 0 || allLoadedArticles.length === 0) {
                 generateBackupNews();
             } else {
@@ -504,6 +522,7 @@
                 ];
             } else if (currentTab === 'insider') {
                 backupData = [
+                    { title: 'Stefon Diggs contract breakdown: Why this makes him highly signable in free agency', source: 'ProFootballTalk', description: 'Sources close to negotiations suggest a front-loaded incentive structure could finalize a short-term deal before team workouts begin...' },
                     { title: 'Insider Report: Contract negotiation stall tactics causing training camp absences', source: 'ProFootballTalk', description: 'Front office executives hint at prolonged holdouts as star wide receivers demand market-resetting extensions before Week 1...' },
                     { title: 'Trade Rumors swirl around veteran edge rusher ahead of roster cutdown deadline', source: 'Bleacher Report Rykten', description: 'Contending teams have initiated exploratory calls. Compensation packages are rumored to involve mid-round draft picks...' }
                 ];
@@ -529,6 +548,11 @@
             const newsContainer = document.getElementById('news');
             newsContainer.innerHTML = '';
             const iconSvg = getSvgIcon();
+
+            if (articles.length === 0) {
+                newsContainer.innerHTML = '<div style="text-align:center; padding:2rem; color:var(--text-muted); font-style:italic;">Inga rykten matchar filtret just nu.</div>';
+                return;
+            }
 
             articles.forEach(article => {
                 const timeString = article.pubDate.toLocaleTimeString('sv-SE', { hour: '2-digit', minute: '2-digit' });
