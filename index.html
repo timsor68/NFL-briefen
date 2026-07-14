@@ -167,18 +167,18 @@
         .article-content { flex: 1; }
         
         .article-image-box { 
-            width: 90px; height: 70px; border-radius: 8px; overflow: hidden; 
-            background-color: #e2e8f0; border: 1px solid var(--border-color); 
+            width: 80px; height: 70px; border-radius: 8px; overflow: hidden; 
+            background-color: #f8fafc; border: 1px solid var(--border-color); 
             display: flex; align-items: center; justify-content: center; flex-shrink: 0; 
         }
         @media (prefers-color-scheme: dark) {
-            .article-image-box { background-color: #334155; }
+            .article-image-box { background-color: #1e293b; }
         }
-        .article-image-box svg { width: 45px; height: 45px; fill: var(--text-muted); opacity: 0.6; }
+        .article-image-box svg { width: 40px; height: 40px; }
         
         @media (max-width: 600px) {
             article { flex-direction: column-reverse; gap: 1rem; }
-            .article-image-box { width: 100%; height: 120px; }
+            .article-image-box { width: 100%; height: 90px; }
         }
 
         .meta { font-size: 0.75rem; color: var(--text-muted); margin-bottom: 0.4rem; display: flex; gap: 0.8rem; font-weight: 500; }
@@ -206,7 +206,7 @@
         .td-team img { width: 18px; height: 18px; object-fit: contain; }
         
         /* Playoff märkningar */
-        .status-playoffs { background-color: rgba(16, 185, 129, 0.15); color: var(--playoff-green); padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.7rem; font-weight: bold; }
+        .status-playoffs { background-color: rgba(16, 185, 129, 0.15); color: var(--playoff-green); padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.7 scenario; font-weight: bold; font-size: 0.7rem;}
         .status-hunt { background-color: rgba(234, 179, 8, 0.15); color: var(--fantasy-gold); padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.7rem; font-weight: bold; }
 
         .status { text-align: center; padding: 3rem; color: var(--text-muted); font-style: italic; }
@@ -403,16 +403,16 @@
             { name: 'CollegeFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcollegefootballtalk.nbcsports.com%2Ffeed%2F' }
         ];
 
-        // Skapar en snygg inbyggd amerikansk fotbolls-ikon (SVG) i rätt färg per flik
+        // Genererar en skarp och detaljerad amerikansk fotbolls-ikon (SVG) i rätt färg
         function getSvgIcon() {
-            let color = '#64748b'; // standard grå
+            let color = '#64748b';
             if (currentTab === 'nfl') color = '#013369';
             if (currentTab === 'insider') color = '#eab308';
             if (currentTab === 'ncaa') color = '#006341';
             
             return `
-                <svg viewBox="0 0 24 24" fill="${color}">
-                    <path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,4C15.5,4 18.5,6.5 19.6,10H15V8H13V10H11V8H9V10H4.4C5.5,6.5 8.5,4 12,4M4.1,12H9V14H11V12H13V14H15V12H19.9C19.7,12.7 19.5,13.4 19.1,14H16V16H14V14H10V16H8V14H4.9C4.5,13.4 4.3,12.7 4.1,12M12,20C8.5,20 5.5,17.5 4.4,14H8V16H10V14H12V16H14V14H19.6C18.5,17.5 15.5,20 12,20Z"/>
+                <svg viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M21.9,2.1 C15.4,0.6 8.2,3.3 4.1,8.4 C3.2,9.5 2.5,10.8 2,12.1 C4.3,11.5 6.4,11.8 8,12.7 C8.4,11.5 9.1,10.4 10.1,9.4 C11.5,8 13.4,7.2 15.4,7.2 L15.4,8.7 C13.8,8.7 12.3,9.3 11.1,10.5 C10.2,11.4 9.7,12.5 9.5,13.7 C10.7,13.5 11.8,13.8 12.7,14.5 C12.4,15.9 12.7,17.3 13.5,18.4 C14.7,17.2 15.3,15.7 15.3,14.1 L16.8,14.1 C16.8,16.1 16,18 14.6,19.4 C13.6,20.4 12.4,21.1 11.1,21.5 C11.7,22.4 12.7,23.1 13.9,23.4 C15.2,23.7 16.5,23.4 17.6,22.6 C22.1,19.2 24.1,12.7 21.9,2.1 Z M12,12 L13.5,10.5 M10.5,13.5 L12,12 M14.2,12.8 L12.8,14.2 M11.2,11.2 L12.8,9.8" stroke="${color}" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
                 </svg>
             `;
         }
