@@ -6,13 +6,13 @@
     <title>NFL-briefen — Amerikansk fotboll i korthet</title>
     <style>
         :root {
-            --bg-color: #f8fafc;
+            --bg-color: #f1f5f9;
             --card-bg: #ffffff;
             --text-main: #0f172a;
-            --text-muted: #475569;
-            --accent-color: #013369; /* NFL Blue */
-            --accent-red: #d50a0a;   /* NFL Red */
+            --text-muted: #64748b;
             --border-color: #e2e8f0;
+            --afc-color: #d50a0a;
+            --nfc-color: #013369;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -26,7 +26,7 @@
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
             background-color: var(--bg-color);
             color: var(--text-main);
             margin: 0;
@@ -41,174 +41,166 @@
             position: sticky;
             top: 0;
             z-index: 100;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
         }
 
         .header-container {
-            max-width: 900px;
+            max-width: 1000px;
             margin: 0 auto;
             display: flex;
             align-items: center;
             gap: 1rem;
         }
 
-        .logo {
-            font-size: 2.5rem;
-        }
-
-        h1 {
-            margin: 0;
-            font-size: 1.75rem;
-            font-weight: 800;
-        }
-
-        .subtitle {
-            margin: 0;
-            font-size: 0.9rem;
-            color: var(--text-muted);
-        }
+        .logo { font-size: 2.5rem; }
+        h1 { margin: 0; font-size: 1.75rem; font-weight: 800; }
+        .subtitle { margin: 0; font-size: 0.9rem; color: var(--text-muted); }
 
         main {
-            max-width: 900px;
+            max-width: 1000px;
             margin: 2rem auto;
             padding: 0 1rem;
         }
 
-        /* --- Smart division- och pillerlayout --- */
+        /* --- Snygg Meny & Uppdelning --- */
         .filter-section {
             background-color: var(--card-bg);
             border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 1rem;
+            border-radius: 16px;
+            padding: 1.5rem;
             margin-bottom: 2rem;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
         }
 
-        .conference-title {
-            font-size: 1.1rem;
+        .pill-all {
+            background-color: var(--text-main);
+            color: var(--bg-color);
+            border: none;
+            padding: 0.6rem 1.2rem;
+            border-radius: 30px;
             font-weight: bold;
-            margin: 0.5rem 0;
-            padding-bottom: 0.25rem;
-            border-bottom: 2px solid var(--border-color);
-        }
-        .afc-title { color: var(--accent-red); }
-        .nfc-title { color: var(--accent-color); }
-
-        .division-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 1rem;
+            cursor: pointer;
             margin-bottom: 1.5rem;
+            display: inline-flex;
+            align-items: center;
+            transition: opacity 0.2s;
+        }
+        .pill-all:hover { opacity: 0.9; }
+
+        .conference-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
         }
 
-        .division-box h4 {
-            margin: 0 0 0.5rem 0;
-            font-size: 0.85rem;
+        .conference-box {
+            border-top: 4px solid var(--border-color);
+            padding-top: 0.5rem;
+        }
+        .conference-box.afc { border-color: var(--afc-color); }
+        .conference-box.nfc { border-color: var(--nfc-color); }
+
+        .conference-box h3 {
+            margin: 0 0 1rem 0;
+            font-size: 1.3rem;
+            font-weight: 800;
+        }
+        .afc h3 { color: var(--afc-color); }
+        .nfc h3 { color: var(--nfc-color); }
+
+        .division-row {
+            margin-bottom: 1rem;
+        }
+        .division-row h4 {
+            margin: 0 0 0.4rem 0;
+            font-size: 0.8rem;
             text-transform: uppercase;
             color: var(--text-muted);
             letter-spacing: 0.05em;
         }
 
-        .pill-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.4rem;
+        .team-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.5rem;
         }
 
-        .pill {
+        .team-btn {
             background-color: var(--bg-color);
             border: 1px solid var(--border-color);
             color: var(--text-main);
-            padding: 0.35rem 0.7rem;
-            border-radius: 20px;
-            font-size: 0.8rem;
+            padding: 0.5rem;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            font-weight: 600;
             cursor: pointer;
-            font-weight: 500;
-            transition: all 0.1s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.15s ease;
+            text-align: left;
         }
 
-        .pill:hover {
+        .team-btn img {
+            width: 20px;
+            height: 20px;
+            object-fit: contain;
+        }
+
+        .team-btn:hover {
             border-color: var(--text-muted);
-        }
-
-        .pill.active {
-            background-color: var(--accent-color);
-            color: #ffffff;
-            border-color: var(--accent-color);
-        }
-
-        .pill-all {
-            width: 100%;
-            max-width: 150px;
-            margin-bottom: 1rem;
-            text-align: center;
-            justify-content: center;
-            font-weight: bold;
             background-color: var(--border-color);
         }
 
-        /* --- Nyhetsflöde --- */
-        .status {
-            text-align: center;
-            padding: 3rem;
-            color: var(--text-muted);
-            font-style: italic;
+        .team-btn.active {
+            background-color: #0f172a;
+            color: #ffffff;
+            border-color: #0f172a;
+        }
+        @media (prefers-color-scheme: dark) {
+            .team-btn.active { background-color: #f8fafc; color: #0f172a; border-color: #f8fafc; }
         }
 
+        /* --- Nyhetsflöde i Kort-stil --- */
         .news-container {
             display: flex;
             flex-direction: column;
-            gap: 1rem;
+            gap: 1.25rem;
         }
 
         article {
             background-color: var(--card-bg);
             border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 1.25rem;
-            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            border-radius: 16px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02);
+            transition: transform 0.2s, box-shadow 0.2s;
         }
 
-        article.hidden {
-            display: none;
+        article:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
         }
+
+        article.hidden { display: none; }
 
         .meta {
             font-size: 0.8rem;
             color: var(--text-muted);
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.75rem;
             display: flex;
             gap: 1rem;
+            font-weight: 500;
         }
 
-        h2 {
-            margin: 0 0 0.5rem 0;
-            font-size: 1.25rem;
-        }
+        h2 { margin: 0 0 0.75rem 0; font-size: 1.35rem; font-weight: 700; line-height: 1.4; }
+        h2 a { color: var(--text-main); text-decoration: none; }
+        h2 a:hover { color: var(--nfc-color); }
 
-        h2 a {
-            color: var(--text-main);
-            text-decoration: none;
-        }
+        p { margin: 0; color: var(--text-muted); font-size: 1rem; line-height: 1.6; }
 
-        h2 a:hover {
-            color: var(--accent-color);
-            text-decoration: underline;
-        }
-
-        p {
-            margin: 0;
-            color: var(--text-muted);
-            font-size: 0.95rem;
-        }
-
-        footer {
-            max-width: 900px;
-            margin: 4rem auto 2rem auto;
-            padding: 1.5rem 1rem 0 1rem;
-            text-align: center;
-            font-size: 0.8rem;
-            color: var(--text-muted);
-            border-top: 1px solid var(--border-color);
-        }
+        .status { text-align: center; padding: 4rem; color: var(--text-muted); font-style: italic; font-size: 1.1rem; }
+        footer { text-align: center; margin: 5rem 0 3rem 0; font-size: 0.85rem; color: var(--text-muted); }
     </style>
 </head>
 <body>
@@ -224,88 +216,89 @@
     </header>
 
     <main>
-        <!-- Filtreringssektion för alla 32 lag -->
         <div class="filter-section">
-            <button class="pill pill-all active" onclick="filterLeague('ALL', this)">Layout: Alla nyheter</button>
+            <button class="pill-all" onclick="filterLeague('ALL', this)">Layout: Alla nyheter</button>
             
-            <!-- AFC -->
-            <div class="conference-title afc-title">AFC</div>
-            <div class="division-grid">
-                <div class="division-box">
-                    <h4>East</h4>
-                    <div class="pill-container">
-                        <button class="pill" onclick="filterLeague('Bills', this)">Bills</button>
-                        <button class="pill" onclick="filterLeague('Dolphins', this)">Dolphins</button>
-                        <button class="pill" onclick="filterLeague('Patriots', this)">Patriots</button>
-                        <button class="pill" onclick="filterLeague('Jets', this)">Jets</button>
+            <div class="conference-container">
+                <!-- AFC -->
+                <div class="conference-box afc">
+                    <h3>AFC</h3>
+                    <div class="division-row">
+                        <h4>East</h4>
+                        <div class="team-grid">
+                            <button class="team-btn" onclick="filterLeague('Bills', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"> Bills</button>
+                            <button class="team-btn" onclick="filterLeague('Dolphins', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"> Dolphins</button>
+                            <button class="team-btn" onclick="filterLeague('Patriots', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"> Patriots</button>
+                            <button class="team-btn" onclick="filterLeague('Jets', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"> Jets</button>
+                        </div>
+                    </div>
+                    <div class="division-row">
+                        <h4>North</h4>
+                        <div class="team-grid">
+                            <button class="team-btn" onclick="filterLeague('Ravens', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/bal.png"> Ravens</button>
+                            <button class="team-btn" onclick="filterLeague('Bengals', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/cin.png"> Bengals</button>
+                            <button class="team-btn" onclick="filterLeague('Browns', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/cle.png"> Browns</button>
+                            <button class="team-btn" onclick="filterLeague('Steelers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/pit.png"> Steelers</button>
+                        </div>
+                    </div>
+                    <div class="division-row">
+                        <h4>South</h4>
+                        <div class="team-grid">
+                            <button class="team-btn" onclick="filterLeague('Texans', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/hou.png"> Texans</button>
+                            <button class="team-btn" onclick="filterLeague('Colts', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ind.png"> Colts</button>
+                            <button class="team-btn" onclick="filterLeague('Jaguars', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/jax.png"> Jaguars</button>
+                            <button class="team-btn" onclick="filterLeague('Titans', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ten.png"> Titans</button>
+                        </div>
+                    </div>
+                    <div class="division-row">
+                        <h4>West</h4>
+                        <div class="team-grid">
+                            <button class="team-btn" onclick="filterLeague('Broncos', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/den.png"> Broncos</button>
+                            <button class="team-btn" onclick="filterLeague('Chiefs', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"> Chiefs</button>
+                            <button class="team-btn" onclick="filterLeague('Raiders', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lv.png"> Raiders</button>
+                            <button class="team-btn" onclick="filterLeague('Chargers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lac.png"> Chargers</button>
+                        </div>
                     </div>
                 </div>
-                <div class="division-box">
-                    <h4>North</h4>
-                    <div class="pill-container">
-                        <button class="pill" onclick="filterLeague('Ravens', this)">Ravens</button>
-                        <button class="pill" onclick="filterLeague('Bengals', this)">Bengals</button>
-                        <button class="pill" onclick="filterLeague('Browns', this)">Browns</button>
-                        <button class="pill" onclick="filterLeague('Steelers', this)">Steelers</button>
-                    </div>
-                </div>
-                <div class="division-box">
-                    <h4>South</h4>
-                    <div class="pill-container">
-                        <button class="pill" onclick="filterLeague('Texans', this)">Texans</button>
-                        <button class="pill" onclick="filterLeague('Colts', this)">Colts</button>
-                        <button class="pill" onclick="filterLeague('Jaguars', this)">Jaguars</button>
-                        <button class="pill" onclick="filterLeague('Titans', this)">Titans</button>
-                    </div>
-                </div>
-                <div class="division-box">
-                    <h4>West</h4>
-                    <div class="pill-container">
-                        <button class="pill" onclick="filterLeague('Broncos', this)">Broncos</button>
-                        <button class="pill" onclick="filterLeague('Chiefs', this)">Chiefs</button>
-                        <button class="pill" onclick="filterLeague('Raiders', this)">Raiders</button>
-                        <button class="pill" onclick="filterLeague('Chargers', this)">Chargers</button>
-                    </div>
-                </div>
-            </div>
 
-            <!-- NFC -->
-            <div class="conference-title nfc-title">NFC</div>
-            <div class="division-grid">
-                <div class="division-box">
-                    <h4>East</h4>
-                    <div class="pill-container">
-                        <button class="pill" onclick="filterLeague('Cowboys', this)">Cowboys</button>
-                        <button class="pill" onclick="filterLeague('Giants', this)">Giants</button>
-                        <button class="pill" onclick="filterLeague('Eagles', this)">Eagles</button>
-                        <button class="pill" onclick="filterLeague('Commanders', this)">Commanders</button>
+                <!-- NFC -->
+                <div class="conference-box nfc">
+                    <h3>NFC</h3>
+                    <div class="division-row">
+                        <h4>East</h4>
+                        <div class="team-grid">
+                            <button class="team-btn" onclick="filterLeague('Cowboys', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/dal.png"> Cowboys</button>
+                            <button class="team-btn" onclick="filterLeague('Giants', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png"> Giants</button>
+                            <button class="team-btn" onclick="filterLeague('Eagles', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/phi.png"> Eagles</button>
+                            <button class="team-btn" onclick="filterLeague('Commanders', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png"> Commanders</button>
+                        </div>
                     </div>
-                </div>
-                <div class="division-box">
-                    <h4>North</h4>
-                    <div class="pill-container">
-                        <button class="pill" onclick="filterLeague('Bears', this)">Bears</button>
-                        <button class="pill" onclick="filterLeague('Lions', this)">Lions</button>
-                        <button class="pill" onclick="filterLeague('Packers', this)">Packers</button>
-                        <button class="pill" onclick="filterLeague('Vikings', this)">Vikings</button>
+                    <div class="division-row">
+                        <h4>North</h4>
+                        <div class="team-grid">
+                            <button class="team-btn" onclick="filterLeague('Bears', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/chi.png"> Bears</button>
+                            <button class="team-btn" onclick="filterLeague('Lions', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/det.png"> Lions</button>
+                            <button class="team-btn" onclick="filterLeague('Packers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"> Packers</button>
+                            <button class="team-btn" onclick="filterLeague('Vikings', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/min.png"> Vikings</button>
+                        </div>
                     </div>
-                </div>
-                <div class="division-box">
-                    <h4>South</h4>
-                    <div class="pill-container">
-                        <button class="pill" onclick="filterLeague('Falcons', this)">Falcons</button>
-                        <button class="pill" onclick="filterLeague('Panthers', this)">Panthers</button>
-                        <button class="pill" onclick="filterLeague('Saints', this)">Saints</button>
-                        <button class="pill" onclick="filterLeague('Buccaneers', this)">Buccaneers</button>
+                    <div class="division-row">
+                        <h4>South</h4>
+                        <div class="team-grid">
+                            <button class="team-btn" onclick="filterLeague('Falcons', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/atl.png"> Falcons</button>
+                            <button class="team-btn" onclick="filterLeague('Panthers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/car.png"> Panthers</button>
+                            <button class="team-btn" onclick="filterLeague('Saints', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/no.png"> Saints</button>
+                            <button class="team-btn" onclick="filterLeague('Buccaneers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/tb.png"> Bucs</button>
+                        </div>
                     </div>
-                </div>
-                <div class="division-box">
-                    <h4>West</h4>
-                    <div class="pill-container">
-                        <button class="pill" onclick="filterLeague('Cardinals', this)">Cardinals</button>
-                        <button class="pill" onclick="filterLeague('Rams', this)">Rams</button>
-                        <button class="pill" onclick="filterLeague('49ers', this)">49ers</button>
-                        <button class="pill" onclick="filterLeague('Seahawks', this)">Seahawks</button>
+                    <div class="division-row">
+                        <h4>West</h4>
+                        <div class="team-grid">
+                            <button class="team-btn" onclick="filterLeague('Cardinals', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ari.png"> Cardinals</button>
+                            <button class="team-btn" onclick="filterLeague('Rams', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lar.png"> Rams</button>
+                            <button class="team-btn" onclick="filterLeague('49ers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/sf.png"> 49ers</button>
+                            <button class="team-btn" onclick="filterLeague('Seahawks', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/sea.png"> Seahawks</button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -316,11 +309,10 @@
     </main>
 
     <footer>
-        NFL-briefen • Snabba amerikanska fotbollsnyheter sorterade live.
+        NFL-briefen • Snabba amerikanska fotbollsnyheter med logotyper live.
     </footer>
 
     <script>
-        // Nyhetskällor (ESPN och NBC Sports ProFootballTalk)
         const feeds = [
             { name: 'ESPN NFL', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.espn.com%2Fespn%2Frss%2Fnfl%2Fnews' },
             { name: 'ProFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fprofootballtalk.nbcsports.com%2Ffeed%2F' }
@@ -329,14 +321,11 @@
         let loadedArticles = [];
 
         async function fetchNews() {
-            const newsContainer = document.getElementById('news');
             const statusContainer = document.getElementById('status');
-
             try {
                 for (const feed of feeds) {
                     const response = await fetch(feed.url);
                     const data = await response.json();
-                    
                     if (data.status === 'ok') {
                         data.items.forEach(item => {
                             loadedArticles.push({
@@ -349,13 +338,9 @@
                         });
                     }
                 }
-
-                // Sortera nyaste först
                 loadedArticles.sort((a, b) => b.pubDate - a.pubDate);
-
                 statusContainer.style.display = 'none';
                 renderArticles(loadedArticles);
-
             } catch (error) {
                 console.error(error);
                 statusContainer.innerText = 'Ett fel uppstod när nyheterna skulle hämtas.';
@@ -365,21 +350,18 @@
         function renderArticles(articles) {
             const newsContainer = document.getElementById('news');
             newsContainer.innerHTML = '';
-
             if (articles.length === 0) {
                 newsContainer.innerHTML = '<div class="status">Inga nyheter matchar ditt val för tillfället.</div>';
                 return;
             }
-
             articles.forEach(article => {
                 const timeString = article.pubDate.toLocaleTimeString('sv-SE', { hour: '2-digit', minute: '2-digit' });
                 const dateString = article.pubDate.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' });
-                
                 const html = `
                     <article data-title="${article.title.toLowerCase()}" data-desc="${article.description.toLowerCase()}">
                         <div class="meta">
-                            <span>${article.source}</span>
-                            <span>${dateString} ${timeString}</span>
+                            <span>🏈 ${article.source}</span>
+                            <span>📅 ${dateString} ${timeString}</span>
                         </div>
                         <h2><a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a></h2>
                         <p>${article.description}</p>
@@ -389,30 +371,22 @@
             });
         }
 
-        // Filterfunktion som kollar om lagets namn finns i rubrik eller beskrivning
         function filterLeague(teamName, buttonElement) {
-            // Uppdatera aktiv klass på knapparna
-            document.querySelectorAll('.pill').forEach(pill => pill.classList.remove('active'));
-            buttonElement.classList.add('active');
-
+            document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
+            if(buttonElement && !buttonElement.classList.contains('pill-all')) {
+                buttonElement.classList.add('active');
+            }
             const articles = document.querySelectorAll('#news article');
-            const statusContainer = document.getElementById('status');
-            let foundAny = false;
-
             if (teamName === 'ALL') {
                 articles.forEach(article => article.classList.remove('hidden'));
                 return;
             }
-
             const searchKey = teamName.toLowerCase();
-
             articles.forEach(article => {
                 const title = article.getAttribute('data-title');
                 const desc = article.getAttribute('data-desc');
-
                 if (title.includes(searchKey) || desc.includes(searchKey)) {
                     article.classList.remove('hidden');
-                    foundAny = true;
                 } else {
                     article.classList.add('hidden');
                 }
