@@ -111,8 +111,8 @@
             transition: all 0.2s ease; text-align: center;
         }
         .tab-btn.active[data-tab="nfl"] { background-color: var(--nfl-blue); color: white; border-color: var(--nfl-blue); }
-        .tab-btn.active[data-tab="ncaa"] { background-color: var(--ncaa-green); color: white; border-color: var(--ncaa-green); }
         .tab-btn.active[data-tab="insider"] { background-color: var(--fantasy-gold); color: #0f172a; border-color: var(--fantasy-gold); }
+        .tab-btn.active[data-tab="ncaa"] { background-color: var(--ncaa-green); color: white; border-color: var(--ncaa-green); }
 
         .filter-section {
             background-color: var(--card-bg); border: 1px solid var(--border-color);
@@ -165,12 +165,20 @@
         }
         article.hidden { display: none; }
         .article-content { flex: 1; }
-        .article-image-box { width: 100px; height: 75px; border-radius: 8px; overflow: hidden; background-color: #f8fafc; border: 1px solid var(--border-color); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
-        .article-image-box img { width: 100%; height: 100%; object-fit: cover; }
+        
+        .article-image-box { 
+            width: 90px; height: 70px; border-radius: 8px; overflow: hidden; 
+            background-color: #e2e8f0; border: 1px solid var(--border-color); 
+            display: flex; align-items: center; justify-content: center; flex-shrink: 0; 
+        }
+        @media (prefers-color-scheme: dark) {
+            .article-image-box { background-color: #334155; }
+        }
+        .article-image-box svg { width: 45px; height: 45px; fill: var(--text-muted); opacity: 0.6; }
         
         @media (max-width: 600px) {
             article { flex-direction: column-reverse; gap: 1rem; }
-            .article-image-box { width: 100%; height: 140px; }
+            .article-image-box { width: 100%; height: 120px; }
         }
 
         .meta { font-size: 0.75rem; color: var(--text-muted); margin-bottom: 0.4rem; display: flex; gap: 0.8rem; font-weight: 500; }
@@ -373,7 +381,7 @@
     </main>
 
     <footer>
-        NFL-briefen • Den kompletta samlingsplatsen för amerikansk fotboll.
+        NFL-briefen • Den ultimata samlingsplatsen för amerikansk fotboll.
     </footer>
 
     <script>
@@ -384,7 +392,6 @@
             { name: 'Yahoo NFL', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fsports.yahoo.com%2Fnfl%2Frss%2F' }
         ];
 
-        // Renodlade insider- och ryktesflöden till den nya "Romano-fliken"
         const insiderFeeds = [
             { name: 'ProFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fprofootballtalk.nbcsports.com%2Ffeed%2F' },
             { name: 'Bleacher Report Rykten', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fbleacherreport.com%2Farticles%2Ffeed%2Fnfl' }
@@ -396,13 +403,18 @@
             { name: 'CollegeFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcollegefootballtalk.nbcsports.com%2Ffeed%2F' }
         ];
 
-        function getSourceLogo(sourceName) {
-            if (sourceName.includes('ESPN')) return 'https://a.espncdn.com/i/espn/misc_logos/espn_wordmark.png';
-            if (sourceName.includes('CBS')) return 'https://a.espncdn.com/i/teamlogos/ncaa/500/cbs.png';
-            if (sourceName.includes('Talk') || sourceName.includes('ProFootball')) return 'https://profootballtalk.nbcsports.com/wp-content/themes/pft-theme/assets/img/pft-logo.png';
-            if (sourceName.includes('Yahoo')) return 'https://s.yimg.com/cv/apiv2/default/sports/20210317/logo-sports-purple.png';
-            if (sourceName.includes('Bleacher')) return 'https://cdn.bleacherreport.net/images/team_logos/328x328/bleacher_report.png';
-            return 'https://a.espncdn.com/i/teamlogos/nfl/500/nfl.png';
+        // Skapar en snygg inbyggd amerikansk fotbolls-ikon (SVG) i rätt färg per flik
+        function getSvgIcon() {
+            let color = '#64748b'; // standard grå
+            if (currentTab === 'nfl') color = '#013369';
+            if (currentTab === 'insider') color = '#eab308';
+            if (currentTab === 'ncaa') color = '#006341';
+            
+            return `
+                <svg viewBox="0 0 24 24" fill="${color}">
+                    <path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,4C15.5,4 18.5,6.5 19.6,10H15V8H13V10H11V8H9V10H4.4C5.5,6.5 8.5,4 12,4M4.1,12H9V14H11V12H13V14H15V12H19.9C19.7,12.7 19.5,13.4 19.1,14H16V16H14V14H10V16H8V14H4.9C4.5,13.4 4.3,12.7 4.1,12M12,20C8.5,20 5.5,17.5 4.4,14H8V16H10V14H12V16H14V14H19.6C18.5,17.5 15.5,20 12,20Z"/>
+                </svg>
+            `;
         }
 
         let currentTab = 'nfl';
@@ -426,17 +438,12 @@
                     const data = await response.json();
                     if (data.status === 'ok') {
                         data.items.forEach(item => {
-                            let imgUrl = getSourceLogo(feed.name);
-                            if (item.enclosure && item.enclosure.link) imgUrl = item.enclosure.link;
-                            else if (item.thumbnail) imgUrl = item.thumbnail;
-
                             allLoadedArticles.push({
                                 title: item.title,
                                 link: item.link,
                                 description: item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 180) + '...' : '',
                                 pubDate: new Date(item.pubDate),
-                                source: feed.name,
-                                image: imgUrl
+                                source: feed.name
                             });
                         });
                     }
@@ -451,6 +458,8 @@
         function renderArticles(articles) {
             const newsContainer = document.getElementById('news');
             newsContainer.innerHTML = '';
+            const iconSvg = getSvgIcon();
+
             articles.forEach(article => {
                 const timeString = article.pubDate.toLocaleTimeString('sv-SE', { hour: '2-digit', minute: '2-digit' });
                 const dateString = article.pubDate.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' });
@@ -464,7 +473,9 @@
                             <h2><a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a></h2>
                             <p>${article.description}</p>
                         </div>
-                        <div class="article-image-box"><img src="${article.image}"></div>
+                        <div class="article-image-box">
+                            ${iconSvg}
+                        </div>
                     </article>
                 `;
                 newsContainer.innerHTML += html;
@@ -529,7 +540,6 @@
                 document.getElementById('ncaa-view').classList.add('active');
                 document.getElementById('nfl-view').classList.remove('active');
             } else {
-                // Göm filterboxen helt för Insider-fliken (kräver inte lagnamn på samma sätt)
                 filterWrapper.style.display = 'none';
             }
             
@@ -544,7 +554,6 @@
             arrow.innerText = content.classList.contains('active') ? '▲' : '▼';
         }
 
-        // --- Avancerat Playoff Picture Skript ---
         async function fetchLiveStandings() {
             const container = document.getElementById('standings-tables-container');
             const loader = document.getElementById('standings-loading');
@@ -576,7 +585,6 @@
                                         <tbody>
                             `;
                             
-                            // Sortera efter vinstprocent live
                             let teams = division.standings.entries;
                             teams.sort((a,b) => {
                                 const pctA = a.stats.find(s => s.name === 'winPercent')?.value ?? 0;
@@ -593,7 +601,6 @@
                                 const ties = stats.find(s => s.name === 'ties')?.value ?? 0;
                                 const pct = stats.find(s => s.name === 'winPercent')?.displayValue ?? '.000';
                                 
-                                // Bestäm slutspelsmärkning utifrån placering live
                                 let playoffTag = '';
                                 if (index === 0) {
                                     playoffTag = '<span class="status-playoffs">Division Leader (Seed 1-4)</span>';
@@ -633,16 +640,13 @@
             }
         }
 
-        // --- Smart Säsonsanpassad Timer (Draft / Kickoff) ---
         function startCountdown() {
             const now = new Date();
             const label = document.getElementById('countdown-label');
             
-            // Kolla om vi är i off-season (Februari till Augusti)
-            // Om vi är där ställer timern om sig till NFL Draft automatiskt
             if (now.getMonth() >= 1 && now.getMonth() <= 3) {
                 label.innerText = "Nedräkning: NFL Draft";
-                const draftDate = new Date(now.getFullYear(), 3, 23, 20, 0, 0); // Ca slutet på april
+                const draftDate = new Date(now.getFullYear(), 3, 23, 20, 0, 0);
                 updateTimer(draftDate);
             } else {
                 label.innerText = "Nästa Kickoff";
@@ -662,7 +666,7 @@
                 const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
                 document.getElementById('countdown').innerText = `${days}d ${hours}h ${minutes}m`;
             }, 60000);
-            document.getElementById('countdown').innerText = "3d 08h 14m"; // Snabb startvy
+            document.getElementById('countdown').innerText = "3d 08h 14m";
         }
 
         fetchAllNews();
