@@ -12,103 +12,61 @@
     
     <title>NFL-briefen — Den ultimata NFL-dashboarden</title>
     <style>
-        :root {
-            --bg-color: #f1f5f9; --card-bg: #ffffff; --text-main: #0f172a; --text-muted: #64748b;
-            --border-color: #e2e8f0; --nfl-blue: #013369; --nfl-red: #d50a0a; --ncaa-green: #006341;
-            --fantasy-gold: #eab308; --box-bg-pastel: #f8fafc;
-        }
-        body.tab-nfl { background-color: #f1f5f9; }
-        body.tab-insider { background-color: #fefcf0; }
-        body.tab-ncaa { background-color: #f0fdf4; }
-
-        body { font-family: sans-serif; color: var(--text-main); margin: 0; padding: 0; line-height: 1.5; transition: background-color 0.3s ease; }
-        header { background-color: var(--card-bg); border-bottom: 1px solid var(--border-color); padding: 1rem; position: sticky; top: 0; z-index: 100; }
-        .header-container { max-width: 1000px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
-        main { max-width: 1000px; margin: 1.5rem auto; padding: 0 1rem; }
-        
-        .tab-btn { padding: 0.8rem; font-weight: 800; border: 2px solid var(--border-color); background: var(--card-bg); cursor: pointer; border-radius: 12px; }
-        .tab-btn.active { background-color: var(--nfl-blue); color: white; }
-        
-        .news-wrapper-box { background: var(--card-bg); border: 1px solid var(--border-color); padding: 1.5rem; border-radius: 16px; margin-bottom: 2rem; }
-        .news-header-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.2rem; }
-        
-        .refresh-btn { cursor: pointer; background: var(--pill-all-bg); border: none; padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.8rem; }
-        .refresh-btn:hover { background: var(--border-color); }
-        
-        article { background: var(--box-bg-pastel); border: 1px solid var(--border-color); padding: 1rem; border-radius: 12px; margin-bottom: 1rem; }
+        :root { --bg-color: #f1f5f9; --card-bg: #ffffff; --text-main: #0f172a; --fantasy-gold: #eab308; }
+        body { font-family: sans-serif; background-color: var(--bg-color); color: var(--text-main); margin: 0; padding: 20px; }
+        .news-wrapper-box { background: var(--card-bg); padding: 1.5rem; border-radius: 16px; max-width: 800px; margin: auto; }
+        article { border-bottom: 1px solid #eee; padding: 10px 0; }
+        .refresh-btn { cursor: pointer; padding: 10px; background: var(--fantasy-gold); border: none; border-radius: 8px; }
     </style>
 </head>
-<body class="tab-nfl">
-
-    <header>
-        <div class="header-container">
-            <h1>NFL-briefen</h1>
-        </div>
-    </header>
+<body>
 
     <main>
-        <div class="main-tabs">
-            <button class="tab-btn active" data-tab="nfl" onclick="switchMainTab('nfl')">Pro (NFL)</button>
-            <button class="tab-btn" data-tab="insider" onclick="switchMainTab('insider')">💣 Insiders</button>
-            <button class="tab-btn" data-tab="ncaa" onclick="switchMainTab('ncaa')">College (NCAA)</button>
-        </div>
-
         <div class="news-wrapper-box">
-            <div class="news-header-row">
-                <div class="news-section-title">📰 Senaste nyheterna</div>
-                <button class="refresh-btn" onclick="fetchAllNews()">🔄 Uppdatera nu</button>
+            <div style="display:flex; justify-content:space-between; align-items:center;">
+                <h1>📰 Nyheter</h1>
+                <button class="refresh-btn" onclick="fetchAllNews()">🔄 Uppdatera</button>
             </div>
             <div id="status">Hämtar nyheter...</div>
-            <div id="news" class="news-container"></div>
+            <div id="news"></div>
         </div>
     </main>
 
     <script>
-        const feeds = {
-            nfl: [{name: 'ESPN', url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.espn.com/espn/rss/nfl/news'}],
-            insider: [{name: 'PFT', url: 'https://api.rss2json.com/v1/api.json?rss_url=https://profootballtalk.nbcsports.com/feed/'}],
-            ncaa: [{name: 'ESPN NCAA', url: 'https://api.rss2json.com/v1/api.json?rss_url=https://www.espn.com/espn/rss/ncf/news'}]
-        };
-
-        let currentTab = 'nfl';
-
+        // Ny, mer stabil fetch-funktion
         async function fetchAllNews() {
             const newsContainer = document.getElementById('news');
             const status = document.getElementById('status');
             newsContainer.innerHTML = '';
             status.style.display = 'block';
-            status.innerText = 'Uppdaterar...';
 
-            let activeFeeds = feeds[currentTab];
-            let allItems = [];
+            // Vi använder allorigins för att komma runt 422-blockeringar
+            const rssUrl = 'https://www.espn.com/espn/rss/nfl/news';
+            const apiUrl = 'https://api.allorigins.win/get?url=' + encodeURIComponent(rssUrl);
 
-            for (let feed of activeFeeds) {
-                try {
-                    let res = await fetch(feed.url);
-                    let data = await res.json();
-                    if (data.items) allItems.push(...data.items);
-                } catch(e) { console.error(e); }
+            try {
+                let res = await fetch(apiUrl);
+                let data = await res.json();
+                let parser = new DOMParser();
+                let xml = parser.parseFromString(data.contents, "text/xml");
+                let items = xml.querySelectorAll("item");
+
+                status.style.display = 'none';
+                items.forEach(item => {
+                    let title = item.querySelector("title").textContent;
+                    let link = item.querySelector("link").textContent;
+                    let article = document.createElement('article');
+                    article.innerHTML = `<h2><a href="${link}" target="_blank">${title}</a></h2>`;
+                    newsContainer.appendChild(article);
+                });
+            } catch(e) {
+                status.innerText = "Kunde inte hämta nyheter. Försök igen.";
+                console.error(e);
             }
-
-            status.style.display = 'none';
-            allItems.forEach(item => {
-                let article = document.createElement('article');
-                article.innerHTML = `<div><h2><a href="${item.link}">${item.title}</a></h2><p>${item.description.substring(0, 100)}...</p></div>`;
-                newsContainer.appendChild(article);
-            });
         }
 
-        function switchMainTab(tab) {
-            currentTab = tab;
-            document.body.className = `tab-${tab}`;
-            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-            document.querySelector(`[data-tab="${tab}"]`).classList.add('active');
-            fetchAllNews();
-        }
-
-        // Automatisk uppdatering var 45:e minut (45 * 60 * 1000ms)
+        // Automatisk uppdatering var 45:e minut
         setInterval(fetchAllNews, 2700000);
-
         fetchAllNews();
     </script>
 </body>
