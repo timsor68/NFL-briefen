@@ -11,8 +11,9 @@
             --text-main: #0f172a;
             --text-muted: #64748b;
             --border-color: #e2e8f0;
-            --afc-color: #d50a0a;
-            --nfc-color: #013369;
+            --nfl-blue: #013369;
+            --nfl-red: #d50a0a;
+            --ncaa-green: #006341;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -62,7 +63,48 @@
             padding: 0 1rem;
         }
 
-        /* --- Snygg Meny & Uppdelning --- */
+        /* --- Huvudmenyn (NFL vs College) --- */
+        .main-tabs {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .tab-btn {
+            flex: 1;
+            padding: 1rem;
+            font-size: 1.1rem;
+            font-weight: 800;
+            border: 2px solid var(--border-color);
+            background-color: var(--card-bg);
+            color: var(--text-main);
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+
+        .tab-btn:hover {
+            border-color: var(--text-muted);
+        }
+
+        .tab-btn.active[data-tab="nfl"] {
+            background-color: var(--nfl-blue);
+            color: white;
+            border-color: var(--nfl-blue);
+        }
+
+        .tab-btn.active[data-tab="ncaa"] {
+            background-color: var(--ncaa-green);
+            color: white;
+            border-color: var(--ncaa-green);
+        }
+
+        /* --- Filtersektion --- */
         .filter-section {
             background-color: var(--card-bg);
             border: 1px solid var(--border-color);
@@ -71,6 +113,9 @@
             margin-bottom: 2rem;
             box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
         }
+
+        .section-view { display: none; }
+        .section-view.active { display: block; }
 
         .pill-all {
             background-color: var(--text-main);
@@ -97,20 +142,16 @@
             border-top: 4px solid var(--border-color);
             padding-top: 0.5rem;
         }
-        .conference-box.afc { border-color: var(--afc-color); }
-        .conference-box.nfc { border-color: var(--nfc-color); }
+        .conference-box.afc { border-color: var(--nfl-red); }
+        .conference-box.nfc { border-color: var(--nfl-blue); }
+        .conference-box.ncaa-conf { border-color: var(--ncaa-green); }
 
-        .conference-box h3 {
-            margin: 0 0 1rem 0;
-            font-size: 1.3rem;
-            font-weight: 800;
-        }
-        .afc h3 { color: var(--afc-color); }
-        .nfc h3 { color: var(--nfc-color); }
+        .conference-box h3 { margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 800; }
+        .afc h3 { color: var(--nfl-red); }
+        .nfc h3 { color: var(--nfl-blue); }
+        .ncaa-conf h3 { color: var(--ncaa-green); }
 
-        .division-row {
-            margin-bottom: 1rem;
-        }
+        .division-row { margin-bottom: 1rem; }
         .division-row h4 {
             margin: 0 0 0.4rem 0;
             font-size: 0.8rem;
@@ -141,33 +182,16 @@
             text-align: left;
         }
 
-        .team-btn img {
-            width: 20px;
-            height: 20px;
-            object-fit: contain;
-        }
-
-        .team-btn:hover {
-            border-color: var(--text-muted);
-            background-color: var(--border-color);
-        }
-
-        .team-btn.active {
-            background-color: #0f172a;
-            color: #ffffff;
-            border-color: #0f172a;
-        }
+        .team-btn img { width: 20px; height: 20px; object-fit: contain; }
+        .team-btn:hover { border-color: var(--text-muted); background-color: var(--border-color); }
+        .team-btn.active { background-color: #0f172a; color: #ffffff; border-color: #0f172a; }
+        
         @media (prefers-color-scheme: dark) {
             .team-btn.active { background-color: #f8fafc; color: #0f172a; border-color: #f8fafc; }
         }
 
-        /* --- Nyhetsflöde i Kort-stil --- */
-        .news-container {
-            display: flex;
-            flex-direction: column;
-            gap: 1.25rem;
-        }
-
+        /* --- Nyhetsflöde --- */
+        .news-container { display: flex; flex-direction: column; gap: 1.25rem; }
         article {
             background-color: var(--card-bg);
             border: 1px solid var(--border-color);
@@ -176,12 +200,7 @@
             box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02);
             transition: transform 0.2s, box-shadow 0.2s;
         }
-
-        article:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
-        }
-
+        article:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05); }
         article.hidden { display: none; }
 
         .meta {
@@ -195,10 +214,9 @@
 
         h2 { margin: 0 0 0.75rem 0; font-size: 1.35rem; font-weight: 700; line-height: 1.4; }
         h2 a { color: var(--text-main); text-decoration: none; }
-        h2 a:hover { color: var(--nfc-color); }
+        h2 a:hover { color: var(--nfl-blue); }
 
         p { margin: 0; color: var(--text-muted); font-size: 1rem; line-height: 1.6; }
-
         .status { text-align: center; padding: 4rem; color: var(--text-muted); font-style: italic; font-size: 1.1rem; }
         footer { text-align: center; margin: 5rem 0 3rem 0; font-size: 0.85rem; color: var(--text-muted); }
     </style>
@@ -210,140 +228,224 @@
             <div class="logo">🏈</div>
             <div>
                 <h1>NFL-briefen</h1>
-                <p class="subtitle">American football news — fast and concise</p>
+                <p class="subtitle">American football & College news — fast and concise</p>
             </div>
         </div>
     </header>
 
     <main>
+        <!-- Huvudflikar -->
+        <div class="main-tabs">
+            <button class="tab-btn active" data-tab="nfl" onclick="switchMainTab('nfl')">Pro (NFL)</button>
+            <button class="tab-btn" data-tab="ncaa" onclick="switchMainTab('ncaa')">College (NCAA)</button>
+        </div>
+
         <div class="filter-section">
-            <button class="pill-all" onclick="filterLeague('ALL', this)">Layout: Alla nyheter</button>
+            <button class="pill-all" id="clear-filter-btn" onclick="filterLeague('ALL', this)">Layout: Alla nyheter</button>
             
-            <div class="conference-container">
-                <!-- AFC -->
-                <div class="conference-box afc">
-                    <h3>AFC</h3>
-                    <div class="division-row">
-                        <h4>East</h4>
-                        <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Bills', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"> Bills</button>
-                            <button class="team-btn" onclick="filterLeague('Dolphins', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"> Dolphins</button>
-                            <button class="team-btn" onclick="filterLeague('Patriots', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"> Patriots</button>
-                            <button class="team-btn" onclick="filterLeague('Jets', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"> Jets</button>
+            <!-- NFL SEKTION -->
+            <div id="nfl-view" class="section-view active">
+                <div class="conference-container">
+                    <!-- AFC -->
+                    <div class="conference-box afc">
+                        <h3>AFC</h3>
+                        <div class="division-row">
+                            <h4>East</h4>
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Bills', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"> Bills</button>
+                                <button class="team-btn" onclick="filterLeague('Dolphins', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"> Dolphins</button>
+                                <button class="team-btn" onclick="filterLeague('Patriots', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"> Patriots</button>
+                                <button class="team-btn" onclick="filterLeague('Jets', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"> Jets</button>
+                            </div>
+                        </div>
+                        <div class="division-row">
+                            <h4>North</h4>
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Ravens', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/bal.png"> Ravens</button>
+                                <button class="team-btn" onclick="filterLeague('Bengals', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/cin.png"> Bengals</button>
+                                <button class="team-btn" onclick="filterLeague('Browns', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/cle.png"> Browns</button>
+                                <button class="team-btn" onclick="filterLeague('Steelers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/pit.png"> Steelers</button>
+                            </div>
+                        </div>
+                        <div class="division-row">
+                            <h4>South</h4>
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Texans', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/hou.png"> Texans</button>
+                                <button class="team-btn" onclick="filterLeague('Colts', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ind.png"> Colts</button>
+                                <button class="team-btn" onclick="filterLeague('Jaguars', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/jax.png"> Jaguars</button>
+                                <button class="team-btn" onclick="filterLeague('Titans', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ten.png"> Titans</button>
+                            </div>
+                        </div>
+                        <div class="division-row">
+                            <h4>West</h4>
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Broncos', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/den.png"> Broncos</button>
+                                <button class="team-btn" onclick="filterLeague('Chiefs', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"> Chiefs</button>
+                                <button class="team-btn" onclick="filterLeague('Raiders', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lv.png"> Raiders</button>
+                                <button class="team-btn" onclick="filterLeague('Chargers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lac.png"> Chargers</button>
+                            </div>
                         </div>
                     </div>
-                    <div class="division-row">
-                        <h4>North</h4>
-                        <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Ravens', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/bal.png"> Ravens</button>
-                            <button class="team-btn" onclick="filterLeague('Bengals', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/cin.png"> Bengals</button>
-                            <button class="team-btn" onclick="filterLeague('Browns', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/cle.png"> Browns</button>
-                            <button class="team-btn" onclick="filterLeague('Steelers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/pit.png"> Steelers</button>
+
+                    <!-- NFC -->
+                    <div class="conference-box nfc">
+                        <h3>NFC</h3>
+                        <div class="division-row">
+                            <h4>East</h4>
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Cowboys', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/dal.png"> Cowboys</button>
+                                <button class="team-btn" onclick="filterLeague('Giants', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png"> Giants</button>
+                                <button class="team-btn" onclick="filterLeague('Eagles', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/phi.png"> Eagles</button>
+                                <button class="team-btn" onclick="filterLeague('Commanders', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png"> Commanders</button>
+                            </div>
                         </div>
-                    </div>
-                    <div class="division-row">
-                        <h4>South</h4>
-                        <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Texans', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/hou.png"> Texans</button>
-                            <button class="team-btn" onclick="filterLeague('Colts', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ind.png"> Colts</button>
-                            <button class="team-btn" onclick="filterLeague('Jaguars', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/jax.png"> Jaguars</button>
-                            <button class="team-btn" onclick="filterLeague('Titans', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ten.png"> Titans</button>
+                        <div class="division-row">
+                            <h4>North</h4>
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Bears', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/chi.png"> Bears</button>
+                                <button class="team-btn" onclick="filterLeague('Lions', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/det.png"> Lions</button>
+                                <button class="team-btn" onclick="filterLeague('Packers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"> Packers</button>
+                                <button class="team-btn" onclick="filterLeague('Vikings', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/min.png"> Vikings</button>
+                            </div>
                         </div>
-                    </div>
-                    <div class="division-row">
-                        <h4>West</h4>
-                        <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Broncos', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/den.png"> Broncos</button>
-                            <button class="team-btn" onclick="filterLeague('Chiefs', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"> Chiefs</button>
-                            <button class="team-btn" onclick="filterLeague('Raiders', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lv.png"> Raiders</button>
-                            <button class="team-btn" onclick="filterLeague('Chargers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lac.png"> Chargers</button>
+                        <div class="division-row">
+                            <h4>South</h4>
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Falcons', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/atl.png"> Falcons</button>
+                                <button class="team-btn" onclick="filterLeague('Panthers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/car.png"> Panthers</button>
+                                <button class="team-btn" onclick="filterLeague('Saints', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/no.png"> Saints</button>
+                                <button class="team-btn" onclick="filterLeague('Buccaneers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/tb.png"> Bucs</button>
+                            </div>
+                        </div>
+                        <div class="division-row">
+                            <h4>West</h4>
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Cardinals', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ari.png"> Cardinals</button>
+                                <button class="team-btn" onclick="filterLeague('Rams', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lar.png"> Rams</button>
+                                <button class="team-btn" onclick="filterLeague('49ers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/sf.png"> 49ers</button>
+                                <button class="team-btn" onclick="filterLeague('Seahawks', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/sea.png"> Seahawks</button>
+                            </div>
                         </div>
                     </div>
                 </div>
+            </div>
 
-                <!-- NFC -->
-                <div class="conference-box nfc">
-                    <h3>NFC</h3>
-                    <div class="division-row">
-                        <h4>East</h4>
+            <!-- COLLEGE SEKTION (NCAA) -->
+            <div id="ncaa-view" class="section-view">
+                <div class="conference-container">
+                    <!-- SEC -->
+                    <div class="conference-box ncaa-conf">
+                        <h3>SEC</h3>
                         <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Cowboys', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/dal.png"> Cowboys</button>
-                            <button class="team-btn" onclick="filterLeague('Giants', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png"> Giants</button>
-                            <button class="team-btn" onclick="filterLeague('Eagles', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/phi.png"> Eagles</button>
-                            <button class="team-btn" onclick="filterLeague('Commanders', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png"> Commanders</button>
+                            <button class="team-btn" onclick="filterLeague('Alabama', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2330.png"> Alabama</button>
+                            <button class="team-btn" onclick="filterLeague('Georgia', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"> Georgia</button>
+                            <button class="team-btn" onclick="filterLeague('Texas', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"> Texas</button>
+                            <button class="team-btn" onclick="filterLeague('LSU', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"> LSU</button>
+                            <button class="team-btn" onclick="filterLeague('Tennessee', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"> Tennessee</button>
+                            <button class="team-btn" onclick="filterLeague('Oklahoma', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"> Oklahoma</button>
                         </div>
                     </div>
-                    <div class="division-row">
-                        <h4>North</h4>
+                    <!-- Big Ten -->
+                    <div class="conference-box ncaa-conf">
+                        <h3>Big Ten</h3>
                         <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Bears', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/chi.png"> Bears</button>
-                            <button class="team-btn" onclick="filterLeague('Lions', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/det.png"> Lions</button>
-                            <button class="team-btn" onclick="filterLeague('Packers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"> Packers</button>
-                            <button class="team-btn" onclick="filterLeague('Vikings', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/min.png"> Vikings</button>
+                            <button class="team-btn" onclick="filterLeague('Ohio State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"> Ohio State</button>
+                            <button class="team-btn" onclick="filterLeague('Michigan', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"> Michigan</button>
+                            <button class="team-btn" onclick="filterLeague('Penn State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"> Penn State</button>
+                            <button class="team-btn" onclick="filterLeague('Oregon', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"> Oregon</button>
+                            <button class="team-btn" onclick="filterLeague('Southern California', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"> USC</button>
+                            <button class="team-btn" onclick="filterLeague('Washington', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png"> Washington</button>
                         </div>
                     </div>
-                    <div class="division-row">
-                        <h4>South</h4>
+                    <!-- Big 12 -->
+                    <div class="conference-box ncaa-conf">
+                        <h3>Big 12</h3>
                         <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Falcons', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/atl.png"> Falcons</button>
-                            <button class="team-btn" onclick="filterLeague('Panthers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/car.png"> Panthers</button>
-                            <button class="team-btn" onclick="filterLeague('Saints', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/no.png"> Saints</button>
-                            <button class="team-btn" onclick="filterLeague('Buccaneers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/tb.png"> Bucs</button>
+                            <button class="team-btn" onclick="filterLeague('Utah', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/254.png"> Utah</button>
+                            <button class="team-btn" onclick="filterLeague('Kansas', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png"> Kansas</button>
+                            <button class="team-btn" onclick="filterLeague('Oklahoma State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"> Oklahoma St</button>
+                            <button class="team-btn" onclick="filterLeague('TCU', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png"> TCU</button>
+                            <button class="team-btn" onclick="filterLeague('Colorado', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/38.png"> Colorado</button>
+                            <button class="team-btn" onclick="filterLeague('Arizona', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/12.png"> Arizona</button>
                         </div>
                     </div>
-                    <div class="division-row">
-                        <h4>West</h4>
+                    <!-- ACC -->
+                    <div class="conference-box ncaa-conf">
+                        <h3>ACC</h3>
                         <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Cardinals', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/ari.png"> Cardinals</button>
-                            <button class="team-btn" onclick="filterLeague('Rams', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/lar.png"> Rams</button>
-                            <button class="team-btn" onclick="filterLeague('49ers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/sf.png"> 49ers</button>
-                            <button class="team-btn" onclick="filterLeague('Seahawks', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/sea.png"> Seahawks</button>
+                            <button class="team-btn" onclick="filterLeague('Clemson', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/228.png"> Clemson</button>
+                            <button class="team-btn" onclick="filterLeague('Florida State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/52.png"> Florida St</button>
+                            <button class="team-btn" onclick="filterLeague('Miami', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png"> Miami</button>
+                            <button class="team-btn" onclick="filterLeague('Louisville', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/97.png"> Louisville</button>
+                            <button class="team-btn" onclick="filterLeague('North Carolina', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/153.png"> N. Carolina</button>
+                            <button class="team-btn" onclick="filterLeague('North Carolina State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/152.png"> NC State</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div id="status" class="status">Hämtar de senaste NFL-nyheterna...</div>
+        <div id="status" class="status">Hämtar de senaste nyheterna...</div>
         <div id="news" class="news-container"></div>
     </main>
 
     <footer>
-        NFL-briefen • Snabba amerikanska fotbollsnyheter med logotyper live.
+        NFL-briefen • De största amerikanska fotbollsnyheterna samlade live.
     </footer>
 
     <script>
-        const feeds = [
+        // Det maxade nyhetsnätet (10 källor totalt)
+        const nflFeeds = [
             { name: 'ESPN NFL', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.espn.com%2Fespn%2Frss%2Fnfl%2Fnews' },
-            { name: 'ProFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fprofootballtalk.nbcsports.com%2Ffeed%2F' }
+            { name: 'ProFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fprofootballtalk.nbcsports.com%2Ffeed%2F' },
+            { name: 'NFL.com News', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.nfl.com%2Frss%2Frssnews.xml' },
+            { name: 'CBS Sports NFL', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.cbssports.com%2Frss%2Fheadlines%2Fnfl%2F' },
+            { name: 'Yahoo NFL', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fsports.yahoo.com%2Fnfl%2Frss%2F' },
+            { name: 'Bleacher Report NFL', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fbleacherreport.com%2Farticles%2Ffeed%2Fnfl' }
         ];
 
-        let loadedArticles = [];
+        const ncaaFeeds = [
+            { name: 'ESPN College Football', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.espn.com%2Fespn%2Frss%2Fncf%2Fnews' },
+            { name: 'CBS Sports NCAA', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.cbssports.com%2Frss%2Fheadlines%2Fcollegefootball%2F' },
+            { name: 'CollegeFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcollegefootballtalk.nbcsports.com%2Ffeed%2F' }
+        ];
 
-        async function fetchNews() {
+        let currentTab = 'nfl';
+        let allLoadedArticles = [];
+
+        async function fetchAllNews() {
             const statusContainer = document.getElementById('status');
+            statusContainer.style.display = 'block';
+            statusContainer.innerText = 'Hämtar de senaste nyheterna...';
+            allLoadedArticles = [];
+
+            const activeFeeds = (currentTab === 'nfl') ? nflFeeds : ncaaFeeds;
+
             try {
-                for (const feed of feeds) {
-                    const response = await fetch(feed.url);
-                    const data = await response.json();
-                    if (data.status === 'ok') {
-                        data.items.forEach(item => {
-                            loadedArticles.push({
-                                title: item.title,
-                                link: item.link,
-                                description: item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 180) + '...' : '',
-                                pubDate: new Date(item.pubDate),
-                                source: feed.name
+                for (const feed of activeFeeds) {
+                    try {
+                        const response = await fetch(feed.url);
+                        const data = await response.json();
+                        if (data.status === 'ok') {
+                            data.items.forEach(item => {
+                                allLoadedArticles.push({
+                                    title: item.title,
+                                    link: item.link,
+                                    description: item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 180) + '...' : '',
+                                    pubDate: new Date(item.pubDate),
+                                    source: feed.name
+                                });
                             });
-                        });
-                    }
+                        }
+                    } catch (e) { console.error("Kunde inte hämta flöde: " + feed.name); }
                 }
-                loadedArticles.sort((a, b) => b.pubDate - a.pubDate);
+
+                // Sortera nyaste först
+                allLoadedArticles.sort((a, b) => b.pubDate - a.pubDate);
                 statusContainer.style.display = 'none';
-                renderArticles(loadedArticles);
+                renderArticles(allLoadedArticles);
             } catch (error) {
-                console.error(error);
-                statusContainer.innerText = 'Ett fel uppstod när nyheterna skulle hämtas.';
+                statusContainer.innerText = 'Ett fel uppstod vid laddning av nyheter.';
             }
         }
 
@@ -351,7 +453,7 @@
             const newsContainer = document.getElementById('news');
             newsContainer.innerHTML = '';
             if (articles.length === 0) {
-                newsContainer.innerHTML = '<div class="status">Inga nyheter matchar ditt val för tillfället.</div>';
+                newsContainer.innerHTML = '<div class="status">Inga nyheter tillgängliga just nu.</div>';
                 return;
             }
             articles.forEach(article => {
@@ -393,7 +495,26 @@
             });
         }
 
-        fetchNews();
+        function switchMainTab(tabName) {
+            currentTab = tabName;
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelector(`.tab-btn[data-tab="${tabName}"]`).classList.add('active');
+
+            // Nollställ "Alla nyheter"-knappen till aktiv
+            document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
+
+            if (tabName === 'nfl') {
+                document.getElementById('nfl-view').classList.add('active');
+                document.getElementById('ncaa-view').classList.remove('active');
+            } else {
+                document.getElementById('ncaa-view').classList.add('active');
+                document.getElementById('nfl-view').classList.remove('remove');
+                document.getElementById('nfl-view').classList.remove('active');
+            }
+            fetchAllNews();
+        }
+
+        fetchAllNews();
     </script>
 </body>
 </html>
