@@ -49,7 +49,7 @@
 
         .header-container {
             max-width: 1000px;
-            margin: 0 auto;
+            margin: 0--auto;
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -246,7 +246,7 @@
 
         <div class="filter-section" id="filter-wrapper">
             <div class="action-pills">
-                <button class="pill-all" onclick="filterLeague('ALL', this)">Alla nyheter</button>
+                <button class="pill-all" onclick="clearActiveFilters(this)">Alla nyheter</button>
                 <button class="pill-fantasy" onclick="toggleFantasyFilter(this)">⭐ Fantasy-fokus</button>
             </div>
             
@@ -311,7 +311,7 @@
                             <div class="team-grid">
                                 <button class="team-btn" onclick="filterLeague('Bears', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/chi.png"> Bears</button>
                                 <button class="team-btn" onclick="filterLeague('Lions', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/det.png"> Lions</button>
-                                <button class="team-btn" onclick="margin filterLeague('Packers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"> Packers</button>
+                                <button class="team-btn" onclick="filterLeague('Packers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"> Packers</button>
                                 <button class="team-btn" onclick="filterLeague('Vikings', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/min.png"> Vikings</button>
                             </div>
                         </div>
@@ -492,13 +492,9 @@
             isFantasyActive = false;
             document.querySelector('.pill-fantasy').classList.remove('active');
             document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
-            if(buttonElement && !buttonElement.classList.contains('pill-all')) buttonElement.classList.add('active');
+            if(buttonElement) buttonElement.classList.add('active');
             
             const articles = document.querySelectorAll('#news article');
-            if (teamName === 'ALL') {
-                articles.forEach(article => article.classList.remove('hidden'));
-                return;
-            }
             const searchKey = teamName.toLowerCase();
             articles.forEach(article => {
                 const title = article.getAttribute('data-title');
@@ -506,6 +502,14 @@
                 if (title.includes(searchKey) || desc.includes(searchKey)) article.classList.remove('hidden');
                 else article.classList.add('hidden');
             });
+        }
+
+        function clearActiveFilters(buttonElement) {
+            isFantasyActive = false;
+            document.querySelector('.pill-fantasy').classList.remove('active');
+            document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
+            const articles = document.querySelectorAll('#news article');
+            articles.forEach(article => article.classList.remove('hidden'));
         }
 
         function toggleFantasyFilter(button) {
@@ -526,7 +530,7 @@
                 });
             } else {
                 button.classList.remove('active');
-                filterLeague('ALL');
+                clearActiveFilters();
             }
         }
 
@@ -549,8 +553,8 @@
                 filterWrapper.style.display = 'none';
             }
             
-            filterLeague('ALL');
-            fetchAllNews(); // Den här tvingar nu fram rätt flöde direkt vid flikbyte!
+            document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
+            fetchAllNews();
         }
 
         function toggleStandings() {
