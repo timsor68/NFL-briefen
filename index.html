@@ -496,6 +496,7 @@
                     else article.classList.add('hidden');
                 });
             } else {
+                button.remove('active'); // Fallback om äldre webbläsare strular
                 button.classList.remove('active');
                 filterLeague('ALL');
             }
@@ -518,7 +519,6 @@
             arrow.innerText = content.classList.contains('active') ? '▲' : '▼';
         }
 
-        // --- Hämta Live-tabell från ESPN ---
         async function fetchLiveStandings() {
             const container = document.getElementById('standings-tables-container');
             const loader = document.getElementById('standings-loading');
@@ -531,11 +531,9 @@
                     loader.style.display = 'none';
                     container.innerHTML = '';
                     
-                    // Gå igenom konferenser (AFC, NFC)
                     data.children.forEach(conference => {
                         let confHtml = `<h3 style="margin-top:1.5rem; color:var(--nfl-blue); border-bottom:2px solid var(--border-color); padding-bottom:0.25rem;">${conference.name}</h3>`;
                         
-                        // Gå igenom divisioner (East, North, etc.)
                         conference.children.forEach(division => {
                             let divHtml = `
                                 <div style="margin-bottom: 1.5rem;">
@@ -553,7 +551,6 @@
                                         <tbody>
                             `;
                             
-                            // Hämta lagen i divisionen
                             division.standings.entries.forEach(entry => {
                                 const team = entry.team;
                                 const stats = entry.stats;
