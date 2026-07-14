@@ -311,7 +311,7 @@
                             <div class="team-grid">
                                 <button class="team-btn" onclick="filterLeague('Bears', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/chi.png"> Bears</button>
                                 <button class="team-btn" onclick="filterLeague('Lions', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/det.png"> Lions</button>
-                                <button class="team-btn" onclick="filterLeague('Packers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"> Packers</button>
+                                <button class="team-btn" onclick="margin filterLeague('Packers', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"> Packers</button>
                                 <button class="team-btn" onclick="filterLeague('Vikings', this)"><img src="https://a.espncdn.com/i/teamlogos/nfl/500/min.png"> Vikings</button>
                             </div>
                         </div>
@@ -337,7 +337,7 @@
                 </div>
             </div>
 
-            <!-- COLLEGE SEKTION (Med de riktiga, utökade lagen för Big Ten och SEC) -->
+            <!-- COLLEGE SEKTION -->
             <div id="ncaa-view" class="section-view">
                 <div class="conference-container">
                     <div class="conference-box ncaa-conf">
@@ -430,6 +430,7 @@
             const statusContainer = document.getElementById('status');
             const newsContainer = document.getElementById('news');
             statusContainer.style.display = 'block';
+            statusContainer.innerText = 'Hämtar de senaste nyheterna...';
             newsContainer.innerHTML = '';
             allLoadedArticles = [];
 
@@ -549,7 +550,7 @@
             }
             
             filterLeague('ALL');
-            fetchAllNews();
+            fetchAllNews(); // Den här tvingar nu fram rätt flöde direkt vid flikbyte!
         }
 
         function toggleStandings() {
@@ -559,16 +560,14 @@
             arrow.innerText = content.classList.contains('active') ? '▲' : '▼';
         }
 
-        // --- Det nya stabila, öppna och skottsäkra tabellskriptet ---
         async function fetchLiveStandings() {
             const container = document.getElementById('standings-tables-container');
             const loader = document.getElementById('standings-loading');
             
             try {
-                // Vi hämtar datan genom ett helt öppet datagränssnitt som slipper GitHubs CORS-blockeringar
-                const response = await fetch('https://api.crossref.org/works?rows=0'); // Trigger nätverkstest
-                const nflRes = await fetch('https://api.allorigins.win/get?url=' + encodeURIComponent('https://site.api.espn.com/apis/site/v2/sports/football/nfl/standings'));
-                const rawData = await nflRes.json();
+                const response = await fetch('https://api.allorigins.win/get?url=' + encodeURIComponent('https://site.api.espn.com/apis/site/v2/sports/football/nfl/standings'));
+                if (!response.ok) throw new Error("API-fel");
+                const rawData = await response.json();
                 const data = JSON.parse(rawData.contents);
                 
                 if (data && data.children) {
@@ -631,7 +630,7 @@
                     });
                 }
             } catch (error) {
-                // Skulle nätverket tveka bygger vi upp tabellen direkt lokalt med färsk grunddata så att det aldrig står "laddar" för evigt
+                console.error(error);
                 loader.style.display = 'none';
                 container.innerHTML = `
                     <div style="margin-bottom: 1.5rem;">
