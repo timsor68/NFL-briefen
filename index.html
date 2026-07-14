@@ -188,8 +188,9 @@
             .team-btn.active { background-color: #f8fafc; color: #0f172a; border-color: #f8fafc; }
         }
 
-        /* --- Nyhetsflöde --- */
+        /* --- Nyhetsflöde med Artikelbilder --- */
         .news-container { display: flex; flex-direction: column; gap: 1.25rem; }
+        
         article {
             background-color: var(--card-bg);
             border: 1px solid var(--border-color);
@@ -197,14 +198,46 @@
             padding: 1.5rem;
             box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02);
             transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            gap: 1.5rem;
+            align-items: flex-start;
         }
+        
         article:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05); }
         article.hidden { display: none; }
+
+        .article-content {
+            flex: 1;
+        }
+
+        .article-image-box {
+            width: 120px;
+            height: 90px;
+            border-radius: 8px;
+            overflow: hidden;
+            background-color: #f8fafc;
+            border: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
+        .article-image-box img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        @media (max-width: 600px) {
+            article { flex-direction: column-reverse; gap: 1rem; }
+            .article-image-box { width: 100%; height: 160px; }
+        }
 
         .meta {
             font-size: 0.8rem;
             color: var(--text-muted);
-            margin-bottom: 0.75rem;
+            margin-bottom: 0.5rem;
             display: flex;
             gap: 1rem;
             font-weight: 500;
@@ -407,6 +440,16 @@
             { name: 'CollegeFootballTalk', url: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcollegefootballtalk.nbcsports.com%2Ffeed%2F' }
         ];
 
+        // Funktion för att sätta rätt logotyp per nyhetskälla
+        function getSourceLogo(sourceName) {
+            if (sourceName.includes('ESPN')) return 'https://a.espncdn.com/i/espn/misc_logos/espn_wordmark.png';
+            if (sourceName.includes('CBS')) return 'https://a.espncdn.com/i/teamlogos/ncaa/500/cbs.png';
+            if (sourceName.includes('ProFootballTalk') || sourceName.includes('CollegeFootballTalk')) return 'https://profootballtalk.nbcsports.com/wp-content/themes/pft-theme/assets/img/pft-logo.png';
+            if (sourceName.includes('Yahoo')) return 'https://s.yimg.com/cv/apiv2/default/sports/20210317/logo-sports-purple.png';
+            if (sourceName.includes('Bleacher')) return 'https://cdn.bleacherreport.net/images/team_logos/328x328/bleacher_report.png';
+            return 'https://a.espncdn.com/i/teamlogos/nfl/500/nfl.png'; // Standard NFL sköld
+        }
+
         let currentTab = 'nfl';
         let allLoadedArticles = [];
 
@@ -426,12 +469,18 @@
                     const data = await response.json();
                     if (data.status === 'ok') {
                         data.items.forEach(item => {
+                            // Försök hitta en bild i RSS-flödet, annars använd källans logga
+                            let imgUrl = getSourceLogo(feed.name);
+                            if (item.enclosure && item.enclosure.link) imgUrl = item.enclosure.link;
+                            else if (item.thumbnail) imgUrl = item.thumbnail;
+
                             allLoadedArticles.push({
                                 title: item.title,
                                 link: item.link,
                                 description: item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 180) + '...' : '',
                                 pubDate: new Date(item.pubDate),
-                                source: feed.name
+                                source: feed.name,
+                                image: imgUrl
                             });
                         });
                     }
@@ -455,12 +504,17 @@
                 const dateString = article.pubDate.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' });
                 const html = `
                     <article data-title="${article.title.toLowerCase()}" data-desc="${article.description.toLowerCase()}">
-                        <div class="meta">
-                            <span>🏈 ${article.source}</span>
-                            <span>📅 ${dateString} ${timeString}</span>
+                        <div class="article-content">
+                            <div class="meta">
+                                <span>🏈 ${article.source}</span>
+                                <span>📅 ${dateString} ${timeString}</span>
+                            </div>
+                            <h2><a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a></h2>
+                            <p>${article.description}</p>
                         </div>
-                        <h2><a href="${article.link}" target="_blank" rel="noopener noreferrer">${article.title}</a></h2>
-                        <p>${article.description}</p>
+                        <div class="article-image-box">
+                            <img src="${article.image}" alt="Nyhetsbild">
+                        </div>
                     </article>
                 `;
                 newsContainer.innerHTML += html;
