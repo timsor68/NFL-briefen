@@ -16,7 +16,21 @@
             --ncaa-green: #006341;
             --fantasy-gold: #eab308;
             --playoff-green: #10b981;
+            
+            /* Basstilar för mjuka pastellskiften */
+            --box-bg-pastel: #f8fafc;
+            --pill-all-bg: #e2e8f0;
+            --active-pastel-blue: #e0f2fe;
+            --active-pastel-border: #38bdf8;
+            --afc-pastel-header: #fee2e2;
+            --nfc-pastel-header: #e0f2fe;
+            --ncaa-pastel-header: #d1fae5;
         }
+
+        /* Dynamiska sektionsbakgrunder i ljust läge */
+        body.tab-nfl { background-color: #f1f5f9; }
+        body.tab-insider { background-color: #fefcf0; }
+        body.tab-ncaa { background-color: #f0fdf4; }
 
         @media (prefers-color-scheme: dark) {
             :root {
@@ -25,16 +39,27 @@
                 --text-main: #f8fafc;
                 --text-muted: #94a3b8;
                 --border-color: #334155;
+                --box-bg-pastel: #1e293b;
+                --pill-all-bg: #334155;
+                --active-pastel-blue: #0369a1;
+                --active-pastel-border: #0284c7;
+                --afc-pastel-header: #7f1d1d;
+                --nfc-pastel-header: #0c4a6e;
+                --ncaa-pastel-header: #064e3b;
             }
+            /* Dynamiska sektionsbakgrunder i mörkt läge */
+            body.tab-nfl { background-color: #0f172a; }
+            body.tab-insider { background-color: #1c1912; }
+            body.tab-ncaa { background-color: #061f14; }
         }
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-            background-color: var(--bg-color);
             color: var(--text-main);
             margin: 0;
             padding: 0;
             line-height: 1.5;
+            transition: background-color 0.3s ease; /* Ger en mjuk, lyxig övergång vid flikbyte */
         }
 
         header {
@@ -44,7 +69,7 @@
             position: sticky;
             top: 0;
             z-index: 100;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.03);
         }
 
         .header-container {
@@ -62,7 +87,7 @@
         .subtitle { margin: 0; font-size: 0.85rem; color: var(--text-muted); }
 
         .countdown-box {
-            background-color: var(--bg-color);
+            background-color: var(--card-bg);
             padding: 0.4rem 0.8rem;
             border-radius: 8px;
             border: 1px solid var(--border-color);
@@ -114,47 +139,85 @@
         .tab-btn.active[data-tab="insider"] { background-color: var(--fantasy-gold); color: #0f172a; border-color: var(--fantasy-gold); }
         .tab-btn.active[data-tab="ncaa"] { background-color: var(--ncaa-green); color: white; border-color: var(--ncaa-green); }
 
+        /* --- Filter-sektion --- */
         .filter-section {
-            background-color: var(--card-bg); border: 1px solid var(--border-color);
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
             border-radius: 16px; padding: 1.5rem; margin-bottom: 1.5rem;
-            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+            box-shadow: 0 4px 14px rgba(0,0,0,0.02);
         }
 
         .action-pills { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
         .pill-all {
-            background-color: var(--text-main); color: var(--bg-color); border: none;
-            padding: 0.5rem 1rem; border-radius: 30px; font-weight: bold; cursor: pointer;
+            background-color: var(--pill-all-bg);
+            color: var(--text-main);
+            border: 1px solid var(--border-color);
+            padding: 0.5rem 1.2rem; border-radius: 30px; font-weight: bold; cursor: pointer;
+            transition: all 0.2s ease;
         }
+        .pill-all.active {
+            background-color: var(--active-pastel-blue);
+            border-color: var(--active-pastel-border);
+            color: var(--text-main);
+            box-shadow: 0 2px 6px rgba(56, 189, 248, 0.2);
+        }
+        
         .pill-fantasy {
             background-color: var(--fantasy-gold); color: #0f172a; border: none;
-            padding: 0.5rem 1rem; border-radius: 30px; font-weight: bold; cursor: pointer;
+            padding: 0.5rem 1.2rem; border-radius: 30px; font-weight: bold; cursor: pointer;
             display: flex; align-items: center; gap: 0.25rem;
+            transition: all 0.2s ease;
         }
         .pill-fantasy.active { outline: 3px solid var(--text-main); }
 
         .section-view { display: none; }
         .section-view.active { display: block; }
-        .conference-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; }
-        .conference-box { border-top: 4px solid var(--border-color); padding-top: 0.5rem; }
-        .conference-box.afc { border-color: var(--nfl-red); }
-        .conference-box.nfc { border-color: var(--nfl-blue); }
-        .conference-box.ncaa-conf { border-color: var(--ncaa-green); }
-        .conference-box h3 { margin: 0 0 1rem 0; font-size: 1.2rem; font-weight: 800; }
-        .afc h3 { color: var(--nfl-red); } .nfc h3 { color: var(--nfl-blue); } .ncaa-conf h3 { color: var(--ncaa-green); }
+        .conference-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; }
+        
+        .conference-box { 
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            overflow: hidden;
+            padding-bottom: 1rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.01);
+        }
+        .conference-box h3 { 
+            margin: 0 0 1rem 0; 
+            font-size: 1.1rem; 
+            font-weight: 800; 
+            padding: 0.6rem 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .conference-box.afc h3 { background-color: var(--afc-pastel-header); color: var(--nfl-red); }
+        .conference-box.nfc h3 { background-color: var(--nfc-pastel-header); color: var(--nfl-blue); }
+        .conference-box.ncaa-conf h3 { background-color: var(--ncaa-pastel-header); color: var(--ncaa-green); }
 
-        .division-row { margin-bottom: 1rem; }
-        .division-row h4 { margin: 0 0 0.4rem 0; font-size: 0.75rem; text-transform: uppercase; color: var(--text-muted); letter-spacing: 0.05em; }
+        .division-row { padding: 0 1rem; margin-bottom: 1rem; }
+        .division-row h4 { margin: 0 0 0.5rem 0; font-size: 0.72rem; text-transform: uppercase; color: var(--text-muted); letter-spacing: 0.06em; }
         .team-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.4rem; }
         
         .team-btn {
             background-color: var(--bg-color); border: 1px solid var(--border-color);
-            color: var(--text-main); padding: 0.4rem 0.5rem; border-radius: 8px;
+            color: var(--text-main); padding: 0.45rem 0.6rem; border-radius: 8px;
             font-size: 0.8rem; font-weight: 600; cursor: pointer;
             display: flex; align-items: center; gap: 0.4rem; text-align: left;
+            transition: transform 0.15s ease, background-color 0.15s ease, box-shadow 0.15s ease;
         }
         .team-btn img { width: 18px; height: 18px; object-fit: contain; }
-        .team-btn.active { background-color: #0f172a; color: #ffffff; border-color: #0f172a; }
-        @media (prefers-color-scheme: dark) { .team-btn.active { background-color: #f8fafc; color: #0f172a; } }
+        .team-btn:hover {
+            background-color: var(--card-bg);
+            transform: translateY(-1px);
+            box-shadow: 0 3px 8px rgba(0,0,0,0.04);
+        }
+        .team-btn.active { 
+            background-color: var(--active-pastel-blue) !important; 
+            color: var(--text-main) !important; 
+            border-color: var(--active-pastel-border) !important;
+            box-shadow: 0 2px 6px rgba(56, 189, 248, 0.15);
+        }
 
         /* --- Nyhetsbox --- */
         .news-wrapper-box {
@@ -164,7 +227,7 @@
             padding: 1.5rem;
             margin-bottom: 2rem;
             min-height: 200px;
-            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.02);
         }
         .news-section-title {
             margin: 0 0 1.2rem 0;
@@ -173,14 +236,18 @@
             display: flex;
             align-items: center;
             gap: 0.5rem;
+            color: var(--text-main);
         }
 
         .news-container { display: flex; flex-direction: column; gap: 1rem; }
         article {
-            background-color: var(--bg-color);
+            background-color: #f8fafc;
             border: 1px solid var(--border-color);
             border-radius: 12px; padding: 1.1rem;
             display: flex; gap: 1.5rem; align-items: flex-start;
+        }
+        @media (prefers-color-scheme: dark) {
+            article { background-color: #151f32; }
         }
         article.hidden { display: none; }
         .article-content { flex: 1; }
@@ -200,13 +267,14 @@
         .meta { font-size: 0.75rem; color: var(--text-muted); margin-bottom: 0.3rem; display: flex; gap: 0.8rem; font-weight: 500; }
         h2 { margin: 0 0 0.4rem 0; font-size: 1.15rem; font-weight: 700; line-height: 1.4; }
         h2 a { color: var(--text-main); text-decoration: none; }
-        h2 a:hover { text-decoration: underline; }
+        h2 a:hover { color: var(--nfl-blue); text-decoration: underline; }
         p { margin: 0; color: var(--text-muted); font-size: 0.88rem; line-height: 1.5; }
 
         /* --- Tabell-dragspel --- */
         .standings-accordion {
             background-color: var(--card-bg); border: 1px solid var(--border-color);
             border-radius: 12px; overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.02);
         }
         .standings-header {
             background: #0f172a; color: white; padding: 1rem; font-weight: bold;
@@ -228,7 +296,7 @@
         footer { text-align: center; margin: 4rem 0 2rem 0; font-size: 0.8rem; color: var(--text-muted); }
     </style>
 </head>
-<body>
+<body class="tab-nfl"> <!-- Sätter grundklassen från start -->
 
     <!-- Matchcenter Live Ticker -->
     <div class="matchcenter" id="matchcenter">
@@ -263,7 +331,7 @@
 
         <div class="filter-section" id="filter-wrapper">
             <div class="action-pills">
-                <button class="pill-all" onclick="clearActiveFilters(this)">Alla nyheter</button>
+                <button class="pill-all active" id="btn-all-news" onclick="clearActiveFilters(this)">Alla nyheter</button>
                 <button class="pill-fantasy" onclick="toggleFantasyFilter(this)">⭐ Fantasy-fokus</button>
             </div>
             
@@ -357,37 +425,41 @@
                 <div class="conference-container">
                     <div class="conference-box ncaa-conf">
                         <h3>SEC</h3>
-                        <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Alabama', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2330.png"> Alabama</button>
-                            <button class="team-btn" onclick="filterLeague('Georgia', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"> Georgia</button>
-                            <button class="team-btn" onclick="filterLeague('Texas', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"> Texas</button>
-                            <button class="team-btn" onclick="filterLeague('LSU', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"> LSU</button>
-                            <button class="team-btn" onclick="filterLeague('Tennessee', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"> Tennessee</button>
-                            <button class="team-btn" onclick="filterLeague('Oklahoma', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"> Oklahoma</button>
-                            <button class="team-btn" onclick="filterLeague('Ole Miss', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/145.png"> Ole Miss</button>
-                            <button class="team-btn" onclick="filterLeague('Florida', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/57.png"> Florida</button>
+                        <div class="division-row">
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Alabama', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2330.png"> Alabama</button>
+                                <button class="team-btn" onclick="filterLeague('Georgia', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/61.png"> Georgia</button>
+                                <button class="team-btn" onclick="filterLeague('Texas', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/251.png"> Texas</button>
+                                <button class="team-btn" onclick="filterLeague('LSU', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/99.png"> LSU</button>
+                                <button class="team-btn" onclick="filterLeague('Tennessee', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png"> Tennessee</button>
+                                <button class="team-btn" onclick="filterLeague('Oklahoma', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/201.png"> Oklahoma</button>
+                                <button class="team-btn" onclick="filterLeague('Ole Miss', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/145.png"> Ole Miss</button>
+                                <button class="team-btn" onclick="filterLeague('Florida', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/57.png"> Florida</button>
+                            </div>
                         </div>
                     </div>
                     <div class="conference-box ncaa-conf">
                         <h3>Big Ten</h3>
-                        <div class="team-grid">
-                            <button class="team-btn" onclick="filterLeague('Ohio State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"> Ohio State</button>
-                            <button class="team-btn" onclick="filterLeague('Michigan', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"> Michigan</button>
-                            <button class="team-btn" onclick="filterLeague('Penn State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"> Penn State</button>
-                            <button class="team-btn" onclick="filterLeague('Oregon', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"> Oregon</button>
-                            <button class="team-btn" onclick="filterLeague('USC', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"> USC</button>
-                            <button class="team-btn" onclick="filterLeague('Washington', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png"> Washington</button>
-                            <button class="team-btn" onclick="filterLeague('Iowa', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"> Iowa</button>
-                            <button class="team-btn" onclick="filterLeague('Wisconsin', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"> Wisconsin</button>
+                        <div class="division-row">
+                            <div class="team-grid">
+                                <button class="team-btn" onclick="filterLeague('Ohio State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/194.png"> Ohio State</button>
+                                <button class="team-btn" onclick="filterLeague('Michigan', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/130.png"> Michigan</button>
+                                <button class="team-btn" onclick="filterLeague('Penn State', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/213.png"> Penn State</button>
+                                <button class="team-btn" onclick="filterLeague('Oregon', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png"> Oregon</button>
+                                <button class="team-btn" onclick="filterLeague('USC', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/30.png"> USC</button>
+                                <button class="team-btn" onclick="filterLeague('Washington', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png"> Washington</button>
+                                <button class="team-btn" onclick="filterLeague('Iowa', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png"> Iowa</button>
+                                <button class="team-btn" onclick="filterLeague('Wisconsin', this)"><img src="https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png"> Wisconsin</button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <!-- NYHETSBOX PLACERAD EXKLUSIVT MELLAN LAGEN OCH LIVE STANDINGS -->
+        <!-- NYHETSBOX -->
         <div class="news-wrapper-box">
-            <div class="news-section-title" id="news-section-title">📰 Aktuellt nyhetsflöde</div>
+            <div class="news-section-title" id="news-section-title">24. Senaste nyheterna från NFL</div>
             <div id="status" class="status">Hämtar de senaste nyheterna...</div>
             <div id="news" class="news-container"></div>
         </div>
@@ -455,7 +527,6 @@
             newsContainer.innerHTML = '';
             allLoadedArticles = [];
 
-            // Anpassa boxrubriken utifrån fliken
             if (currentTab === 'nfl') titleContainer.innerText = '📰 Senaste nyheterna från NFL';
             if (currentTab === 'insider') titleContainer.innerText = '💣 Exklusiva insider-rapporter & rykten';
             if (currentTab === 'ncaa') titleContainer.innerText = '🎓 Senaste nytt från College Football';
@@ -465,8 +536,6 @@
             if (currentTab === 'insider') activeFeeds = insiderFeeds;
 
             let successCount = 0;
-
-            // Gallrings-ord för Insider-fliken
             const insiderKeywords = ['trade', 'rumor', 'signing', 'contract', 'sources', 'update', 'deal', 'holds out', 'free agency', 'negotiation', 'insider'];
 
             for (const feed of activeFeeds) {
@@ -479,10 +548,9 @@
                             const titleLower = item.title.toLowerCase();
                             const descLower = item.description ? item.description.toLowerCase() : '';
                             
-                            // Om vi är på ryktesfliken, släpp BARA igenom artiklar som matchar insider-orden
                             if (currentTab === 'insider') {
                                 const isInsiderMatch = insiderKeywords.some(keyword => titleLower.includes(keyword) || descLower.includes(keyword));
-                                if (!isInsiderMatch) return; // Hoppa över om det bara är en vanlig matchrapport
+                                if (!isInsiderMatch) return;
                             }
 
                             allLoadedArticles.push({
@@ -517,14 +585,12 @@
                 backupData = [
                     { title: 'Big Ten expansion alters National Championship landscape for upcoming season', source: 'ESPN College Football', description: 'With new powerhouses anchoring the conference, analysts project a highly competitive race to the newly formatted playoffs...' },
                     { title: 'SEC Title Contenders: Team strengths, roster breakdowns and schedule analysis', source: 'CBS Sports NCAA', description: 'Alabama, Georgia, and Texas lead a stacked conference field. Roster depth will be tested early in the September matchups...' },
-                    { title: 'Heisman Trophy Watch: Emerging quarterbacks taking center stage in training camps', source: 'CollegeFootballTalk', description: 'Early standouts from Ohio State and Oregon show impressive development, drawing high praise from coordinators...' },
-                    { title: 'Top Roster Transfers making immediate impacts in open scrimmage sessions', source: 'ESPN College Football', description: 'Key defensive acquisitions across SEC programs are shifting coordinator strategies ahead of the opening weekend...' }
+                    { title: 'Heisman Trophy Watch: Emerging quarterbacks taking center stage in training camps', source: 'CollegeFootballTalk', description: 'Early standouts from Ohio State and Oregon show impressive development, drawing high praise from coordinators...' }
                 ];
             } else if (currentTab === 'insider') {
                 backupData = [
                     { title: 'Stefon Diggs contract breakdown: Why this makes him highly signable in free agency', source: 'ProFootballTalk', description: 'Sources close to negotiations suggest a front-loaded incentive structure could finalize a short-term deal before team workouts begin...' },
-                    { title: 'Insider Report: Contract negotiation stall tactics causing training camp absences', source: 'ProFootballTalk', description: 'Front office executives hint at prolonged holdouts as star wide receivers demand market-resetting extensions before Week 1...' },
-                    { title: 'Trade Rumors swirl around veteran edge rusher ahead of roster cutdown deadline', source: 'Bleacher Report Rykten', description: 'Contending teams have initiated exploratory calls. Compensation packages are rumored to involve mid-round draft picks...' }
+                    { title: 'Insider Report: Contract negotiation stall tactics causing training camp absences', source: 'ProFootballTalk', description: 'Front office executives hint at prolonged holdouts as star wide receivers demand market-resetting extensions before Week 1...' }
                 ];
             } else {
                 backupData = [
@@ -579,7 +645,9 @@
         function filterLeague(teamName, buttonElement) {
             isFantasyActive = false;
             document.querySelector('.pill-fantasy').classList.remove('active');
+            document.getElementById('btn-all-news').classList.remove('active');
             document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
+            
             if(buttonElement) buttonElement.classList.add('active');
             
             const articles = document.querySelectorAll('#news article');
@@ -596,12 +664,17 @@
             isFantasyActive = false;
             document.querySelector('.pill-fantasy').classList.remove('active');
             document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
+            
+            const btnAll = document.getElementById('btn-all-news');
+            if(btnAll) btnAll.classList.add('active');
+            
             const articles = document.querySelectorAll('#news article');
             articles.forEach(article => article.classList.remove('hidden'));
         }
 
         function toggleFantasyFilter(button) {
             document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
+            document.getElementById('btn-all-news').classList.remove('active');
             isFantasyActive = !isFantasyActive;
             
             if (isFantasyActive) {
@@ -622,11 +695,16 @@
             }
         }
 
+        // Här styrs de intelligenta bakgrundsskiftena live per sektion
         function switchMainTab(tabName) {
             currentTab = tabName;
             document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
             document.querySelector(`.tab-btn[data-tab="${tabName}"]`).classList.add('active');
             
+            // Hantera body-klasser för bakgrundsfärgskiftet
+            document.body.className = ''; // nollställ
+            document.body.classList.add(`tab-${tabName}`);
+
             const filterWrapper = document.getElementById('filter-wrapper');
 
             if (tabName === 'nfl') {
@@ -641,8 +719,7 @@
                 filterWrapper.style.display = 'none';
             }
             
-            document.querySelectorAll('.team-btn').forEach(btn => btn.classList.remove('active'));
-            fetchAllNews();
+            clearActiveFilters();
         }
 
         function toggleStandings() {
