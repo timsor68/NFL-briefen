@@ -1,1 +1,40 @@
+name: Uppdatera NFL-nyheter
 
+# Hamtar nyheter server-side var 20:e minut (ingen CORS-begransning har,
+# till skillnad fran webblasaren) och committar news.json om den andrats.
+# Ersatter den tidigare losningen med allorigins/codetabs/corsproxy.io i
+# webblasaren, som visade sig opalitlig och fick nyhetsfliken att antingen
+# fastna i evig laddning eller visa statiska exempelartiklar.
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-update
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Hamta senaste nyheterna
+        run: python fetch_news.py
+
+      - name: Committa och pusha om news.json andrats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --quiet --cached || git commit -m "Auto-uppdatera news.json [skip ci]"
+          git push
