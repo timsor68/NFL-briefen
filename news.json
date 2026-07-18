@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-18T06:21:58.574983+00:00",
+  "generatedAt": "2026-07-18T08:26:08.796425+00:00",
   "nfl": [
+    {
+      "title": "NFL players want more grass fields after World Cup",
+      "link": "https://sports.yahoo.com/articles/nfl-players-want-more-grass-065837307.html",
+      "description": "NFL players start a social media campaign to support a call by their players union for more permanent grass fields following the World Cup....",
+      "pubDate": "2026-07-18T06:58:37+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "NFL players continue push for grass fields on heels of World Cup",
       "link": "https://www.espn.com/nfl/story/_/id/49386406/nfl-players-continue-push-grass-fields-heels-world-cup",
@@ -16,6 +24,14 @@
       "pubDate": "2026-07-18T04:40:05Z",
       "source": "ESPN NFL · Turron Davenport",
       "thumbnail": "https://a.espncdn.com/photo/2026/0708/r1686360_600x400_3-2.jpg"
+    },
+    {
+      "title": "NFL Insider provides update on when Fernando Mendoza could take the field for Raiders",
+      "link": "https://sports.yahoo.com/articles/nfl-insider-provides-fernando-mendoza-031251459.html",
+      "description": "Fernando Mendoza is the future for the Las Vegas Raiders. But whether it will be in the immediate future is unknown. According to NFL Insider Ian Rapoport, he believes that......",
+      "pubDate": "2026-07-18T03:12:51+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Colts Reacts Survey",
@@ -384,22 +400,6 @@
       "pubDate": "2026-07-17T17:54:36+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Bill Belichick: UNC is &quot;way ahead&quot; of where it was a year ago, difference is &quot;night and day&quot;",
-      "link": "https://sports.yahoo.com/articles/bill-belichick-unc-way-ahead-174518190.html",
-      "description": "Bill Belichick’s first season as North Carolina’s head coach did not go as well as anyone affiliated with the university would have liked, with the program finishing 4-8 in 2025....",
-      "pubDate": "2026-07-17T17:45:18+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Titans to induct Chris Johnson into Ring of Honor after devastating ALS diagnosis",
-      "link": "https://sports.yahoo.com/articles/titans-induct-chris-johnson-ring-174048552.html",
-      "description": "The Titans&#39; season opener against the Jets will have some extra meaning....",
-      "pubDate": "2026-07-17T17:40:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -516,14 +516,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2023/1230/r1271821_600x400_3-2.jpg"
     },
     {
-      "title": "How Hiring James Franklin Fits Into Virginia Tech's Bold, Nine-Figure Athletic Blueprint",
-      "link": "https://www.foxsports.com/stories/college-football/how-hiring-james-franklin-fits-virginia-techs-bold-nine-figure-athletic-blueprint",
-      "description": "New Virginia Tech coach James Franklin knows the Hokies' proud history going back to the Frank Beamer era.",
-      "pubDate": "2026-07-17T04:22:08+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/franklin.jpg"
-    },
-    {
       "title": "Clemson's Dabo Swinney says Congress could help deter tampering",
       "link": "https://www.espn.com/college-football/story/_/id/49380252/clemson-dabo-swinney-says-congress-help-deter-tampering",
       "description": "Clemson's Dabo Swinney said tampering in college football is \"rampant\" and \"there has to be some type of order put in place,\" pointing to congressional help as a possible answer.",
@@ -620,38 +612,6 @@
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0716/ss_20260716_091054684_3594842/ss_20260716_091054684_3594842.jpg"
     },
     {
-      "title": "Miami Turns to Duke Transfer Darian Mensah to Continue Portal Quarterback Success",
-      "link": "https://www.foxsports.com/stories/college-football/miami-turns-duke-transfer-darian-mensah-continue-portal-quarterback-success",
-      "description": "The Miami Hurricanes are back on the national scene in college football in large part due to the acquisition of two high-profile transfer quarterbacks the past two years.",
-      "pubDate": "2026-07-16T04:23:37+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/miami1.jpg"
-    },
-    {
-      "title": "SMU Names New Recovery Center After Active QB Kevin Jennings Amid Heisman Campaign",
-      "link": "https://www.foxsports.com/stories/college-football/smu-names-new-recovery-center-after-active-qb-kevin-jennings-amid-heisman-campaign",
-      "description": "SMU has launched a Heisman Trophy campaign for senior quarterback Kevin Jennings, and also is putting his name on a new recovery center in the school's football complex.",
-      "pubDate": "2026-07-16T03:47:00+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/smu1.jpg"
-    },
-    {
-      "title": "2026 College Football Odds: Will Oregon, Miami Both Make Playoff?",
-      "link": "https://www.foxsports.com/stories/college-football/2026-college-football-odds-oregon-miami-playoff-memphis-tigers",
-      "description": "Geoff Schwartz has his eye on one team's win total and two teams' CFP chances. See where he's putting his money.",
-      "pubDate": "2026-07-16T02:28:06+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/dan-lanning_oregon_geoff-schwartz_odds.jpg"
-    },
-    {
-      "title": "College Football Offseason Buzz: Former Penn State QB Named QB1 At Virginia",
-      "link": "https://www.foxsports.com/stories/college-football/college-football-offseason-buzz",
-      "description": "The college football news cycle never stops. With that in mind, here's a tracker of offseason buzz across the sport.",
-      "pubDate": "2026-07-15T22:09:17+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/beau_pribula_horizontal.jpg"
-    },
-    {
       "title": "WR Robinson: Seminoles 'feel the urgency' to turn fortunes around",
       "link": "https://www.espn.com/college-football/story/_/id/49370140/wr-robinson-seminoles-feel-urgency-turn-fortunes-around",
       "description": "After back-to-back disappointing seasons, Florida State receiver Duce Robinson says the Seminoles \"feel the urgency\" to turn things around in Tallahassee.",
@@ -698,14 +658,6 @@
       "pubDate": "2026-07-15T18:31:13Z",
       "source": "ESPN College Football · Pete Thamel",
       "thumbnail": "https://a.espncdn.com/photo/2025/1102/r1569443_600x400_3-2.jpg"
-    },
-    {
-      "title": "ACC Changes Conference Title Game Tiebreakers Following Miami-Duke Controversy",
-      "link": "https://www.foxsports.com/stories/college-football/acc-miami-duke-2025-acc-championship",
-      "description": "The ACC is revamping the tiebreaker format for its football championship game following a controversial finish that allowed a 5-loss Duke team to reach the title game over then No. 10-ranked Miami.",
-      "pubDate": "2026-07-15T15:29:16+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/dukeh1.jpg"
     },
     {
       "title": "ACC implements new tiebreaker policy for football title game",
@@ -802,6 +754,54 @@
       "pubDate": "2026-07-13T18:39:05Z",
       "source": "ESPN College Football · Myron Medcalf",
       "thumbnail": "https://a.espncdn.com/photo/2026/0713/r1688703_600x400_3-2.jpg"
+    },
+    {
+      "title": "Patterson replaces Riveron as ACC supervisor of officials",
+      "link": "https://www.espn.com/college-football/story/_/id/49349724/patterson-replaces-riveron-acc-supervisor-officials",
+      "description": "Veteran official Gary Patterson was selected as the new ACC supervisor of officials on Monday, less than week after Al Riveron stepped down from the post.",
+      "pubDate": "2026-07-13T13:27:51Z",
+      "source": "ESPN College Football · Andrea Adelson",
+      "thumbnail": "https://a.espncdn.com/photo/2025/0912/r1544480_600x400_3-2.jpg"
+    },
+    {
+      "title": "Texas A&M adds 17th SC Next 300 commit for '27 with LB Mikahi Allen",
+      "link": "https://www.espn.com/college-football/story/_/id/49337308/texas-adds-17th-sc-next-300-commit-27-lb-mikahi-allen",
+      "description": "LB Mikahi Allen marks the latest addition to the Aggies star-studded 2027 recruiting class, which reaches mid-July at No. 1 in ESPN's class rankings with 17 SC Next 300 commits.",
+      "pubDate": "2026-07-11T21:54:15Z",
+      "source": "ESPN College Football · Eli Lederman",
+      "thumbnail": "https://a.espncdn.com/photo/2025/0323/r1467973_600x400_3-2.jpg"
+    },
+    {
+      "title": "Michigan State names Jon Palumbo as interim athletic director",
+      "link": "https://www.espn.com/college-sports/story/_/id/49328166/michigan-state-names-jon-palumbo-interim-athletic-director",
+      "description": "Michigan State University has bounced back from potentially losing its school president and athletic director by retaining Kevin M. Guskiewicz to lead the school and appointing Jon Palumbo as interim athletic director.",
+      "pubDate": "2026-07-10T21:37:49Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2020/0604/r705324_600x400_3-2.jpg"
+    },
+    {
+      "title": "Iowa State athletic director Jamie Pollard retiring in 2027",
+      "link": "https://www.espn.com/college-sports/story/_/id/49324636/iowa-state-athletic-director-jamie-pollard-retiring-2027",
+      "description": "Iowa State athletic director Jamie Pollard has announced that he will retire in 2027, ending his reign as the longest-tenured active AD at the Power 4 level.",
+      "pubDate": "2026-07-10T16:27:17Z",
+      "source": "ESPN College Football · Max Olson",
+      "thumbnail": "https://a.espncdn.com/photo/2021/0405/r836316_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2027 college football recruiting class rankings: Top 25 schools",
+      "link": "https://www.espn.com/college-football/recruiting/story/_/id/48503376/2027-college-football-recruiting-class-rankings-top-teams-schools",
+      "description": "These schools are setting the pace as the recruiting race heats up.",
+      "pubDate": "2026-07-10T10:28:38Z",
+      "source": "ESPN College Football · Craig Haubert",
+      "thumbnail": "https://a.espncdn.com/photo/2025/0203/r1447151_608x342_16-9.jpg"
+    },
+    {
+      "title": "Dinich on whether Colorado can make the CFP: 'Absolutely not!'",
+      "link": "https://www.espn.com/video/clip/_/id/49314718/absolutely-not",
+      "description": "Dinich on whether Colorado can make the CFP: 'Absolutely not!' ",
+      "pubDate": "2026-07-09T14:32:42Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0709/30dd016dbd614903abe9b02c85a4e562623/30dd016dbd614903abe9b02c85a4e562623.jpg"
     }
   ],
   "insider": [
