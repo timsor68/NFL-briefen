@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-18T01:02:46.779703+00:00",
+  "generatedAt": "2026-07-18T04:16:05.475641+00:00",
   "nfl": [
+    {
+      "title": "Colts Reacts Survey",
+      "link": "https://sports.yahoo.com/articles/colts-reacts-survey-022323608.html",
+      "description": "How are you feeling, Colts fans?...",
+      "pubDate": "2026-07-18T02:23:23+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL suspends Cardinals executive for violating gambling policy",
+      "link": "https://www.espn.com/nfl/story/_/id/49386067/nfl-suspends-cardinals-executive-violating-gambling-policy",
+      "description": "The NFL has suspended Arizona Cardinals personnel executive Ryan Gold indefinitely for violating the league's gambling policy.",
+      "pubDate": "2026-07-18T01:13:11Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322967_1296x729_16-9.jpg"
+    },
     {
       "title": "NFL players continue push for grass fields on heels of World Cup",
       "link": "https://www.espn.com/nfl/story/_/id/49386406/nfl-players-continue-push-grass-fields-heels-world-cup",
@@ -14,6 +30,14 @@
       "link": "https://sports.yahoo.com/articles/robert-griffin-iii-hints-netflix-001724337.html",
       "description": "Five years after former Washington quarterback Robert Griffin III announced, then scrapped, a tell-all book about his time with an inherently dysfunctional franchise, Griffin is ap...",
       "pubDate": "2026-07-18T00:17:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ravens signing ex-Browns center Ethan Pocic to compete for starting job",
+      "link": "https://sports.yahoo.com/articles/ravens-signing-ex-browns-center-000507830.html",
+      "description": "The Ravens are bolstering their offensive line....",
+      "pubDate": "2026-07-18T00:05:07+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -88,14 +112,6 @@
       "pubDate": "2026-07-17T22:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "NFL suspends Cardinals executive for violating gambling policy",
-      "link": "https://www.espn.com/nfl/story/_/id/49386067/nfl-suspends-cardinals-executive-violating-gambling-policy",
-      "description": "The NFL has suspended Arizona Cardinals personnel executive Ryan Gold indefinitely for violating the league's gambling policy.",
-      "pubDate": "2026-07-17T21:49:31Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322967_1296x729_16-9.jpg"
     },
     {
       "title": "Klint Kubiak’s multiple tight end sets means Raiders’ depth is critical",
@@ -384,25 +400,17 @@
       "pubDate": "2026-07-17T17:21:04+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football buzz: Why drafting Jonathan Taylor carries risk",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "description": "Liz Loza gives a history lesson to explain why the Colts' star could disappoint fantasy managers this season.",
-      "pubDate": "2026-07-17T17:14:33Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1202/r1583964_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Football vs. fútbol: Nine reasons I&#39;ll always take the NFL over World Cup | Opinion",
-      "link": "https://sports.yahoo.com/articles/football-vs-f-tbol-nine-170507098.html",
-      "description": "Give me America&#39;s Game over The Beautiful Game any day, Nate Davis writes. With the 2026 World Cup coming to a close, he&#39;s about to get his wish....",
-      "pubDate": "2026-07-17T17:05:07+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "No. 1 WR recruit Monshun Sales commits to Indiana on McAfee",
+      "link": "https://www.espn.com/video/clip/_/id/49385060/no-1-wr-recruit-monshun-sales-commits-indiana-mcafee-show",
+      "description": "No. 1 WR recruit Monshun Sales commits to Indiana on McAfee's show",
+      "pubDate": "2026-07-18T04:12:56Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0717/ss_20260717_125226225_3595633/ss_20260717_125226225_3595633.jpg"
+    },
     {
       "title": "SMU coach: Duke should have made CFP, not JMU",
       "link": "https://www.espn.com/college-football/story/_/id/49385207/smu-coach-duke-made-cfp-not-jmu",
@@ -466,14 +474,6 @@
       "pubDate": "2026-07-17T16:59:25Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/photo/2026/0701/r1682778_608x342_16-9.jpg"
-    },
-    {
-      "title": "No. 1 WR recruit Monshun Sales commits to Indiana on McAfee",
-      "link": "https://www.espn.com/video/clip/_/id/49385060/no-1-wr-recruit-monshun-sales-commits-indiana-mcafee",
-      "description": "No. 1 WR recruit Monshun Sales commits to Indiana on McAfee",
-      "pubDate": "2026-07-17T16:57:04Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0717/ss_20260717_125226225_3595633/ss_20260717_125226225_3595633.jpg"
     },
     {
       "title": "CJ Carr, Marcus Freeman using playoff snub as fuel for 2026 season",
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "NFL suspends Cardinals executive for violating gambling policy",
+      "link": "https://www.espn.com/nfl/story/_/id/49386067/nfl-suspends-cardinals-executive-violating-gambling-policy",
+      "description": "The NFL has suspended Arizona Cardinals personnel executive Ryan Gold indefinitely for violating the league's gambling policy.",
+      "pubDate": "2026-07-18T01:13:11Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322967_1296x729_16-9.jpg"
+    },
+    {
       "title": "Tom Brady, angling for yet another paycheck, moves toward a WWE match",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-brady-angling-for-yet-another-paycheck-moves-toward-a-wwe-match",
       "description": "As noted English poet William Michael Albert Broad once said, \"Too much is never enough.\"...",
@@ -836,14 +844,6 @@
       "pubDate": "2026-07-17T22:57:06Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2026/0119/r1602894_600x400_3-2.jpg"
-    },
-    {
-      "title": "NFL suspends Cardinals executive for violating gambling policy",
-      "link": "https://www.espn.com/nfl/story/_/id/49386067/nfl-suspends-cardinals-executive-violating-gambling-policy",
-      "description": "The NFL has suspended Arizona Cardinals personnel executive Ryan Gold indefinitely for violating the league's gambling policy.",
-      "pubDate": "2026-07-17T21:49:31Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322967_1296x729_16-9.jpg"
     },
     {
       "title": "Cowboys edge rusher Rashan Gary: I'm trying to be great",
