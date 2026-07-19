@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-07-19T12:34:34.830099+00:00",
+  "generatedAt": "2026-07-19T14:08:10.341591+00:00",
   "nfl": [
+    {
+      "title": "Tom Brady buys Fernando Mendoza’s first NFL rookie card",
+      "link": "https://sports.yahoo.com/articles/tom-brady-buys-fernando-mendoza-140000147.html",
+      "description": "The Las Vegas Raiders minority Tom Brady bought an exclusive Fernando Mendoza rookie card...",
+      "pubDate": "2026-07-19T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Seahawks 2026 training camp preview: From practice squad to active roster?",
+      "link": "https://sports.yahoo.com/articles/seahawks-2026-training-camp-preview-140000990.html",
+      "description": "Can any of these Seahawks practice squad candidates from last year make their way onto this year’s active roster?...",
+      "pubDate": "2026-07-19T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles' Saquon Barkley, family OK after attempted burglary of home",
+      "link": "https://www.espn.com/nfl/story/_/id/49399314/eagles-saquon-barkley-family-ok-attempted-burglary-home",
+      "description": "Eagles running back Saquon Barkley and his family were unharmed after an attempted burglary of their home Saturday morning, according to the Tredyffrin Township Police Department.",
+      "pubDate": "2026-07-19T13:55:25Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1207/r1586301_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Jon Gruden urges Steelers to put their faith in Mike McCarthy",
+      "link": "https://sports.yahoo.com/articles/jon-gruden-urges-steelers-put-130000474.html",
+      "description": "A Super Bowl-winning head coach says the Steelers need to have faith in Mike McCarthy....",
+      "pubDate": "2026-07-19T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions training camp preview: Will Blake Miller win the starting RT job?",
+      "link": "https://sports.yahoo.com/articles/lions-training-camp-preview-blake-130000109.html",
+      "description": "The next installment in our 2026 training camp preview series looks at the Detroit Lions’ offensive tackle room....",
+      "pubDate": "2026-07-19T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pre-Snap Reads 7/19: Projecting a future for Emmanuel Henderson, other rookies",
+      "link": "https://sports.yahoo.com/articles/pre-snap-reads-7-19-130000841.html",
+      "description": "The talent is there. How will it translate to the big leagues?...",
+      "pubDate": "2026-07-19T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "FB Adam Prentice will return as the Broncos lead blocker in the run game",
       "link": "https://sports.yahoo.com/articles/fb-adam-prentice-return-broncos-120000846.html",
@@ -350,54 +398,6 @@
       "link": "https://sports.yahoo.com/articles/las-vegas-raiders-mailbag-could-170500346.html",
       "description": "Returning Raider Nation’s questions for the week....",
       "pubDate": "2026-07-18T17:05:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills news: How is Keon Coleman preparing for pivotal season?",
-      "link": "https://sports.yahoo.com/articles/bills-news-keon-coleman-preparing-165108664.html",
-      "description": "Coming off a second straight up-and-down campaign, Keon Coleman says he is facing a “make or break” year with the Bills....",
-      "pubDate": "2026-07-18T16:51:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers will be given case of deja vu vs. Bengals in Week 10",
-      "link": "https://sports.yahoo.com/articles/steelers-given-case-deja-vu-163559971.html",
-      "description": "The Steelers will get an unfortunate reminder of a painful loss in 2026....",
-      "pubDate": "2026-07-18T16:35:59+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is Nick Sirianni, Jalen Hurts, or Sean Mannion under the most pressure?",
-      "link": "https://sports.yahoo.com/articles/nick-sirianni-jalen-hurts-sean-163400546.html",
-      "description": "No one wants to think about the worst case scenario, obviously....",
-      "pubDate": "2026-07-18T16:34:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Darrell Jackson Jr’s job as a rookie with the Jets is to learn",
-      "link": "https://sports.yahoo.com/articles/darrell-jackson-jr-job-rookie-160000325.html",
-      "description": "Through the summer, we will be counting down the Jets roster player by player. We continue the series by discussing Darrell Jackson Jr. Name: Darrell Jackson Jr. Number: 78 Year Wi...",
-      "pubDate": "2026-07-18T16:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Biggest question mark for Cowboys offense heading in training camp",
-      "link": "https://sports.yahoo.com/articles/biggest-mark-cowboys-offense-heading-160000070.html",
-      "description": "What is the biggest question you have for the Cowboys entering camp?...",
-      "pubDate": "2026-07-18T16:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Survey results: NY Giants fans expect Isaiah Likely to be an impact player",
-      "link": "https://sports.yahoo.com/articles/survey-results-ny-giants-fans-160000779.html",
-      "description": "NY Giants fans think TE Isaiah Likely will be their biggest impact free agent...",
-      "pubDate": "2026-07-18T16:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "There's no word yet on in-season Hard Knocks",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/theres-no-word-yet-on-in-season-hard-knocks",
+      "description": "In 2024 and 2025, the selected division was known by June....",
+      "pubDate": "2026-07-19T13:58:18+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Makai Lemon says he'll be 100 percent for training camp after missing some offseason work",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/makai-lemon-says-hell-be-100-percent-for-training-camp-after-missing-some-offseason-work",
       "description": "A hamstring injury slowed Lemon down during OTAs, but he says he's feeling great now....",
@@ -1050,14 +1058,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cb-levi-wallace-announces-his-retirement",
       "description": "Veteran cornerback Levi Wallace did not play in the NFL after landing on Jacksonville's injured reserve list last summer and he won't be coming back to the field in 2026....",
       "pubDate": "2026-07-17T18:20:54+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Maxx Crosby hates the NFL's uniform policies: \"We've got to have more fun, Roger\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-hates-the-nfls-uniform-policies-weve-got-to-have-more-fun-roger",
-      "description": "Crosby said that if he could change one rule, it would be to ease off on the restrictions on players' shoes....",
-      "pubDate": "2026-07-17T08:05:43+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
