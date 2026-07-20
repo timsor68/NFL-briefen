@@ -1,11 +1,19 @@
 {
-  "generatedAt": "2026-07-19T23:34:53.370180+00:00",
+  "generatedAt": "2026-07-20T03:09:04.373481+00:00",
   "nfl": [
+    {
+      "title": "Put on a show, Ty Simpson",
+      "link": "https://sports.yahoo.com/articles/put-show-ty-simpson-013416572.html",
+      "description": "If all goes according to plan, we won’t see much of Rams QB Ty Simpson after training camp...",
+      "pubDate": "2026-07-20T01:34:16+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Cardinals executive to appeal ban for violating NFL's gambling policy",
       "link": "https://www.espn.com/nfl/story/_/id/49404894/cardinals-executive-appeal-ban-violating-nfl-gambling-policy",
-      "description": "Cardinals personnel executive Ryan Gold is appealing an indefinite suspension for violating the NFL's gambling policy, his attorney said.",
-      "pubDate": "2026-07-19T23:23:57Z",
+      "description": "Cardinals' personnel executive Ryan Gold is appealing an indefinite suspension for violating the NFL's gambling policy, his attorney said.",
+      "pubDate": "2026-07-20T01:31:09Z",
       "source": "ESPN NFL · Adam Schefter",
       "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322967_1296x729_16-9.jpg"
     },
@@ -14,6 +22,14 @@
       "link": "https://sports.yahoo.com/articles/brandon-aiyuk-sets-sights-49ers-232337070.html",
       "description": "The 49ers wide receiver has made it clear that he&#39;s done with the organization through a series of Instagram posts. Here&#39;s the latest....",
       "pubDate": "2026-07-19T23:23:37+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "George Kittle blasts NFL for World Cup surface at stadium",
+      "link": "https://sports.yahoo.com/articles/george-kittle-blasts-nfl-world-213638072.html",
+      "description": "49ers tight end George Kittle continues to voice his displeasure with the NFL for using turf instead of grass at its stadiums. During Sunday’s World Cup final between Spain and......",
+      "pubDate": "2026-07-19T21:36:38+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -384,25 +400,41 @@
       "pubDate": "2026-07-19T09:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Falcons vs Commanders for 6th yr in a row, this time at Landover in Wk 15 - 5 O’Clock Club",
-      "link": "https://sports.yahoo.com/articles/falcons-vs-commanders-6th-yr-090000237.html",
-      "description": "Hogs Haven looks at key factors that affect this Week 15 home game between the Falcons & Commanders...",
-      "pubDate": "2026-07-19T09:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Roob&#39;s Observations: If you think Jalen Hurts is the 17th-best QB in the NFL you&#39;re an idiot",
-      "link": "https://sports.yahoo.com/articles/think-jalen-hurts-17th-best-070000512.html",
-      "description": "Roob breaks down Jalen Hurts&#39; ranking, Dontayvion Wicks&#39; outlook and why Saquon Barkley is primed for a strong 2026....",
-      "pubDate": "2026-07-19T07:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "SEC Nation warms up for media days with preseason predictions",
+      "link": "https://www.espn.com/video/clip/_/id/49406540/sec-nation-warms-media-days-preseason-predictions",
+      "description": "Leading into the 2026 SEC Football Kickoff Media Days, the SEC Nation crew takes their picks for the SEC's best offense, most talented roster and more.",
+      "pubDate": "2026-07-20T01:38:07Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_SEC_NCF_Analysis_preszn_predictions_260719/dm_260719_SEC_NCF_Analysis_preszn_predictions_260719.jpg"
+    },
+    {
+      "title": "McGee Essay: State of the SEC",
+      "link": "https://www.espn.com/video/clip/_/id/49406360/state-sec",
+      "description": "ESPN's Ryan McGee previews decades of consistent dominance and looks to find the next champion as the SEC faces a three-year CFP National Championship drought.",
+      "pubDate": "2026-07-20T01:03:30Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_SEC_NCF_Feature_McGee_Essay_State_of_Sec_260719/dm_260719_SEC_NCF_Feature_McGee_Essay_State_of_Sec_260719.jpg"
+    },
+    {
+      "title": "Evaluating four SEC superstars that are must-see TV",
+      "link": "https://www.espn.com/video/clip/_/id/49406263/evaluating-four-sec-superstars-see-tv",
+      "description": "Each SEC Nation analyst selects which SEC star they believe are poised for an incredible year ahead of the 2026-2027 college football season.",
+      "pubDate": "2026-07-20T00:44:45Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_SEC_NCF_Analysis_Players_to_Watch_260719/dm_260719_SEC_NCF_Analysis_Players_to_Watch_260719.jpg"
+    },
+    {
+      "title": "Who will be the powerhouses of the SEC this season?",
+      "link": "https://www.espn.com/video/clip/_/id/49406137/who-powerhouses-sec-season",
+      "description": "SEC Nation analysts deliberate which SEC teams have what it takes to bring home a national title and end the conference's longest championship drought since 2002.",
+      "pubDate": "2026-07-20T00:31:03Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_SEC_NCF_Analysis_Great_Teams_in_Sec_260719/dm_260719_SEC_NCF_Analysis_Great_Teams_in_Sec_260719.jpg"
+    },
     {
       "title": "Sources: Michigan regents to discuss investigation Thursday",
       "link": "https://www.espn.com/college-sports/story/_/id/49346524/michigan-regents-discuss-investigation-thursday",
@@ -732,14 +764,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0602/r1667380_608x342_16-9.jpg"
     },
     {
-      "title": "Alabama lands 2028 top in-state QB prospect Kingston Preyear",
-      "link": "https://www.espn.com/college-football/story/_/id/49326580/alabama-lands-2028-top-state-qb-prospect-kingston-preyear",
-      "description": "Alabama has secured the commitment of top in-state QB prospect Kingston Preyear, the No. 3 pocket passer in ESPN's 2028 recruiting class.",
-      "pubDate": "2026-07-14T20:16:13Z",
-      "source": "ESPN College Football · Eli Lederman",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0627/r1680584_1296x729_16-9.jpg"
-    },
-    {
       "title": "Auburn, Aflac Kickoff Game announce NIL deal for Baylor opener",
       "link": "https://www.espn.com/college-football/story/_/id/49360380/auburn-aflac-kickoff-game-announce-nil-deal-baylor-opener",
       "description": "The Aflac Kickoff Game on Tuesday announced a name, image and likeness deal with Auburn leading up to the Tigers' game against Baylor on Sept. 5.",
@@ -778,40 +802,32 @@
       "pubDate": "2026-07-14T16:33:09Z",
       "source": "ESPN College Football · Max Olson",
       "thumbnail": "https://a.espncdn.com/photo/2026/0707/ncf_transfer-portal-rank_fc_16x9.jpg"
-    },
-    {
-      "title": "A timeline of Warde Manuel's tenure as Michigan athletic director",
-      "link": "https://www.espn.com/college-football/story/_/id/49351177/2026-michigan-warde-manuel-athletic-department-tenure-line-investigation",
-      "description": "Manuel's eventful decade in Ann Arbor has been marked by athletic successes and marred by controversy.",
-      "pubDate": "2026-07-14T15:58:24Z",
-      "source": "ESPN College Football · Paolo Uggetti",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0713/r1688754_608x342_16-9.jpg"
-    },
-    {
-      "title": "Sources: Tom Herman to join FSU as assistant to Mike Norvell",
-      "link": "https://www.espn.com/college-football/story/_/id/49353999/source-tom-herman-joins-florida-state-coaching-staff",
-      "description": "Florida State will hire former Texas, Houston and Florida Atlantic coach Tom Herman for this season, sources told ESPN's Adam Rittenberg Monday, and the 51-year-old who last coached in 2024 with the Owls, will become assistant to head coach Mike Norvell.",
-      "pubDate": "2026-07-14T00:27:30Z",
-      "source": "ESPN College Football · Adam Rittenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0713/r1688889_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Group of 11 athletes challenge new NCAA eligibility rules in suit",
-      "link": "https://www.espn.com/college-sports/story/_/id/49350890/group-11-athletes-challenge-new-ncaa-eligibility-rules-suit",
-      "description": "Eleven Division I athletes -- all who depleted their eligibility in the 2025-26 season, have filed a federal class action lawsuit alleging that the NCAA's new eligibility rules adversely affected their ability to extend their college careers.",
-      "pubDate": "2026-07-13T18:39:05Z",
-      "source": "ESPN College Football · Myron Medcalf",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0713/r1688703_600x400_3-2.jpg"
     }
   ],
   "insider": [
     {
       "title": "Cardinals executive to appeal ban for violating NFL's gambling policy",
       "link": "https://www.espn.com/nfl/story/_/id/49404894/cardinals-executive-appeal-ban-violating-nfl-gambling-policy",
-      "description": "Cardinals personnel executive Ryan Gold is appealing an indefinite suspension for violating the NFL's gambling policy, his attorney said.",
-      "pubDate": "2026-07-19T23:23:57Z",
+      "description": "Cardinals' personnel executive Ryan Gold is appealing an indefinite suspension for violating the NFL's gambling policy, his attorney said.",
+      "pubDate": "2026-07-20T01:31:09Z",
       "source": "ESPN NFL · Adam Schefter",
       "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322967_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Lawyer says Ryan Gold didn't know Cardinals' draft picks",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lawyer-says-ryan-gold-didnt-know-cardinals-draft-picks",
+      "description": "In a statement issued to PFT and others on Sunday, attorney Mike Caspino said the allegations of gambling violations against Cardinals director of college scouting Ryan Gold are \"b...",
+      "pubDate": "2026-07-20T00:02:21+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cam Skattebo doesn't care if people think he's \"brain-dead\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-doesnt-care-if-people-think-hes-brain-dead",
+      "description": "Giants running back Cam Skattebo attempted to show that his ankle is healed by attempting to perform a backflip on Saturday at Fanatics Fest....",
+      "pubDate": "2026-07-19T23:38:03+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Cardinals executive Ryan Gold's lawyer says gambling accusations are \"blatantly false\"",
@@ -1044,22 +1060,6 @@
       "pubDate": "2026-07-17T22:57:06Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2026/0119/r1602894_600x400_3-2.jpg"
-    },
-    {
-      "title": "Cowboys edge rusher Rashan Gary: I'm trying to be great",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-edge-rusher-rashan-gary-im-trying-to-be-great",
-      "description": "The Cowboys traded Micah Parsons to the Packers before the start of the 2025 season....",
-      "pubDate": "2026-07-17T21:29:39+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ravens agree to one-year deal with C Ethan Pocic",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-one-year-deal-with-c-ethan-pocic",
-      "description": "Free agent center Ethan Pocic has agreed to a one-year deal with the Ravens, Adam Schefter of ESPN reports....",
-      "pubDate": "2026-07-17T21:09:58+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "Robert Kraft on Mike Vrabel: \"No one is infallible\"",
