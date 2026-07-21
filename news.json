@@ -1,6 +1,166 @@
 {
-  "generatedAt": "2026-07-21T16:44:18.102066+00:00",
+  "generatedAt": "2026-07-21T18:13:05.057466+00:00",
   "nfl": [
+    {
+      "title": "Arizona gaming investigating alleged betting of Cards exec",
+      "link": "https://www.espn.com/nfl/story/_/id/49418741/arizona-gaming-investigating-alleged-betting-cards-exec",
+      "description": "The attorney for suspended Cardinals executive Ryan Gold told ESPN on Tuesday that he has filed an appeal with the NFL.",
+      "pubDate": "2026-07-21T18:10:18Z",
+      "source": "ESPN NFL · David Purdum",
+      "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322967_600x400_3-2.jpg"
+    },
+    {
+      "title": "Dolphins sign NFL tackling leader to extension amid rebuild",
+      "link": "https://sports.yahoo.com/articles/dolphins-sign-nfl-tackling-leader-180314505.html",
+      "description": "Jordyn Brooks and the Dolphins have agreed to a three-year, $51.3 million extension....",
+      "pubDate": "2026-07-21T18:03:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL Odds: Which Division Loser Can Go Worst To First?",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-division-loser-can-go-worst-first",
+      "description": "Which last-place division finisher has a chance to reverse course next season? See the odds for if a team can go worst to first.",
+      "pubDate": "2026-07-21T17:50:11+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/ward-721.jpg"
+    },
+    {
+      "title": "Future of the NFL: this is how the game is evolving with Domonique Foxworth",
+      "link": "https://sports.yahoo.com/nfl/article/future-of-the-nfl-this-is-how-the-game-is-evolving-with-domonique-foxworth-174842114.html",
+      "description": "Nate Tice sits down with Domonique Foxworth to cover how the NFL game is evolving over time, including the biggest issues the league faces entering the 2026 season....",
+      "pubDate": "2026-07-21T17:48:42+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "ESPN layoffs see wave of top talent depart including Cam Newton and Karl Ravech: updates",
+      "link": "https://sports.yahoo.com/articles/espn-hit-another-wave-layoffs-143653150.html",
+      "description": "On Monday, ESPN announce it was parting ways with NFL analyst Ryan Clark and additional cuts are expected among behind-the-scenes staff...",
+      "pubDate": "2026-07-21T17:47:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Giants’ knucklehead circus is the NFL’s most fascinating powderkeg",
+      "link": "https://sports.yahoo.com/articles/giants-knucklehead-circus-nfl-most-173346913.html",
+      "description": "Let the show begin....",
+      "pubDate": "2026-07-21T17:33:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Explaining the biggest difference between the 2025 and 2026 49ers",
+      "link": "https://sports.yahoo.com/articles/explaining-biggest-difference-between-2025-173232442.html",
+      "description": "Identifying the biggest changes year over year between the 49ers. For us, it’s obvious, and it won’t take long to notice...",
+      "pubDate": "2026-07-21T17:32:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills left tackle Dion Dawkins comes included in NFL’s Top 100 Players of 2026",
+      "link": "https://sports.yahoo.com/articles/bills-left-tackle-dion-dawkins-173048521.html",
+      "description": "The Bills left tackle makes the Top 100 list...",
+      "pubDate": "2026-07-21T17:30:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins, Jordyn Brooks agree to extension",
+      "link": "https://sports.yahoo.com/articles/dolphins-jordyn-brooks-agree-extension-172930356.html",
+      "description": "The Dolphins locked up another core piece as they continue their roster rebuild....",
+      "pubDate": "2026-07-21T17:29:30+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Not a Drill: Training Camp is Here!",
+      "link": "https://sports.yahoo.com/articles/not-drill-training-camp-172901851.html",
+      "description": "Things That Will Catch This Vikings Fan’s Eye...",
+      "pubDate": "2026-07-21T17:29:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins, All-Pro LB Jordyn Brooks reach 3-year, $51.3M extension",
+      "link": "https://www.espn.com/nfl/story/_/id/49417979/dolphins-all-pro-lb-jordyn-brooks-reach-3-year-513m-extension",
+      "description": "The Dolphins and linebacker Jordyn Brooks have agreed to a three-year, $51.3 million extension with $35 million guaranteed, agent Erik Burkhardt told ESPN's Adam Schefter.",
+      "pubDate": "2026-07-21T17:19:13Z",
+      "source": "ESPN NFL · Marcel Louis-Jacques",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692100_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Which NFL player can do the most to impact his legacy in 2026?",
+      "link": "https://sports.yahoo.com/articles/nfl-player-most-impact-legacy-171859126.html",
+      "description": "Which NFL player could benefit most from a Super Bowl win or an MVP trophy in 2026? Legacies defined this season....",
+      "pubDate": "2026-07-21T17:18:59+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tuesday Cheese Curds: Devonte Wyatt’s contract is a worthwhile risk",
+      "link": "https://sports.yahoo.com/articles/tuesday-cheese-curds-devonte-wyatt-171019462.html",
+      "description": "Like many Packers, Wyatt has been very good when healthy, but staying healthy has been the challenge....",
+      "pubDate": "2026-07-21T17:10:19+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Las Vegas Raiders undrafted free agents: Meet Jacob Clark",
+      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-undrafted-free-170800435.html",
+      "description": "Quarterback from Missouri State is looking to stick in program...",
+      "pubDate": "2026-07-21T17:08:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "&#39;Hard Knocks&#39; featuring Super Bowl champion Seahawks to debut Aug. 4",
+      "link": "https://sports.yahoo.com/nfl/article/hard-knocks-featuring-super-bowl-champion-seahawks-to-debut-aug-4-170257622.html",
+      "description": "It&#39;s the first time a reigning Super Bowl winner will appear on the show since 2001....",
+      "pubDate": "2026-07-21T17:02:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Aaron Rodgers shares photos with family after yearslong estrangement",
+      "link": "https://www.espn.com/nfl/story/_/id/49418281/aaron-rodgers-pittsburgh-steelers-reunited-family-photos-instagram",
+      "description": "Before reporting to training camp for the Pittsburgh Steelers, the four-time MVP got in some quality family time.",
+      "pubDate": "2026-07-21T17:00:52Z",
+      "source": "ESPN NFL · Tory Barron",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692123_608x342_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football buzz: Six backups to keep on your fantasy radar",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "description": "Mike Clay looks at six backups who could find fantasy relevance if things fall the right way.",
+      "pubDate": "2026-07-21T16:58:16Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692097_608x342_16-9.jpg"
+    },
+    {
+      "title": "Jonathan Greenard: My job is to help Nolan Smith, Jalyx Hunt continue to grow",
+      "link": "https://sports.yahoo.com/articles/jonathan-greenard-job-help-nolan-165059918.html",
+      "description": "The Eagles traded for veteran edge rusher Jonathan Greenard in April and signed him to a new four-year contract because they think he can make an impact for them on the field....",
+      "pubDate": "2026-07-21T16:50:59+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ryan Clark, Karl Ravech and Cam Newton exit ESPN in round of layoffs",
+      "link": "https://sports.yahoo.com/articles/ryan-clark-karl-ravech-exit-164046820.html",
+      "description": "Most of the cuts announced Tuesday are tied to ESPN&#39;s acquisition of the NFL Network....",
+      "pubDate": "2026-07-21T16:40:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Is it a make-or-break season for Shedeur Sanders? Stephen A., Canty weigh in",
+      "link": "https://www.espn.com/video/clip/_/id/49418294/is-make-break-season-shedeur-sanders-stephen-canty-weigh-in",
+      "description": "Is it a make-or-break season for Shedeur Sanders? Stephen A., Canty weigh in",
+      "pubDate": "2026-07-21T16:39:12Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/ss_20260721_123237746_3599251/ss_20260721_123237746_3599251.jpg"
+    },
     {
       "title": "The Rams starter under the most pressure to keep his job",
       "link": "https://sports.yahoo.com/articles/rams-starter-under-most-pressure-163809246.html",
@@ -10,12 +170,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Fantasy football buzz: Six backups to keep on your fantasy radar",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "description": "Mike Clay looks at six backups who could find fantasy relevance if things fall the right way.",
-      "pubDate": "2026-07-21T16:34:43Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692097_608x342_16-9.jpg"
+      "title": "Tom Pelissero had a year left on his NFLN deal",
+      "link": "https://sports.yahoo.com/articles/tom-pelissero-had-left-nfln-163738279.html",
+      "description": "When ESPN acquired NFL Network, frayed nerves at NFLN were calmed by the news that ESPN would honor the existing contracts with on-air personnel, and that ESPN would make a decisio...",
+      "pubDate": "2026-07-21T16:37:38+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "NFL news, live updates: Dolphins extend All-Pro LB Jordyn Brooks; Rookies report for training camp as offseason activities ramp up",
@@ -88,14 +248,6 @@
       "pubDate": "2026-07-21T16:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Dolphins, All-Pro LB Jordyn Brooks reach 3-year, $51.3M extension",
-      "link": "https://www.espn.com/nfl/story/_/id/49417979/dolphins-all-pro-lb-jordyn-brooks-reach-3-year-513m-extension",
-      "description": "The Dolphins and linebacker Jordyn Brooks have agreed to a three-year, $51.3 million extension with $35 million guaranteed, agent Erik Burkhardt told ESPN's Adam Schefter.",
-      "pubDate": "2026-07-21T15:58:48Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692100_1296x729_16-9.jpg"
     },
     {
       "title": "Dolphins reportedly sign All-Pro linebacker Jordyn Brooks to 3-year, $51.3 million extension",
@@ -226,7 +378,7 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0715/r1689587_608x342_16-9.jpg"
     },
     {
-      "title": "NFL insider Tom Pelissero among ESPN layoffs, per multiple reports",
+      "title": "NFL insider expected to be Tom Pelissero among ESPN layoffs",
       "link": "https://sports.yahoo.com/articles/nfl-insider-tom-pelissero-among-144654310.html",
       "description": "ESPN is undergoing another round of layoffs. Among them is NFL insider Tom Pelissero, who joined the company as part of the NFL Media acquisition....",
       "pubDate": "2026-07-21T14:46:54+00:00",
@@ -248,161 +400,105 @@
       "pubDate": "2026-07-21T14:44:39+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/all-teams-16x9-nfl.jpg"
-    },
-    {
-      "title": "Bengals have 2nd best QB situation in NFL, per CBS analyst",
-      "link": "https://sports.yahoo.com/articles/bengals-2nd-best-qb-situation-144313915.html",
-      "description": "And the Browns have the absolute worst....",
-      "pubDate": "2026-07-21T14:43:13+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Did the Packers' offense get better, worse or remain the same?",
-      "link": "https://www.espn.com/nfl/story/_/id/49410497/green-bay-packers-better-worse-same-offense-positions",
-      "description": "When Green Bay's offense clicked, it was one of the best, but it was mediocre as a whole, so where does it stand now?",
-      "pubDate": "2026-07-21T14:39:11Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0720/r1691850_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Pittsburgh Steelers Fantasy Preview: Aaron Rodgers saddles up for one last ride",
-      "link": "https://sports.yahoo.com/articles/2026-pittsburgh-steelers-fantasy-preview-143440045.html",
-      "description": "DK Metcalf, Jaylen Warren, Michael Pittman Jr., and Rico Dowdle join Aaron Rodgers on his retirement tour this season....",
-      "pubDate": "2026-07-21T14:34:40+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Stephen A. dismisses Dak's ‘Super Bowl or bust’ goal for Cowboys",
-      "link": "https://www.espn.com/video/clip/_/id/49417366/stephen-dismisses-dak-super-bowl-bust-goal-cowboys",
-      "description": "Stephen A. dismisses Dak's ‘Super Bowl or bust’ goal for Cowboys",
-      "pubDate": "2026-07-21T14:31:22Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/ss_20260721_102018397_3599136624/ss_20260721_102018397_3599136624.jpg"
-    },
-    {
-      "title": "Saints can’t afford to wait on Chris Olave’s contract extension",
-      "link": "https://sports.yahoo.com/articles/saints-t-afford-wait-chris-143000632.html",
-      "description": "With several receivers signing blockbuster deals this offseason, New Orleans should move quickly....",
-      "pubDate": "2026-07-21T14:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is age really that much of a concern for the 49ers?",
-      "link": "https://sports.yahoo.com/articles/age-really-much-concern-49ers-143000411.html",
-      "description": "Albert Breer flagged the 49ers&#39; age as a concern. Old or young, they did keep winning last year....",
-      "pubDate": "2026-07-21T14:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What is Joe Burrow's 'doomsday scenario' with the Bengals?",
-      "link": "https://www.espn.com/video/clip/_/id/49417353/what-joe-burrow-doomsday-scenario-bengals",
-      "description": "What is Joe Burrow's 'doomsday scenario' with the Bengals?",
-      "pubDate": "2026-07-21T14:20:24Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/ss_20260721_101622962_3599133/ss_20260721_101622962_3599133.jpg"
-    },
-    {
-      "title": "2025 Slot-Wide Stats for Defenses: Chargers Strength, Patriots Surprise Weakness",
-      "link": "https://sports.yahoo.com/articles/2025-slot-wide-stats-defenses-141938101.html",
-      "description": "As training camps open, it’s time for us to continue our offseason statistical reviews! Don&#39;t forget that you will find a lot of these stats in the new FTN Football Almanac 202...",
-      "pubDate": "2026-07-21T14:19:38+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Yay or nay: Jets unveil their new &#39;White Out&#39; alternate uniforms",
-      "link": "https://sports.yahoo.com/nfl/article/yay-or-nay-jets-unveil-their-new-white-out-alternate-uniforms-141826002.html",
-      "description": "The Jets will have a &quot;White Out&quot; game on Sept. 20....",
-      "pubDate": "2026-07-21T14:18:26+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jets to unveil white helmets in 2026 home opener",
-      "link": "https://sports.yahoo.com/articles/jets-debut-white-helmets-2026-141820186.html",
-      "description": "Jets fans will get their first chance to see their team in Week 2 of the 2026 season and they&#39;ll also get a look at the team&#39;s new helmets....",
-      "pubDate": "2026-07-21T14:18:20+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL training camp: Top 5 storylines as teams report for duty",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-training-camp-top-5-storylines-as-teams-report-for-duty-141305404.html",
-      "description": "Taking a look at some of the bigger storylines as NFL teams get set to open training camps....",
-      "pubDate": "2026-07-21T14:13:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Half-Decade Team: Patrick Mahomes, Myles Garrett Headline Star-Studded Group",
-      "link": "https://www.foxsports.com/stories/nfl/2020s-half-decade-team-mahomes-garrett-headline-star-studded-group",
-      "description": "Which players have been the league's best at each position in the 2020s to this point? We reveal our NFL Half-Decade Team.",
-      "pubDate": "2026-07-21T14:10:36+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/artboard-1-7-1.jpg"
-    },
-    {
-      "title": "Another good sign for Raiders’ defense",
-      "link": "https://sports.yahoo.com/articles/another-good-sign-raiders-defense-140400460.html",
-      "description": "This is something for Rob Leonard to build on...",
-      "pubDate": "2026-07-21T14:04:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots O-line deep dive: Right guard is in able hands, for now",
-      "link": "https://sports.yahoo.com/articles/patriots-o-line-deep-dive-140000849.html",
-      "description": "Our second installment in a five-part look at the Patriots’ 2026 offensive line....",
-      "pubDate": "2026-07-21T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The 20 new players on the Seahawks roster who weren’t on the Super Bowl team",
-      "link": "https://sports.yahoo.com/articles/20-players-seahawks-roster-weren-140000608.html",
-      "description": "See which Seahawks are new to the team after not being a part of either the active roster or practice squad for the 2025 Super Bowl season....",
-      "pubDate": "2026-07-21T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mark Bullock details Commanders new 3-safety defensive looks for 2026 - Daily Slop",
-      "link": "https://sports.yahoo.com/articles/mark-bullock-details-commanders-3-140000499.html",
-      "description": "Nick Cross adds what the Commanders need to implement new Daronte Jones defense in ‘26...",
-      "pubDate": "2026-07-21T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ryan Clark layoff influenced by argument with Peter Schrager, per report",
-      "link": "https://sports.yahoo.com/articles/ryan-clark-layoff-influenced-argument-135300472.html",
-      "description": "Ryan Clark was laid off from ESPN, and a report indicated an on-air confrontation with Peter Schrager played a part in ESPN&#39;s decision....",
-      "pubDate": "2026-07-21T13:53:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chargers Daily Links: T-minus 50 days to 2026 regular season kickoff",
-      "link": "https://sports.yahoo.com/articles/chargers-daily-links-t-minus-135000776.html",
-      "description": "Your source for all Chargers and NFL news from around the web....",
-      "pubDate": "2026-07-21T13:50:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots scouting report: Caleb Lomu is the future at right tackle",
-      "link": "https://sports.yahoo.com/articles/patriots-scouting-report-caleb-lomu-134728749.html",
-      "description": "Previewing the Patriots offensive tackle heading into his first NFL season....",
-      "pubDate": "2026-07-21T13:47:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Can Vandy pull off another successful season without their X-factor?",
+      "link": "https://www.espn.com/video/clip/_/id/49418632/can-vandy-pull-another-successful-season-their-x-factor",
+      "description": "The SEC Now crew describes the anticipation surrounding the starting QB position as they discuss the Commodores' potential of having another successful season without Diego Pavia.",
+      "pubDate": "2026-07-21T18:05:05Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Analysis_Vanderbilt_football_ana844/dm_260721_SEC_NCF_Analysis_Vanderbilt_football_ana844.jpg"
+    },
+    {
+      "title": "Clark Lea on Vanderbilt's mindset: 'Progress is not a destination'",
+      "link": "https://www.espn.com/video/clip/_/id/49418790/progress-not-destination",
+      "description": "After putting together the most wins in a season in the Commodores' history, Lea insists that this is only the beginning and states that this is a new team looking to build their own legacy.",
+      "pubDate": "2026-07-21T18:03:20Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Presser_Lea_Vandy_260721/dm_260721_SEC_NCF_Presser_Lea_Vandy_260721.jpg"
+    },
+    {
+      "title": "Alex Golesh's goal to return Auburn football to national relevance",
+      "link": "https://www.espn.com/college-football/story/_/id/49418733/alex-golesh-goal-return-auburn-football-national-relevance",
+      "description": "Alex Golesh, Auburn's fourth coach since 2019, said he knows he's on the clock as he tries to sell recruits on a vision for quickly returning Auburn to national relevance.",
+      "pubDate": "2026-07-21T18:00:09Z",
+      "source": "ESPN College Football · David Hale",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692141_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Linebacker Raylen Wilson explains why picking Georgia was so easy",
+      "link": "https://www.espn.com/video/clip/_/id/49418735/linebacker-raylen-wilson-explains-why-picking-georgia-was-easy",
+      "description": "Wilson joins SEC Network's Peter Burns to discuss what he is excited for this upcoming season, players that inspired him, and staying hydrated.",
+      "pubDate": "2026-07-21T17:58:48Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Interview_Wilson_on_SECN_260721/dm_260721_SEC_NCF_Interview_Wilson_on_SECN_260721.jpg"
+    },
+    {
+      "title": "Auburn's Byrum Brown on finding confidence in working hard every day",
+      "link": "https://www.espn.com/video/clip/_/id/49418630/auburn-byrum-brown-finding-confidence-working-hard-every-day",
+      "description": "Brown explains how putting in the work daily has propelled the Tigers through a strong offseason and highlights how the outside noise does not bother him.",
+      "pubDate": "2026-07-21T17:40:30Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Interview_Brown_on_set_260721/dm_260721_SEC_NCF_Interview_Brown_on_set_260721.jpg"
+    },
+    {
+      "title": "Georgia RB Dante Dowdell hospitalized after ATV accident",
+      "link": "https://www.espn.com/college-football/story/_/id/49418321/georgia-rb-dante-dowdell-hospitalized-atv-accident",
+      "description": "Georgia running back Dante Dowdell was involved in an ATV accident and is being treated for serious injuries at a hospital in Atlanta, Bulldogs coach Kirby Smart confirmed to ESPN on Tuesday.",
+      "pubDate": "2026-07-21T17:30:05Z",
+      "source": "ESPN College Football · Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692119_600x400_3-2.jpg"
+    },
+    {
+      "title": "Why LaNorris Sellers and the Gamecocks can make some noise in the SEC",
+      "link": "https://www.espn.com/video/clip/_/id/49418463/why-lanorris-sellers-gamecocks-make-some-noise-sec",
+      "description": "With a new OC in Kendal Briles, the SEC Now crew emphasizes the potential impact of a maturing Sellers as the Gamecocks return 76% of their offensive production, the second-most in the FBS.",
+      "pubDate": "2026-07-21T17:00:20Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Analysis_Scar_260721/dm_260721_SEC_NCF_Analysis_Scar_260721.jpg"
+    },
+    {
+      "title": "Kirby Smart explains the Georgia standard, emphasizes roster depth",
+      "link": "https://www.espn.com/video/clip/_/id/49418395/kirby-smart-explains-georgia-standard-emphasizes-roster-depth",
+      "description": "Smart touches on Gunner Stockton's growth as a leader while detailing the returners coming back to Athens to avenge last year's CFP loss after returning 68% of their total production.",
+      "pubDate": "2026-07-21T16:57:00Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Interview_Smart_Uga_Desk_260721/dm_260721_SEC_NCF_Interview_Smart_Uga_Desk_260721.jpg"
+    },
+    {
+      "title": "Dvoracek on Georgia's Stockton: 'The dude's a gamer and a baller'",
+      "link": "https://www.espn.com/video/clip/_/id/49418393/dude-gamer-baller",
+      "description": "Dusty Dvoracek analyzes QB Gunner Stockton's value on the Bulldogs roster as fellow SEC Network analyst Gene Chizik breaks down what makes him such an invaluable asset for Kirby Smart.",
+      "pubDate": "2026-07-21T16:53:17Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Analysis_Stockton_Georgia_football_analysis_260721/dm_260721_SEC_NCF_Analysis_Stockton_Georgia_football_analysis_260721.jpg"
+    },
+    {
+      "title": "Golesh deems transfer QB Brown 'one of the best in the country'",
+      "link": "https://www.espn.com/video/clip/_/id/49418329/golesh-deems-transfer-qb-brown-one-best-country",
+      "description": "Alex Golesh takes the podium at 2026 SEC Football Media Days and breathes confidence into his quarterback Byrum Brown, who came over with Golesh from South Florida.",
+      "pubDate": "2026-07-21T16:37:22Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Presser_Golesh_podium1_260721/dm_260721_SEC_NCF_Presser_Golesh_podium1_260721.jpg"
+    },
+    {
+      "title": "Can Georgia return to the top of CFB?",
+      "link": "https://www.espn.com/video/clip/_/id/49418260/can-georgia-return-top-cfb",
+      "description": "SEC Now revisits the Bulldogs' disappointing season last year despite winning the SEC Championship and explains what they need to improve on to claim a NCAA Championship.",
+      "pubDate": "2026-07-21T16:29:17Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Analysis_Georgia_260721/dm_260721_SEC_NCF_Analysis_Georgia_260721.jpg"
+    },
+    {
+      "title": "Auburn's Alex McPherson on how he's kicking off his SEC Media Days debut",
+      "link": "https://www.espn.com/video/clip/_/id/49418226/auburn-alex-mcpherson-how-kicking-sec-media-days-debut",
+      "description": "McPherson describes what makes attending 2026 SEC Football Media Days so special as a kicker and discusses how Alex Golesh is upholding the Tigers' standard.",
+      "pubDate": "2026-07-21T16:23:00Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Interview_PB_Alex_McPherson_interview_260721/dm_260721_SEC_NCF_Interview_PB_Alex_McPherson_interview_260721.jpg"
+    },
     {
       "title": "Why superstar QBs Chambliss, Reed will deliver a season to remember",
       "link": "https://www.espn.com/video/clip/_/id/49417976/why-superstar-qbs-chambliss-reed-deliver-season-remember",
@@ -506,14 +602,6 @@
       "pubDate": "2026-07-20T23:11:30+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/missouri1.jpg"
-    },
-    {
-      "title": "Sankey: SEC breakaway talk over college bill 'honest conversations'",
-      "link": "https://www.espn.com/college-football/story/_/id/49410123/sankey-sec-breakaway-talk-college-bill-honest-conversations",
-      "description": "SEC commissioner Greg Sankey said he continues to have conversations with congressional leaders about the Protect College Sports Act but stopped short of saying whether all the conference's suggested changes need to be implemented for it to support it.",
-      "pubDate": "2026-07-20T22:55:57Z",
-      "source": "ESPN College Football · Andrea Adelson",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1211/r1588268_600x400_3-2.jpg"
     },
     {
       "title": "Heather Dinich: 'Very real' chance SEC could break away from NCAA",
@@ -714,97 +802,41 @@
       "pubDate": "2026-07-20T17:34:14Z",
       "source": "ESPN College Football · Paolo Uggetti",
       "thumbnail": "https://a.espncdn.com/photo/2026/0713/r1688754_608x342_16-9.jpg"
-    },
-    {
-      "title": "Brent Venables explains how the Sooners are more prepared this year",
-      "link": "https://www.espn.com/video/clip/_/id/49410935/brent-venables-explains-how-sooners-more-prepared-year",
-      "description": "Venables joins SEC Now and details his increased confidence in Oklahoma with returning starters who can boost the run game and the more experienced QB John Mateer.",
-      "pubDate": "2026-07-20T17:24:40Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Venables_on_SET_OU_2_260720/dm_260720_SEC_NCF_Interview_Venables_on_SET_OU_2_260720.jpg"
-    },
-    {
-      "title": "What Michigan AD Warde Manuel's Departure Means For The Wolverines",
-      "link": "https://www.foxsports.com/stories/college-football/michigan-warde-manuel-sherrone-moore-harbaugh",
-      "description": "Warde Manuel is stepping down as Michigan's athletics director, so here's a look at how that could impact the Wolverines, especially football and basketball.",
-      "pubDate": "2026-07-20T17:16:18+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/2353a960-16x9-5.jpg"
-    },
-    {
-      "title": "Missouri's Ahmad Hardy healed from gunshot wound; status still TBD",
-      "link": "https://www.espn.com/college-football/story/_/id/49410596/missouri-ahmad-hardy-healed-gunshot-wound-return-date-unclear",
-      "description": "Missouri RB Ahmad Hardy has been cleared and is expected to make a full recovery from a gunshot wound to the leg, but his timetable for a return remains unclear.",
-      "pubDate": "2026-07-20T16:51:16Z",
-      "source": "ESPN College Football · Andrea Adelson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0512/r1657317_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Evaluating Ahmad Hardy's impact on Mizzou ahead of his return to action",
-      "link": "https://www.espn.com/video/clip/_/id/49410672/evaluating-ahmad-hardy-impact-mizzou-ahead-return-action",
-      "description": "After Coach Drinkwitz spilled the news that Hardy will be available this season, SEC Nation debates the impact he will make, claiming he will return to his spot at the top of NCAA running backs.",
-      "pubDate": "2026-07-20T16:45:43Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Analysis_Hardy_Update_260720/dm_260720_SEC_NCF_Analysis_Hardy_Update_260720.jpg"
-    },
-    {
-      "title": "Eliah Drinkwitz outlines Mizzou's starters and 'something to prove' mentality",
-      "link": "https://www.espn.com/video/clip/_/id/49410555/eliah-drinkwitz-outlines-mizzou-starters-prove-mentality",
-      "description": "Drinkwitz explains star RB Ahmad Hardy's rehab and overviews the Tigers' depth at each position while insisting on the motivation his squad has to make some noise in the SEC.",
-      "pubDate": "2026-07-20T16:20:09Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Drink_Presser_260720/dm_260720_SEC_NCF_Interview_Drink_Presser_260720.jpg"
-    },
-    {
-      "title": "Taylor Wein and the Sooners going into 2026 comfortable and confident",
-      "link": "https://www.espn.com/video/clip/_/id/49410380/taylor-wein-sooners-going-2026-comfortable-confident",
-      "description": "Wein joins SEC This Morning at the 2026 SEC Football Media Days to discuss how strong preparation and camaraderie has Oklahoma ready to take on anyone anywhere.",
-      "pubDate": "2026-07-20T15:33:52Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Wein_SECTM_260720/dm_260720_SEC_NCF_Interview_Wein_SECTM_260720.jpg"
-    },
-    {
-      "title": "Michigan AD Warde Manuel to step down at end of calendar year",
-      "link": "https://www.espn.com/college-sports/story/_/id/49409686/michigan-ad-warde-manuel-step-end-calendar-year",
-      "description": "Warde Manuel will step down as Michigan AD at the end of the calendar year, the school announced as part of the conclusion of an investigation into the culture of athletics at the university.",
-      "pubDate": "2026-07-20T15:29:19Z",
-      "source": "ESPN College Football · Dan Wetzel and Pete Thamel",
-      "thumbnail": "https://a.espncdn.com/photo/2022/0125/r965834_600x400_3-2.jpg"
-    },
-    {
-      "title": "OU's Brent Venables on SEC: 'This is a line of scrimmage league'",
-      "link": "https://www.espn.com/video/clip/_/id/49410327/line-scrimmage-league",
-      "description": "Venables gives insight on how the Sooners will prioritize their physical play on the offensive and defensive lines as well as describing how they use the outside noise to motivate them.",
-      "pubDate": "2026-07-20T15:24:32Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Presser_Venables_OU_260720/dm_260720_SEC_NCF_Presser_Venables_OU_260720.jpg"
-    },
-    {
-      "title": "Eliah Drinkwitz previews Mizzou's potential, commitment to development",
-      "link": "https://www.espn.com/video/clip/_/id/49410297/eliah-drinkwitz-previews-mizzou-potential-commitment-development",
-      "description": "Drinkwitz excitedly discusses Ole Miss transfer QB Austin Simmons' arm talent, while addressing the returners on defense and explains how the Tigers look to develop their players.",
-      "pubDate": "2026-07-20T15:21:08Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Drink_On_Set_260720/dm_260720_SEC_NCF_Interview_Drink_On_Set_260720.jpg"
-    },
-    {
-      "title": "Greg Sankey: 'We believe we are the best conference in college football'",
-      "link": "https://www.espn.com/video/clip/_/id/49410006/believe-best-conference-college-football",
-      "description": "Commissioner Sankey explains how the SEC has built the most challenging conference with a nine-game conference schedule fueled by passionate play on the field.",
-      "pubDate": "2026-07-20T14:42:06Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Presser_Sankey_2_podium_260720/dm_260720_SEC_NCF_Presser_Sankey_2_podium_260720.jpg"
-    },
-    {
-      "title": "Which SEC coach has the most pressure on him ahead of the season?",
-      "link": "https://www.espn.com/video/clip/_/id/49409992/which-sec-coach-most-pressure-ahead-season",
-      "description": "SEC Nation's analysts debate on which coach is under the brightest lights ahead of the season and could find themselves in trouble if they don't execute.",
-      "pubDate": "2026-07-20T14:40:43Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Analysis_New_Coach_Most_Pressure_260720/dm_260720_SEC_NCF_Analysis_New_Coach_Most_Pressure_260720.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "Arizona gaming investigating alleged betting of Cards exec",
+      "link": "https://www.espn.com/nfl/story/_/id/49418741/arizona-gaming-investigating-alleged-betting-cards-exec",
+      "description": "The attorney for suspended Cardinals executive Ryan Gold told ESPN on Tuesday that he has filed an appeal with the NFL.",
+      "pubDate": "2026-07-21T18:10:18Z",
+      "source": "ESPN NFL · David Purdum",
+      "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322967_600x400_3-2.jpg"
+    },
+    {
+      "title": "John Harbaugh on Cam Skattebo backflip: \"Dude, at least stick it\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-cam-skattebo-backflip-dude-at-least-stick-it",
+      "description": "Giants running back Cam Skattebo was tempting fate when he decided to do a backflip at Fanatics Fest over the weekend....",
+      "pubDate": "2026-07-21T16:59:52+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cam Newton is laid off by ESPN, too",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-newton-is-laid-off-by-espn-too",
+      "description": "The latest round of ESPN layoffs is impacting plenty of recognizable names — including a former NFL MVP....",
+      "pubDate": "2026-07-21T16:57:09+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jonathan Greenard: My job is to help Nolan Smith, Jalyx Hunt continue to grow",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jonathan-greenard-my-job-is-to-help-nolan-smith-jalyx-hunt-continue-to-grow",
+      "description": "The Eagles traded for veteran edge rusher Jonathan Greenard in April and signed him to a new four-year contract because they think he can make an impact for them on the field....",
+      "pubDate": "2026-07-21T16:50:59+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Tom Pelissero had a year left on his NFLN deal",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tom-pelissero-had-a-year-left-on-his-nfln-deal",
@@ -1014,30 +1046,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Don Shula's career win total doesn't include two Playoff Bowl victories (it should)",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/don-shulas-career-win-total-doesnt-include-two-playoff-bowl-victories-it-should",
-      "description": "If/when someone seriously challenges Hall of Fame head coach Don Shula's all-time win record, the magic number shouldn't be 347....",
-      "pubDate": "2026-07-20T18:47:03+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ravens expect LB Teddye Buchanan to return from torn ACL \"sooner than later\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-expect-lb-teddye-buchanan-to-return-from-torn-acl-sooner-than-later",
-      "description": "Ravens General Manager Eric DeCosta had a positive update about linebacker Teddye Buchanan last week....",
-      "pubDate": "2026-07-20T18:43:24+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots re-sign DT Isaiah Iton",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-re-sign-dt-isaiah-iton",
-      "description": "The Patriots have brought back a young defensive player....",
-      "pubDate": "2026-07-20T18:21:00+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Sound Smart: 4 Offseason Observations Ahead Of NFL Training Camp",
       "link": "https://www.foxsports.com/stories/nfl/sound-smart-nfl-offseason-jalen-hurts-rams-aj-brown-lamar-jackson",
       "description": "Key pre-camp analysis on the Jalen Hurts/QB Wins debate, the Rams' potential Dream Team and the hidden value of the A.J. Brown trade.",
@@ -1084,30 +1092,6 @@
       "pubDate": "2026-07-17T22:57:06Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2026/0119/r1602894_600x400_3-2.jpg"
-    },
-    {
-      "title": "Field Yates' fantasy football PPR rankings: Top 160 for 2026",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
-      "description": "Field provides his latest rankings for the upcoming season, which will be updated throughout the offseason.",
-      "pubDate": "2026-07-16T13:19:20Z",
-      "source": "ESPN NFL · Field Yates",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0112/r1599486_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Eric Karabell's 2026 fantasy football flex and superflex rankings",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/47539664/2026-fantasy-football-rankings-flex-superflex-ppr-eric-karabell",
-      "description": "A look at the top 200 QBs, RBs, WRs and TEs for 2026 drafts, updated throughout the fantasy football offseason.",
-      "pubDate": "2026-07-16T13:19:00Z",
-      "source": "ESPN NFL · Eric Karabell",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1218/r1591212_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Mike Clay's fantasy football dynasty and rookie rankings",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/15698900/mike-clay-dynasty-rookie-fantasy-football-rankings",
-      "description": "Mike Clay offers his updated fantasy rankings for dynasty leagues and for the 2026 rookie class.",
-      "pubDate": "2026-07-16T13:18:37Z",
-      "source": "ESPN NFL · Mike Clay",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1215/r1589737_1296x729_16-9.jpg"
     },
     {
       "title": "NFL Offseason Check-In: Should the Bucs Give Baker Mayfield the Bag?",
