@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T06:23:46.022546+00:00",
+  "generatedAt": "2026-07-21T09:13:58.517978+00:00",
   "nfl": [
     {
       "title": "NFL uses free speech law in effort to defeat Jon Gruden&#39;s lawsuit",
@@ -30,6 +30,14 @@
       "link": "https://sports.yahoo.com/articles/ny-giants-news-expect-darius-040000546.html",
       "description": "New York Giants headlines for Tuesday...",
       "pubDate": "2026-07-21T04:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Aaron Rodgers shares ‘bonding’ week with estranged family after years of drama",
+      "link": "https://sports.yahoo.com/articles/aaron-rodgers-shares-bonding-week-034509080.html",
+      "description": "Aaron Rodgers&#39; family feud appears to be softening....",
+      "pubDate": "2026-07-21T03:45:09+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -392,25 +400,9 @@
       "pubDate": "2026-07-20T17:59:31+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Sound Smart: 4 Offseason Observations Ahead Of NFL Training Camp",
-      "link": "https://www.foxsports.com/stories/nfl/sound-smart-nfl-offseason-jalen-hurts-rams-aj-brown-lamar-jackson",
-      "description": "Key pre-camp analysis on the Jalen Hurts/QB Wins debate, the Rams' potential Dream Team and the hidden value of the A.J. Brown trade.",
-      "pubDate": "2026-07-20T17:49:05+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/artboard-1-12-1.jpg"
     }
   ],
   "ncaa": [
-    {
-      "title": "SEC Commissioner Greg Sankey Confirms NCAA Breakaway Discussions Are 'Real'",
-      "link": "https://www.foxsports.com/stories/college-football/sec-commissioner-greg-sankey-confirms-ncaa-breakaway-discussions-real",
-      "description": "Southeastern Conference Commissioner Greg Sankey said Monday that leaders of the powerhouse league — some of them frustrated over the changes upending their industry — are having “real\" conversations about breaking away from the rest of college sports, though that is not the preferred solution.",
-      "pubDate": "2026-07-20T23:51:18+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/sankeyfront.jpg"
-    },
     {
       "title": "Josh Heupel confident in Tennessee offense with QB options",
       "link": "https://www.espn.com/college-football/story/_/id/49413162/josh-heupel-confident-tennessee-offense-qb-options",
@@ -418,14 +410,6 @@
       "pubDate": "2026-07-20T23:19:55Z",
       "source": "ESPN College Football · Pete Thamel",
       "thumbnail": "https://a.espncdn.com/photo/2026/0720/r1691926_1024x683_3-2.jpg"
-    },
-    {
-      "title": "Mizzou’s Eli Drinkwitz Addresses Gun Violence As Ahmad Hardy Cleared For Return",
-      "link": "https://www.foxsports.com/stories/college-football/mizzous-eli-drinkwitz-addresses-gun-violence-ahmad-hardy-cleared-return",
-      "description": "Missouri football coach Eli Drinkwitz revealed Monday that running back Ahmad Hardy, who suffered a gunshot wound to his leg in May, has been medically cleared to prepare for the upcoming season and used the occasion to offer a comment about gun violence in America.",
-      "pubDate": "2026-07-20T23:11:30+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/missouri1.jpg"
     },
     {
       "title": "Sankey: SEC breakaway talk over college bill 'honest conversations'",
@@ -524,14 +508,6 @@
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Desean_Bishop_Ut_260720/dm_260720_SEC_NCF_Interview_Desean_Bishop_Ut_260720.jpg"
     },
     {
-      "title": "College Football All-Century Team: Vince Young Or Tim Tebow At QB? Who Gets Nod At WR?",
-      "link": "https://www.foxsports.com/stories/college-football/college-football-all-century-team-vince-young-tim-tebow-qb-who-gets-nod-wr",
-      "description": "Who are the best players at each position in college football since the turn of the century? Joel Klatt named his All-Century Team.",
-      "pubDate": "2026-07-20T20:41:32+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/s2ia2ysfjny2wioh_1.jpg"
-    },
-    {
       "title": "McGee Essay: 2026 will be the year of the quarterback in the SEC",
       "link": "https://www.espn.com/video/clip/_/id/49412433/2026-year-quarterback-sec",
       "description": "SEC Network's Ryan McGee whips around the conference to highlight the biggest and brightest stars in college football ready to lead their teams to victory.",
@@ -554,14 +530,6 @@
       "pubDate": "2026-07-20T19:38:43Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Presser_Heupel_Presser_260720/dm_260720_SEC_NCF_Presser_Heupel_Presser_260720.jpg"
-    },
-    {
-      "title": "Despite Michigan's Titles, Warde Manuel Is Being Held Accountable For Scandalous Tenure",
-      "link": "https://www.foxsports.com/stories/college-football/michigan-warde-manuel-sherrone-moore-harbaugh-stalions",
-      "description": "Michigan's AD Warde Manuel will be out at the end of the year, and that's the right move for the Wolverines.",
-      "pubDate": "2026-07-20T19:07:30+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/16x9michigan-4.jpg"
     },
     {
       "title": "UK's Kenny Minchey explains why the SEC means more, making Lexington home",
@@ -642,14 +610,6 @@
       "pubDate": "2026-07-20T17:24:40Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Venables_on_SET_OU_2_260720/dm_260720_SEC_NCF_Interview_Venables_on_SET_OU_2_260720.jpg"
-    },
-    {
-      "title": "What Michigan AD Warde Manuel's Departure Means For The Wolverines",
-      "link": "https://www.foxsports.com/stories/college-football/michigan-warde-manuel-sherrone-moore-harbaugh",
-      "description": "Warde Manuel is stepping down as Michigan's athletics director, so here's a look at how that could impact the Wolverines, especially football and basketball.",
-      "pubDate": "2026-07-20T17:16:18+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/2353a960-16x9-5.jpg"
     },
     {
       "title": "Missouri's Ahmad Hardy healed from gunshot wound; status still TBD",
@@ -748,14 +708,6 @@
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/ss_20260720_095343991_3598257596/ss_20260720_095343991_3598257596.jpg"
     },
     {
-      "title": "Michigan AD Warde Manuel Agrees To Buyout, Will Step Down At End Of 2026",
-      "link": "https://www.foxsports.com/stories/college-football/michigan-athletic-director-buyout-stepping-down",
-      "description": "The University of Michigan and embattled athletic director Warde Manuel have agreed to a buyout of the remaining years on his contract.",
-      "pubDate": "2026-07-20T14:04:41+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/manuelh1.jpg"
-    },
-    {
       "title": "Finebaum: It is title or bust for Texas this season",
       "link": "https://www.espn.com/video/clip/_/id/49409569/title-bust-texas-season",
       "description": "Finebaum: It is title or bust for Texas this season ",
@@ -802,9 +754,65 @@
       "pubDate": "2026-07-20T00:31:03Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0719/dm_260719_SEC_NCF_Analysis_Great_Teams_in_Sec_260719/dm_260719_SEC_NCF_Analysis_Great_Teams_in_Sec_260719.jpg"
+    },
+    {
+      "title": "No. 1 WR recruit Monshun Sales commits to Indiana on McAfee's show",
+      "link": "https://www.espn.com/video/clip/_/id/49385060/no-1-wr-recruit-monshun-sales-commits-indiana-mcafee-show",
+      "description": "No. 1 WR recruit Monshun Sales commits to Indiana on McAfee's show",
+      "pubDate": "2026-07-18T04:21:00Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0717/ss_20260717_125226225_3595633/ss_20260717_125226225_3595633.jpg"
+    },
+    {
+      "title": "SMU coach: Duke should have made CFP, not JMU",
+      "link": "https://www.espn.com/college-football/story/_/id/49385207/smu-coach-duke-made-cfp-not-jmu",
+      "description": "SMU coach Rhett Lashlee says Duke should have made the college football playoff, not James Madison.",
+      "pubDate": "2026-07-17T22:24:40Z",
+      "source": "ESPN College Football · Adam Rittenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1207/r1586065_600x400_3-2.jpg"
+    },
+    {
+      "title": "Duke players say Mensah's abrupt transfer was 'surprising'",
+      "link": "https://www.espn.com/college-football/story/_/id/49386463/duke-players-say-mensah-abrupt-transfer-was-surprising",
+      "description": "Duke players said that the abrupt transfer of quarterback Darian Mensah to Miami in January was 'surprising' and 'crazy.'",
+      "pubDate": "2026-07-17T21:46:23Z",
+      "source": "ESPN College Football · David Hale",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1201/r1583087_600x400_3-2.jpg"
+    },
+    {
+      "title": "Texas Tech's Galaxy naming rights deal includes NIL opportunities",
+      "link": "https://www.espn.com/college-football/story/_/id/49385958/texas-tech-galaxy-naming-rights-deal-includes-nil-opportunities",
+      "description": "Texas Tech has signed a 15-year naming rights partnership with Galaxy, a deal that includes NIL opportunities for the Big 12 school's student-athletes.",
+      "pubDate": "2026-07-17T20:22:32Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1106/r1571917_600x400_3-2.jpg"
+    },
+    {
+      "title": "Belichick: UNC 'so far ahead of where we were last year'",
+      "link": "https://www.espn.com/video/clip/_/id/49385797/unc-far-ahead-where-were-last-year",
+      "description": "Belichick: UNC 'so far ahead of where we were last year'",
+      "pubDate": "2026-07-17T19:32:40Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0717/ss_20260717_152052725_3595702922/ss_20260717_152052725_3595702922.jpg"
+    },
+    {
+      "title": "Cignetti on Indiana's season: 'We have to start over completely'",
+      "link": "https://www.espn.com/video/clip/_/id/49385132/start-completely",
+      "description": "Cignetti on Indiana's season: 'We have to start over completely'",
+      "pubDate": "2026-07-17T17:14:32Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0717/ss_20260717_130120485_3595637787/ss_20260717_130120485_3595637787.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "Nick Sirianni: New Eagles OC Sean Mannion has an \"obsession to get better\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-new-eagles-oc-sean-mannion-has-an-obsession-to-get-better",
+      "description": "“I’m not at all concerned there as far as his inexperience on that because he's worked his ass off,” Sirianni said....",
+      "pubDate": "2026-07-21T08:03:28+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "NFL uses free speech law in effort to defeat Jon Gruden's lawsuit",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-uses-free-speech-law-in-effort-to-defeat-jon-grudens-lawsuit",
@@ -1050,14 +1058,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/leveon-bell-is-jailed-in-canton",
       "description": "Former NFL running back Le'Veon Bell, who once seemed to be on track to have a bronze bust in Canton, is currently staying in town for a very different reason....",
       "pubDate": "2026-07-20T13:54:50+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ryan Gold may not have known the Cardinals' picks, but he would have had a good idea",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-gold-may-not-have-known-the-cardinals-picks-but-he-would-have-had-a-good-idea",
-      "description": "Cardinals director of college scouting Ryan Gold, who has been suspended indefinitely for violating the NFL's gambling policy, calls the allegations \"blatantly false.\"...",
-      "pubDate": "2026-07-20T13:17:06+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
