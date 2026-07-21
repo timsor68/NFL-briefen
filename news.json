@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-07-21T22:13:15.209049+00:00",
+  "generatedAt": "2026-07-21T23:14:01.036344+00:00",
   "nfl": [
+    {
+      "title": "Multiple outlets rank Dexter Lawrence among the NFL’s top 5 defensive tackles",
+      "link": "https://sports.yahoo.com/articles/multiple-outlets-rank-dexter-lawrence-225255823.html",
+      "description": "The Bengals newest defensive addition is a big one....",
+      "pubDate": "2026-07-21T22:52:55+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Sam LaPorta fully cleared from injury for Lions training camp",
+      "link": "https://sports.yahoo.com/articles/report-sam-laporta-fully-cleared-225218347.html",
+      "description": "Detroit Lions TE Sam LaPorta’s latest injury news suggest he’ll be a full go at the start of training camp....",
+      "pubDate": "2026-07-21T22:52:18+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Source: Lions' Sam LaPorta (back) fully cleared for training camp",
+      "link": "https://www.espn.com/nfl/story/_/id/49420546/source-lions-sam-laporta-back-fully-cleared-training-camp",
+      "description": "Lions tight end Sam LaPorta was fully cleared for training camp earlier this month, a source told ESPN's Jeremy Fowler.",
+      "pubDate": "2026-07-21T22:49:17Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0616/r1674260_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Four foods left. Two matchups. Your vote could win $1,000 prize",
+      "link": "https://sports.yahoo.com/articles/four-foods-left-two-matchups-223012117.html",
+      "description": "The Great American Tailgate bracket is down to four iconic foods. Vote for your favorite to win a $1,000 gift card....",
+      "pubDate": "2026-07-21T22:30:12+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Training Camps Kick Off With 10 New Head Coaches And Unsettled QB Battles",
+      "link": "https://www.foxsports.com/stories/nfl/nfl-training-camps-kick-off-10-new-head-coaches-unsettled-qb-battles",
+      "description": "The countdown is over. NFL training camp has arrived. Every team is 0-0 so there's hope in each city that this season ends with a championship parade.",
+      "pubDate": "2026-07-21T22:29:46+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/giants1.jpg"
+    },
+    {
+      "title": "Survey: Will the Seahawks finish with fewest points allowed again?",
+      "link": "https://sports.yahoo.com/articles/survey-seahawks-finish-fewest-points-222917563.html",
+      "description": "Will the Seahawks remain the best in fewest points allowed?...",
+      "pubDate": "2026-07-21T22:29:17+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Which Chicago Bears position group are you most confident in?",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-position-group-most-221500770.html",
+      "description": "The notion that quarterback is even in the conversation for the best Chicago Bears position group is an amazing thing!...",
+      "pubDate": "2026-07-21T22:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 54",
       "link": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-220000022.html",
@@ -282,6 +338,14 @@
       "thumbnail": ""
     },
     {
+      "title": "John Harbaugh has snarky reaction to Cam Skattebo’s failed backflip in Giants running back’s latest drama",
+      "link": "https://sports.yahoo.com/articles/john-harbaugh-snarky-reaction-cam-181526749.html",
+      "description": "Giants coach John Harbaugh has jokes for Giants running back Cam Skattebo after his dangerous backflip went haywire at Fanatics Fest last week....",
+      "pubDate": "2026-07-21T18:15:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Dolphins sign NFL tackling leader to extension amid rebuild",
       "link": "https://sports.yahoo.com/articles/dolphins-sign-nfl-tackling-leader-180314505.html",
       "description": "Jordyn Brooks and the Dolphins have agreed to a three-year, $51.3 million extension....",
@@ -336,73 +400,65 @@
       "pubDate": "2026-07-21T17:32:32+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Bills left tackle Dion Dawkins comes included in NFL’s Top 100 Players of 2026",
-      "link": "https://sports.yahoo.com/articles/bills-left-tackle-dion-dawkins-173048521.html",
-      "description": "The Bills left tackle makes the Top 100 list...",
-      "pubDate": "2026-07-21T17:30:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins, Jordyn Brooks agree to extension",
-      "link": "https://sports.yahoo.com/articles/dolphins-jordyn-brooks-agree-extension-172930356.html",
-      "description": "The Dolphins locked up another core piece as they continue their roster rebuild....",
-      "pubDate": "2026-07-21T17:29:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Not a Drill: Training Camp is Here!",
-      "link": "https://sports.yahoo.com/articles/not-drill-training-camp-172901851.html",
-      "description": "Things That Will Catch This Vikings Fan’s Eye...",
-      "pubDate": "2026-07-21T17:29:01+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins, All-Pro LB Jordyn Brooks reach 3-year, $51.3M extension",
-      "link": "https://www.espn.com/nfl/story/_/id/49417979/dolphins-all-pro-lb-jordyn-brooks-reach-3-year-513m-extension",
-      "description": "The Dolphins and linebacker Jordyn Brooks have agreed to a three-year, $51.3 million extension with $35 million guaranteed, agent Erik Burkhardt told ESPN's Adam Schefter.",
-      "pubDate": "2026-07-21T17:19:13Z",
-      "source": "ESPN NFL · Marcel Louis-Jacques",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692100_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Which NFL player can do the most to impact his legacy in 2026?",
-      "link": "https://sports.yahoo.com/articles/nfl-player-most-impact-legacy-171859126.html",
-      "description": "Which NFL player could benefit most from a Super Bowl win or an MVP trophy in 2026? Legacies defined this season....",
-      "pubDate": "2026-07-21T17:18:59+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tuesday Cheese Curds: Devonte Wyatt’s contract is a worthwhile risk",
-      "link": "https://sports.yahoo.com/articles/tuesday-cheese-curds-devonte-wyatt-171019462.html",
-      "description": "Like many Packers, Wyatt has been very good when healthy, but staying healthy has been the challenge....",
-      "pubDate": "2026-07-21T17:10:19+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Las Vegas Raiders undrafted free agents: Meet Jacob Clark",
-      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-undrafted-free-170800435.html",
-      "description": "Quarterback from Missouri State is looking to stick in program...",
-      "pubDate": "2026-07-21T17:08:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "&#39;Hard Knocks&#39; featuring Super Bowl champion Seahawks to debut Aug. 4",
-      "link": "https://sports.yahoo.com/nfl/article/hard-knocks-featuring-super-bowl-champion-seahawks-to-debut-aug-4-170257622.html",
-      "description": "It&#39;s the first time a reigning Super Bowl winner will appear on the show since 2001....",
-      "pubDate": "2026-07-21T17:02:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Day 2 takeaways and what's next for SEC Football Media Days",
+      "link": "https://www.espn.com/video/clip/_/id/49420778/day-2-takeaways-next-sec-football-media-days",
+      "description": "Each member of the SEC Now crew shares their Tuesday takeaway before previewing the next four programs to take to the podium at the 2026 of SEC Football Kickoff.",
+      "pubDate": "2026-07-21T23:05:21Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Analysis_takeaways_lookahead_260721/dm_260721_SEC_NCF_Analysis_takeaways_lookahead_260721.jpg"
+    },
+    {
+      "title": "Best of Tuesday: Taking a quick look at what went down in Tampa",
+      "link": "https://www.espn.com/video/clip/_/id/49420762/taking-quick-look-went-tampa",
+      "description": "It was a busy day on Tuesday as the 2026 SEC Kickoff Media Days extravaganza continues to roll on by the bay in Tampa.",
+      "pubDate": "2026-07-21T23:00:46Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Feature_Best_of_Tuesday_260721/dm_260721_SEC_NCF_Feature_Best_of_Tuesday_260721.jpg"
+    },
+    {
+      "title": "Liberty coach Chadwell on surgery: 'Best I've felt since '23'",
+      "link": "https://www.espn.com/college-football/story/_/id/49420617/best-felt-23",
+      "description": "Liberty coach Jamey Chadwell, who had surgery at the beginning of this year for what has been called a \"serious but treatable medical condition,\" said his physical condition now compared with the past couple of years is \"night and day.\"",
+      "pubDate": "2026-07-21T22:57:35Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2024/1029/r1407771_600x400_3-2.jpg"
+    },
+    {
+      "title": "Georgia's Kirby Smart Focused On What Wins Games, Not CFB's Off-Field Debates",
+      "link": "https://www.foxsports.com/stories/college-football/georgia-bulldogs-kirby-smart-knows-his-voice-as-the-dean-of-sec-coaches-only-gets-heard-if-georgia-keeps-winning",
+      "description": "He’s the dean of Southeastern Conference coaches who also has two national titles at on his resume, so what Georgia’s Kirby Smart says about the state of college football is bound to resonate outside his own state",
+      "pubDate": "2026-07-21T22:55:44+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/smart.jpg"
+    },
+    {
+      "title": "Liberty Coach Jamey Chadwell 'Feels Best Since 2023' Despite Ongoing Medical Recovery",
+      "link": "https://www.foxsports.com/stories/college-football/liberty-coach-jamey-chadwell-feels-best-since-2023-despite-ongoing-medical-recovery",
+      "description": "Liberty coach Jamey Chadwell says he feels the best he has since the 2023 season while still dealing with some limitations for what has been called a \"serious but treatable medical condition\" that required surgery at the beginning of this year.",
+      "pubDate": "2026-07-21T22:54:03+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/liberty1-1.jpg"
+    },
+    {
+      "title": "Vanderbilt's next QB1 doesn't need to perform like Pavia, says Lea",
+      "link": "https://www.espn.com/college-football/story/_/id/49420213/vanderbilt-next-qb1-need-perform-pavia-says-lea",
+      "description": "Vanderbilt head coach Clark Lea says his team's next quarterback doesn't need to perform like record-setting Diego Pavia, who has moved on to the NFL.",
+      "pubDate": "2026-07-21T22:27:55Z",
+      "source": "ESPN College Football · Andrea Adelson",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1019/r1562295_600x400_3-2.jpg"
+    },
+    {
+      "title": "2026 College Football Playoff Odds: Irish Heavily Favored To Make Field",
+      "link": "https://www.foxsports.com/stories/college-football/2026-college-football-playoff-odds",
+      "description": "College Football Playoff odds have hit the market. See which squads are favored to make the 12-team postseason tournament.",
+      "pubDate": "2026-07-21T22:27:07+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/gettyimages-2249247694-scaled.jpg"
+    },
     {
       "title": "Returning QB LaNorris Sellers, South Carolina look past 2025",
       "link": "https://www.espn.com/college-football/story/_/id/49420144/returning-qb-lanorris-sellers-south-carolina-look-2025",
@@ -418,14 +474,6 @@
       "pubDate": "2026-07-21T22:03:06Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0721/dm_260721_SEC_NCF_Feature_Paul_In_or_Paul_Out_260721/dm_260721_SEC_NCF_Feature_Paul_In_or_Paul_Out_260721.jpg"
-    },
-    {
-      "title": "Vanderbilt's next QB1 doesn't need to perform like Pavia, says Lea",
-      "link": "https://www.espn.com/college-football/story/_/id/49420213/vanderbilt-next-qb1-need-perform-pavia-says-lea",
-      "description": "Vanderbilt head coach Clark Lea says his team's next quarterback doesn't need to perform like record-setting Diego Pavia, who has moved on to the NFL.",
-      "pubDate": "2026-07-21T21:57:14Z",
-      "source": "ESPN College Football · Andrea Adelson",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1019/r1562295_600x400_3-2.jpg"
     },
     {
       "title": "Vandy's Ouattara, Sherrill describe their journeys to Nashville",
@@ -754,57 +802,25 @@
       "pubDate": "2026-07-20T22:10:35Z",
       "source": "ESPN College Football · Andrea Adelson",
       "thumbnail": "https://a.espncdn.com/photo/2026/0720/r1691919_600x400_3-2.jpg"
-    },
-    {
-      "title": "Matt Barrie hyped to host SEC Nation and discusses conference strength",
-      "link": "https://www.espn.com/video/clip/_/id/49412892/matt-barrie-hyped-host-sec-nation-discusses-conference-strength",
-      "description": "Barrie joins The Paul Finebaum Show at the 2026 SEC Football Kickoff to discuss what has him so excited to be the newest host of SEC Nation.",
-      "pubDate": "2026-07-20T22:02:16Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Barrie_on_PFS_260720/dm_260720_SEC_NCF_Interview_Barrie_on_PFS_260720.jpg"
-    },
-    {
-      "title": "Aaron Murray breaks down how SEC coaches evaluate quarterbacks",
-      "link": "https://www.espn.com/video/clip/_/id/49412828/aaron-murray-breaks-how-sec-coaches-evaluate-quarterbacks",
-      "description": "SEC Network analyst and former Georgia standout Aaron Murray explains why the upcoming weeks will be so important in settling some SEC QB1 battles.",
-      "pubDate": "2026-07-20T21:51:16Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Murray_QBs_PFS_260720/dm_260720_SEC_NCF_Interview_Murray_QBs_PFS_260720.jpg"
-    },
-    {
-      "title": "What could be next as SEC continues to await word from Washington?",
-      "link": "https://www.espn.com/video/clip/_/id/49412779/what-next-sec-continues-await-word-washington",
-      "description": "Cole Cubelic and Greg McElroy join The Paul Finebaum Show to analyze potential fallouts as college sports continues to struggle to get federal laws passed.",
-      "pubDate": "2026-07-20T21:46:57Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Analysis_SEC_out_on_own_260720/dm_260720_SEC_NCF_Analysis_SEC_out_on_own_260720.jpg"
-    },
-    {
-      "title": "Josh Heupel shares Tennessee's blueprint, strong offseason changes",
-      "link": "https://www.espn.com/video/clip/_/id/49412778/josh-heupel-shares-tennessee-blueprint-strong-offseason-changes",
-      "description": "Heupel expresses excitement in the Vols' hiring of DC Jim Knowles, praising his prestige in defensive adjustments, and gives his thoughts on the new nine-game conference schedule.",
-      "pubDate": "2026-07-20T21:44:54Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Heupel_Desk_Ut_260720/dm_260720_SEC_NCF_Interview_Heupel_Desk_Ut_260720.jpg"
-    },
-    {
-      "title": "What to look for in Day 2 of SEC Football Media Days",
-      "link": "https://www.espn.com/video/clip/_/id/49412693/what-look-day-2-sec-football-media-days",
-      "description": "The SEC Now Crew describes who they would like to hear from as Georgia, South Carolina, Vanderbilt and Auburn are next up in Tampa.",
-      "pubDate": "2026-07-20T21:19:17Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Analysis_TUESDAY_STORYLINES_260720/dm_260720_SEC_NCF_Analysis_TUESDAY_STORYLINES_260720.jpg"
-    },
-    {
-      "title": "Will Stein expands on Kentucky's vision, recruiting and new culture",
-      "link": "https://www.espn.com/video/clip/_/id/49412692/will-stein-expands-kentucky-vision-recruiting-new-culture",
-      "description": "Stein explains how he plans to develop the Wildcats' QBs after finding success with multiple current NFL QBs at his last stop and emphasizes the change in culture coming to Lexington.",
-      "pubDate": "2026-07-20T21:18:14Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0720/dm_260720_SEC_NCF_Interview_Stein_Desk_Uk_260720/dm_260720_SEC_NCF_Interview_Stein_Desk_Uk_260720.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "Source: Lions' Sam LaPorta (back) fully cleared for training camp",
+      "link": "https://www.espn.com/nfl/story/_/id/49420546/source-lions-sam-laporta-back-fully-cleared-training-camp",
+      "description": "Lions tight end Sam LaPorta was fully cleared for training camp earlier this month, a source told ESPN's Jeremy Fowler.",
+      "pubDate": "2026-07-21T22:49:17Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0616/r1674260_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Sam LaPorta fully cleared for training camp",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-laporta-fully-cleared-for-training-camp",
+      "description": "Lions tight end Sam LaPorta was fully cleared earlier this month, Jeremy Fowler of ESPN reports....",
+      "pubDate": "2026-07-21T22:44:08+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Patriots put Harold Landry on the PUP list",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-put-harold-landry-on-the-pup-list",
@@ -1026,14 +1042,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-reunites-with-estranged-family",
       "description": "The Steelers quarterback posted photos with his parents and his brother, Luke, on social media....",
       "pubDate": "2026-07-21T02:13:51+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "SEC Commissioner Greg Sankey says talk of leaving the NCAA is \"real\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-commissioner-greg-sankey-says-talk-of-leaving-the-ncaa-is-real",
-      "description": "As college football tries to navigate an era of chaos sparked by the reckoning from decades of antitrust violations, one of the most powerful conference claims it's serious about l...",
-      "pubDate": "2026-07-21T00:58:22+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
