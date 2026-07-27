@@ -1,13 +1,229 @@
 {
-  "generatedAt": "2026-07-27T16:35:57.647221+00:00",
+  "generatedAt": "2026-07-27T18:10:09.296575+00:00",
   "nfl": [
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Win Their Divisions?",
+      "link": "https://www.foxsports.com/stories/nfl/2026-2027-nfl-odds-division-winner",
+      "description": "Who will repeat? Will K.C. and Baltimore return to the top? Check out the latest NFL division odds heading into the 2026 season.",
+      "pubDate": "2026-07-27T18:02:04+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/ravens-723.jpg"
+    },
+    {
+      "title": "2026 NFL Offensive Player Of The Year Odds: Jahmyr Gibbs Favored",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
+      "description": "Check out the latest odds to win the 2026 NFL Offensive Player of the Year award.",
+      "pubDate": "2026-07-27T17:53:52+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/gettyimages-2253168587-scaled.jpg"
+    },
+    {
+      "title": "Daniel Jones 'feeling really good' with progress in return from Achilles injury",
+      "link": "https://www.espn.com/video/clip/_/id/49463503/daniel-jones-feeling-really-good-progress-return-achilles-injury",
+      "description": "Daniel Jones 'feeling really good' with progress in return from Achilles injury",
+      "pubDate": "2026-07-27T17:52:38Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0727/ss_20260727_125534225_3604977788/ss_20260727_125534225_3604977788.jpg"
+    },
+    {
+      "title": "2026 NFL MVP Odds: Josh Allen Favored; Burrow Rising",
+      "link": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
+      "description": "After a close race last season, who is the early favorite to win the 2026 NFL MVP? See the odds.",
+      "pubDate": "2026-07-27T17:51:43+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/03/a8862729-16x9-12.jpg"
+    },
+    {
+      "title": "2026 NFL Defensive Player of the Year Odds: Myles Garrett Favored To Repeat",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
+      "description": "Check out the latest odds to win the 2026 NFL Defensive Player of the Year award.",
+      "pubDate": "2026-07-27T17:49:15+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/garrett-727.jpg"
+    },
+    {
+      "title": "Mike Vrabel attended Swift-Kelce wedding with his wife. It was &#39;a fairy tale&#39;",
+      "link": "https://sports.yahoo.com/articles/mike-vrabel-attended-swift-kelce-174841081.html",
+      "description": "Mike Vrabel was asked about Taylor Swift&#39;s wedding by a kid at his press conference. Here&#39;s what the Patriots&#39; coach said....",
+      "pubDate": "2026-07-27T17:48:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL training camp news, live updates: Chiefs&#39; Eric Bieniemy steps away from team; Commanders part ways with TEs coach Ben Steele",
+      "link": "https://sports.yahoo.com/nfl/live/nfl-news-live-updates-training-camp-2026-schedule-injury-news-174255317.html",
+      "description": "Follow along with the latest NFL news and updates as training camps around the league kick off....",
+      "pubDate": "2026-07-27T17:42:55+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eric Bieniemy&#39;s son charged with 3 felonies after mother shot. What they mean",
+      "link": "https://sports.yahoo.com/articles/eric-bieniemys-son-charged-3-173357798.html",
+      "description": "Elijah Bieniemy, the son of Kansas City Chiefs offensive coordinator Eric Bieniemy, was arrested in connection with his mother&#39;s shooting on July 26....",
+      "pubDate": "2026-07-27T17:33:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Christian Kirk out of 49ers practice with a calf strain",
+      "link": "https://sports.yahoo.com/articles/christian-kirk-49ers-practice-calf-172935319.html",
+      "description": "Wide receiver Christian Kirk&#39;s first training camp practice as a 49er came to an early end and he will miss more time on Monday....",
+      "pubDate": "2026-07-27T17:29:35+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts' Daniel Jones says he's fully cleared for training camp",
+      "link": "https://www.espn.com/nfl/story/_/id/49463610/colts-daniel-jones-says-fully-cleared-achilles-injury",
+      "description": "Colts quarterback Daniel Jones said Monday that he is fully cleared to participate in training camp from the Achilles injury that prematurely ended his 2025 season.",
+      "pubDate": "2026-07-27T17:27:29Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694355_1296x729_16-9.jpg"
+    },
+    {
+      "title": "49ers Training Camp Day 1 Notes: There will be a battle at safety for the 2nd year in a row",
+      "link": "https://sports.yahoo.com/articles/49ers-training-camp-day-1-172636750.html",
+      "description": "It’s only one day, but there are things of note from the first session...",
+      "pubDate": "2026-07-27T17:26:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patriots training camp notebook: Intensity dialed down on Day 3",
+      "link": "https://sports.yahoo.com/articles/patriots-training-camp-notebook-intensity-172606279.html",
+      "description": "The Patriots held their third training practice on Monday, July 27....",
+      "pubDate": "2026-07-27T17:26:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers OL Vederian Lowe has a high-ankle sprain; Christian Kirk has a calf strain",
+      "link": "https://sports.yahoo.com/articles/couple-49ers-offseason-acquisitions-left-133000097.html",
+      "description": "Christian Kirk and Vederian Lowe did not make it through Sunday’s practice...",
+      "pubDate": "2026-07-27T17:24:08+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Arizona Cardinals training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49426382/arizona-cardinals-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Cardinals training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-27T17:20:12Z",
+      "source": "ESPN NFL · Josh Weinfuss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0608/r1669978_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Miles Sanders worked out for the Raiders",
+      "link": "https://sports.yahoo.com/articles/miles-sanders-worked-raiders-170756778.html",
+      "description": "Veteran running back Miles Sanders missed most of last season with a knee injury, but he&#39;s trying to get back on the field ahead of the 2026 campaign....",
+      "pubDate": "2026-07-27T17:07:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chiefs OC Eric Bieniemy&#39;s wife stable after shooting, Andy Reid says",
+      "link": "https://sports.yahoo.com/articles/chiefs-oc-eric-bieniemys-wife-170636445.html",
+      "description": "Mia Bieniemy, the wife of Chiefs OC Eric Bieniemy, is in stable condition after being shot at the couple&#39;s home, coach Andy Reid said....",
+      "pubDate": "2026-07-27T17:06:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fernando Mendoza Big Ten Championship versus Ohio State, Part XIII of Las Vegas Raiders’ Mendoza Mania",
+      "link": "https://sports.yahoo.com/articles/fernando-mendoza-big-ten-championship-170100270.html",
+      "description": "A big time performance on a big time stage...",
+      "pubDate": "2026-07-27T17:01:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 48",
+      "link": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-170000885.html",
+      "description": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 48...",
+      "pubDate": "2026-07-27T17:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Wife of Chiefs' Eric Bieniemy allegedly shot by couple's son at home",
       "link": "https://www.espn.com/nfl/story/_/id/49462234/sources-wife-chiefs-eric-bieniemy-shot-couple-home",
       "description": "The wife of Chiefs offensive coordinator Eric Bieniemy was allegedly shot by the couple's son Sunday night at the family's home in Virginia.",
-      "pubDate": "2026-07-27T16:32:13Z",
+      "pubDate": "2026-07-27T16:58:09Z",
       "source": "ESPN NFL · Nate Taylor",
       "thumbnail": "https://a.espncdn.com/photo/2020/0102/r648048_600x400_3-2.jpg"
+    },
+    {
+      "title": "Packers training camp preview: Questions going into 2026",
+      "link": "https://sports.yahoo.com/articles/packers-training-camp-preview-questions-165653716.html",
+      "description": "Let’s review the roster one more time before training camp kicks off...",
+      "pubDate": "2026-07-27T16:56:53+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Commanders fire TE coach Ben Steele following DWI charge",
+      "link": "https://www.espn.com/nfl/story/_/id/49462862/commanders-fire-te-coach-ben-steele-following-dwi-charge",
+      "description": "The Commanders fired tight ends coach Ben Steele, two days before training camp begins, and more than a month after he was arrested for driving while intoxicated.",
+      "pubDate": "2026-07-27T16:53:40Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2024/1203/r1423165_1296x729_16-9.jpg"
+    },
+    {
+      "title": "What the NFL can (and will) learn from the World Cup&#39;s global takeover",
+      "link": "https://sports.yahoo.com/nfl/article/what-the-nfl-can-and-will-learn-from-the-world-cups-global-takeover-165249945.html",
+      "description": "Here are a few lessons that NFL will likely incorporate from the inspiring, thrilling and so, so lucrative tournament that comes around every four years....",
+      "pubDate": "2026-07-27T16:52:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tyleik Williams says he lost an ABSURD amount of weight in 5 months",
+      "link": "https://sports.yahoo.com/articles/tyleik-williams-says-lost-absurd-165001184.html",
+      "description": "Detroit Lions second-year DT Tyleik Williams says he went through a huge body transformation this offseason....",
+      "pubDate": "2026-07-27T16:50:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Daniel Jones cleared for full participation at Colts training camp",
+      "link": "https://sports.yahoo.com/articles/daniel-jones-cleared-full-participation-165000866.html",
+      "description": "Daniel Jones is set for full training camp participation, giving the Colts a needed boost at quarterback....",
+      "pubDate": "2026-07-27T16:50:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "A.J. Brown vs. DeVonta Smith Odds: Which No. 1 WR Will Have Bigger Year?",
+      "link": "https://www.foxsports.com/stories/nfl/a-j-brown-vs-devonta-smith-odds-which-no-1-wr-will-have-bigger-year",
+      "description": "DeVonta Smith is the No. 1 target in Philly now that A.J. Brown is gone. Which star will have a bigger season? See the odds.",
+      "pubDate": "2026-07-27T16:38:12+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/eagles-727.jpg"
+    },
+    {
+      "title": "Packers 2025 Callsheet: Goal Line",
+      "link": "https://sports.yahoo.com/articles/packers-2025-callsheet-goal-line-163654863.html",
+      "description": "Building out the Goal Line section of a callsheet based on what the Packers did well in 2025...",
+      "pubDate": "2026-07-27T16:36:54+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Washington Commanders 2026 schedule and scores",
+      "link": "https://sports.yahoo.com/articles/washington-commanders-2026-schedule-scores-163552107.html",
+      "description": "Complete Washington Commanders schedule and results for the 2026-27 season. All times are Eastern Time....",
+      "pubDate": "2026-07-27T16:35:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles schedule preview: Seahawks",
+      "link": "https://sports.yahoo.com/articles/eagles-schedule-preview-seahawks-163400370.html",
+      "description": "When and where: Week 15 at home at 5pm on Saturday Key additions: None Key subtractions: OC Klint Kubiak, RB Kenneth Walker, S Coby Brant, EDGE Boye Mafe, CB Tariq Woolen Last seas...",
+      "pubDate": "2026-07-27T16:34:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "2026 NFL Preview: The 100 People Who'll Shape The Upcoming Season",
@@ -20,15 +236,15 @@
     {
       "title": "Saints announce year-long celebration to honor six decades of football in New Orleans",
       "link": "https://sports.yahoo.com/articles/saints-announce-long-celebration-honor-161944204.html",
-      "description": "The Saints have unveiled their plans for a year-long celebration honoring six decades of football in New Orleans....",
+      "description": "The Saints have unveiled plans to celebrate their 60th season in New Orleans...",
       "pubDate": "2026-07-27T16:19:44+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Expect to see more one-on-ones in Commanders training camp (by @Tiller56)",
+      "title": "Expect to see more one-on-ones in Commanders training camp",
       "link": "https://sports.yahoo.com/articles/expect-see-more-one-ones-161747130.html",
-      "description": "ESPN Commanders’ reporter John Keim spoke on his recent podcast about the up-coming training camp which begins for Washington this Wednesday. One thing he mentioned that caught my ...",
+      "description": "Camp competition will be intense this year for the Commanders...",
       "pubDate": "2026-07-27T16:17:47+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
@@ -88,22 +304,6 @@
       "pubDate": "2026-07-27T15:55:56Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0727/ss_20260727_113055047_3604940693/ss_20260727_113055047_3604940693.jpg"
-    },
-    {
-      "title": "Commanders fire TE coach Ben Steele following DWI charge",
-      "link": "https://www.espn.com/nfl/story/_/id/49462862/commanders-fire-te-coach-ben-steele-following-dwi-charge",
-      "description": "The Commanders fired tight ends coach Ben Steele, two days before training camp begins, and more than a month after he was arrested for driving while intoxicated.",
-      "pubDate": "2026-07-27T15:49:41Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2024/1203/r1423165_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 NFL Defensive Player of the Year Odds: Myles Garrett Favored To Repeat",
-      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "description": "Check out the latest odds to win the 2026 NFL Defensive Player of the Year award.",
-      "pubDate": "2026-07-27T15:47:40+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/garrett-727.jpg"
     },
     {
       "title": "Buffalo Bills break from tradition while unveiling &#39;Nickel City&#39; alternate uniforms",
@@ -200,209 +400,41 @@
       "pubDate": "2026-07-27T15:07:37+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Keyron Crawford’s Las Vegas Raiders’ Timeline",
-      "link": "https://sports.yahoo.com/articles/keyron-crawford-las-vegas-raiders-150200511.html",
-      "description": "The Roadplan for Keyron Crawford’s path to playitme...",
-      "pubDate": "2026-07-27T15:02:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Road to Paradise, or how the 2026-27 season could go right for the Houston Texans",
-      "link": "https://sports.yahoo.com/articles/road-paradise-2026-27-season-150000389.html",
-      "description": "What if everything goes right for the Texans? Let’s see what could be contributing factors....",
-      "pubDate": "2026-07-27T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Revisiting the Giants 2024 draft class",
-      "link": "https://sports.yahoo.com/articles/revisiting-giants-2024-draft-class-150000067.html",
-      "description": "Can John Harbaugh’s coaching staff get the 2024 draft class to take the next step?...",
-      "pubDate": "2026-07-27T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "RB2 is Jaydon Blue’s to take in Cowboys training camp",
-      "link": "https://sports.yahoo.com/articles/rb2-jaydon-blue-cowboys-training-150000617.html",
-      "description": "Jaydon Blue is one of the players who could really change the season for the Cowboys....",
-      "pubDate": "2026-07-27T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chicago Bears 2026 Training Camp Position Breakdown: Running back",
-      "link": "https://sports.yahoo.com/articles/chicago-bears-2026-training-camp-150000976.html",
-      "description": "Next up in his Bears’ training camp preview series, @wiltfongjr looks at the running backs. Who makes the team after their top two tailbacks?...",
-      "pubDate": "2026-07-27T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kerby Joseph provides some injury insight in series of tweets",
-      "link": "https://sports.yahoo.com/articles/kerby-joseph-provides-injury-insight-150000079.html",
-      "description": "Detroit Lions safety Kerby Joseph offered a small insight into his injury situation on Twitter Sunday night....",
-      "pubDate": "2026-07-27T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Are the Cowboys legit Super Bowl contenders?",
-      "link": "https://www.espn.com/video/clip/_/id/49462644/are-cowboys-legit-super-bowl-contenders",
-      "description": "Are the Cowboys legit Super Bowl contenders?",
-      "pubDate": "2026-07-27T14:59:24Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0727/ss_20260727_104930481_3604904655/ss_20260727_104930481_3604904655.jpg"
-    },
-    {
-      "title": "Is the 2011 NFL draft the best defensive class ever?",
-      "link": "https://www.espn.com/nfl/story/_/id/49454392/nfl-2011-draft-class-defense-best-ever-watt-sherman-heyward-miller-jordan-peterson",
-      "description": "The 2011 defensive class included the likes of J.J. Watt and Patrick Peterson. But the argument for topping 1981 as the best ever could come down to two still-active players.",
-      "pubDate": "2026-07-27T14:56:41Z",
-      "source": "ESPN NFL · Bill Barnwell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0726/r1693936_608x342_16-9.jpg"
-    },
-    {
-      "title": "Bengals News: Training camp week arrives",
-      "link": "https://sports.yahoo.com/articles/bengals-news-training-camp-week-145402272.html",
-      "description": "Here we go!...",
-      "pubDate": "2026-07-27T14:54:02+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy Football Roundtable: Here&#39;s one thing our analysts wish they knew before the 2026 season begins",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-roundtable-heres-one-thing-our-analysts-wish-they-knew-before-the-2026-season-begins-145035785.html",
-      "description": "Our fantasy football crew shares one question they wish they had the answer to before the 2026 NFL season....",
-      "pubDate": "2026-07-27T14:50:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Season Opener Countdown: 48 Days Remaining",
-      "link": "https://sports.yahoo.com/articles/2026-season-opener-countdown-48-145010357.html",
-      "description": "We continue our countdown to the Panthers opening the 2026 season against the Chicago Bears...",
-      "pubDate": "2026-07-27T14:50:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants 2026 Training Camp Preview: What to watch for as John Harbaugh Era begins",
-      "link": "https://sports.yahoo.com/articles/giants-2026-training-camp-preview-144602414.html",
-      "description": "Here are some of the biggest Giants training camp stories to watch.......",
-      "pubDate": "2026-07-27T14:46:02+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jets 2026 Training Camp Preview: What to watch as Year 2 of Aaron Glenn Era begins",
-      "link": "https://sports.yahoo.com/articles/jets-2026-training-camp-preview-143706469.html",
-      "description": "The Jets&#39; rookies reported to training camp last week and the rest of the roster reports on Tuesday as the team prepares to embark upon their 2026 campaign....",
-      "pubDate": "2026-07-27T14:37:06+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Denver Broncos depth chart ahead of the start of Training Camp",
-      "link": "https://sports.yahoo.com/articles/denver-broncos-depth-chart-ahead-143635719.html",
-      "description": "We finally made it! The Denver Broncos will hit the practice field this week for the start of training camp and officially kick off the 2026 NFL season. Expectations are very high ...",
-      "pubDate": "2026-07-27T14:36:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Browns' Jerry Jeudy disputes video appearing to show QB pick",
-      "link": "https://www.espn.com/nfl/story/_/id/49457862/browns-jerry-jeudy-disputes-video-appearing-show-qb-pick",
-      "description": "Browns wide receiver Jerry Jeudy is pushing back against a viral video in which he appears to show his preference on who he believes should be named the team's starting quarterback.",
-      "pubDate": "2026-07-27T14:32:25Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0726/r1694053_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Commanders fire TE coach Ben Steele following DWI arrest in Virginia",
-      "link": "https://sports.yahoo.com/nfl/article/commanders-fire-te-coach-ben-steele-following-dwi-arrest-in-virginia-143018254.html",
-      "description": "Steele was arrested on suspicion of while driving while intoxicated, according to Virginia court records....",
-      "pubDate": "2026-07-27T14:30:18+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Los Angeles Rams training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434454/los-angeles-rams-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Rams training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-27T14:28:32Z",
-      "source": "ESPN NFL · Sarah Barshop",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694285_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Commanders part ways with TE coach prior to start of training camp",
-      "link": "https://sports.yahoo.com/articles/commanders-part-ways-te-coach-142217062.html",
-      "description": "The Commanders have parted ways with TE coach Ben Steele as training camp begins....",
-      "pubDate": "2026-07-27T14:22:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football sleepers, busts and breakouts for 2026",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts",
-      "description": "Which players will surprise, disappoint or make a big jump this fantasy season? Our analysts give their picks.",
-      "pubDate": "2026-07-27T14:19:59Z",
-      "source": "ESPN NFL · Fantasy staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0702/fan_breakout-sleeper-bust_16x9_608x342.jpg"
-    },
-    {
-      "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
-      "description": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
-      "pubDate": "2026-07-27T14:18:50Z",
-      "source": "ESPN NFL · Fantasy staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0615/fan_football_draft_guide_cr_16x9.jpg"
-    },
-    {
-      "title": "Chiefs OC Eric Bieniemy&#39;s son arrested after mother shot at family home",
-      "link": "https://sports.yahoo.com/articles/eric-bieniemy-away-chiefs-incident-141704264.html",
-      "description": "The wife of Kansas City Chiefs offensive coordinator Eric Bieniemy was shot at the couple&#39;s home in Virginia the night of Sunday, according to a report....",
-      "pubDate": "2026-07-27T14:17:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football buzz: Should you fade De'Von Achane or embrace the risk?",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "description": "The Dolphins' star back is a bust candidate, but is his talent and huge share of touches too good to ignore?",
-      "pubDate": "2026-07-27T14:10:19Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694264_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Lions agree to sign LB Troy Reeder",
-      "link": "https://sports.yahoo.com/articles/lions-agree-sign-lb-troy-140256084.html",
-      "description": "The Lions are adding a linebacker....",
-      "pubDate": "2026-07-27T14:02:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kaden Elliss could be the key to Brandon Staley’s Saints defense",
-      "link": "https://sports.yahoo.com/articles/kaden-elliss-could-key-brandon-140000447.html",
-      "description": "Why Kaden Elliss more than just another starter....",
-      "pubDate": "2026-07-27T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Silver Minings: QB Fernando Mendoza is competing, not against, Kirk Cousins",
-      "link": "https://sports.yahoo.com/articles/silver-minings-qb-fernando-mendoza-140000487.html",
-      "description": "Las Vegas Raiders quarterback Fernando Mendoza sees himself competing with Kirk Cousins and not against him....",
-      "pubDate": "2026-07-27T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Four-star edge recruit Darieon Prescott commits to Notre Dame",
+      "link": "https://www.espn.com/video/clip/_/id/49463677/four-star-edge-recruit-darieon-prescott-commits-notre-dame",
+      "description": "Four-star edge recruit Darieon Prescott commits to Notre Dame",
+      "pubDate": "2026-07-27T17:58:25Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/media/motion/2026/0727/ss_20260727_133032142_3605002/ss_20260727_133032142_3605002.jpg"
+    },
+    {
+      "title": "Darieon Prescott, No. 36 recruit for 2028, picks Notre Dame",
+      "link": "https://www.espn.com/college-football/story/_/id/49463683/darieon-prescott-no-36-recruit-2028-picks-notre-dame",
+      "description": "Notre Dame continued its summer run on elite defensive line talent with a commitment from DE Darieon Prescott, the No. 36 recruit in the SC Next ESPN Junior 300.",
+      "pubDate": "2026-07-27T17:54:08Z",
+      "source": "ESPN College Football · Eli Lederman",
+      "thumbnail": "https://a.espncdn.com/photo/2022/1105/r1086279_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Brian Hartline is readying USF for the next shift in college football",
+      "link": "https://www.espn.com/college-football/story/_/id/49463325/brian-hartline-readying-usf-college-football-next-shift",
+      "description": "The former Ohio State OC is in his first year as a head coach in Tampa, where USF is focused on the future.",
+      "pubDate": "2026-07-27T17:29:13Z",
+      "source": "ESPN College Football · Pete Thamel",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0723/r1692888_1296x729_16-9.jpg"
+    },
+    {
+      "title": "100 games that explain college football in 2026",
+      "link": "https://www.espn.com/college-football/story/_/id/49433834/100-games-explain-college-football-2026",
+      "description": "TV, realignment, stars and legends, postseason quarrels. Those themes have set up epic games and made the current sport.",
+      "pubDate": "2026-07-27T16:58:48Z",
+      "source": "ESPN College Football · Bill Connelly",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0724/ncf_games-that-explain-cf_16x9.jpg"
+    },
     {
       "title": "Ultimate College Football Playoff Championship preview",
       "link": "https://www.espn.com/espn/feature/story/_/id/21853028/ultimate-college-football-playoff-championship-preview",
@@ -418,14 +450,6 @@
       "pubDate": "2026-07-27T14:36:43Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/photo/2026/0712/r1688499_1296x729_16-9.jpg"
-    },
-    {
-      "title": "100 games that explain college football in 2026",
-      "link": "https://www.espn.com/college-football/story/_/id/49433834/100-games-explain-college-football-2026",
-      "description": "TV, realignment, stars and legends, postseason quarrels. Those themes have set up epic games and made the current sport.",
-      "pubDate": "2026-07-27T14:33:34Z",
-      "source": "ESPN College Football · Bill Connelly",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0724/ncf_games-that-explain-cf_16x9.jpg"
     },
     {
       "title": "UNC football GM Michael Lombardi on paid administrative leave",
@@ -554,6 +578,14 @@
       "pubDate": "2026-07-23T21:52:22Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_SEC_NCF_Interview_Goosby_Texas_Ryan_McGee_260723/dm_260723_SEC_NCF_Interview_Goosby_Texas_Ryan_McGee_260723.jpg"
+    },
+    {
+      "title": "College Football Offseason Buzz: UNC Places GM Lombardi On Administrative Leave",
+      "link": "https://www.foxsports.com/stories/college-football/college-football-offseason-buzz",
+      "description": "The college football news cycle never stops. With that in mind, here's a tracker of offseason buzz across the sport.",
+      "pubDate": "2026-07-23T21:50:16+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/unch1.jpg"
     },
     {
       "title": "Lane Kiffin, Steve Sarkisian among top quips from SEC media days",
@@ -770,41 +802,41 @@
       "pubDate": "2026-07-23T16:26:53Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_SEC_NCF_Interview_Kiffin_Saban_on_Ole_Miss_return_260723/dm_260723_SEC_NCF_Interview_Kiffin_Saban_on_Ole_Miss_return_260723.jpg"
-    },
-    {
-      "title": "Nick Saban on new coaches: 'All these guys have won, they're winners'",
-      "link": "https://www.espn.com/video/clip/_/id/49433459/all-guys-won-winners",
-      "description": "The SEC Now crew emphasizes the importance of authenticity and trust from the new SEC head coaches as fresh and seasoned players alike look to prove themselves at game time.",
-      "pubDate": "2026-07-23T16:18:07Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_SEC_NCF_Analysis_New_sec_coaches_analysis_260723/dm_260723_SEC_NCF_Analysis_New_sec_coaches_analysis_260723.jpg"
-    },
-    {
-      "title": "How Arkansas' Ryan Silverfield can turn things around in Fayetteville",
-      "link": "https://www.espn.com/video/clip/_/id/49433525/how-arkansas-ryan-silverfield-turn-things-fayetteville",
-      "description": "SEC Now's Nick Saban, Gene Chizik, and Benjamin Watson give Silverfield advice on how he can bring the Razorbacks back to the top of the SEC.",
-      "pubDate": "2026-07-23T16:15:20Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_SEC_NCF_Analysis_Ark_build_success_260723/dm_260723_SEC_NCF_Analysis_Ark_build_success_260723.jpg"
-    },
-    {
-      "title": "LSU's Whit Weeks on staying at LSU, love for cooking, hatred of snakes",
-      "link": "https://www.espn.com/video/clip/_/id/49433436/lsu-whit-weeks-staying-lsu-love-cooking-hatred-snakes",
-      "description": "Weeks joins the SEC This Morning desk to discuss how he is handling becoming a star beyond the gridiron along with his love for Baton Rouge.",
-      "pubDate": "2026-07-23T16:14:07Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_SEC_NCF_Interview_Weeks_on_SECTM_260723/dm_260723_SEC_NCF_Interview_Weeks_on_SECTM_260723.jpg"
-    },
-    {
-      "title": "How quarterback battle could spark Arkansas' culture",
-      "link": "https://www.espn.com/video/clip/_/id/49433336/how-quarterback-battle-spark-arkansas-culture",
-      "description": "As AJ Hill and KJ Jackson will compete for the Hogs' QB1 spot, the SEC Now crew dissects where the biggest challenge could lie for the Razorbacks.",
-      "pubDate": "2026-07-23T15:49:34Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/media/motion/2026/0723/dm_260723_SEC_NCF_Analysis_ARK_QB1_Battle_260723/dm_260723_SEC_NCF_Analysis_ARK_QB1_Battle_260723.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "Chris Simms shares some details about Kyle Shanahan's injuries",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-simms-shares-some-details-about-kyle-shanahans-injuries",
+      "description": "After the 49ers announced on July 25 that coach Kyle Shanahan had been involved in a serious car accident on July 14, questions were raised regarding how the information remained u...",
+      "pubDate": "2026-07-27T17:40:18+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Christian Kirk out of 49ers practice with a calf strain",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-kirk-out-of-49ers-practice-with-a-calf-strain",
+      "description": "Wide receiver Christian Kirk's first training camp practice as a 49er came to an early end and he will miss more time on Monday....",
+      "pubDate": "2026-07-27T17:29:35+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Arizona Cardinals training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49426382/arizona-cardinals-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Cardinals training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-27T17:20:12Z",
+      "source": "ESPN NFL · Josh Weinfuss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0608/r1669978_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Miles Sanders worked out for the Raiders",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/miles-sanders-worked-out-for-the-raiders",
+      "description": "Veteran running back Miles Sanders missed most of last season with a knee injury, but he's trying to get back on the field ahead of the 2026 campaign....",
+      "pubDate": "2026-07-27T17:07:56+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Everson Griffen: My desire is to play again",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/everson-griffen-my-desire-is-to-play-again",
@@ -934,14 +966,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Drake Maye: Jared Wilson's done \"a great job of understanding\" what goes into playing center",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-jared-wilsons-done-a-great-job-of-understanding-what-goes-into-playing-center",
-      "description": "A.J....",
-      "pubDate": "2026-07-27T12:17:29+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Source: Cardinals' Brissett guaranteed $15.5M in reworked deal",
       "link": "https://www.espn.com/nfl/story/_/id/49456720/source-cardinals-brissett-guaranteed-155m-reworked-deal",
       "description": "The Cardinals and quarterback Jacoby Brissett reached agreement on a reworked contract that will pay him $15.5 million guaranteed this season with the chance to make $21 million with incentives, a source told ESPN's Adam Schefter.",
@@ -974,14 +998,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0721/r1692239_1296x729_16-9.jpg"
     },
     {
-      "title": "2026 Cardinals training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49426382/arizona-cardinals-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Cardinals training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-27T00:05:59Z",
-      "source": "ESPN NFL · Josh Weinfuss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0608/r1669978_1296x729_16-9.jpg"
-    },
-    {
       "title": "Chris Foerster: Coaching the 49ers in Kyle Shanahan's absence is \"really a group thing\"",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-foerster-coaching-the-49ers-in-kyle-shanahans-absence-is-really-a-group-thing",
       "description": "With 49ers coach Kyle Shanahan limited at training camp due to a severe concussion suffered in a recent car accident, assistant head coach/offensive line Chris Foerster is running ...",
@@ -1012,14 +1028,6 @@
       "pubDate": "2026-07-26T21:27:13Z",
       "source": "ESPN NFL · Nick Wagoner",
       "thumbnail": "https://a.espncdn.com/photo/2025/0925/r1551045_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Kyle Shanahan attends roughly 30 minutes of 49ers' practice on Sunday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-attends-roughly-30-minutes-of-49ers-practice-on-sunday",
-      "description": "49ers coach Kyle Shanahan is recovering from various injuries sustained in a July 14 car accident....",
-      "pubDate": "2026-07-26T19:52:13+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "Fernando Mendoza: I'm competing with, not against, Kirk Cousins",
@@ -1118,14 +1126,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Kyle Shanahan suffered \"severe concussion\" and other injuries in July 14 car accident",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-suffered-severe-concussion-and-other-injuries-in-july-14-car-accident",
-      "description": "Shanahan will participate in training-camp on a limited basis....",
-      "pubDate": "2026-07-25T16:18:50+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Bill Belichick wants NCAA and NFL playing rules to be standardized",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-wants-ncaa-and-nfl-playing-rules-to-be-standardized",
       "description": "After 50 years in the NFL, Bill Belichick is starting his second season as a college coach....",
@@ -1180,14 +1180,6 @@
       "pubDate": "2026-07-23T20:47:21+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/scourton1.jpg"
-    },
-    {
-      "title": "Fernando Mendoza Signs $57.27M Rookie Contract With Las Vegas Raiders",
-      "link": "https://www.foxsports.com/stories/nfl/raiders-fernando-mendoza-signs-rookie-contract",
-      "description": "Quarterback and 2026 No. 1 pick Fernando Mendoza has reportedly signed a $57.27 million rookie contract with the Las Vegas Raiders.",
-      "pubDate": "2026-07-23T20:41:48+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/fernando2.jpg"
     },
     {
       "title": "Sean McVay: Aaron Donald is thinking about this, will go through his process",
