@@ -1,13 +1,213 @@
 {
-  "generatedAt": "2026-07-30T22:42:22.426449+00:00",
+  "generatedAt": "2026-07-30T23:57:34.571216+00:00",
   "nfl": [
+    {
+      "title": "Cleveland Browns continue to sit low in the preseason rankings",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-continue-sit-low-232026240.html",
+      "description": "There is still plenty of road ahead before the 2026 season opens. But the QB position continues to be a drain....",
+      "pubDate": "2026-07-30T23:51:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Packers to sign a former starting long snapper Cal Adomitis",
+      "link": "https://sports.yahoo.com/articles/packers-sign-former-starting-long-235132421.html",
+      "description": "Cal Adomitis has previous starting experience with the Cincinnati Bengals and Philadelphia Eagles...",
+      "pubDate": "2026-07-30T23:51:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mayfield felt 'disrespected' and 'undervalued' by Buccaneers' offers",
+      "link": "https://www.espn.com/nfl/story/_/id/49489537/mayfield-felt-disrespected-undervalued-buccaneers-offers",
+      "description": "Buccaneers quarterback Baker Mayfield said Thursday that he felt \"disrespected a little bit\" that he and the team could not reach an agreement on a new contract before his imposed deadline of the start of training camp.",
+      "pubDate": "2026-07-30T23:49:48Z",
+      "source": "ESPN NFL · Jenna Laine",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695587_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Arizona Cardinals training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49426382/arizona-cardinals-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Cardinals training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:49:32Z",
+      "source": "ESPN NFL · Josh Weinfuss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695755_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Dallas Cowboys training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:47:59Z",
+      "source": "ESPN NFL · Todd Archer",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695765_608x342_16-9.jpg"
+    },
+    {
+      "title": "Tyler Allgeier 'building' relationship with rookie RB Jeremiyah Love",
+      "link": "https://www.espn.com/nfl/story/_/id/49492396/tyler-allgeier-building-relationship-rookie-rb-jeremiyah-love",
+      "description": "Cardinals running back Tyler Allgeier doesn't think there's a point in \"being a jerk\" about being on the wrong end of his team drafting a running back in the first round with him already on the roster, he said Thursday.",
+      "pubDate": "2026-07-30T23:47:35Z",
+      "source": "ESPN NFL · Josh Weinfuss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695739_600x400_3-2.jpg"
+    },
+    {
+      "title": "George Pickens appreciates Jerry Jones&#39; kind words",
+      "link": "https://sports.yahoo.com/articles/george-pickens-appreciates-jerry-jones-234413395.html",
+      "description": "George Pickens heard Jerry Jones&#39; comment from Tuesday about the wide receiver potentially being &quot;a Cowboy for the rest of his career.&quot;...",
+      "pubDate": "2026-07-30T23:44:13+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Chicago Bears training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:44:04Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695649_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Saints WR Chris Olave gets multi-year extension",
+      "link": "https://sports.yahoo.com/articles/saints-wr-chris-olave-gets-233434733.html",
+      "description": "Saints agree on new extension with their star wide receiver...",
+      "pubDate": "2026-07-30T23:34:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:27:01Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695749_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:21:58Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695249_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:21:29Z",
+      "source": "ESPN NFL · Jamison Hensley",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695655_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:16:56Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695698_608x342_16-9.jpg"
+    },
+    {
+      "title": "Report: Colts work out former All-Rookie Team veteran wideout",
+      "link": "https://sports.yahoo.com/articles/report-colts-former-rookie-team-231626417.html",
+      "description": "The Colts worked out a blast from Pittsburgh’s past by bringing in veteran wideout Chase Claypool....",
+      "pubDate": "2026-07-30T23:16:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Will Puka Nacua be first $50 million receiver?",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-first-50-million-231411293.html",
+      "description": "How long can the Rams afford to wait to pay Puka Nacua?...",
+      "pubDate": "2026-07-30T23:14:11+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL training camp: Latest news, intel for all 32 teams",
+      "link": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "pubDate": "2026-07-30T23:12:41Z",
+      "source": "ESPN NFL · NFL Nation",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695700_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Buffalo Bills sign NFL veteran WR Dante Pettis",
+      "link": "https://sports.yahoo.com/articles/buffalo-bills-sign-nfl-veteran-231045596.html",
+      "description": "The Buffalo Bills add seven-year NFL veteran WR Dante Pettis, who has played for four different NFC teams....",
+      "pubDate": "2026-07-30T23:10:45+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chicago Bears Over/Under Win Total: Can Caleb Williams' Heroics Continue?",
+      "link": "https://www.foxsports.com/stories/nfl/chicago-bears-over-under-win-total",
+      "description": "Check out the 2026 O/U win total for the Bears, who won 11 games last season and finished first in the NFC North.",
+      "pubDate": "2026-07-30T23:08:46+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/01/caleb-williams.jpg"
+    },
+    {
+      "title": "2026 Carolina Panthers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49377273/carolina-panthers-training-camp-2026-intel-updates",
+      "description": "Follow our updates from Panthers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:07:22Z",
+      "source": "ESPN NFL · ESPN Staff Profile",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695301_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 New York Giants training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:05:43Z",
+      "source": "ESPN NFL · Jordan Raanan",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695737_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Las Vegas Raiders training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49425032/las-vegas-raiders-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Raiders training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:05:19Z",
+      "source": "ESPN NFL · Ryan McFadden",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695744_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Bills sign WR Dante Pettis",
+      "link": "https://sports.yahoo.com/articles/bills-sign-wr-dante-pettis-230222750.html",
+      "description": "The Bills worked out veteran wide receiver KhaDarel Hodge, Dante Pettis and Isaiah Whitehead....",
+      "pubDate": "2026-07-30T23:02:22+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 New Orleans Saints training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T22:52:54Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695660_608x342_16-9.jpg"
+    },
+    {
+      "title": "Saints' Chris Olave signing four-year extension worth up to $132M",
+      "link": "https://www.espn.com/nfl/story/_/id/49491421/saints-chris-olave-signing-four-year-extension-worth-132m",
+      "description": "The Saints are signing wide receiver Chris Olave to a four-year extension worth up to $132 million, including $90 million guaranteed, his agents Drew Rosenhaus and Jason Rosenhaus told ESPN's Adam Schefter.",
+      "pubDate": "2026-07-30T22:49:50Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695699_1296x729_16-9.jpg"
+    },
     {
       "title": "Spears, Kimes excited for Chris Olave after extension with the Saints",
       "link": "https://www.espn.com/video/clip/_/id/49492047/spears-kimes-excited-chris-olave-extension-saints",
       "description": "Spears, Kimes excited for Chris Olave after extension with the Saints  ",
-      "pubDate": "2026-07-30T22:41:42Z",
+      "pubDate": "2026-07-30T22:48:38Z",
       "source": "ESPN NFL",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/ss_20260730_182444215_36080111120/ss_20260730_182444215_36080111120.jpg"
+    },
+    {
+      "title": "Ravens RB Derrick Henry has no thoughts of retirement",
+      "link": "https://sports.yahoo.com/articles/ravens-rb-derrick-henry-no-224355076.html",
+      "description": "Ravens running back Derrick Henry is 32....",
+      "pubDate": "2026-07-30T22:43:55+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "2026 New England Patriots training camp: Latest intel, updates",
@@ -18,14 +218,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695666_608x342_16-9.jpg"
     },
     {
-      "title": "2026 New York Giants training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T22:37:25Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695737_1296x729_16-9.jpg"
-    },
-    {
       "title": "Giants have spoken with Cam Skattebo after Fanatics Fest flip",
       "link": "https://www.espn.com/nfl/story/_/id/49491778/giants-spoken-cam-skattebo-fanatics-fest-flip",
       "description": "Giants coach John Harbaugh and general manager Joe Schoen have had conversations with running back Cam Skattebo following his backflip at Fanatics Fest two weeks ago.",
@@ -34,12 +226,12 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0719/r1691340_600x600_1-1.jpg"
     },
     {
-      "title": "2026 Las Vegas Raiders training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49425032/las-vegas-raiders-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Raiders training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T22:35:57Z",
-      "source": "ESPN NFL · Ryan McFadden",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695322_608x342_16-9.jpg"
+      "title": "Buffalo Bills looking for WR help after Jalen Virgil’s NFI release",
+      "link": "https://sports.yahoo.com/articles/buffalo-bills-looking-wr-help-223216630.html",
+      "description": "The Buffalo Bills Buffalo Bills looking for WR help after Jalen Virgil’s NFI release...",
+      "pubDate": "2026-07-30T22:32:16+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
@@ -50,8 +242,8 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695314_608x342_16-9.jpg"
     },
     {
-      "title": "With Tua, Penix sidelined, undrafted rookie QB getting first-team reps with Falcons",
-      "link": "https://sports.yahoo.com/nfl/article/with-tua-penix-sidelined-undrafted-rookie-qb-getting-first-team-reps-with-falcons-222936193.html",
+      "title": "With Tua Tagovailoa and Penix sidelined, undrafted rookie QB getting first-team reps with Falcons",
+      "link": "https://sports.yahoo.com/nfl/article/with-tua-tagovailoa-and-penix-sidelined-undrafted-rookie-qb-getting-first-team-reps-with-falcons-222936193.html",
       "description": "The Falcons were short of quarterback arms Thursday, thrusting undrafted free agent Jack Strand in with the first-team offense. Does he have a shot to make it?...",
       "pubDate": "2026-07-30T22:29:36+00:00",
       "source": "Yahoo NFL",
@@ -80,22 +272,6 @@
       "pubDate": "2026-07-30T22:20:55Z",
       "source": "ESPN NFL · Brooke Pryor",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695672_1024x683_3-2.jpg"
-    },
-    {
-      "title": "Saints' Chris Olave signing four-year extension worth up to $132M",
-      "link": "https://www.espn.com/nfl/story/_/id/49491421/saints-chris-olave-signing-four-year-extension-worth-132m",
-      "description": "The Saints are signing wide receiver Chris Olave to a four-year extension worth up to $132 million, including $90 million guaranteed, his agents Drew Rosenhaus and Jason Rosenhaus told ESPN's Adam Schefter.",
-      "pubDate": "2026-07-30T22:17:39Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695699_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T22:14:28Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695249_1296x729_16-9.jpg"
     },
     {
       "title": "Acclimation practice Day 2 news and notes",
@@ -224,190 +400,30 @@
       "pubDate": "2026-07-30T21:30:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Packers work out pass-catchers, long snappers on Thursday",
-      "link": "https://sports.yahoo.com/articles/packers-pass-catchers-long-snappers-212934271.html",
-      "description": "Cal Adomitis, a tryout player for Green Bay, previously started at long snapper for the Bengals and Eagles...",
-      "pubDate": "2026-07-30T21:29:34+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bucs focused on 'ball' despite Mayfield, Vea contract distractions",
-      "link": "https://www.espn.com/nfl/story/_/id/49470179/tampa-bay-buccaneers-contract-disappointment-baker-mayfield-hold-vita-vea",
-      "description": "Contract situations for Tampa Bay quarterback Baker Mayfield and nose tackle Vita Vea have become major headlines this week.",
-      "pubDate": "2026-07-30T21:27:39Z",
-      "source": "ESPN NFL · Jenna Laine",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0728/r1694644_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Buffalo Bills training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T21:27:01Z",
-      "source": "ESPN NFL · Alaina Getzenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695652_1296x729_16-9.jpg"
-    },
-    {
-      "title": "NFL insider Mike Garofalo provides big update on Leonard Williams extension talks",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-mike-garofalo-provides-212411315.html",
-      "description": "An update on the Seahawks’ Leonard Williams contract negotiations....",
-      "pubDate": "2026-07-30T21:24:11+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Los Angeles Chargers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49424976/los-angeles-chargers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Chargers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T21:20:26Z",
-      "source": "ESPN NFL · Kris Rhim",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695713_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T21:15:27Z",
-      "source": "ESPN NFL · Brooke Pryor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695698_608x342_16-9.jpg"
-    },
-    {
-      "title": "Mike Clay's early 2026 fantasy football PPR rankings",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/47513496/2026-fantasy-football-rankings-ppr-mike-clay",
-      "description": "Position-by-position rankings for the 2026 fantasy season, updated throughout the summer.",
-      "pubDate": "2026-07-30T21:14:15Z",
-      "source": "ESPN NFL · Mike Clay",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0330/r1636142_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Saints sign Chris Olave to contract extension. Here&#39;s what it means",
-      "link": "https://sports.yahoo.com/articles/saints-sign-chris-olave-contract-211146799.html",
-      "description": "The Saints are signing star WR Chris Olave to a long-term contract extension. Here are the full details of the deal and what it means for New Orleans....",
-      "pubDate": "2026-07-30T21:11:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Cleveland Browns training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Browns training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T21:10:03Z",
-      "source": "ESPN NFL · Daniel Oyefusi",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695695_608x342_16-9.jpg"
-    },
-    {
-      "title": "Fantasy football 2026 defensive depth charts",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/47879765/fantasy-football-2026-defensive-depth-charts",
-      "description": "Your guide to each NFL team's most valuable fantasy defensive players for the 2026 season.",
-      "pubDate": "2026-07-30T21:09:49Z",
-      "source": "ESPN NFL · Mike Clay",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0102/r1433853_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Fantasy football 2026 offensive depth charts",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
-      "description": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
-      "pubDate": "2026-07-30T21:07:54Z",
-      "source": "ESPN NFL · Mike Clay",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0121/r1603677_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Chris Olave agrees to four-year extension with Saints",
-      "link": "https://sports.yahoo.com/articles/chris-olave-agrees-four-extension-210626542.html",
-      "description": "Olave&#39;s deal is worth $132 million with $90 million guaranteed....",
-      "pubDate": "2026-07-30T21:06:26+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Free agent S Jordan Whitehead visits Steelers",
-      "link": "https://sports.yahoo.com/articles/free-agent-jordan-whitehead-visits-210607949.html",
-      "description": "The Steelers hosted veteran safety Jordan Whitehead for a free agent visit on Thursday, according to the NFL personnel notice....",
-      "pubDate": "2026-07-30T21:06:07+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football cheat sheets: PPR, non-PPR, depth charts",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFCheatSheetCent26-48640423/2026-fantasy-football-rankings-cheat-sheet-depth-charts-ppr",
-      "description": "Our collection of downloadable, printable cheat sheets for the 2026 fantasy football season, including PPR, non-PPR and dynasty/keeper leagues.",
-      "pubDate": "2026-07-30T21:05:51Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0601/r1666642_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Detroit Lions teammates hopeful Jahmyr Gibbs’ hold-in ends soon",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-teammates-hopeful-jahmyr-205917069.html",
-      "description": "Jahmyr Gibbs’ hold-in continues, but Detroit Lions teammates are hopeful he’ll return soon....",
-      "pubDate": "2026-07-30T20:59:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers work out 3 RBs, including former Bears starter",
-      "link": "https://sports.yahoo.com/articles/49ers-3-rbs-including-former-205652751.html",
-      "description": "The 49ers are looking to add at running back after Jordan James’s injury....",
-      "pubDate": "2026-07-30T20:56:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chase Claypool tried out for Colts on Thursday",
-      "link": "https://sports.yahoo.com/articles/chase-claypool-tried-colts-thursday-205513096.html",
-      "description": "The Colts brought in a familiar name for a tryout, but it doesn&#39;t appear as if it was successful....",
-      "pubDate": "2026-07-30T20:55:13+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anatomy of an NFL holdout: What it's like for players, agents, teams",
-      "link": "https://www.espn.com/nfl/story/_/id/45789518/nfl-training-camp-holdouts-trey-hendrickson-terry-mclaurin",
-      "description": "Holdouts can be brutal. Here are some notable stories from each side of the bargaining table.",
-      "pubDate": "2026-07-30T20:54:48Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1019/r1562688_608x342_16-9.jpg"
-    },
-    {
-      "title": "Saints, star WR Chris Olave reportedly agree to 4-year extension, worth up to $132 million",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/saints-star-wr-chris-olave-reportedly-agree-to-4-year-extension-worth-up-to-132-million-205348660.html",
-      "description": "Olave now becomes one of the highest-paid wideouts in the NFL....",
-      "pubDate": "2026-07-30T20:53:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jets sign WR Quincy Skinner",
-      "link": "https://sports.yahoo.com/articles/jets-sign-wr-quincy-skinner-204649403.html",
-      "description": "The Jets shuffled up their wide receiver group on Thursday....",
-      "pubDate": "2026-07-30T20:46:49+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cleveland Browns Training Camp Recap: Day 2 – Deion Sanders in the house",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-training-camp-recap-204423783.html",
-      "description": "Browns training camp sees a noteworthy guest as the quarterback competition continues on Day 2....",
-      "pubDate": "2026-07-30T20:44:23+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "3 Training Camp Notes from Day 3 of 49ers practice: What’s Deebo Samuel up to?",
-      "link": "https://sports.yahoo.com/articles/3-training-camp-notes-day-203000883.html",
-      "description": "Well, it’s groundog’s day, again....",
-      "pubDate": "2026-07-30T20:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
     {
+      "title": "Northwestern's Braun raring to unveil new OC Kelly's offense",
+      "link": "https://www.espn.com/college-football/story/_/id/49492406/northwestern-braun-raring-unveil-new-oc-kelly-offense",
+      "description": "Northwestern coach David Braun raved about the team's offense under new offensive coordinator Chip Kelly, saying his arrival at the program marked a \"transformative change.\"",
+      "pubDate": "2026-07-30T23:22:59Z",
+      "source": "ESPN College Football · Pete Thamel",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0204/r1610463_600x400_3-2.jpg"
+    },
+    {
+      "title": "Prosecutors: Informant in Pata case says attorney tried to bribe him",
+      "link": "https://www.espn.com/college-football/story/_/id/49492106/informant-pata-case-says-attorney-tried-bribe-him",
+      "description": "Jailhouse informant George Jones did not testify in the first trial of Rashaun Jones. He told authorities the defense tried paying him not to testify in the retrial.",
+      "pubDate": "2026-07-30T23:16:22Z",
+      "source": "ESPN College Football · Paula Lavigne and Dan Arruda",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0302/r1622237_1296x729_16-9.jpg"
+    },
+    {
       "title": "Senate adjourns without scheduling vote Protect College Sports Act",
       "link": "https://www.espn.com/college-sports/story/_/id/49491567/senate-adjourns-scheduling-vote-protect-college-sports-act",
       "description": "The U.S. Senate adjourned for the week Thursday without scheduling a vote for the Protect College Sports Act, a bill aimed at reforming college sports.",
-      "pubDate": "2026-07-30T22:33:45Z",
+      "pubDate": "2026-07-30T23:07:59Z",
       "source": "ESPN College Football · Dan Murphy and Pete Thamel",
       "thumbnail": "https://a.espncdn.com/photo/2023/0720/r1199860_600x400_3-2.jpg"
     },
@@ -786,25 +802,137 @@
       "pubDate": "2026-07-27T20:31:34+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/fsdnjks0325v2.jpg"
-    },
-    {
-      "title": "UNC football GM Michael Lombardi on paid administrative leave",
-      "link": "https://www.espn.com/college-football/story/_/id/49461839/unc-football-gm-michael-lombardi-paid-administrative-leave",
-      "description": "North Carolina football GM Michael Lombardi, a top aide to coach Bill Belichick, has been placed on paid administrative leave by the university.",
-      "pubDate": "2026-07-27T20:25:39Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694250_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Brian Hartline is readying USF for the next shift in college football",
-      "link": "https://www.espn.com/college-football/story/_/id/49463325/brian-hartline-readying-usf-college-football-next-shift",
-      "description": "The former Ohio State OC is in his first year as a head coach in Tampa, where USF is focused on the future.",
-      "pubDate": "2026-07-27T19:22:56Z",
-      "source": "ESPN College Football · Pete Thamel",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0723/r1692888_1296x729_16-9.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "Mayfield felt 'disrespected' and 'undervalued' by Buccaneers' offers",
+      "link": "https://www.espn.com/nfl/story/_/id/49489537/mayfield-felt-disrespected-undervalued-buccaneers-offers",
+      "description": "Buccaneers quarterback Baker Mayfield said Thursday that he felt \"disrespected a little bit\" that he and the team could not reach an agreement on a new contract before his imposed deadline of the start of training camp.",
+      "pubDate": "2026-07-30T23:49:48Z",
+      "source": "ESPN NFL · Jenna Laine",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695587_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Arizona Cardinals training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49426382/arizona-cardinals-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Cardinals training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:49:32Z",
+      "source": "ESPN NFL · Josh Weinfuss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695755_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Dallas Cowboys training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:47:59Z",
+      "source": "ESPN NFL · Todd Archer",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695765_608x342_16-9.jpg"
+    },
+    {
+      "title": "George Pickens appreciates Jerry Jones' kind words",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-pickens-appreciates-jerry-jones-kind-words",
+      "description": "George Pickens heard Jerry Jones' comment from Tuesday about the wide receiver potentially being \"a Cowboy for the rest of his career.\"...",
+      "pubDate": "2026-07-30T23:44:13+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Chicago Bears training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:44:04Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695649_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:27:01Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695749_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:21:58Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695249_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:21:29Z",
+      "source": "ESPN NFL · Jamison Hensley",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695655_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:16:56Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695698_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Carolina Panthers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49377273/carolina-panthers-training-camp-2026-intel-updates",
+      "description": "Follow our updates from Panthers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:07:22Z",
+      "source": "ESPN NFL · ESPN Staff Profile",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695301_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 New York Giants training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:05:43Z",
+      "source": "ESPN NFL · Jordan Raanan",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695737_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Las Vegas Raiders training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49425032/las-vegas-raiders-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Raiders training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T23:05:19Z",
+      "source": "ESPN NFL · Ryan McFadden",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695744_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Bills sign WR Dante Pettis",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-sign-wr-dante-pettis",
+      "description": "The Bills worked out veteran wide receiver KhaDarel Hodge, Dante Pettis and Isaiah Whitehead....",
+      "pubDate": "2026-07-30T23:02:22+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 New Orleans Saints training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T22:52:54Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695660_608x342_16-9.jpg"
+    },
+    {
+      "title": "Saints' Chris Olave signing four-year extension worth up to $132M",
+      "link": "https://www.espn.com/nfl/story/_/id/49491421/saints-chris-olave-signing-four-year-extension-worth-132m",
+      "description": "The Saints are signing wide receiver Chris Olave to a four-year extension worth up to $132 million, including $90 million guaranteed, his agents Drew Rosenhaus and Jason Rosenhaus told ESPN's Adam Schefter.",
+      "pubDate": "2026-07-30T22:49:50Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695699_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Ravens RB Derrick Henry has no thoughts of retirement",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-rb-derrick-henry-has-no-thoughts-of-retirement",
+      "description": "Ravens running back Derrick Henry is 32....",
+      "pubDate": "2026-07-30T22:43:55+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "2026 New England Patriots training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
@@ -814,44 +942,12 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695666_608x342_16-9.jpg"
     },
     {
-      "title": "2026 New York Giants training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T22:37:25Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695737_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Las Vegas Raiders training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49425032/las-vegas-raiders-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Raiders training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T22:35:57Z",
-      "source": "ESPN NFL · Ryan McFadden",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695322_608x342_16-9.jpg"
-    },
-    {
       "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
       "pubDate": "2026-07-30T22:31:13Z",
       "source": "ESPN NFL · Kevin Seifert",
       "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695314_608x342_16-9.jpg"
-    },
-    {
-      "title": "Saints' Chris Olave signing four-year extension worth up to $132M",
-      "link": "https://www.espn.com/nfl/story/_/id/49491421/saints-chris-olave-signing-four-year-extension-worth-132m",
-      "description": "The Saints are signing wide receiver Chris Olave to a four-year extension worth up to $132 million, including $90 million guaranteed, his agents Drew Rosenhaus and Jason Rosenhaus told ESPN's Adam Schefter.",
-      "pubDate": "2026-07-30T22:17:39Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695699_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T22:14:28Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695249_1296x729_16-9.jpg"
     },
     {
       "title": "Packers to sign WR Kaden Prather",
@@ -932,14 +1028,6 @@
       "pubDate": "2026-07-30T21:20:26Z",
       "source": "ESPN NFL · Kris Rhim",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695713_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T21:15:27Z",
-      "source": "ESPN NFL · Brooke Pryor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695698_608x342_16-9.jpg"
     },
     {
       "title": "Mike Clay's early 2026 fantasy football PPR rankings",
@@ -1030,14 +1118,6 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/baker-mayfield.jpg"
     },
     {
-      "title": "2026 New Orleans Saints training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T20:20:00Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695660_608x342_16-9.jpg"
-    },
-    {
       "title": "Colts sign WR Liam Clifford",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-sign-wr-liam-clifford",
       "description": "The Colts have added a receiver....",
@@ -1078,14 +1158,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695661_1296x729_16-9.jpg"
     },
     {
-      "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T19:29:03Z",
-      "source": "ESPN NFL · Jamison Hensley",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695655_1296x729_16-9.jpg"
-    },
-    {
       "title": "Nick Bosa suggests Joey Bosa won't play this season",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-bosa-suggests-joey-bosa-wont-play-this-season",
       "description": "Defensive end Joey Bosa remains a free agent and apparently it's going to remain that way for the foreseeable future. 49ers defensive end Nick Bosa said May 28 that his older broth...",
@@ -1118,14 +1190,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0728/r1694801_608x342_16-9.jpg"
     },
     {
-      "title": "Mayfield felt 'disrespected' and 'undervalued' by Buccaneers' offers",
-      "link": "https://www.espn.com/nfl/story/_/id/49489537/mayfield-felt-disrespected-undervalued-buccaneers-offers",
-      "description": "Buccaneers quarterback Baker Mayfield said Thursday that he felt \"disrespected a little bit\" that he and the team could not reach an agreement on a new contract before his imposed deadline of the start of training camp.",
-      "pubDate": "2026-07-30T19:11:40Z",
-      "source": "ESPN NFL · Jenna Laine",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695587_1296x729_16-9.jpg"
-    },
-    {
       "title": "Rome Odunze clarifies \"new normal\" comment: \"My foot feels amazing\"",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rome-odunze-clarifies-new-normal-comment-my-foot-feels-amazing",
       "description": "Bears receiver Rome Odunze raised some concerns about his foot when he told reporters during the offseason program that his “new normal” is going to be dealing with some sort of di...",
@@ -1138,70 +1202,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-if-ricky-pearsall-requires-surgery-it-will-keep-him-out-for-all-of-2026",
       "description": "49ers wide receiver Ricky Pearsall is out of practice due to swelling in his knee related to the PCL injury he suffered during the 2025 season and the 49ers said on Wednesday that ...",
       "pubDate": "2026-07-30T19:10:34+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seahawks rookie DT Deven Eastern back on active roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-rookie-dt-deven-eastern-back-on-active-roster",
-      "description": "The Seahawks activated rookie defensive tackle Deven Eastern from the active/physically unable to perform list on Thursday after he passed a physical, the team announced....",
-      "pubDate": "2026-07-30T19:07:48+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Chicago Bears training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T19:03:28Z",
-      "source": "ESPN NFL · Courtney Cronin",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695649_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T18:59:31Z",
-      "source": "ESPN NFL · Nate Taylor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695648_608x342_16-9.jpg"
-    },
-    {
-      "title": "Cowboys S P.J. Locke sidelined by hyperextended knee",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-s-p-j-locke-sidelined-by-hyperextended-knee",
-      "description": "Safety P.J....",
-      "pubDate": "2026-07-30T18:54:55+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Andrew Berry on QBs: We'll let it play out, figure it out as we go",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andrew-berry-on-qbs-well-let-it-play-out-figure-it-out-as-we-go",
-      "description": "The Browns are alternating Shedeur Sanders and Deshaun Watson at quarterback with the first-team offense to start training camp, which is largely the same process as the team emplo...",
-      "pubDate": "2026-07-30T18:35:53+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Super Bowl Odds: Rams Favored Heading Into Training Camp",
-      "link": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "description": "Let’s take a look at the updated 2026 Super Bowl odds heading into training camp.",
-      "pubDate": "2026-07-30T18:27:18+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/mvp.jpg"
-    },
-    {
-      "title": "DaRon Bland says he's all the way back after two frustrating, injury-riddled seasons",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/daron-bland-says-hes-all-the-way-back-after-two-frustrating-injury-riddled-seasons",
-      "description": "Cowboys cornerback DaRon Bland set an NFL record with five pick-sixes in 2023....",
-      "pubDate": "2026-07-30T18:06:30+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Court appearances for Eric Bieniemy's son delayed pending mental health evaluation",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/court-appearances-for-eric-bieniemys-son-delayed-pending-mental-health-evaluation",
-      "description": "A pair of court appearances involving the son of Chiefs offensive coordinator Eric Bieniemy have been delayed pending a mental health evaluation....",
-      "pubDate": "2026-07-30T18:04:11+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     }
