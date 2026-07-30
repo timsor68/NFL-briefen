@@ -1,29 +1,333 @@
 {
-  "generatedAt": "2026-07-30T15:24:34.560716+00:00",
+  "generatedAt": "2026-07-30T17:06:47.349655+00:00",
   "nfl": [
     {
-      "title": "2026 Detroit Lions training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T15:20:42Z",
-      "source": "ESPN NFL · Eric Woodyard",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695581_2_608x342_16-9.jpg"
+      "title": "Fantasy football buzz: Ricky Pearsall 'concern,' excitement about Jonathon Brooks",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "description": "Is Pearsall's fantasy sleeper status in danger? Will Brooks emerge as the Panthers' starter by season's end?",
+      "pubDate": "2026-07-30T17:04:36Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695595_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Miami Dolphins training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49410015/miami-dolphins-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Dolphins training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T17:01:41Z",
+      "source": "ESPN NFL · Marcel Louis-Jacques",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695607_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Houston Texans training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49419567/houston-texans-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Houston Texans training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:58:32Z",
+      "source": "ESPN NFL · DJ Bien-Aime",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695237_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Atlanta Falcons training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448429/atlanta-falcons-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Falcons training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:55:34Z",
+      "source": "ESPN NFL · Marc Raimondi",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695604_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Baker Mayfield says he feels 'disrespected and undervalued' by Bucs",
+      "link": "https://www.espn.com/video/clip/_/id/49489565/baker-mayfield-says-feels-disrespected-undervalued-bucs",
+      "description": "Baker Mayfield says he feels 'disrespected and undervalued' by Bucs",
+      "pubDate": "2026-07-30T16:55:23Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/ss_20260730_125021174_3607701773/ss_20260730_125021174_3607701773.jpg"
+    },
+    {
+      "title": "Mayfield felt 'disrespected' and 'undervalued' by Buccaneers' offers",
+      "link": "https://www.espn.com/nfl/story/_/id/49489537/mayfield-felt-disrespected-undervalued-buccaneers-offers",
+      "description": "Buccaneers quarterback Baker Mayfield said Thursday that he felt \"disrespected a little bit\" that he and the team could not reach an agreement on a new contract before his imposed deadline of the start of training camp.",
+      "pubDate": "2026-07-30T16:50:03Z",
+      "source": "ESPN NFL · Jenna Laine",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695587_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:48:59Z",
+      "source": "ESPN NFL · Michael DiRocco",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695602_608x342_16-9.jpg"
+    },
+    {
+      "title": "GM Andrew Berry 'hopeful' Browns can reunite with Jadeveon Clowney",
+      "link": "https://www.espn.com/nfl/story/_/id/49489309/gm-andrew-berry-hopeful-browns-reunite-jadeveon-clowney",
+      "description": "Browns general manager Andrew Berry said he is \"hopeful\" the team will sign Jadeveon Clowney after the veteran defensive end visited the facility Wednesday.",
+      "pubDate": "2026-07-30T16:43:09Z",
+      "source": "ESPN NFL · Daniel Oyefusi",
+      "thumbnail": "https://a.espncdn.com/photo/2023/0224/r1135619_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 NFL training camp: Latest news, intel for all 32 teams",
+      "link": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
+      "description": "Get all the news, intel and insights on NFL training camps from our team of reporters in the field.",
+      "pubDate": "2026-07-30T16:42:34Z",
+      "source": "ESPN NFL · NFL Nation",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695362_608x342_16-9.jpg"
+    },
+    {
+      "title": "Falcons sign LB Josh Woods",
+      "link": "https://sports.yahoo.com/articles/falcons-sign-lb-josh-woods-164234465.html",
+      "description": "Linebacker Josh Woods is back for another run with the Falcons....",
+      "pubDate": "2026-07-30T16:42:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "2026 NFL season: How Ward, Dart, Shough, Sanders can improve",
       "link": "https://www.espn.com/nfl/story/_/id/49480176/2026-nfl-season-second-year-sophomore-qbs-ward-dart-shough-sanders",
       "description": "Cam Ward, Jaxson Dart, Tyler Shough and Shedeur Sanders are entering Year 2 in the NFL. Let's find one spot where each sophomore QB must get better in 2026.",
-      "pubDate": "2026-07-30T15:18:52Z",
+      "pubDate": "2026-07-30T16:38:17Z",
       "source": "ESPN NFL · Ben Solak",
       "thumbnail": "https://a.espncdn.com/photo/2026/0728/nfl_solak-4-qbs_16x9.jpg"
+    },
+    {
+      "title": "Baker Mayfield shuts down contract talk, expresses disappointment with no new deal from Bucs",
+      "link": "https://sports.yahoo.com/nfl/article/baker-mayfield-shuts-down-contract-talk-expresses-disappointment-with-no-new-deal-from-bucs-163605431.html",
+      "description": "Baker Mayfield has shut down extension talks with the Buccaneers, expressing his disappointment with not getting a long-term deal done....",
+      "pubDate": "2026-07-30T16:36:05+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Detroit Lions training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:34:27Z",
+      "source": "ESPN NFL · Eric Woodyard",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695581_2_608x342_16-9.jpg"
+    },
+    {
+      "title": "Sean Payton will be Drew Brees&#39;s Hall of Fame presenter",
+      "link": "https://sports.yahoo.com/articles/sean-payton-drew-breess-hall-163427317.html",
+      "description": "Drew Brees and Sean Payton teamed up to win a lot of games with the Saints and Brees will tap into that history at next month&#39;s Hall of Fame induction ceremony....",
+      "pubDate": "2026-07-30T16:34:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Court delays for Eric Bieniemy's son, pending mental health check",
+      "link": "https://www.espn.com/nfl/story/_/id/49489229/court-delays-eric-bieniemy-son-pending-mental-health-check",
+      "description": "Two court appearances scheduled for the 27-year-old son of Kansas City Chiefs offensive coordinator Eric Bieniemy in connection with the shooting of his mother at their Virginia home have been delayed pending a mental health evaluation.",
+      "pubDate": "2026-07-30T16:32:34Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694182_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Washington Commanders training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448046/washington-commanders-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Commanders training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:32:18Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695599_608x342_16-9.jpg"
+    },
+    {
+      "title": "Shemar Stewart avoided major injury, but out &quot;several&quot; weeks with hyperextended knee",
+      "link": "https://sports.yahoo.com/articles/shemar-stewart-avoided-major-injury-163012807.html",
+      "description": "While Bengals defensive end Shemar Stewart was carted off the field from practice on Wednesday, he should be OK relatively soon....",
+      "pubDate": "2026-07-30T16:30:12+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chiefs training camp notebook Day 2: An Offensive line shift",
+      "link": "https://sports.yahoo.com/articles/chiefs-training-camp-notebook-day-163000245.html",
+      "description": "There was a new starting right tackle in Kansas City for Thursday’s practice....",
+      "pubDate": "2026-07-30T16:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Police: Tony Romo had open bottle of alcohol in car when arrested",
+      "link": "https://www.espn.com/nfl/story/_/id/49489175/police-tony-romo-had-open-bottle-alcohol-car-arrested",
+      "description": "CBS NFL analyst and former Cowboys quarterback Tony Romo had an open container of alcohol in his vehicle when he was arrested last week on suspicion of driving under the influence, police say.",
+      "pubDate": "2026-07-30T16:29:19Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2017/0713/r230616_600x400_3-2.jpg"
+    },
+    {
+      "title": "Christian McCaffrey on 49ers rookie Kaelon Black: ‘I can’t say enough good things about him’",
+      "link": "https://sports.yahoo.com/articles/christian-mccaffrey-49ers-rookie-kaelon-161357588.html",
+      "description": "We will see more of Kaelon Black after Jordan James suffered fractured ribs...",
+      "pubDate": "2026-07-30T16:13:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Baker Mayfield on Vita Vea: I hope they take care of him, he deserves it",
+      "link": "https://sports.yahoo.com/articles/baker-mayfield-vita-vea-hope-161145324.html",
+      "description": "Baker Mayfield has some clear problems with the way the Buccaneers handled negotiating a potential contract extension this offseason, saying he feels &quot;disrespected&quot; and &...",
+      "pubDate": "2026-07-30T16:11:45+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Fantasy Football Rankings Tiers: Top tight ends on the board have some quarterback question marks",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-rankings-tiers-top-tight-ends-on-the-board-have-some-quarterback-question-marks-160856846.html",
+      "description": "Fantasy football analyst Scott Pianowski continues his Shuffle Up series with the tight ends....",
+      "pubDate": "2026-07-30T16:08:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Titans WRs join Cam Ward in Miami to build chemistry",
       "link": "https://www.espn.com/nfl/story/_/id/49488512/tennessee-titans-cam-ward-build-chemistry-wrs-miami",
       "description": "After ranking last in passing plays of 40 yards or more, Tennessee's pass catchers worked together this offseason.",
-      "pubDate": "2026-07-30T15:15:54Z",
+      "pubDate": "2026-07-30T16:07:01Z",
       "source": "ESPN NFL · Turron Davenport",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695574_608x342_16-9.jpg"
+    },
+    {
+      "title": "Texans linebacker Jake Hansen carted off the field at training camp",
+      "link": "https://sports.yahoo.com/articles/texans-linebacker-jake-hansen-carted-160646444.html",
+      "description": "Texans linebackers can’t seem to catch a break with the injury bug...",
+      "pubDate": "2026-07-30T16:06:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Source: Bengals' Shemar Stewart suffered hyperextended knee",
+      "link": "https://www.espn.com/nfl/story/_/id/49489169/source-bengals-shemar-stewart-suffered-hyperextended-knee",
+      "description": "Bengals defensive end Shemar Stewart, who was carted off the field with a left leg injury during the first day of training camp, suffered a hyperextended knee and will have treatment, a source told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+      "pubDate": "2026-07-30T16:06:00Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2025/0814/r1531802_600x400_3-2.jpg"
+    },
+    {
+      "title": "Submit your Las Vegas Raiders training camp mailbag questions!",
+      "link": "https://sports.yahoo.com/articles/submit-las-vegas-raiders-training-160500467.html",
+      "description": "Fielding Raider Nation’s questions for the week...",
+      "pubDate": "2026-07-30T16:05:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jerry Jones excites Cowboys camp with potential trade talk",
+      "link": "https://sports.yahoo.com/articles/jerry-jones-excites-cowboys-camp-160000266.html",
+      "description": "Do you think the Cowboys really will pull off some sort of trade?...",
+      "pubDate": "2026-07-30T16:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sean Payton is pleased with the shape Bo Nix is in to start training camp",
+      "link": "https://sports.yahoo.com/articles/sean-payton-pleased-shape-bo-160000949.html",
+      "description": "Sean Payton on Bo Nix: “Yes. I’m pleased with the shape he’s in. The timeline relative to everything we’ve discussed injury-wise is falling into place.&quot;...",
+      "pubDate": "2026-07-30T16:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Is Justin Jefferson primed for a big season with Kyler Murray at QB?",
+      "link": "https://www.espn.com/video/clip/_/id/49489165/is-justin-jefferson-primed-big-season-kyler-murray-qb",
+      "description": "Is Justin Jefferson primed for a big season with Kyler Murray at QB?",
+      "pubDate": "2026-07-30T15:57:15Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/ss_20260730_115413006_3607657/ss_20260730_115413006_3607657.jpg"
+    },
+    {
+      "title": "David Bailey stars on day two of Jets training camp",
+      "link": "https://sports.yahoo.com/articles/david-bailey-stars-day-two-155352403.html",
+      "description": "The Jets conducted their second practice of training camp in 2026 on Thursday, and the big winner of the day was their top pick in the 2026 NFL Draft, edge rusher David Bailey. So ...",
+      "pubDate": "2026-07-30T15:53:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets first-round pick David Bailey impressing early in first training camp: &#39;Everything that we expect him to be&#39;",
+      "link": "https://sports.yahoo.com/articles/jets-first-round-pick-david-155346567.html",
+      "description": "On the second day of Jets training camp, it was the second overall pick in the 2026 NFL Draft, edge rusher David Bailey, who made perhaps the largest impression....",
+      "pubDate": "2026-07-30T15:53:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vic Fangio makes Fauci joke, invokes Fifth Amendment during Eagles presser",
+      "link": "https://sports.yahoo.com/articles/vic-fangio-makes-fauci-joke-155022704.html",
+      "description": "Vic Fangio discovered a new way to answer questions during an Eagles press conference, thanks to Dr. Anthony Fauci....",
+      "pubDate": "2026-07-30T15:50:22+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ahman Green reveals that he has Parkinson&#39;s disease",
+      "link": "https://sports.yahoo.com/articles/ahman-green-reveals-parkinsons-disease-154954948.html",
+      "description": "Running back Ahman Green, a four-time Pro Bowler who played 12 years in the NFL, has disclosed that he has been diagnosed with Parkinson&#39;s disease....",
+      "pubDate": "2026-07-30T15:49:54+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bucs QB Baker Mayfield says he feels &#39;disrespected&#39; amid contract impasse",
+      "link": "https://sports.yahoo.com/articles/bucs-qb-baker-mayfield-says-154347173.html",
+      "description": "After he broke off contract extension talks, Baker Mayfield didn&#39;t hide his disappointment with the result of negotiations with the Buccaneers....",
+      "pubDate": "2026-07-30T15:43:47+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Does George Pickens need a career year for the Cowboys to be Super Bowl contenders?",
+      "link": "https://www.espn.com/video/clip/_/id/49489091/does-george-pickens-need-career-year-cowboys-super-bowl-contenders",
+      "description": "Does George Pickens need a career year for the Cowboys to be Super Bowl contenders?",
+      "pubDate": "2026-07-30T15:42:26Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/ss_20260730_113736555_3607642/ss_20260730_113736555_3607642.jpg"
+    },
+    {
+      "title": "Falcons bring back LB Josh Woods",
+      "link": "https://sports.yahoo.com/articles/falcons-bring-back-lb-josh-154137731.html",
+      "description": "The special teamer returns....",
+      "pubDate": "2026-07-30T15:41:37+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bill Belichick declines to discuss Michael Lombardi situation, UNC chancellor confirms investigation is underway",
+      "link": "https://sports.yahoo.com/college-football/article/bill-belichick-declines-to-discuss-michael-lombardi-situation-unc-chancellor-confirms-investigation-is-underway-153317176.html",
+      "description": "Bill Belichick admitted the team was &quot;working through some things&quot; right now....",
+      "pubDate": "2026-07-30T15:33:17+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "TST Survey Results: Rams’ fans think Aaron Donald will be back",
+      "link": "https://sports.yahoo.com/articles/tst-survey-results-rams-fans-153300483.html",
+      "description": "I asked a question about Aaron Donald, and we got some responses from you!...",
+      "pubDate": "2026-07-30T15:33:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bill Belichick says North Carolina adjusting duties with GM on paid leave and under school investigation",
+      "link": "https://sports.yahoo.com/articles/bill-belichick-says-north-carolina-152758819.html",
+      "description": "“We’re working through some things,” Bill Belichick said before the morning’s first official practice....",
+      "pubDate": "2026-07-30T15:27:58+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "DeAndre Hopkins’ Patriots coaching tenure has come to an end",
+      "link": "https://sports.yahoo.com/articles/deandre-hopkins-patriots-coaching-tenure-152652696.html",
+      "description": "The veteran wide receiver has left New England after just four practices....",
+      "pubDate": "2026-07-30T15:26:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL Preseason Betting: Expert Tips and How to Find Value",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-preseason-betting-expert-152000059.html",
+      "description": "NFL betting expert Jason Logan tells you everything you need to go out and make winning bets on preseason football. See NFL preseason odds and learn how wagering on it can be advan...",
+      "pubDate": "2026-07-30T15:20:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Lions training camp injury report: Bad news for Giovanni Manu",
@@ -96,320 +400,40 @@
       "pubDate": "2026-07-30T14:42:12Z",
       "source": "ESPN NFL",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/ss_20260730_102111273_3607578/ss_20260730_102111273_3607578.jpg"
-    },
-    {
-      "title": "Family: Ex-LB Billy Ray Smith Jr. died of CTE-caused dementia",
-      "link": "https://www.espn.com/nfl/story/_/id/49487068/family-ex-lb-billy-ray-smith-jr-dies-cte-caused-dementia",
-      "description": "Former Chargers linebacker and College Football Hall of Famer Billy Ray Smith Jr. has died at 64, with his family saying he had CTE-caused dementia.",
-      "pubDate": "2026-07-30T14:33:07Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695496_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Why the Cowboys’ pass rush couldn’t save their pass defense",
-      "link": "https://sports.yahoo.com/articles/why-cowboys-pass-rush-couldn-143000282.html",
-      "description": "The Cowboys generated pressure, but opposing quarterbacks rarely had to hold the football long enough for it to matter....",
-      "pubDate": "2026-07-30T14:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cardinals Wednesday practice session – How is this new offense coming along?",
-      "link": "https://sports.yahoo.com/articles/cardinals-wednesday-practice-session-offense-142622691.html",
-      "description": "Their first preseason game is just eight days away...",
-      "pubDate": "2026-07-30T14:26:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers career rushing leader Green reveals Parkinson's diagnosis",
-      "link": "https://www.espn.com/nfl/story/_/id/49488047/packers-career-rushing-leader-green-reveals-parkinson-battle",
-      "description": "Ahman Green, 49, the Green Bay Packers' career rushing leader, revealed that he has Parkinson's disease.",
-      "pubDate": "2026-07-30T14:20:56Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2016/0129/r48994_600x400_3-2.jpg"
-    },
-    {
-      "title": "Panthers sign WR Gabriel Benyard",
-      "link": "https://sports.yahoo.com/articles/panthers-sign-wr-gabriel-benyard-141930511.html",
-      "description": "The Panthers announced the signing of a wide receiver for the second time in as many days....",
-      "pubDate": "2026-07-30T14:19:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Miami Dolphins 2026 schedule and scores",
-      "link": "https://sports.yahoo.com/articles/miami-dolphins-2026-schedule-scores-141858804.html",
-      "description": "Complete Miami Dolphins schedule and results for the 2026-27 season. All times are Eastern Time....",
-      "pubDate": "2026-07-30T14:18:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ranking NFL&#39;s top 25 potential free agents in 2027: Baker Mayfield near top",
-      "link": "https://sports.yahoo.com/articles/ranking-nfls-top-25-potential-141123621.html",
-      "description": "Baker Mayfield might be the marquee entrant in the NFL&#39;s 2027 free agency class. But who could join him in our top 25 rankings?...",
-      "pubDate": "2026-07-30T14:11:23+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers all-time leading rusher Ahman Green reveals Parkinson&#39;s diagnosis",
-      "link": "https://sports.yahoo.com/articles/packers-time-leading-rusher-ahman-140929702.html",
-      "description": "Ahman Green revealed that he has early-onset Parkinson&#39;s disease. He wants conversation about football&#39;s connection to the disease to be &quot;up front.&quot;...",
-      "pubDate": "2026-07-30T14:09:29+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy Football NFC North Snapshot: 1 key nugget from each team going into 2026",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-nfc-north-snapshot-1-key-nugget-from-each-team-going-into-2026-140800501.html",
-      "description": "Scott Pianowski shares one thing that stands out for fantasy football for each NFC North team going into 2026....",
-      "pubDate": "2026-07-30T14:08:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Andrew Hawkins loves the passion in Bengals' training camp scrum",
-      "link": "https://www.espn.com/video/clip/_/id/49487950/why-andrew-hawkins-loves-passion-bengals-training-camp-scrum",
-      "description": "Why Andrew Hawkins loves the passion in Bengals' training camp scrum",
-      "pubDate": "2026-07-30T14:04:10Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0730/ss_20260730_090520612_3607497/ss_20260730_090520612_3607497.jpg"
-    },
-    {
-      "title": "Titans news: Calvin Ridley limited on day 1 of training camp",
-      "link": "https://sports.yahoo.com/articles/titans-news-calvin-ridley-limited-140048637.html",
-      "description": "News from the first day of Tennessee Titans training camp...",
-      "pubDate": "2026-07-30T14:00:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Reunited? Seahawks show interest in bringing back Jadeveon Clowney",
-      "link": "https://sports.yahoo.com/articles/reunited-seahawks-show-interest-bringing-140000523.html",
-      "description": "Could Clowney become a Seahawk once again?...",
-      "pubDate": "2026-07-30T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lions rookie Madden 27 ratings unveiled",
-      "link": "https://sports.yahoo.com/articles/lions-rookie-madden-27-ratings-140000948.html",
-      "description": "With Madden 27 releasing soon, the Detroit Lions rookies ratings were revealed. Can they outperform EA’s standards?...",
-      "pubDate": "2026-07-30T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The NFL’s Most Attractive Head Coaches: 5,000+ Fans Rank the Sideline Smokeshows",
-      "link": "https://sports.yahoo.com/articles/nfl-most-attractive-head-coaches-140000682.html",
-      "description": "Who is the NFL’s most attractive head coach? See the full 2026 fan rankings, top five, bottom five, and loyalty data....",
-      "pubDate": "2026-07-30T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Hezekiah Masses emerging as sleeper starting candidate during training camp",
-      "link": "https://sports.yahoo.com/articles/hezekiah-masses-emerging-sleeper-starting-140000780.html",
-      "description": "The 5th-round pick got reps with the first team defense over 4th-rounder Jermod McCoy....",
-      "pubDate": "2026-07-30T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Denver Broncos training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Broncos training camp, including intel on the QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T13:58:08Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695243_2_608x342_16-9.jpg"
-    },
-    {
-      "title": "Mike Vrabel gives updates on Gabe Jacas, Carlton Davis and other injured Patriots",
-      "link": "https://sports.yahoo.com/articles/mike-vrabel-gives-updates-gabe-135732129.html",
-      "description": "The Patriots are dealing with some injuries as they start their second practice block of training camp....",
-      "pubDate": "2026-07-30T13:57:32+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vic Fangio: &quot;Remains to be seen&quot; if Jonathan Greenard practices in training camp",
-      "link": "https://sports.yahoo.com/articles/vic-fangio-remains-seen-jonathan-135650343.html",
-      "description": "Eagles General Manager Howie Roseman said at a Wednesday press conference that the pec strain that landed linebacker Jonathan Greenard on the physically unable to perform list &quo...",
-      "pubDate": "2026-07-30T13:56:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL betting preview, odds: 2 early Week 1 wagers to make right now",
-      "link": "https://sports.yahoo.com/nfl/betting/article/2026-nfl-betting-preview-odds-2-early-week-1-wagers-to-make-right-now-135018559.html",
-      "description": "Our NFL handicapper gives two Week 1 wagers he thinks are worth a bet at the moment....",
-      "pubDate": "2026-07-30T13:50:18+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chargers Daily Links: Training Camp Practice #2 Open Thread",
-      "link": "https://sports.yahoo.com/articles/chargers-daily-links-training-camp-135000190.html",
-      "description": "Your source for all Chargers and NFL news from around the web....",
-      "pubDate": "2026-07-30T13:50:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots links 7/30/26: Pads on, intensity up",
-      "link": "https://sports.yahoo.com/articles/patriots-links-7-30-26-134553821.html",
-      "description": "Daily news and links for Thursday...",
-      "pubDate": "2026-07-30T13:45:53+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eric Bieniemy&#39;s son charged in mom&#39;s shooting to get &#39;mental evaluation&#39;",
-      "link": "https://sports.yahoo.com/articles/eric-bieniemys-son-charged-moms-134050146.html",
-      "description": "Elijah Bieniemy, the son of Chiefs offensive coordinator Eric Bieniemy, was arrested July 27 on charges related alleged shooting of his mother, Mia....",
-      "pubDate": "2026-07-30T13:40:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Which Browns’ rookie will have the best year in 2026? 4 local experts give their predictions",
-      "link": "https://sports.yahoo.com/articles/browns-rookie-best-2026-4-133622746.html",
-      "description": "The Cleveland Browns are excited about their 2026 NFL draft class rookies. How many will actually become starters?...",
-      "pubDate": "2026-07-30T13:36:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots training camp primer: Everything you need to know about Day 5",
-      "link": "https://sports.yahoo.com/articles/patriots-training-camp-primer-everything-133154299.html",
-      "description": "The Patriots will hold their fifth practice of the summer on Thursday....",
-      "pubDate": "2026-07-30T13:31:54+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Netflix’s “Quarterback” season 4 should feature…?",
-      "link": "https://sports.yahoo.com/articles/netflix-quarterback-season-4-feature-133000320.html",
-      "description": "If you could choose, who would you cast for Season 4 of Netflix’s Quarterback?...",
-      "pubDate": "2026-07-30T13:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "From Twitter to Temple: Peter Clarke’s international journey to stardom",
-      "link": "https://sports.yahoo.com/articles/twitter-temple-peter-clarke-international-133000231.html",
-      "description": "All-conference TE Peter Clarke’s path from London to Temple started one tweet at a time....",
-      "pubDate": "2026-07-30T13:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Random Ramsdom: Dude says he just wants to play ball",
-      "link": "https://sports.yahoo.com/articles/random-ramsdom-dude-says-just-132935355.html",
-      "description": "Los Angeles Rams News and Links for 7/30/26...",
-      "pubDate": "2026-07-30T13:29:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lamar Jackson, as before, declines to talk about his contract",
-      "link": "https://sports.yahoo.com/articles/lamar-jackson-declines-talk-contract-132315806.html",
-      "description": "When it comes to his contract, Ravens quarterback Lamar Jackson has a consistent habit of sharing as few details as possible....",
-      "pubDate": "2026-07-30T13:23:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chris Ballard just got out in front of the Colts with his latest contract talk",
-      "link": "https://sports.yahoo.com/articles/chris-ballard-just-got-front-131900679.html",
-      "description": "Ballard’s talk of not signing an extension with the Colts raises questions....",
-      "pubDate": "2026-07-30T13:19:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles Film Review: Betting on Jalen Carter makes sense",
-      "link": "https://sports.yahoo.com/articles/eagles-film-review-betting-jalen-131100674.html",
-      "description": "It’s not hard to see why Philadelphia signed their star defensive tackle to a massive contract extension....",
-      "pubDate": "2026-07-30T13:11:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pre-Snap Reads 7/30: Seahawks looking hungry as training camp pushes on",
-      "link": "https://sports.yahoo.com/articles/pre-snap-reads-7-30-130017569.html",
-      "description": "Defending a title may require a fork and a knife....",
-      "pubDate": "2026-07-30T13:00:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Battle of the Hawgs – Preview for the Chicago Bears’ Training Camp Battle at Center",
-      "link": "https://sports.yahoo.com/articles/battle-hawgs-preview-chicago-bears-130000968.html",
-      "description": "Our guy @EDuerrwaechter gives his takes on the Bears’ upcoming battle at Center....",
-      "pubDate": "2026-07-30T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is there a possibility that EDGE rusher Jadeveon Clowney could be coming to the Cardinals?",
-      "link": "https://sports.yahoo.com/articles/possibility-edge-rusher-jadeveon-clowney-130000376.html",
-      "description": "It has been known that Arizona needs another pass rusher...",
-      "pubDate": "2026-07-30T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Caleb Downs finds the football regardless of position at first Cowboys camp practice",
-      "link": "https://sports.yahoo.com/articles/caleb-downs-finds-football-regardless-130000809.html",
-      "description": "Caleb Downs is awesome....",
-      "pubDate": "2026-07-30T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Myles Garrett on possibly playing with Aaron Donald: &#39;I think we can do great things&#39;",
-      "link": "https://sports.yahoo.com/nfl/article/myles-garrett-on-possibly-playing-with-aaron-donald-i-think-we-can-do-great-things-125616254.html",
-      "description": "Myles Garrett isn&#39;t going to push Aaron Donald to return in 2026, but he&#39;s intrigued about the idea....",
-      "pubDate": "2026-07-30T12:56:16+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Former Steelers linebacker signs with 49ers",
-      "link": "https://sports.yahoo.com/articles/former-steelers-linebacker-signs-49ers-125142649.html",
-      "description": "A former Steelers linebacker lands in the NFC West....",
-      "pubDate": "2026-07-30T12:51:42+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Puka Nacua: Not being out on practice field never crossed my mind",
-      "link": "https://sports.yahoo.com/articles/puka-nacua-not-being-practice-125028586.html",
-      "description": "After catching 313 passes over his first three NFL seasons, it looked like Rams wide receiver Puka Nacua was on the fast track toward a contract extension but off-field issues slow...",
-      "pubDate": "2026-07-30T12:50:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers Preseason Predictions: Division title or not in 2026?",
-      "link": "https://sports.yahoo.com/articles/packers-preseason-predictions-division-title-123748710.html",
-      "description": "Let us know if you think the Packers will win the NFC North this season....",
-      "pubDate": "2026-07-30T12:37:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
     {
+      "title": "Curt Cignetti won't allow complacency in Hoosiers' title defense",
+      "link": "https://www.espn.com/college-football/story/_/id/49489239/curt-cignetti-allow-complacency-hoosiers-title-defense",
+      "description": "After stunning the sports world with a national championship at Indiana, coach Curt Cignetti isn't spending much time looking back or basking in a historic season.",
+      "pubDate": "2026-07-30T16:38:53Z",
+      "source": "ESPN College Football · Adam Rittenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0110/r1598774_1296x729_16-9.jpg"
+    },
+    {
       "title": "Bill Belichick declines comment on Michael Lombardi as UNC opens investigation",
       "link": "https://www.espn.com/college-football/story/_/id/49488420/bill-belichick-declines-comment-michael-lombardi-unc-opens-investigation",
-      "description": "Bill Belichick avoided questions about Michael Lombardi after North Carolina announced it has opened an investigation into the Tar Heels' GM.",
-      "pubDate": "2026-07-30T14:55:14Z",
+      "description": "Bill Belichick avoided questions about Michael Lombardi after North Carolina announced it had opened an investigation into the Tar Heels' GM.",
+      "pubDate": "2026-07-30T16:10:04Z",
       "source": "ESPN College Football · David Hale",
       "thumbnail": "https://a.espncdn.com/photo/2025/0203/r1447110_1296x729_16-9.jpg"
+    },
+    {
+      "title": "With Multiple Frontrunners, A Consecutive Heisman Win Would Validate Big Ten Dominance",
+      "link": "https://www.foxsports.com/stories/college-football/heisman-trophy-big-ten-cohen-column",
+      "description": "If the Big Ten takes home a second straight Heisman Trophy, it could have a similar impact to winning the last three national championships.",
+      "pubDate": "2026-07-30T15:45:55+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/artboard-1-28.jpg"
+    },
+    {
+      "title": "Which college football teams could break through and bounce back in 2026?",
+      "link": "https://www.espn.com/college-football/story/_/id/49480943/college-football-2026-break-bounce-back-14-candidates",
+      "description": "Which teams and players are poised for the next step? Which are ready to put a down 2025 behind them?",
+      "pubDate": "2026-07-30T15:34:12Z",
+      "source": "ESPN College Football · Bill Connelly",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1226/r1593794_608x342_16-9.jpg"
     },
     {
       "title": "Family: Ex-LB Billy Ray Smith Jr. died of CTE-caused dementia",
@@ -418,14 +442,6 @@
       "pubDate": "2026-07-30T14:33:07Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695496_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Which college football teams could break through and bounce back in 2026?",
-      "link": "https://www.espn.com/college-football/story/_/id/49480943/college-football-2026-break-bounce-back-14-candidates",
-      "description": "Which teams and players are poised for the next step? Which are ready to put a down 2025 behind them?",
-      "pubDate": "2026-07-30T14:24:03Z",
-      "source": "ESPN College Football · Bill Connelly",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1226/r1593794_608x342_16-9.jpg"
     },
     {
       "title": "Dinich: Cignetti can 'absolutely' lead Indiana to Big Ten glory again",
@@ -786,32 +802,136 @@
       "pubDate": "2026-07-27T13:49:24Z",
       "source": "ESPN College Football",
       "thumbnail": "https://a.espncdn.com/media/motion/2026/0727/ss_20260727_094238421_3604868/ss_20260727_094238421_3604868.jpg"
-    },
-    {
-      "title": "Stanford football players join push for collective bargaining",
-      "link": "https://www.espn.com/college-football/story/_/id/49441655/stanford-football-players-join-push-collective-bargaining",
-      "description": "Stanford football players announced Monday the formation of a chapter of the College Football Players Association, which is pushing to eventually unionize college athletes.",
-      "pubDate": "2026-07-27T11:36:50Z",
-      "source": "ESPN College Football · Dan Murphy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0726/r1694068_1296x729_16-9.jpg"
-    },
-    {
-      "title": "1 Big Ten Football Storyline To Watch For Each Team Ahead Of Media Days",
-      "link": "https://www.foxsports.com/stories/college-football/big-ten-media-days-indiana-michigan-ohio-state-oregon",
-      "description": "From defending national champion Indiana to teams looking to bounce back, here's a very early look at Big Ten football.",
-      "pubDate": "2026-07-27T11:00:51+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/big10-football-preview-9x16-1.png"
     }
   ],
   "insider": [
     {
+      "title": "2026 Miami Dolphins training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49410015/miami-dolphins-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Dolphins training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T17:01:41Z",
+      "source": "ESPN NFL · Marcel Louis-Jacques",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695607_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Houston Texans training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49419567/houston-texans-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Houston Texans training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:58:32Z",
+      "source": "ESPN NFL · DJ Bien-Aime",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695237_608x342_16-9.jpg"
+    },
+    {
+      "title": "Andrew Berry on Jadeveon Clowney: Reconciliation is possible in life",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andrew-berry-on-jadeveon-clowney-reconciliation-is-possible-in-life",
+      "description": "When Jadeveon Clowney left the Browns after the 2022 season, the two parties were not on the best terms....",
+      "pubDate": "2026-07-30T16:56:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Atlanta Falcons training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448429/atlanta-falcons-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Falcons training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:55:34Z",
+      "source": "ESPN NFL · Marc Raimondi",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695604_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Mayfield felt 'disrespected' and 'undervalued' by Buccaneers' offers",
+      "link": "https://www.espn.com/nfl/story/_/id/49489537/mayfield-felt-disrespected-undervalued-buccaneers-offers",
+      "description": "Buccaneers quarterback Baker Mayfield said Thursday that he felt \"disrespected a little bit\" that he and the team could not reach an agreement on a new contract before his imposed deadline of the start of training camp.",
+      "pubDate": "2026-07-30T16:50:03Z",
+      "source": "ESPN NFL · Jenna Laine",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695587_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:48:59Z",
+      "source": "ESPN NFL · Michael DiRocco",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695602_608x342_16-9.jpg"
+    },
+    {
+      "title": "Falcons sign LB Josh Woods",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-sign-lb-josh-woods",
+      "description": "Linebacker Josh Woods is back for another run with the Falcons....",
+      "pubDate": "2026-07-30T16:42:34+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "2026 Detroit Lions training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T15:20:42Z",
+      "pubDate": "2026-07-30T16:34:27Z",
       "source": "ESPN NFL · Eric Woodyard",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695581_2_608x342_16-9.jpg"
+    },
+    {
+      "title": "Sean Payton will be Drew Brees's Hall of Fame presenter",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-will-be-drew-breess-hall-of-fame-presenter",
+      "description": "Drew Brees and Sean Payton teamed up to win a lot of games with the Saints and Brees will tap into that history at next month's Hall of Fame induction ceremony....",
+      "pubDate": "2026-07-30T16:34:27+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Washington Commanders training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448046/washington-commanders-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Commanders training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-30T16:32:18Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695599_608x342_16-9.jpg"
+    },
+    {
+      "title": "Shemar Stewart avoided major injury, but out \"several\" weeks with hyperextended knee",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shemar-stewart-avoided-major-injury-but-out-several-weeks-with-hyperextended-knee",
+      "description": "While Bengals defensive end Shemar Stewart was carted off the field from practice on Wednesday, he should be OK relatively soon....",
+      "pubDate": "2026-07-30T16:30:12+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Baker Mayfield on Vita Vea: I hope they take care of him, he deserves it",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-on-vita-vea-i-hope-they-take-care-of-him-he-deserves-it",
+      "description": "Baker Mayfield has some clear problems with the way the Buccaneers handled negotiating a potential contract extension this offseason, saying he feels \"disrespected\" and \"undervalue...",
+      "pubDate": "2026-07-30T16:11:45+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Source: Bengals' Shemar Stewart suffered hyperextended knee",
+      "link": "https://www.espn.com/nfl/story/_/id/49489169/source-bengals-shemar-stewart-suffered-hyperextended-knee",
+      "description": "Bengals defensive end Shemar Stewart, who was carted off the field with a left leg injury during the first day of training camp, suffered a hyperextended knee and will have treatment, a source told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+      "pubDate": "2026-07-30T16:06:00Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2025/0814/r1531802_600x400_3-2.jpg"
+    },
+    {
+      "title": "Ahman Green reveals that he has Parkinson's disease",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ahman-green-reveals-that-he-has-parkinsons-disease",
+      "description": "Running back Ahman Green, a four-time Pro Bowler who played 12 years in the NFL, has disclosed that he has been diagnosed with Parkinson's disease....",
+      "pubDate": "2026-07-30T15:49:54+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jeff Hafley: Dolphins players and coaches want to win, no one is talking about a rebuild",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeff-hafley-dolphins-players-and-coaches-want-to-win-no-one-is-talking-about-a-rebuild",
+      "description": "New Dolphins head coach Jeff Hafley says his team isn't rebuilding, and good players wouldn't want to to be part of a rebuilding team....",
+      "pubDate": "2026-07-30T15:41:12+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Baker Mayfield feeling \"disrespected,\" \"undervalued\" by Buccaneers",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-feeling-disrespected-undervalued-by-buccaneers",
+      "description": "Mayfield discussed his disappointment in not receiving a contract extension from Tampa Bay before training camp in his Thursday press conference....",
+      "pubDate": "2026-07-30T15:40:32+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Titans take JC Latham off PUP list, sign S Hudson Clark",
@@ -870,14 +990,6 @@
       "thumbnail": ""
     },
     {
-      "title": "2026 Denver Broncos training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Broncos training camp, including intel on the QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T13:58:08Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695243_2_608x342_16-9.jpg"
-    },
-    {
       "title": "Vic Fangio: \"Remains to be seen\" if Jonathan Greenard practices in training camp",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vic-fangio-remains-to-be-seen-if-jonathan-greenard-practices-in-training-camp",
       "description": "Eagles General Manager Howie Roseman said at a Wednesday press conference that the pec strain that landed linebacker Jonathan Greenard on the physically unable to perform list \"is ...",
@@ -910,66 +1022,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Dan Campbell: Tyleik Williams slimmed down to 325 pounds, \"I'm really proud of him\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-tyleik-williams-slimmed-down-to-325-pounds-im-really-proud-of-him",
-      "description": "At the 2025 NFL Scouting Combine, defensive tackle Tyleik Williams weighed 334 pounds....",
-      "pubDate": "2026-07-30T12:42:19+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tyler Guyton focused on \"coming to work and getting better\" amid Cowboys left tackle competition",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-guyton-focused-on-coming-to-work-and-getting-better-amid-cowboys-left-tackle-competition",
-      "description": "When the Cowboys drafted Tyler Guyton in the first round of the 2024 draft, they probably didn't envision him competing with a seventh-round pick from the same class entering his t...",
-      "pubDate": "2026-07-30T12:24:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Myles Garrett on Aaron Donald: A difficult decision, don't want to push him",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-on-aaron-donald-a-difficult-decision-dont-want-to-push-him",
-      "description": "Garrett thinks a pairing with Donald would lead to \"great things.\"...",
-      "pubDate": "2026-07-30T11:27:26+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Will Anderson: I had two high-ankle sprains on the MetLife turf, real grass is better",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-anderson-i-had-two-high-ankle-sprains-on-the-metlife-turf-real-grass-is-better",
-      "description": "Anderson has missed games due to injuries twice in his NFL career. Both times, the injuries were suffered at MetLife Stadium....",
-      "pubDate": "2026-07-30T08:52:56+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "De'Von Achane: If teams aren't taking the Dolphins seriously, they'll have a long day",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/devon-achane-if-teams-arent-taking-the-dolphins-seriously-theyll-have-a-long-day",
       "description": "\"We're kind of used to that,\" Achane said of being overlooked. \"We don't pay no mind to that.\"...",
       "pubDate": "2026-07-30T07:50:29+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jamal Adams on joining the Vikings: \"The sky's the limit\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-on-joining-the-vikings-the-skys-the-limit",
-      "description": "Veteran defender Jamal Adams joined the Vikings not long before the opening of training camp....",
-      "pubDate": "2026-07-30T03:22:21+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers should have promptly disclosed that Kyle Shanahan was in an accident",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-should-have-promptly-disclosed-that-kyle-shanahan-was-in-an-accident",
-      "description": "The 2026 offseason has featured multiple P.R. failures by NFL teams....",
-      "pubDate": "2026-07-30T02:25:25+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lamar Jackson on landing at 69 on player's top 100 list: \"I don't care about rankings\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-on-landing-at-69-on-players-top-100-i-dont-care-about-rankings",
-      "description": "With training camps open, list season has mercifully ended....",
-      "pubDate": "2026-07-30T01:59:34+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -982,28 +1038,12 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695394_608x342_16-9.jpg"
     },
     {
-      "title": "Sources: Saints' Bryan Bresee feared to have torn ACL",
-      "link": "https://www.espn.com/nfl/story/_/id/49481583/sources-saints-bryan-bresee-feared-torn-acl",
-      "description": "Saints defensive tackle Bryan Bresee is feared to have suffered a season-ending torn ACL, sources told the NFL Network's Ian Rapoport and Mike Garafolo.",
-      "pubDate": "2026-07-30T01:24:26Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695208_1296x729_16-9.jpg"
-    },
-    {
       "title": "2026 Tampa Bay Buccaneers training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49419613/tampa-bay-buccaneers-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Buccaneers training camp, including intel on QBs, position battles and potential breakouts.",
       "pubDate": "2026-07-30T00:09:53Z",
       "source": "ESPN NFL · Jenna Laine",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695367_608x342_16-9.jpg"
-    },
-    {
-      "title": "Kellen Moore confirms Bryan Bresee's knee injury \"doesn't look great\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-confirms-bryan-bresees-knee-injury-doesnt-look-great",
-      "description": "Not long after defensive tackle Bryan Bresee went down with a knee injury came word that the Saints feared a torn ACL....",
-      "pubDate": "2026-07-29T23:57:35+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "Puka Nacua says it 'never crossed my mind' to not take part in camp",
@@ -1110,14 +1150,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0728/r1694801_608x342_16-9.jpg"
     },
     {
-      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-29T21:11:14Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695249_1296x729_16-9.jpg"
-    },
-    {
       "title": "Harold Fannin fully cleared after offseason groin surgery",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/harold-fannin-fully-cleared-after-offseason-groin-surgery",
       "description": "Browns tight end Harold Fannin Jr. missed all of the offseason program with an undisclosed injury....",
@@ -1126,68 +1158,12 @@
       "thumbnail": ""
     },
     {
-      "title": "2026 New Orleans Saints training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-29T20:56:08Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695212_1296x729_16-9.jpg"
-    },
-    {
       "title": "Kyler Murray leads off 11-on-11 work at Vikings camp",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-leads-off-11-on-11-work-at-vikings-camp",
       "description": "Murray is competing with J.J. McCarthy for the starting quarterback job....",
       "pubDate": "2026-07-29T20:44:57+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Indianapolis Colts training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49448214/indianapolis-colts-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Colts training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-29T20:03:58Z",
-      "source": "ESPN NFL · Stephen Holder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695242_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Houston Texans training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419567/houston-texans-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Houston Texans training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-29T19:57:32Z",
-      "source": "ESPN NFL · DJ Bien-Aime",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695237_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Cleveland Browns training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Browns training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-29T19:56:07Z",
-      "source": "ESPN NFL · Daniel Oyefusi",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695239_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-29T19:19:24Z",
-      "source": "ESPN NFL · Jamison Hensley",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695222_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-29T19:16:00Z",
-      "source": "ESPN NFL · Nate Taylor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695219_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 New England Patriots training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-29T18:54:37Z",
-      "source": "ESPN NFL · Mike Reiss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695218_608x342_16-9.jpg"
     },
     {
       "title": "Shedeur Sanders, Deshaun Watson will alternate on first-team offense to start camp",
@@ -1202,6 +1178,30 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-de-shemar-stewart-carted-with-apparent-left-leg-injury",
       "description": "The Bengals may have a significant injury concern with one of their key defensive players....",
       "pubDate": "2026-07-29T17:00:40+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dan Campbell on Jahmyr Gibbs: \"This is both sides working through something\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-on-jahmyr-gibbs-this-is-both-sides-working-through-something",
+      "description": "Lions running back Jahmyr Gibbs did not practice on Wednesday, as he stages an apparent hold-in while awaiting a new contract....",
+      "pubDate": "2026-07-29T15:51:00+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Michael Penix: I can't afford to have someone trip and fall on me right now",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-i-cant-afford-to-have-someone-trip-and-fall-on-me-right-now",
+      "description": "The big news from the first day of Falcons training camp involved the team's quarterbacks....",
+      "pubDate": "2026-07-29T15:21:08+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bijan Robinson not participating in practice, awaiting new deal",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bijan-robinson-not-participating-in-practice-awaiting-new-deal",
+      "description": "The Falcons are in a similar position to the Lions as the teams begin training camp this week....",
+      "pubDate": "2026-07-29T14:30:14+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     }
