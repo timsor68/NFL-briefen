@@ -1,24 +1,336 @@
 {
-  "generatedAt": "2026-07-31T17:08:41.708468+00:00",
+  "generatedAt": "2026-07-31T18:46:42.841543+00:00",
   "nfl": [
+    {
+      "title": "Jaguars' Travis Hunter feeling faster even with weight gain",
+      "link": "https://www.espn.com/nfl/story/_/id/49498108/jaguars-travis-hunter-feeling-faster-even-weight-gain",
+      "description": "Travis Hunter is 10 pounds heavier than his rookie season but faster than he has ever been.",
+      "pubDate": "2026-07-31T18:40:24Z",
+      "source": "ESPN NFL · Michael DiRocco",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1112/r1574364_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Chicago Bears training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T18:33:45Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696045_1296x729_16-9.jpg"
+    },
     {
       "title": "Every NFL team's best training camp, preseason riser ever",
       "link": "https://www.espn.com/nfl/story/_/id/49464348/nfl-training-camps-preseason-risers-history-davis-cruz-crosby",
       "description": "Let's look back to when 32 NFL players kick-started their careers with strong performances in training camp and the preseason -- one from each team.",
-      "pubDate": "2026-07-31T17:05:31Z",
+      "pubDate": "2026-07-31T18:32:43Z",
       "source": "ESPN NFL · NFL Nation",
       "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695166_608x342_16-9.jpg"
     },
     {
+      "title": "Report: DeAndre Hopkins to join Georgia Tech coaching staff",
+      "link": "https://sports.yahoo.com/articles/report-deandre-hopkins-join-georgia-183132906.html",
+      "description": "After spending some time with the Patriots during training camp, DeAndre Hopkins has found a more permanent job in coaching....",
+      "pubDate": "2026-07-31T18:31:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers LT Trent Williams is ‘trying to soak in every day’ in his final couple of years in the NFL",
+      "link": "https://sports.yahoo.com/articles/49ers-lt-trent-williams-trying-183000159.html",
+      "description": "49ers LT Trent Williams shared how he’s approaching training camp in Year 16...",
+      "pubDate": "2026-07-31T18:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Darnell Wright on his future, ‘I’ll be on the Bears for a long time’",
+      "link": "https://sports.yahoo.com/articles/darnell-wright-future-ll-bears-183000196.html",
+      "description": "Darnell Wright plans to be on the Chicago Bears for a long time, so stop worrying about his contract extension. More here from @wiltfongjr....",
+      "pubDate": "2026-07-31T18:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Buffalo Bills sign CB D.J. Miller Jr., release S Wande Owens",
+      "link": "https://sports.yahoo.com/articles/buffalo-bills-sign-cb-d-182646405.html",
+      "description": "The Buffalo Bills add a young defensive back prospect with UFL experience, while releasing a talented, athletic safety....",
+      "pubDate": "2026-07-31T18:26:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Packers Cap: Devonte Wyatt’s contract details drop",
+      "link": "https://sports.yahoo.com/articles/packers-cap-devonte-wyatt-contract-182541835.html",
+      "description": "To no surprise, Devonte Wyatt’s contract is functionally a two-year deal with two team options...",
+      "pubDate": "2026-07-31T18:25:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patriots training camp notebook: Drake Maye stacks another strong practice",
+      "link": "https://sports.yahoo.com/articles/patriots-training-camp-notebook-drake-181934218.html",
+      "description": "The Patriots held their sixth training practice on Friday, July 31....",
+      "pubDate": "2026-07-31T18:19:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ben Johnson: Bears motivated to spurn 'regression' label",
+      "link": "https://www.espn.com/nfl/story/_/id/49497927/ben-johnson-bears-motivated-spurn-regression-label",
+      "description": "Ben Johnson said his team has been perceived as the \"No. 1 regression candidate\" next season, giving the Bears plenty of motivation heading into next season.",
+      "pubDate": "2026-07-31T18:19:12Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696022_600x400_3-2.jpg"
+    },
+    {
+      "title": "Ravens activate LB Adisa Issac, CB Bilhal Kone",
+      "link": "https://sports.yahoo.com/articles/ravens-activate-lb-adisa-issac-181843991.html",
+      "description": "The Ravens got a pair of defensive players back from the physically unable to perform list on Friday....",
+      "pubDate": "2026-07-31T18:18:43+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T18:17:41Z",
+      "source": "ESPN NFL · Jamison Hensley",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696037_608x342_16-9.jpg"
+    },
+    {
+      "title": "Eagles schedule preview: Texans",
+      "link": "https://sports.yahoo.com/articles/eagles-schedule-preview-texans-181601180.html",
+      "description": "Houston you have a problem...",
+      "pubDate": "2026-07-31T18:16:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pros and Cons of a Baker Mayfield Extension",
+      "link": "https://sports.yahoo.com/articles/pros-cons-baker-mayfield-extension-181500798.html",
+      "description": "Should the Bucs cave and give Baker the extension?...",
+      "pubDate": "2026-07-31T18:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy football Knockout league rankings: The 252 players to draft",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+      "description": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
+      "pubDate": "2026-07-31T18:10:12Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Packers Training Camp Recap: Dani Dennis-Sutton starting to find a role",
+      "link": "https://sports.yahoo.com/articles/packers-training-camp-recap-dani-180826650.html",
+      "description": "The Green Bay Packers’ fourth-round rookie edge rusher is being kicked inside a lot during training camp...",
+      "pubDate": "2026-07-31T18:08:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Cincinnati Bengals training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448120/cincinnati-bengals-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Bengals training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T18:06:55Z",
+      "source": "ESPN NFL · Ben Baby",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696029_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Pittsburgh Steelers 2026 schedule and scores",
+      "link": "https://sports.yahoo.com/articles/pittsburgh-steelers-2026-schedule-scores-180550817.html",
+      "description": "Complete Pittsburgh Steelers schedule and results for the 2026-27 season. All times are Eastern Time....",
+      "pubDate": "2026-07-31T18:05:50+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike McCarthy sees big things coming for Asante Samuel Jr",
+      "link": "https://sports.yahoo.com/articles/mike-mccarthy-sees-big-things-180439066.html",
+      "description": "The Pittsburgh Steelers may have a gem in Asante Samuel Jr....",
+      "pubDate": "2026-07-31T18:04:39+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Anatomy of an NFL holdout: What it's like for players, agents, teams",
+      "link": "https://www.espn.com/nfl/story/_/id/45789518/nfl-training-camp-holdouts-trey-hendrickson-terry-mclaurin",
+      "description": "Holdouts can be brutal. Here are some notable stories from each side of the bargaining table.",
+      "pubDate": "2026-07-31T18:01:44Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1019/r1562688_608x342_16-9.jpg"
+    },
+    {
+      "title": "&#39;We&#39;re the No. 1 candidate for regression&#39;: Bears&#39; Ben Johnson responds to Liam Coen&#39;s comments",
+      "link": "https://sports.yahoo.com/nfl/article/were-the-no-1-candidate-for-regression-bears-ben-johnson-responds-to-liam-coens-comments-180007811.html",
+      "description": "The question that Johnson fielded in his Friday news conference was in response to an off-hand comment the Jaguars head coach made about the attention Caleb Williams has received t...",
+      "pubDate": "2026-07-31T18:00:07+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tyler’ Take: New coordinators, talent give Commanders the ability to be ‘multiple’",
+      "link": "https://sports.yahoo.com/articles/tyler-coordinators-talent-commanders-ability-180000759.html",
+      "description": "New Commanders coordinators David Blough and Daronte Jones are implementing creative, unpredictable schemes...",
+      "pubDate": "2026-07-31T18:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chiefs training camp notebook Day 3: Two rookies are stealing the show",
+      "link": "https://sports.yahoo.com/articles/chiefs-training-camp-notebook-day-180000791.html",
+      "description": "A couple of newcomers continue to headline the early stages of Kansas City’s training camp....",
+      "pubDate": "2026-07-31T18:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "J.J. Watt will replace Tony Romo during his CBS leave",
+      "link": "https://sports.yahoo.com/articles/j-j-watt-replace-tony-175924206.html",
+      "description": "With CBS placing No. 1 NFL analyst Tony Romo on leave following a recent arrest for suspicion of operating while intoxicated, his spot needs to be filled....",
+      "pubDate": "2026-07-31T17:59:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "J.J. Watt to Fill in for Suspended Tony Romo in CBS Sports’ NFL Booth",
+      "link": "https://sports.yahoo.com/articles/j-j-watt-fill-suspended-175500948.html",
+      "description": "A week after his arrest in Milwaukee on suspicion of operating a vehicle while intoxicated, Tony Romo has been placed on leave from his post at CBS Sports until further notice. CBS...",
+      "pubDate": "2026-07-31T17:55:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Green Bay Packers Over/Under Win Total: Can GB Return To Double-Digit Wins?",
+      "link": "https://www.foxsports.com/stories/nfl/green-bay-packers-over-under-win-total",
+      "description": "Check out the 2026 O/U win total for the Packers, who won nine games last season and finished second in the NFC North.",
+      "pubDate": "2026-07-31T17:51:49+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2024/10/jordan-love-16x9-1.jpg"
+    },
+    {
+      "title": "NFL Comeback Player of the Year Odds: The Empire Strikes Back",
+      "link": "https://sports.yahoo.com/articles/nfl-comeback-player-odds-mccaffrey-180300692.html",
+      "description": "A look at NFL Comeback Player of the Year odds, with Patrick Mahomes (+185) penned as the betting favorite....",
+      "pubDate": "2026-07-31T17:51:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts Training Camp Day 3: ‘Find a way’ when opportunity knocks",
+      "link": "https://sports.yahoo.com/articles/colts-training-camp-day-3-174004209.html",
+      "description": "Find a way to make the roster. Find a way to make the play when it matters most. Find a way to fly through the turbulence, through adversity. Ultimately, the goal is to find a way ...",
+      "pubDate": "2026-07-31T17:40:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers activate Alfred Collins from the Active/PUP List",
+      "link": "https://sports.yahoo.com/articles/49ers-activate-alfred-collins-active-173815903.html",
+      "description": "The 49ers need their former top-50 pick to take a Year 2 leap...",
+      "pubDate": "2026-07-31T17:38:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Detroit Lions training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T17:36:59Z",
+      "source": "ESPN NFL · Eric Woodyard",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1695973_608x342_16-9.jpg"
+    },
+    {
+      "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
+      "link": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html",
+      "description": "An updated look at the Patriots’ roster in 2026....",
+      "pubDate": "2026-07-31T17:33:07+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "6 Takeaways From Madden NFL 27's Ratings Release Week",
+      "link": "https://www.foxsports.com/stories/nfl/6-takeaways-madden-27-ratings-rams-matthew-stafford",
+      "description": "What the Madden 27 ratings got right, what they got wrong, the QB the game won't quit and who got snubbed from the \"99 Club.\"",
+      "pubDate": "2026-07-31T17:31:56+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/99-club-horizontal.png"
+    },
+    {
+      "title": "2026 Atlanta Falcons training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448429/atlanta-falcons-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Falcons training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T17:31:49Z",
+      "source": "ESPN NFL · Marc Raimondi",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696015_1296x729_16-9.jpg"
+    },
+    {
+      "title": "How Rams have fared during every Spider-Man release year",
+      "link": "https://sports.yahoo.com/articles/rams-fared-during-every-spider-173000314.html",
+      "description": "The start of training camp marked a “Brand New Day” for the Rams...",
+      "pubDate": "2026-07-31T17:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys gave an unusual challenge to an important player",
+      "link": "https://sports.yahoo.com/articles/cowboys-gave-unusual-challenge-important-173000040.html",
+      "description": "The Cowboys staff got creative in challenging one player....",
+      "pubDate": "2026-07-31T17:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Rookie of the Year Odds: Jeremiyah Love, Rueben Bain Jr. Emerge as Early Favorites",
+      "link": "https://sports.yahoo.com/articles/nfl-rookie-odds-emeka-egbuka-155300006.html",
+      "description": "A look at the latest 2026-27 NFL Rookie of the Year odds, with Jeremiyah Love (+450) and Rueben Bain Jr. (+470) listed as the betting favorites....",
+      "pubDate": "2026-07-31T17:29:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T17:21:49Z",
+      "source": "ESPN NFL · Michael DiRocco",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696006_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Fantasy Football Rankings Tiers: Aim to build a dynamic WR corps in your drafts",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-rankings-tiers-aim-to-build-a-dynamic-wr-corps-in-your-drafts-171947118.html",
+      "description": "Fantasy football analyst Scott Pianowski wraps up the Shuffle Up series with the wide receivers....",
+      "pubDate": "2026-07-31T17:19:47+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Tua Tagovailoa not fretting back issue, unsure on full return",
       "link": "https://www.espn.com/nfl/story/_/id/49497586/tua-tagovailoa-not-fretting-back-issue-unsure-full-return",
-      "description": "Quarterback Tua Tagovailoa (back) says he believes the Falcons are keeping him out for precautionary reasons and if it was a game week, he would likely be ready to go.",
-      "pubDate": "2026-07-31T17:04:16Z",
+      "description": "Quarterback Tua Tagovailoa (back) said he believes the Falcons are keeping him out for precautionary reasons and if it were a game week, he would likely be ready to go.",
+      "pubDate": "2026-07-31T17:13:28Z",
       "source": "ESPN NFL · Marc Raimondi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695604_1296x729_16-9.jpg"
     },
     {
-      "title": "Minnesota Vikings Over/Under Win Total: What To Expect In 2026",
+      "title": "49ers sign TE Josiah Deguara, WR Trenton Irwin",
+      "link": "https://sports.yahoo.com/articles/49ers-sign-te-josiah-deguara-171302765.html",
+      "description": "The 49ers have brought in a pair of offensive players....",
+      "pubDate": "2026-07-31T17:13:02+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers sign two more pass catchers on Friday after Deebo Samuel addition",
+      "link": "https://sports.yahoo.com/articles/49ers-sign-two-more-pass-170214405.html",
+      "description": "The Niners are adding more pass catching depth....",
+      "pubDate": "2026-07-31T17:02:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Minnesota Vikings Over/Under Win Total: What To Expect From Skol",
       "link": "https://www.foxsports.com/stories/nfl/minnesota-vikings-over-under-win-total",
       "description": "Check out the 2026 O/U win total for the Vikings, who won nine games last season and finished third in the NFC North.",
       "pubDate": "2026-07-31T16:56:38+00:00",
@@ -32,14 +344,6 @@
       "pubDate": "2026-07-31T16:54:49+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-31T16:52:03Z",
-      "source": "ESPN NFL · Michael DiRocco",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696006_608x342_16-9.jpg"
     },
     {
       "title": "Fantasy football buzz: What is Deebo Samuel's potential in 49ers return?",
@@ -96,313 +400,17 @@
       "pubDate": "2026-07-31T16:38:01+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/rams.jpg"
-    },
-    {
-      "title": "Everything you need to know from Day 3 of the Falcons’ 2026 training camp",
-      "link": "https://sports.yahoo.com/articles/everything-know-day-3-falcons-163800106.html",
-      "description": "Tua Tagovailoa, Michael Penix Jr., Cash Jones, and everything else you need to know from Day 3 of the 2026 Falcons training camp....",
-      "pubDate": "2026-07-31T16:38:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tracking 2026 NFL hold-ins: Robinson, Gibbs, Vea and Tuipulotu",
-      "link": "https://www.espn.com/nfl/story/_/id/49490010/2026-training-camp-holdin-tracking-updates-bijan-robinson-jahmyr-gibbs-vita-vea-tuli-tuipulotu",
-      "description": "Here is the latest on Falcons' Bijan Robinson, Lions' Jahmyr Gibbs, Bucs' Vita Vea and Chargers' Tuli Tuipulotu.",
-      "pubDate": "2026-07-31T16:32:53Z",
-      "source": "ESPN NFL · NFL Nation",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1695776_608x342_16-9.jpg"
-    },
-    {
-      "title": "Joe Buck’s flimsy reason to question Rams hype",
-      "link": "https://sports.yahoo.com/articles/joe-buck-flimsy-reason-rams-163000458.html",
-      "description": "ESPN is having a hard time coming up with Rams-related drama....",
-      "pubDate": "2026-07-31T16:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills news: What to know from training camp so far",
-      "link": "https://sports.yahoo.com/articles/bills-news-know-training-camp-162246012.html",
-      "description": "Josh Allen and DJ Moore strengthen their relationship, Kaleb Elarms-Orr impresses, and Michael Hoecht looks ready to go....",
-      "pubDate": "2026-07-31T16:22:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "&#39;Football 301&#39; ranks top 10 defenses: Texans, Seahawks, Rams dominate top 3",
-      "link": "https://sports.yahoo.com/nfl/article/football-301-ranks-top-10-defenses-texans-seahawks-rams-dominate-top-3-161102766.html",
-      "description": "All three teams earn raves because they have: outstanding individual talent at all three levels; coaching that either maximizes simplicity or complexity; the ability to adjust week...",
-      "pubDate": "2026-07-31T16:11:02+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Liam Coen says Jaguars don&#39;t get hype, cites &#39;40 pictures of Caleb Williams&#39;",
-      "link": "https://sports.yahoo.com/articles/liam-coen-says-jaguars-dont-161027776.html",
-      "description": "Jacksonville Jaguars head coach Liam Coen feels the lack of attention of his team is motivational, and he mentioned the Bears QB in his explanation....",
-      "pubDate": "2026-07-31T16:10:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles’ reborn running game can take pressure off Jalen Hurts",
-      "link": "https://sports.yahoo.com/articles/eagles-reborn-running-game-pressure-160700277.html",
-      "description": "Saquon Barkley and Tank Bigsby could be the keys to the Eagles’ offense....",
-      "pubDate": "2026-07-31T16:07:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How Jakobi Meyers can elevate the Jags this season",
-      "link": "https://www.espn.com/video/clip/_/id/49497141/how-jakobi-meyers-elevate-jags-season",
-      "description": "How Jakobi Meyers can elevate the Jags this season  ",
-      "pubDate": "2026-07-31T16:04:31Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/ss_20260731_114658595_3608657723/ss_20260731_114658595_3608657723.jpg"
-    },
-    {
-      "title": "Cowboys camp has answered these things so far",
-      "link": "https://sports.yahoo.com/articles/cowboys-camp-answered-things-far-160000715.html",
-      "description": "Camp has gotten off to a good start....",
-      "pubDate": "2026-07-31T16:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tony Romo placed on leave by CBS Sports following arrest",
-      "link": "https://www.espn.com/nfl/story/_/id/49496985/tony-romo-placed-leave-cbs-sports-following-arrest",
-      "description": "CBS Sports has placed NFL analyst Tony Romo on leave following his arrest last week on suspicion of driving under the influence.",
-      "pubDate": "2026-07-31T15:58:19Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695598_1296x729_16-9.jpg"
-    },
-    {
-      "title": "CBS places Tony Romo on indefinite leave after arrest, taps J.J. Watt to fill in",
-      "link": "https://sports.yahoo.com/articles/cbs-places-tony-romo-indefinite-155623903.html",
-      "description": "CBS is not waiting for Tony Romo&#39;s driving under the influence arrest to be resolved, placing the former NFL quarterback on indefinite leave....",
-      "pubDate": "2026-07-31T15:56:23+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers star TE Tucker Kraft activated off PUP after ACL recovery",
-      "link": "https://www.espn.com/nfl/story/_/id/49497140/packers-star-te-tucker-kraft-activated-pup-acl-recovery",
-      "description": "Packers star tight end Tucker Kraft was activated off the physically unable to perform list Friday, less than nine months after surgery to repair the torn ACL in his right knee.",
-      "pubDate": "2026-07-31T15:56:03Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1027/r1566591_600x400_3-2.jpg"
-    },
-    {
-      "title": "Detroit Lions training camp injury update: Alim McNeill leaves early",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-training-camp-injury-154620782.html",
-      "description": "Detroit Lions DT Alim McNeill and rookie LB Jimmy Rolder had to leave training camp early on Friday....",
-      "pubDate": "2026-07-31T15:46:20+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers activate Tucker Kraft off Physically Unable to Perform list",
-      "link": "https://sports.yahoo.com/articles/packers-activate-tucker-kraft-off-154505193.html",
-      "description": "Kraft is back and will practice on Friday, though on a limited basis to ramp him up to a full workload....",
-      "pubDate": "2026-07-31T15:45:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy Football: Ricky Pearsall injury sparks Niners to bring back Deebo, plus more notable news from NFL training camps",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-ricky-pearsall-injury-sparks-niners-to-bring-back-deebo-plus-more-notable-news-from-nfl-training-camps-154322184.html",
-      "description": "NFL training camps are officially underway. Here&#39;s all the relevant news coming out to note for fantasy football in 2026....",
-      "pubDate": "2026-07-31T15:43:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills sign CB D.J. Miller",
-      "link": "https://sports.yahoo.com/articles/bills-sign-cb-d-j-154304638.html",
-      "description": "The Bills announced a pair of roster moves on Friday morning....",
-      "pubDate": "2026-07-31T15:43:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tony Romo placed on leave by CBS following arrest on suspicion of OWI",
-      "link": "https://sports.yahoo.com/articles/tony-romo-placed-leave-cbs-154200192.html",
-      "description": "Tony Romo will be on leave from CBS &quot;until further notice&quot; following his arrest on suspicion of OWI, the network announced....",
-      "pubDate": "2026-07-31T15:42:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jets to sign WR Cam Camper",
-      "link": "https://sports.yahoo.com/articles/jets-sign-wr-cam-camper-153327933.html",
-      "description": "The Jets signed wide receiver Quincy Skinner on Thursday and they&#39;re making another change at wideout on Friday....",
-      "pubDate": "2026-07-31T15:33:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seattle Seahawks 2026 schedule and scores",
-      "link": "https://sports.yahoo.com/articles/seattle-seahawks-2026-schedule-scores-153305313.html",
-      "description": "Complete Seattle Seahawks schedule and results for the 2026-27 season. All times are Pacific Time....",
-      "pubDate": "2026-07-31T15:33:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tony Romo placed on leave by CBS Sports &#39;until further notice&#39; following OWI arrest",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/tony-romo-placed-on-leave-by-cbs-sports-until-further-notice-following-owi-arrest-153055123.html",
-      "description": "Tony Romo was arrested in Milwaukee in late July....",
-      "pubDate": "2026-07-31T15:30:55+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cash, Stash, or Slash: TJ Edwards",
-      "link": "https://sports.yahoo.com/articles/cash-stash-slash-tj-edwards-153000710.html",
-      "description": "The Chicago Bears have a decision to make with TJ Edwards, we examine his contract and what the Bears should do....",
-      "pubDate": "2026-07-31T15:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The 49ers are set to become the 4th team in the Super Bowl era to do this if Deebo Samuel starts",
-      "link": "https://sports.yahoo.com/articles/49ers-set-become-4th-team-152931560.html",
-      "description": "The 49ers are set to be much older if one of their veterans start at “Z” receiver...",
-      "pubDate": "2026-07-31T15:29:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "CBS places Tony Romo on leave &quot;until further notice&quot;",
-      "link": "https://sports.yahoo.com/articles/cbs-places-tony-romo-leave-152705766.html",
-      "description": "CBS issues a one-sentence press release, eight days after Romo&#39;s OWI arrest....",
-      "pubDate": "2026-07-31T15:27:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Detroit Lions training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-31T15:16:04Z",
-      "source": "ESPN NFL · Eric Woodyard",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1695973_608x342_16-9.jpg"
-    },
-    {
-      "title": "Jaguars draft class: 5 things to know about Parker Hughes",
-      "link": "https://sports.yahoo.com/articles/jaguars-draft-class-5-things-151028462.html",
-      "description": "Five things you never knew about the Jaguars final 2026 draft pick:...",
-      "pubDate": "2026-07-31T15:10:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kay Adams at Commanders Training camp with DQ, Jayden Daniels & Sonny Styles - Daily Slop",
-      "link": "https://sports.yahoo.com/articles/kay-adams-commanders-training-camp-144500478.html",
-      "description": "Several reports that the defense looks very good while receivers are struggling to get separation...",
-      "pubDate": "2026-07-31T14:45:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Evan Cohen puzzled why Cowboys are in Super Bowl conversation",
-      "link": "https://www.espn.com/video/clip/_/id/49496600/evan-cohen-puzzled-why-cowboys-super-bowl-conversation",
-      "description": "Evan Cohen puzzled why Cowboys are in Super Bowl conversation  ",
-      "pubDate": "2026-07-31T14:38:57Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/ss_20260731_102938759_3608585638/ss_20260731_102938759_3608585638.jpg"
-    },
-    {
-      "title": "Fantasy Football: The 15 best wide receivers aged 25 and under heading into the 2026 NFL season",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-the-15-best-wide-receivers-aged-25-and-under-heading-into-the-2026-nfl-season-143712456.html",
-      "description": "Fantasy football analyst Matt Harmon ranks the best WRs aged 25 or younger for 2026....",
-      "pubDate": "2026-07-31T14:37:12+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kyle Shanahan’s car accident has transformed into the NFL’s biggest mystery",
-      "link": "https://sports.yahoo.com/articles/kyle-shanahan-car-accident-transformed-143422074.html",
-      "description": "A routine traffic accident has become something entirely surreal....",
-      "pubDate": "2026-07-31T14:34:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles News: Dak Prescott is saying the Cowboys have the “Greatest Offense There Is”",
-      "link": "https://sports.yahoo.com/articles/eagles-news-dak-prescott-saying-143321821.html",
-      "description": "Philadelphia Eagles news and links for 7/31/26....",
-      "pubDate": "2026-07-31T14:33:21+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys training camp rumors took off on Thursday",
-      "link": "https://sports.yahoo.com/articles/cowboys-training-camp-rumors-took-143000243.html",
-      "description": "It feels kind of nice to have some silly Cowboys rumors going on....",
-      "pubDate": "2026-07-31T14:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How will Lamar Jackson affect the Ravens' running game this season?",
-      "link": "https://www.espn.com/video/clip/_/id/49496459/how-lamar-jackson-affect-ravens-running-game-season",
-      "description": "How will Lamar Jackson affect the Ravens' running game this season?",
-      "pubDate": "2026-07-31T14:27:27Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/ss_20260731_095615020_3608558/ss_20260731_095615020_3608558.jpg"
-    },
-    {
-      "title": "Fantasy Football NFC East Snapshot: 1 key nugget from each team going into 2026",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-nfc-east-snapshot-1-key-nugget-from-each-team-going-into-2026-141512293.html",
-      "description": "Scott Pianowski shares one thing that stands out for fantasy football for each NFC East team going into 2026....",
-      "pubDate": "2026-07-31T14:15:12+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Details behind Broncos guard Ben Powers restructured contract",
-      "link": "https://sports.yahoo.com/articles/details-behind-broncos-guard-ben-141435796.html",
-      "description": "Last week, it was reported that starting left guard Ben Powers accepted a pay cut from the Denver Broncos. 9NEWS Denver’s Mike Klis reported that Powers accepted a restructured one...",
-      "pubDate": "2026-07-31T14:14:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Random Ramsdom: Myles Garrett will let the Aaron Donald rumors play out",
-      "link": "https://sports.yahoo.com/articles/random-ramsdom-myles-garrett-let-140439333.html",
-      "description": "Los Angeles Rams News and Links for 7/31/26...",
-      "pubDate": "2026-07-31T14:04:39+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kirk Cousins among all-time greats in a key stat",
-      "link": "https://sports.yahoo.com/articles/kirk-cousins-among-time-greats-140100837.html",
-      "description": "New Las Vegas veteran quarterback has shown career consistency...",
-      "pubDate": "2026-07-31T14:01:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "After award-winning year, what will Jaxon Smith-Njigba do for an encore?",
-      "link": "https://sports.yahoo.com/articles/award-winning-jaxon-smith-njigba-140000798.html",
-      "description": "Predictions for JSN’s fourth season after a record-setting, award-winning Super Bowl season....",
-      "pubDate": "2026-07-31T14:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Graziano believes Chiefs could see a Week 1 return for Mahomes",
-      "link": "https://www.espn.com/video/clip/_/id/49496406/why-graziano-believes-chiefs-see-week-1-return-mahomes",
-      "description": "Why Graziano believes Chiefs could see a Week 1 return for Mahomes",
-      "pubDate": "2026-07-31T13:46:42Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0731/ss_20260731_094154853_3608545/ss_20260731_094154853_3608545.jpg"
     }
   ],
   "ncaa": [
+    {
+      "title": "Prosecutors: Informant in Pata case says attorney tried to bribe him",
+      "link": "https://www.espn.com/college-football/story/_/id/49492106/informant-pata-case-says-attorney-tried-bribe-him",
+      "description": "Jailhouse informant George Jones did not testify in the first trial of Rashaun Jones. He told authorities that an attorney tried to pay him not to testify in the retrial.",
+      "pubDate": "2026-07-31T17:55:09Z",
+      "source": "ESPN College Football · Paula Lavigne and Dan Arruda",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0302/r1622237_1296x729_16-9.jpg"
+    },
     {
       "title": "2027 college football recruiting class rankings: Top 30 schools",
       "link": "https://www.espn.com/college-football/recruiting/story/_/id/48503376/2027-college-football-recruiting-class-rankings-top-teams-schools",
@@ -474,14 +482,6 @@
       "pubDate": "2026-07-31T01:07:58+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/curt-cignetti-takeaways.jpg"
-    },
-    {
-      "title": "Prosecutors: Informant in Pata case says attorney tried to bribe him",
-      "link": "https://www.espn.com/college-football/story/_/id/49492106/informant-pata-case-says-attorney-tried-bribe-him",
-      "description": "Jailhouse informant George Jones did not testify in the first trial of Rashaun Jones. He told authorities that an attorney tried to pay him not to testify in the retrial.",
-      "pubDate": "2026-07-31T01:03:49Z",
-      "source": "ESPN College Football · Paula Lavigne and Dan Arruda",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0302/r1622237_1296x729_16-9.jpg"
     },
     {
       "title": "Northwestern's Braun raring to unveil new OC Kelly's offense",
@@ -806,12 +806,100 @@
   ],
   "insider": [
     {
+      "title": "2026 Chicago Bears training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T18:33:45Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696045_1296x729_16-9.jpg"
+    },
+    {
+      "title": "What happens with the Bucs and Baker Mayfield in 2027?",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/what-happens-with-the-bucs-and-baker-mayfield-in-2027",
+      "description": "If, as it appears, quarterback Baker Mayfield doesn't sign a new contract with the Buccaneers until after the 2026 season, what happens next?...",
+      "pubDate": "2026-07-31T18:33:12+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: DeAndre Hopkins to join Georgia Tech coaching staff",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-deandre-hopkins-to-join-georgia-tech-coaching-staff",
+      "description": "After spending some time with the Patriots during training camp, DeAndre Hopkins has found a more permanent job in coaching....",
+      "pubDate": "2026-07-31T18:31:32+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ravens activate LB Adisa Issac, CB Bilhal Kone",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-activate-lb-adisa-issac-cb-bilhal-kone",
+      "description": "The Ravens got a pair of defensive players back from the physically unable to perform list on Friday....",
+      "pubDate": "2026-07-31T18:18:43+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T18:17:41Z",
+      "source": "ESPN NFL · Jamison Hensley",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696037_608x342_16-9.jpg"
+    },
+    {
+      "title": "Tua Tagovailoa: I feel great, limited practices are a precaution",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-i-feel-great-limited-practices-are-a-precaution",
+      "description": "Falcons quarterback Tua Tagovailoa spoke about the back issue that has limited him in practice this week for the first time on Friday....",
+      "pubDate": "2026-07-31T18:11:22+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Cincinnati Bengals training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448120/cincinnati-bengals-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Bengals training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T18:06:55Z",
+      "source": "ESPN NFL · Ben Baby",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696029_1296x729_16-9.jpg"
+    },
+    {
+      "title": "J.J. Watt will replace Tony Romo during his CBS leave",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-watt-will-replace-tony-romo-during-his-cbs-leave",
+      "description": "With CBS placing No. 1 NFL analyst Tony Romo on leave following a recent arrest for suspicion of operating while intoxicated, his spot needs to be filled....",
+      "pubDate": "2026-07-31T17:59:24+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Detroit Lions training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T17:36:59Z",
+      "source": "ESPN NFL · Eric Woodyard",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1695973_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Atlanta Falcons training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448429/atlanta-falcons-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Falcons training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-07-31T17:31:49Z",
+      "source": "ESPN NFL · Marc Raimondi",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696015_1296x729_16-9.jpg"
+    },
+    {
       "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-31T16:52:03Z",
+      "pubDate": "2026-07-31T17:21:49Z",
       "source": "ESPN NFL · Michael DiRocco",
       "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696006_608x342_16-9.jpg"
+    },
+    {
+      "title": "49ers sign TE Josiah Deguara, WR Trenton Irwin",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-te-josiah-deguara-wr-trenton-irwin",
+      "description": "The 49ers have brought in a pair of offensive players....",
+      "pubDate": "2026-07-31T17:13:02+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "2026 Houston Texans training camp: Latest intel, updates",
@@ -876,14 +964,6 @@
       "pubDate": "2026-07-31T15:27:05+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Detroit Lions training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-31T15:16:04Z",
-      "source": "ESPN NFL · Eric Woodyard",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1695973_608x342_16-9.jpg"
     },
     {
       "title": "Packers activate Tucker Kraft off of PUP list",
@@ -954,46 +1034,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-activate-lb-cj-allen-from-the-pup-list",
       "description": "The Colts are set to have linebacker CJ Allen on the field for the first time in training camp....",
       "pubDate": "2026-07-31T13:02:27+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lions sign TE Anthony Firkser",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-te-anthony-firkser",
-      "description": "Tight end Anthony Firkser is back with the Lions....",
-      "pubDate": "2026-07-31T12:37:08+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "OC Grant Udinski to call majority of Jaguars plays in preseason",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/oc-grant-udinski-to-call-majority-of-jaguars-plays-in-preseason",
-      "description": "Jaguars offensive coordinator Grant Udinski landed head coaching interviews this offseason and he'll do some work to build up his credentials for the next step up the ladder this p...",
-      "pubDate": "2026-07-31T12:31:17+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos to sign DB Sam Webb",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-to-sign-db-sam-webb",
-      "description": "Defensive back Sam Webb tried out for the Broncos on Thursday and he'll be sticking around Denver for a while....",
-      "pubDate": "2026-07-31T12:15:18+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kayshon Boutte: My feet are here today, not thinking about what's next",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kayshon-boutte-my-feet-are-here-today-not-thinking-about-whats-next",
-      "description": "A report in June said that Patriots wide receiver Kayshon Boutte is interested in being traded and Boutte got a chance to address his feelings about being in New England on Thursda...",
-      "pubDate": "2026-07-31T12:00:19+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins veteran Austin Jackson: Jeff Hafley practices are fun, like Brian Flores practices",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-veteran-austin-jackson-jeff-hafley-practices-are-fun-like-brian-flores-practices",
-      "description": "Dolphins offensive tackle Austin Jackson has been in Miami since he was the team's first-round draft pick in 2020, which means Jeff Hafley is his third head coach....",
-      "pubDate": "2026-07-31T11:04:57+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -1134,14 +1174,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695660_608x342_16-9.jpg"
     },
     {
-      "title": "Saints' Chris Olave signing four-year extension worth up to $132M",
-      "link": "https://www.espn.com/nfl/story/_/id/49491421/saints-chris-olave-signing-four-year-extension-worth-132m",
-      "description": "The Saints are signing wide receiver Chris Olave to a four-year extension worth up to $132 million, including $90 million guaranteed, his agents Drew Rosenhaus and Jason Rosenhaus told ESPN's Adam Schefter.",
-      "pubDate": "2026-07-30T22:49:50Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695699_1296x729_16-9.jpg"
-    },
-    {
       "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
@@ -1172,38 +1204,6 @@
       "pubDate": "2026-07-30T21:20:26Z",
       "source": "ESPN NFL · Kris Rhim",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695713_608x342_16-9.jpg"
-    },
-    {
-      "title": "Mike Clay's early 2026 fantasy football PPR rankings",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/47513496/2026-fantasy-football-rankings-ppr-mike-clay",
-      "description": "Position-by-position rankings for the 2026 fantasy season, updated throughout the summer.",
-      "pubDate": "2026-07-30T21:14:15Z",
-      "source": "ESPN NFL · Mike Clay",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0330/r1636142_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Cleveland Browns training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Browns training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-07-30T21:10:03Z",
-      "source": "ESPN NFL · Daniel Oyefusi",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695695_608x342_16-9.jpg"
-    },
-    {
-      "title": "Bucs And Baker Mayfield Both Choose Risk, As Tampa Becomes NFL's Drama Capital",
-      "link": "https://www.foxsports.com/stories/nfl/baker-mayfield-disrespected-bucs-offer-focused-season-ahead",
-      "description": "Baker Mayfield said he felt \"disrespected\" by the Buccaneers in extension negotiations, as Tampa's troubled offseason has made its way into training camp.",
-      "pubDate": "2026-07-30T20:21:56+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/baker-mayfield.jpg"
-    },
-    {
-      "title": "2026 Super Bowl Odds: Rams Favored Heading Into Training Camp",
-      "link": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "description": "Let’s take a look at the updated 2026 Super Bowl odds heading into training camp.",
-      "pubDate": "2026-07-30T18:27:18+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/mvp.jpg"
     }
   ]
 }
