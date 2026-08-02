@@ -1,6 +1,118 @@
 {
-  "generatedAt": "2026-08-02T16:31:48.252450+00:00",
+  "generatedAt": "2026-08-02T17:39:01.036089+00:00",
   "nfl": [
+    {
+      "title": "Saints defensive tackle Bryan Bresee to have surgery for torn ACL",
+      "link": "https://sports.yahoo.com/articles/saints-defensive-tackle-bryan-bresee-171725522.html",
+      "description": "Saints defensive tackle Bryan Bresee&#39;s knee injury didn&#39;t look good when it happened, and now it&#39;s confirmed that he needs surgery to repair a torn ACL....",
+      "pubDate": "2026-08-02T17:17:25+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints starting DT Bryan Bresee to have season-ending ACL surgery",
+      "link": "https://www.espn.com/nfl/story/_/id/49513248/saints-starting-dt-bryan-bresee-season-ending-acl-surgery",
+      "description": "Saints defensive tackle Bryan Bresee will undergo season-ending surgery to repair a torn ACL, coach Kellen Moore told reporters Sunday.",
+      "pubDate": "2026-08-02T17:17:01Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695208_1296x729_16-9.jpg"
+    },
+    {
+      "title": "What Klint Kubiak must do to get most out of quarterback Kirk Cousins",
+      "link": "https://sports.yahoo.com/articles/klint-kubiak-must-most-quarterback-171000480.html",
+      "description": "Heavy play action, quick rhythm, consistent run game, and Brock Bowers instrumental to veteran’s success in Las Vegas...",
+      "pubDate": "2026-08-02T17:10:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles News: Hoping to see more from Philadelphia’s top two draft picks",
+      "link": "https://sports.yahoo.com/articles/eagles-news-hoping-see-more-170314154.html",
+      "description": "Philadelphia Eagles news and links for 8/2/26....",
+      "pubDate": "2026-08-02T17:03:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "C.J. Daniels not only receiver surprising at Rams camp",
+      "link": "https://sports.yahoo.com/articles/c-j-daniels-not-only-170000028.html",
+      "description": "Could he be the next Mario Williams to make a name for himself in the NFL?...",
+      "pubDate": "2026-08-02T17:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jake Paul argues boxing far more difficult than football, Josh Hokit responds",
+      "link": "https://sports.yahoo.com/articles/jake-paul-argues-boxing-far-170000013.html",
+      "description": "Jake Paul talking nonsense again...",
+      "pubDate": "2026-08-02T17:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions training camp injuries: Good news on Alim McNeill, Christian Izien",
+      "link": "https://sports.yahoo.com/articles/lions-training-camp-injuries-good-165451444.html",
+      "description": "The latest Detroit Lions injury news on Alim McNeill, Christian Izien, and more....",
+      "pubDate": "2026-08-02T16:54:51+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vikings sign CB Jarod Washington",
+      "link": "https://sports.yahoo.com/articles/vikings-sign-cb-jarod-washington-165405427.html",
+      "description": "The Vikings announced a couple of roster moves on Sunday....",
+      "pubDate": "2026-08-02T16:54:05+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-02T16:51:04Z",
+      "source": "ESPN NFL · Michael DiRocco",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696708_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Broncos QB Bo Nix not afraid to run on repaired ankle",
+      "link": "https://www.espn.com/nfl/story/_/id/49507138/broncos-qb-bo-nix-afraid-run-repaired-ankle",
+      "description": "Broncos quarterback Bo Nix says he will not hesitate to scramble on his surgically repaired right ankle this season and that when he's on the move is \"when I feel at my best\" on the field.",
+      "pubDate": "2026-08-02T16:40:16Z",
+      "source": "ESPN NFL · Jeff Legwold",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0801/r1696441_600x600_1-1.jpg"
+    },
+    {
+      "title": "2026 Miami Dolphins training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49410015/miami-dolphins-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Dolphins training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-02T16:36:34Z",
+      "source": "ESPN NFL · Marcel Louis-Jacques",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696717_608x342_16-9.jpg"
+    },
+    {
+      "title": "Jaxson Dart on John Harbaugh: We&#39;re all buying in because of how great a coach he is",
+      "link": "https://sports.yahoo.com/articles/jaxson-dart-john-harbaugh-were-163401891.html",
+      "description": "Giants quarterback Jaxson Dart says he and his teammates are lining up behind new head coach John Harbaugh....",
+      "pubDate": "2026-08-02T16:34:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cardinals’ Walter Nolen re-injures left calf/leg/knee? What we know.",
+      "link": "https://sports.yahoo.com/articles/cardinals-walter-nolen-injures-left-163258179.html",
+      "description": "Same as last year?...",
+      "pubDate": "2026-08-02T16:32:58+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Matt LaFleur: Tucker Kraft could participate in joint practice with Cardinals",
+      "link": "https://sports.yahoo.com/articles/matt-lafleur-tucker-kraft-could-162846437.html",
+      "description": "Packers tight end Tucker Kraft was able to ride a bike to the practice field — and to practice on it — on Friday, his first work since suffering a torn ACL on November 2....",
+      "pubDate": "2026-08-02T16:28:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "2026 NFL training camp: Latest news, intel for all 32 teams",
       "link": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
@@ -8,14 +120,6 @@
       "pubDate": "2026-08-02T16:10:09Z",
       "source": "ESPN NFL · NFL Nation",
       "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696707_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-02T16:06:33Z",
-      "source": "ESPN NFL · Michael DiRocco",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696708_1296x729_16-9.jpg"
     },
     {
       "title": "Gardner-Johnson pays off $20,000 of Bills staffer's student loans",
@@ -294,110 +398,6 @@
       "link": "https://sports.yahoo.com/articles/raiders-sign-te-zack-kuntz-122327801.html",
       "description": "The Raiders added a tight end to their roster on Saturday....",
       "pubDate": "2026-08-02T12:23:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jaylen Waddle earning high praise from teammates at training camp",
-      "link": "https://sports.yahoo.com/articles/jaylen-waddle-earning-high-praise-120000784.html",
-      "description": "The Denver Broncos big offseason addition has really stood out in the early days of training camp....",
-      "pubDate": "2026-08-02T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why the Falcons paying Bijan Robinson is well worth the risk",
-      "link": "https://sports.yahoo.com/articles/why-falcons-paying-bijan-robinson-120000453.html",
-      "description": "Why making Bijan Robinson the NFL&#39;s highest-paid running back is actually smart economics...",
-      "pubDate": "2026-08-02T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vote for the play that best highlights Bills losing to Eagles",
-      "link": "https://sports.yahoo.com/articles/vote-play-best-highlights-bills-120000330.html",
-      "description": "Which play defines the Bills’ Week 17 sloppy loss to the Philadelphia Eagles?...",
-      "pubDate": "2026-08-02T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "If CBS is going to move on from Tony Romo, Jerry Jones could try to stop it",
-      "link": "https://sports.yahoo.com/articles/cbs-going-move-tony-romo-114327168.html",
-      "description": "Jones calls Romo a &quot;very, very unique talent.&quot;...",
-      "pubDate": "2026-08-02T11:43:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ted Karras’ latest comments show just how quickly Dexter Lawrence is changing the Bengals",
-      "link": "https://sports.yahoo.com/articles/ted-karras-latest-comments-show-111500819.html",
-      "description": "One of the team’s most respected leaders has glowing praise for the Bengals’ new defensive tackle....",
-      "pubDate": "2026-08-02T11:15:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Denver Broncos roster review: Tight end Adam Trautman",
-      "link": "https://sports.yahoo.com/articles/denver-broncos-roster-review-tight-110000756.html",
-      "description": "Veteran Adam Trautman enters the Denver Broncos training camp ready to show the young pups how to be a NFL tight end...",
-      "pubDate": "2026-08-02T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "New York Jets News: Geno Smith shines at Jets training camp",
-      "link": "https://sports.yahoo.com/articles/york-jets-news-geno-smith-110000547.html",
-      "description": "Happy Sunday, Jets fans! The Jets have their first day off since training camp began. While the team did not practice on Friday, there was still classroom instruction and meetings....",
-      "pubDate": "2026-08-02T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Season Opener Countdown: 42 Days Remaining",
-      "link": "https://sports.yahoo.com/articles/2026-season-opener-countdown-42-110000293.html",
-      "description": "We continue our countdown to the Panthers opening the 2026 season against the Chicago Bears...",
-      "pubDate": "2026-08-02T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys news: Dallas o-line elite in one area, suspect in another",
-      "link": "https://sports.yahoo.com/articles/cowboys-news-dallas-o-line-110000818.html",
-      "description": "Your Sunday morning Cowboys news....",
-      "pubDate": "2026-08-02T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "&#39;I try to motivate&#39;: How Khalil Mack impacts Chargers teammates",
-      "link": "https://sports.yahoo.com/articles/try-motivate-khalil-mack-impacts-110000956.html",
-      "description": "The veteran linebacker is likely playing in his final NFL season, but he still enjoys leading by example and being an elder statesman....",
-      "pubDate": "2026-08-02T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "&#39;It&#39;s amazing.&#39; Myles Garrett&#39;s new Rams teammates awed by his &#39;monster energy&#39;",
-      "link": "https://sports.yahoo.com/articles/amazing-myles-garretts-rams-teammates-110000914.html",
-      "description": "How the star defensive end is adjusting to his surroundings with the Rams and the high expectations placed on him....",
-      "pubDate": "2026-08-02T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bengals News (8/2): Maxx Crosby Worth 2 First-Round Picks for Cincinnati?",
-      "link": "https://sports.yahoo.com/articles/bengals-news-8-2-maxx-103900408.html",
-      "description": "With the Shemar Stewart injury, should the Bengals re-examine another blockbuster trade?...",
-      "pubDate": "2026-08-02T10:39:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kevin Stefanski: We all trust in the process of Bijan Robinson&#39;s contract negotiations",
-      "link": "https://sports.yahoo.com/articles/kevin-stefanski-trust-process-bijan-103518946.html",
-      "description": "Falcons running back Bijan Robinson is not fully participating in training camp as he seeks a new contract....",
-      "pubDate": "2026-08-02T10:35:18+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,10 +806,18 @@
   ],
   "insider": [
     {
-      "title": "Matt LaFleur: Tucker Kraft could participate in joint practice with Cardinals",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-tucker-kraft-could-participate-in-joint-practice-with-cardinals",
-      "description": "Packers tight end Tucker Kraft was able to ride a bike to the practice field — and to practice on it — on Friday, his first work since suffering a torn ACL on November 2....",
-      "pubDate": "2026-08-02T16:28:46+00:00",
+      "title": "Saints defensive tackle Bryan Bresee to have surgery for torn ACL",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-defensive-tackle-bryan-bresee-to-have-surgery-for-torn-acl",
+      "description": "Saints defensive tackle Bryan Bresee's knee injury didn't look good when it happened, and now it's confirmed that he needs surgery to repair a torn ACL....",
+      "pubDate": "2026-08-02T17:17:25+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vikings sign CB Jarod Washington",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-sign-cb-jarod-washington",
+      "description": "The Vikings announced a couple of roster moves on Sunday....",
+      "pubDate": "2026-08-02T16:54:05+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -817,9 +825,33 @@
       "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-02T16:06:33Z",
+      "pubDate": "2026-08-02T16:51:04Z",
       "source": "ESPN NFL · Michael DiRocco",
       "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696708_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Miami Dolphins training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49410015/miami-dolphins-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Dolphins training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-02T16:36:34Z",
+      "source": "ESPN NFL · Marcel Louis-Jacques",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696717_608x342_16-9.jpg"
+    },
+    {
+      "title": "Jaxson Dart on John Harbaugh: We're all buying in because of how great a coach he is",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-on-john-harbaugh-were-all-buying-in-because-of-how-great-a-coach-he-is",
+      "description": "Giants quarterback Jaxson Dart says he and his teammates are lining up behind new head coach John Harbaugh....",
+      "pubDate": "2026-08-02T16:34:01+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Matt LaFleur: Tucker Kraft could participate in joint practice with Cardinals",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-tucker-kraft-could-participate-in-joint-practice-with-cardinals",
+      "description": "Packers tight end Tucker Kraft was able to ride a bike to the practice field — and to practice on it — on Friday, his first work since suffering a torn ACL on November 2....",
+      "pubDate": "2026-08-02T16:28:46+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "911 call reveals frantic effort to revive Aldon Smith",
@@ -1170,38 +1202,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stephen-jones-cowboys-wouldnt-rule-out-selling-a-piece-of-the-team",
       "description": "Plenty of NFL owners have sold pieces of their teams, either to individual partners or to pre-approved private equity funds....",
       "pubDate": "2026-08-01T20:47:38+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Tennessee Titans training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419824/tennessee-titans-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Titans training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-01T20:28:19Z",
-      "source": "ESPN NFL · Turron Davenport",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0801/r1696430_608x342_16-9.jpg"
-    },
-    {
-      "title": "Jaylon Johnson: 2026 is definitely a contract year for me",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaylon-johnson-2026-is-definitely-a-contract-year-for-me",
-      "description": "Bears cornerback Jaylon Johnson has two more years on his current deal, but he's looking at things a bit differently....",
-      "pubDate": "2026-08-01T20:26:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 New England Patriots training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-01T20:19:57Z",
-      "source": "ESPN NFL · Mike Reiss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0801/r1696412_608x342_16-9.jpg"
-    },
-    {
-      "title": "Deshaun Watson: Preseason games great opportunity to showcase what I can do",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-preseason-games-great-opportunity-to-showcase-what-i-can-do",
-      "description": "Browns quarterback Deshaun Watson said on Saturday that his performance in training camp thus far has \"been decent\" and that he has his eyes on the next steps in his push to win th...",
-      "pubDate": "2026-08-01T20:11:44+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     }
