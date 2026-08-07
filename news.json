@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-07T07:54:22.118462+00:00",
+  "generatedAt": "2026-08-07T08:50:58.572959+00:00",
   "nfl": [
+    {
+      "title": "Adam Vinatieri: I love the Patriots, but Carlie Irsay-Gordon was my choice to induct me",
+      "link": "https://sports.yahoo.com/articles/adam-vinatieri-love-patriots-carlie-080827933.html",
+      "description": "&quot;I love both organizations,&quot; Vinatieri said. &quot;Living in Indy, what the Irsay family meant to me, Jim just meant the world bringing me into that organization, and Car...",
+      "pubDate": "2026-08-07T08:08:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Rookie QB Carson Beck delivers efficient debut for Cardinals",
       "link": "https://www.espn.com/nfl/story/_/id/49550569/rookie-qb-carson-beck-delivers-efficient-debut-cardinals",
@@ -38,6 +46,14 @@
       "link": "https://sports.yahoo.com/articles/professional-carson-becks-nfl-debut-045727159.html",
       "description": "Carson Beck didn’t end up throwing the last pass of the college football season and the first pass of the NFL season. He did something way more important....",
       "pubDate": "2026-08-07T04:57:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Devin McCourty believes Patriots will be ‘tested’ in wake of Mike Vrabel’s controversial offseason",
+      "link": "https://sports.yahoo.com/articles/devin-mccourty-believes-patriots-tested-043537864.html",
+      "description": "Former Patriots safety Devin McCourty weighed in on the impact of the Dianna Russini-Mike Vrabel scandal during Thursday’s NBC broadcast of the Hall of Fame Game....",
+      "pubDate": "2026-08-07T04:35:37+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -384,22 +400,6 @@
       "pubDate": "2026-08-06T23:24:01+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "What Rams defensive tackle’s stunning PFF grade means for Aaron Donald",
-      "link": "https://sports.yahoo.com/articles/rams-defensive-tackle-stunning-pff-231935929.html",
-      "description": "Kobie Turner is ranked the No. 9 interior defender in the NFL by Pro Football Focus, but Aaron Donald&#39;s potential return could create a fascinating snap-count dilemma for the L...",
-      "pubDate": "2026-08-06T23:19:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL suspends Saints rookie WR Brock Rechsteiner for 6 games",
-      "link": "https://www.espn.com/nfl/story/_/id/49548218/saints-rookie-wr-brock-rechsteiner-suspended-1st-6-games-season",
-      "description": "Saints wide receiver Brock Rechsteiner was suspended by the NFL for the first six games of the regular season, according to the league's transaction wir",
-      "pubDate": "2026-08-06T23:13:53Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698569_600x400_3-2.jpg"
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Adam Vinatieri: I love the Patriots, but Carlie Irsay-Gordon was my choice to induct me",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-vinatieri-i-love-the-patriots-but-carlie-irsay-gordon-was-my-choice-to-induct-me",
+      "description": "\"I love both organizations,\" Vinatieri said. \"Living in Indy, what the Irsay family meant to me, Jim just meant the world bringing me into that organization, and Carlie I'm so exci...",
+      "pubDate": "2026-08-07T08:08:27+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Sean McVay declines to discuss Rams' plans for Australia travel",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-declines-to-discuss-rams-plans-for-australia-travel",
       "description": "On most topics raised during a press conference, Rams coach Sean McVay is willing to provide reporters with an answer....",
@@ -1196,14 +1204,6 @@
       "pubDate": "2026-08-06T19:29:09+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 New Orleans Saints training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49424731/new-orleans-saints-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Saints training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-06T19:28:35Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0805/r1698073_608x342_16-9.jpg"
     }
   ]
 }
