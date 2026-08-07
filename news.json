@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-07T08:50:58.572959+00:00",
+  "generatedAt": "2026-08-07T09:55:00.217227+00:00",
   "nfl": [
+    {
+      "title": "49ers News: Welcome to the bay, Kion Smith",
+      "link": "https://sports.yahoo.com/articles/49ers-news-welcome-bay-kion-090000035.html",
+      "description": "Your daily San Francisco 49ers news for Friday, August 7th, 2026...",
+      "pubDate": "2026-08-07T09:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Panthers QB Haynes King: Dream come true to showcase my talent in front of Hall of Famers",
+      "link": "https://sports.yahoo.com/articles/panthers-qb-haynes-king-dream-085643090.html",
+      "description": "King, the Panthers&#39; undrafted rookie quarterback, turned in a big game that culminated with the game-winning touchdown as time expired....",
+      "pubDate": "2026-08-07T08:56:43+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Adam Vinatieri: I love the Patriots, but Carlie Irsay-Gordon was my choice to induct me",
       "link": "https://sports.yahoo.com/articles/adam-vinatieri-love-patriots-carlie-080827933.html",
@@ -382,22 +398,6 @@
       "link": "https://sports.yahoo.com/articles/cobie-durant-made-outstanding-first-233000229.html",
       "description": "Cobie Durant has had an amazing start to his Cowboys career....",
       "pubDate": "2026-08-06T23:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Tennessee Titans training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419824/tennessee-titans-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Titans training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-06T23:25:27Z",
-      "source": "ESPN NFL · Turron Davenport",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0801/r1696430_608x342_16-9.jpg"
-    },
-    {
-      "title": "Cowboys rookie LB Jaishawn Barham has a groin injury",
-      "link": "https://sports.yahoo.com/articles/cowboys-rookie-lb-jaishawn-barham-232401827.html",
-      "description": "Cowboys rookie linebacker Jaishawn Barham left Thursday&#39;s practice early....",
-      "pubDate": "2026-08-06T23:24:01+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Panthers QB Haynes King: Dream come true to showcase my talent in front of Hall of Famers",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-qb-haynes-king-dream-come-true-to-showcase-my-talent-in-front-of-hall-of-famers",
+      "description": "King, the Panthers' undrafted rookie quarterback, turned in a big game that culminated with the game-winning touchdown as time expired....",
+      "pubDate": "2026-08-07T08:56:43+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Adam Vinatieri: I love the Patriots, but Carlie Irsay-Gordon was my choice to induct me",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/adam-vinatieri-i-love-the-patriots-but-carlie-irsay-gordon-was-my-choice-to-induct-me",
       "description": "\"I love both organizations,\" Vinatieri said. \"Living in Indy, what the Irsay family meant to me, Jim just meant the world bringing me into that organization, and Carlie I'm so exci...",
@@ -1196,14 +1204,6 @@
       "pubDate": "2026-08-06T19:31:12Z",
       "source": "ESPN NFL · Ryan McFadden",
       "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698471_608x342_16-9.jpg"
-    },
-    {
-      "title": "Seahawks sign FB Brock Lampe, waive TE Lance Mason",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-fb-brock-lampe-waive-te-lance-mason",
-      "description": "The defending champs have brought in a fullback....",
-      "pubDate": "2026-08-06T19:29:09+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     }
   ]
 }
