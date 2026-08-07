@@ -1,13 +1,157 @@
 {
-  "generatedAt": "2026-08-07T17:10:01.638868+00:00",
+  "generatedAt": "2026-08-07T18:04:30.700588+00:00",
   "nfl": [
+    {
+      "title": "Stefon Diggs settles in with Commanders, ups NFL best talk",
+      "link": "https://www.espn.com/nfl/story/_/id/49554390/stefon-diggs-settles-commanders-ups-nfl-best-talk",
+      "description": "Stefon Diggs has changed teams for the third time in three years, but that hasn't dented his confidence.",
+      "pubDate": "2026-08-07T18:02:27Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698840_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Texans' Tank Dell going for it after injury absence",
+      "link": "https://www.espn.com/nfl/story/_/id/49554496/texans-tank-dell-going-injury-absence",
+      "description": "Texans receiver Tank Dell is going for it in his return from almost two years away from the game due to injury.",
+      "pubDate": "2026-08-07T18:01:13Z",
+      "source": "ESPN NFL · DJ Bien-Aime",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0720/r1691855_600x400_3-2.jpg"
+    },
+    {
+      "title": "Reid: Mahomes unlikely to play in Chiefs' preseason opener",
+      "link": "https://www.espn.com/nfl/story/_/id/49554483/reid-mahomes-unlikely-play-chiefs-preseason-opener",
+      "description": "Although Chiefs quarterback Patrick Mahomes has participated in every part of training camp, coach Andy Reid acknowledged Friday that he will likely not have him play in the team's preseason opener next week against the Rams.",
+      "pubDate": "2026-08-07T18:00:41Z",
+      "source": "ESPN NFL · Nate Taylor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698843_600x400_3-2.jpg"
+    },
+    {
+      "title": "2026 New York Jets training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-07T17:58:33Z",
+      "source": "ESPN NFL · Rich Cimini",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698842_608x342_16-9.jpg"
+    },
+    {
+      "title": "Chiefs&#39; Andy Reid says &#39;percentages probably lean against&#39; playing Patrick Mahomes in preseason",
+      "link": "https://sports.yahoo.com/nfl/article/chiefs-andy-reid-says-percentages-probably-lean-against-playing-patrick-mahomes-in-preseason-175513496.html",
+      "description": "Mahomes has been targeting a Week 1 return after suffering season-ending ACL and LCL tears last December....",
+      "pubDate": "2026-08-07T17:55:13+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Broncos training camp: Day 7 live updates",
+      "link": "https://sports.yahoo.com/articles/2026-broncos-training-camp-day-160247741.html",
+      "description": "The Denver Broncos have taken the field for Day 7 of publicly open training camp. Join the discussion on today’s happenings here in the comments section....",
+      "pubDate": "2026-08-07T17:52:33+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Drew Brees&#39; HOF induction started &#39;to sink in&#39; with this special moment | Exclusive",
+      "link": "https://sports.yahoo.com/articles/drew-brees-hof-induction-started-173223211.html",
+      "description": "Drew Brees said becoming closer with other Pro Football Hall of Fame Class of 2026 inductees has been special. &quot;The more time we spend together, the more bonded we feel.&quot;...",
+      "pubDate": "2026-08-07T17:32:23+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Orlovsky: Broncos 'the best team in football we aren't talking about'",
+      "link": "https://www.espn.com/video/clip/_/id/49554355/broncos-best-team-football-talking-about",
+      "description": "Orlovsky: Broncos 'the best team in football we aren't talking about' ",
+      "pubDate": "2026-08-07T17:31:05Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/ss_20260807_132246644_3615855/ss_20260807_132246644_3615855.jpg"
+    },
+    {
+      "title": "Cardinals might not be the pushover we expect",
+      "link": "https://sports.yahoo.com/articles/cardinals-might-not-pushover-expect-173000151.html",
+      "description": "Former Rams assistant Mike LaFleur and rookie QB Carson Beck had strong debuts in Thursday’s Hall of Fame Game...",
+      "pubDate": "2026-08-07T17:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "How Horrible is Nick Wright’s Aaron Donald Take?",
+      "link": "https://sports.yahoo.com/articles/horrible-nick-wright-aaron-donald-172928947.html",
+      "description": "First Things First debated if Aaron Donald should return to the Rams, and Wright made some really bad points...",
+      "pubDate": "2026-08-07T17:29:28+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patriots WR Kyle Williams receives high praise from Mike Vrabel",
+      "link": "https://sports.yahoo.com/articles/patriots-wr-kyle-williams-receives-172815775.html",
+      "description": "Head coach Mike Vrabel sang the sophomore receiver’s praises on Friday....",
+      "pubDate": "2026-08-07T17:28:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "&#39;Football 301&#39; predicts win totals for the AFC East, where it&#39;s the haves (Bills, Patriots) and have-nots (Dolphins, Jets)",
+      "link": "https://sports.yahoo.com/nfl/article/football-301-predicts-win-totals-for-the-afc-east-where-its-the-haves-bills-patriots-and-have-nots-dolphins-jets-172802749.html",
+      "description": "On the defending champion Pats: &quot;They&#39;re going to go from 14 wins to 10 wins. I think they will feel like a better team even if they don&#39;t go to the damn Super Bowl th...",
+      "pubDate": "2026-08-07T17:28:02+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Is George Kittle's injury history a fantasy concern? Liz Loza weighs in",
+      "link": "https://www.espn.com/video/clip/_/id/49554351/is-george-kittle-injury-history-fantasy-concern-liz-loza-weighs-in",
+      "description": "Is George Kittle's injury history a fantasy concern? Liz Loza weighs in",
+      "pubDate": "2026-08-07T17:24:11Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/dm_260807_kittle_fantasy/dm_260807_kittle_fantasy.jpg"
+    },
     {
       "title": "Why Liz Loza says Jalen Hurts' ADP is way too high",
       "link": "https://www.espn.com/video/clip/_/id/49554284/why-liz-loza-says-jalen-hurts-adp-way-too-high",
       "description": "Why Liz Loza says Jalen Hurts' ADP is way too high",
-      "pubDate": "2026-08-07T17:09:12Z",
+      "pubDate": "2026-08-07T17:23:51Z",
       "source": "ESPN NFL",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/dm_260807_Why_Liz_Loza_says_Jalen_Hurts_ADP_is_way_too_high/dm_260807_Why_Liz_Loza_says_Jalen_Hurts_ADP_is_way_too_high.jpg"
+    },
+    {
+      "title": "Lions training camp injury report: D.J. Reed out, Jahmyr Gibbs ramping up",
+      "link": "https://sports.yahoo.com/articles/lions-training-camp-injury-report-172149575.html",
+      "description": "Detroit Lions CB1 D.J. Reed was absent for the second straight day of training camp for undisclosed reasons....",
+      "pubDate": "2026-08-07T17:21:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Undrafted Panthers rookie quarterback Haynes King was star of Hall of Fame game. Can he make the team?",
+      "link": "https://sports.yahoo.com/articles/undrafted-panthers-rookie-quarterback-haynes-171518461.html",
+      "description": "Rookie Haynes King was spectacular for the Carolina Panthers in the Hall of Fame game. Will the preseason performance help him become an undrafted NFL star, like Kurt Warner and To...",
+      "pubDate": "2026-08-07T17:15:18+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fans grade Packers position groups going into the 2026 season",
+      "link": "https://sports.yahoo.com/articles/fans-grade-packers-position-groups-171346448.html",
+      "description": "By far, the highest rated unit on the Green Bay Packers is their safeties...",
+      "pubDate": "2026-08-07T17:13:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Las Vegas Raiders Breakout Candidates",
+      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-breakout-candidates-170800097.html",
+      "description": "Wide Receivers, Defensive Tackles, Rookies mark Breakout Candidates for Las Vegas Raiders...",
+      "pubDate": "2026-08-07T17:08:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills news: Recapping Day 6 of training camp",
+      "link": "https://sports.yahoo.com/articles/bills-news-recapping-day-6-170632824.html",
+      "description": "C.J. Gardner-Johnson was back at practice while Christian Benford, Jude Bowry and Jordan Hancock impressed....",
+      "pubDate": "2026-08-07T17:06:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "What is Justin Herbert's upside in Mike McDaniel's offense?",
@@ -26,10 +170,26 @@
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/ss_20260807_122450512_3615801/ss_20260807_122450512_3615801.jpg"
     },
     {
-      "title": "2026 Broncos training camp: Day 7 live updates",
-      "link": "https://sports.yahoo.com/articles/2026-broncos-training-camp-day-160247741.html",
-      "description": "The Denver Broncos have taken the field for Day 7 of publicly open training camp. Join the discussion on today’s happenings here in the comments section....",
-      "pubDate": "2026-08-07T16:57:59+00:00",
+      "title": "49ers DC Raheem Morris explains the term ‘fever backer’ in his defense",
+      "link": "https://sports.yahoo.com/articles/49ers-dc-raheem-morris-explains-170100723.html",
+      "description": "The 49ers will look much different under Raheem Morris. He explained why on Thursday...",
+      "pubDate": "2026-08-07T17:01:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys former 2nd-round pick getting pushed off roster by UDFAs",
+      "link": "https://sports.yahoo.com/articles/cowboys-former-2nd-round-pick-170000210.html",
+      "description": "Luke Schoonmaker currently finds himself on the Cowboys roster bubble....",
+      "pubDate": "2026-08-07T17:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Seahawks sign LB Power Echols",
+      "link": "https://sports.yahoo.com/articles/seahawks-sign-lb-power-echols-165915224.html",
+      "description": "The Seahawks have made a roster move....",
+      "pubDate": "2026-08-07T16:59:15+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -238,166 +398,6 @@
       "link": "https://sports.yahoo.com/nfl/article/dak-prescott-ranked-as-31st-best-player-in-nfls-top-100-ahead-of-some-big-name-qbs-153245799.html",
       "description": "Dak Prescott got a lofty ranking in the NFL&#39;s annual top 100 countdown....",
       "pubDate": "2026-08-07T15:32:45+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Should fantasy managers be cautious about drafting Patrick Mahomes?",
-      "link": "https://www.espn.com/video/clip/_/id/49553339/should-fantasy-managers-cautious-drafting-patrick-mahomes",
-      "description": "Should fantasy managers be cautious about drafting Patrick Mahomes?",
-      "pubDate": "2026-08-07T15:29:09Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/ss_20260807_103219128_3615668688/ss_20260807_103219128_3615668688.jpg"
-    },
-    {
-      "title": "Why Daniel Dopp loves Drake Maye in fantasy",
-      "link": "https://www.espn.com/video/clip/_/id/49553335/why-daniel-dopp-loves-drake-maye-fantasy",
-      "description": "Why Daniel Dopp loves Drake Maye in fantasy",
-      "pubDate": "2026-08-07T15:18:19Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/ss_20260807_102941499_3615667643/ss_20260807_102941499_3615667643.jpg"
-    },
-    {
-      "title": "When should fantasy managers draft Josh Allen?",
-      "link": "https://www.espn.com/video/clip/_/id/49553277/when-fantasy-managers-draft-josh-allen",
-      "description": "When should fantasy managers draft Josh Allen? ",
-      "pubDate": "2026-08-07T15:17:46Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/ss_20260807_102308206_3615658676/ss_20260807_102308206_3615658676.jpg"
-    },
-    {
-      "title": "Frank Reich &#39;fired up&#39; about progress of Jets offense, &#39;laser-focused&#39; Geno Smith",
-      "link": "https://sports.yahoo.com/articles/frank-reich-fired-progress-jets-151550367.html",
-      "description": "Jets first-year offensive coordinator Frank Reich said he is “really fired up” about the progress his side of the ball has made in the early goings of training camp: “It’s been out...",
-      "pubDate": "2026-08-07T15:15:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "As Rams put off extending guards, another gets paid",
-      "link": "https://sports.yahoo.com/articles/rams-put-off-extending-guards-151434382.html",
-      "description": "O’Cyrus Torrence was drafted in the same round and year as Steve Avila, and now he just got paid. When will LA act?...",
-      "pubDate": "2026-08-07T15:14:34+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL training camp live updates for August 7: Highlights, injuries, news and more",
-      "link": "https://sports.yahoo.com/articles/nfl-training-camp-live-updates-151429362.html",
-      "description": "The 2026 NFL preseason is underway and training camps continue across the league. Here&#39;s the latest from around the NFL on Aug. 7....",
-      "pubDate": "2026-08-07T15:14:29+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "4 overreactions from the Panthers-Cardinals Hall of Fame banger",
-      "link": "https://sports.yahoo.com/articles/4-overreactions-panthers-cardinals-hall-150522933.html",
-      "description": "What a game....",
-      "pubDate": "2026-08-07T15:05:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Field Yates has Lamar Jackson as a fantasy QB2",
-      "link": "https://www.espn.com/video/clip/_/id/49553278/why-field-yates-lamar-jackson-fantasy-qb2",
-      "description": "Why Field Yates has Lamar Jackson as a fantasy QB2",
-      "pubDate": "2026-08-07T15:04:42Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/ss_20260807_102319990_3615659664/ss_20260807_102319990_3615659664.jpg"
-    },
-    {
-      "title": "Raiders roster 2026: Get to know Chris Myarick",
-      "link": "https://sports.yahoo.com/articles/raiders-roster-2026-know-chris-150200801.html",
-      "description": "Las Vegas recently signed veteran tight end...",
-      "pubDate": "2026-08-07T15:02:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ryan Flournoy continues great start to training camp on Thursday",
-      "link": "https://sports.yahoo.com/articles/ryan-flournoy-continues-great-start-150000074.html",
-      "description": "Ryan Flournoy is starting to look like a breakout candidate for 2026...",
-      "pubDate": "2026-08-07T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "‘Chess piece’ Ar’Darius Washington could have key role in Giants’ secondary",
-      "link": "https://sports.yahoo.com/articles/chess-piece-ar-darius-washington-150000104.html",
-      "description": "Ar’Darius Washington can fill a number of roles in the defensive backfield....",
-      "pubDate": "2026-08-07T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What the Seahawks’ next schematic evolution could look like",
-      "link": "https://sports.yahoo.com/articles/seahawks-next-schematic-evolution-could-150000073.html",
-      "description": "What can the Seahawks do to say ahead of the curve as the best team in the NFL?...",
-      "pubDate": "2026-08-07T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Saints&#39; Brock Rechsteiner, son of WWE star, suspended 6 games",
-      "link": "https://sports.yahoo.com/articles/saints-brock-rechsteiner-son-wwe-145657890.html",
-      "description": "Brock Rechsteiner, son of WWE Hall of Famer Scott Steiner, has been suspended for the first six games of the 2026 NFL season....",
-      "pubDate": "2026-08-07T14:56:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers get injury update on Max Iheanachor",
-      "link": "https://sports.yahoo.com/articles/steelers-injury-max-iheanachor-145639298.html",
-      "description": "Steelers get good news on Max Iheanachor injury...",
-      "pubDate": "2026-08-07T14:56:39+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Should fantasy managers trust Jayden Daniels in comeback season?",
-      "link": "https://www.espn.com/video/clip/_/id/49553298/should-fantasy-managers-trust-jayden-daniels-comeback-season",
-      "description": "Should fantasy managers trust Jayden Daniels in comeback season? ",
-      "pubDate": "2026-08-07T14:56:38Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/ss_20260807_102456026_3615660644/ss_20260807_102456026_3615660644.jpg"
-    },
-    {
-      "title": "NFL training camp news roundup: Seahawks rookie RB turns heads, Stefon Diggs finds a home with Commanders, HOF game provides surprising intrigue",
-      "link": "https://sports.yahoo.com/fantasy/article/nfl-training-camp-news-roundup-seahawks-rookie-rb-turns-heads-stefon-diggs-finds-a-home-with-commanders-hof-game-provides-surprising-intrigue-145603244.html",
-      "description": "We&#39;re into the first full week of NFL training camps and here are the big news stories to note for fantasy football in 2026....",
-      "pubDate": "2026-08-07T14:56:03+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Stephen A. is 'very impressed' with Carson Beck",
-      "link": "https://www.espn.com/video/clip/_/id/49553381/why-stephen-very-impressed-carson-beck",
-      "description": "Why Stephen A. is 'very impressed' with Carson Beck",
-      "pubDate": "2026-08-07T14:47:55Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0807/ss_20260807_103953718_3615675/ss_20260807_103953718_3615675.jpg"
-    },
-    {
-      "title": "Bucs RB Bucky Irving delivers message to haters ahead of Year 3",
-      "link": "https://www.espn.com/nfl/story/_/id/49545525/tampa-bay-buccaneers-rb-bucky-irving-message-haters",
-      "description": "Tampa Bay's third-year back said \"I've been doubted my whole life.\"",
-      "pubDate": "2026-08-07T14:42:52Z",
-      "source": "ESPN NFL · Jenna Laine",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698409_608x342_16-9.jpg"
-    },
-    {
-      "title": "Lions, RB Jahmyr Gibbs reach 3-year, $67.5M extension",
-      "link": "https://www.espn.com/nfl/story/_/id/49547879/lions-rb-jahmyr-gibbs-agree-3-year-675m-extension",
-      "description": "Jahmyr Gibbs and the Lions reached agreement on a three-year, $67.5 million deal that could be worth up to $75.75 million and includes $51.5 million guaranteed, his agent Todd France announced on social media.",
-      "pubDate": "2026-08-07T14:31:36Z",
-      "source": "ESPN NFL · Eric Woodyard",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1021/r1563316_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Detroit Lions signing new defensive tackle",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-signing-defensive-tackle-142859163.html",
-      "description": "The Detroit Lions are adding defensive tackle Ben Stille, who has 18 game appearances over four seasons....",
-      "pubDate": "2026-08-07T14:28:59+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "2026 New York Jets training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-07T17:58:33Z",
+      "source": "ESPN NFL · Rich Cimini",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698842_608x342_16-9.jpg"
+    },
+    {
       "title": "Seahawks sign LB Power Echols",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-lb-power-echols",
       "description": "The Seahawks have made a roster move....",
@@ -1158,14 +1166,6 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/jahmyr-gibbs.jpg"
     },
     {
-      "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-06T21:27:37Z",
-      "source": "ESPN NFL · Jamison Hensley",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698523_1296x729_16-9.jpg"
-    },
-    {
       "title": "2026 Los Angeles Chargers training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49424976/los-angeles-chargers-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Chargers training camp, including intel on QBs, position battles and potential breakouts.",
@@ -1174,36 +1174,36 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698508_608x342_16-9.jpg"
     },
     {
-      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-06T20:50:00Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698495_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Denver Broncos training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Broncos training camp, including intel on the QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-06T20:38:49Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0805/r1698094_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-06T20:38:11Z",
-      "source": "ESPN NFL · Nate Taylor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698496_608x342_16-9.jpg"
-    },
-    {
       "title": "C.J. Gardner-Johnson \"just can't wait\" to face Texans in Week 1",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnson-just-cant-wait-to-face-texans-in-week-1",
       "description": "Safety C.J....",
       "pubDate": "2026-08-06T20:04:07+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
+    },
+    {
+      "title": "Jason Licht: We love Baker Mayfield, our feelings for him haven't changed",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-licht-we-love-baker-mayfield-our-feelings-for-him-havent-changed",
+      "description": "Baker Mayfield made his feelings about his contract clear when he told reporters last week that he was feeling \"disrespected\" and \"undervalued\" by the Buccaneers....",
+      "pubDate": "2026-08-06T15:58:48+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts Reportedly Make Jonathan Taylor 2nd-Highest Paid NFL Running Back",
+      "link": "https://www.foxsports.com/stories/nfl/jonathan-taylor-extension-colts-highest-paid-running-backs",
+      "description": "The Indianapolis Colts have reportedly signed Jonathan Taylor to an extension that makes him the second-highest paid running back in the NFL.",
+      "pubDate": "2026-08-06T13:28:25+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/taylor1.jpg"
+    },
+    {
+      "title": "NFL Catchup: Another Donald Update; Diggs Finds New Home; Texans Welcome Back A WR",
+      "link": "https://www.foxsports.com/stories/nfl/nfl-catchup-stefon-diggs-joins-commanders-tank-dell-back-practice",
+      "description": "Training camp continues across the NFL as teams make late roster additions, contract talks continue ahead of the start of the preseason.",
+      "pubDate": "2026-08-06T00:25:18+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/nfl-catchup-aaron-donald.jpg"
     }
   ]
 }
