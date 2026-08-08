@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-08T23:01:04.864752+00:00",
+  "generatedAt": "2026-08-08T23:46:58.449107+00:00",
   "nfl": [
+    {
+      "title": "Raiders fans are confident the team can get to 7 wins",
+      "link": "https://sports.yahoo.com/articles/raiders-fans-confident-team-7-233000722.html",
+      "description": "78% of Las Vegas Raiders fans believes the Raiders will win 7 games in 2026...",
+      "pubDate": "2026-08-08T23:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Indianapolis Colts training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448214/indianapolis-colts-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Colts training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-08T23:15:41Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0808/r1699305_608x342_16-9.jpg"
+    },
+    {
+      "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 36",
+      "link": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-230000757.html",
+      "description": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 36...",
+      "pubDate": "2026-08-08T23:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Evans injury update: 49ers &#39;being smart&#39; with vet&#39;s health but expect WR to be ready",
+      "link": "https://sports.yahoo.com/articles/mike-evans-injury-49ers-being-225614723.html",
+      "description": "San Francisco 49ers veteran wide receiver Mike Evans didn&#39;t practice Saturday, but here&#39;s why that&#39;s not a concern for head coach Kyle Shanahan....",
+      "pubDate": "2026-08-08T22:56:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
@@ -368,38 +400,6 @@
       "pubDate": "2026-08-08T19:34:23Z",
       "source": "ESPN NFL · Marcel Louis-Jacques",
       "thumbnail": "https://a.espncdn.com/photo/2026/0803/r1697204_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Philadelphia Eagles training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434399/philadelphia-eagles-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Eagles training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-08T19:32:40Z",
-      "source": "ESPN NFL · Tim McManus",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698928_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Roger Craig opens up about dementia diagnosis during taped HOF speech",
-      "link": "https://www.espn.com/video/clip/_/id/49562444/roger-craig-opens-dementia-diagnosis-taped-hof-speech",
-      "description": "Roger Craig opens up about dementia diagnosis during taped HOF speech",
-      "pubDate": "2026-08-08T19:28:56Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0808/ss_20260808_151957112_3617282/ss_20260808_151957112_3617282.jpg"
-    },
-    {
-      "title": "2026 Chicago Bears training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-08T19:26:40Z",
-      "source": "ESPN NFL · Courtney Cronin",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698467_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Eagles &#39;going to lean into&#39; Tush Push in 2026, Sean Mannion says",
-      "link": "https://sports.yahoo.com/articles/eagles-going-lean-tush-push-192305356.html",
-      "description": "The &#39;Tush Push&#39; has been one of the Eagles&#39; best plays over the last five years. Sean Mannion plans to lean on it in his first season as Philly&#39;s OC....",
-      "pubDate": "2026-08-08T19:23:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "2026 Indianapolis Colts training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448214/indianapolis-colts-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Colts training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-08T23:15:41Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0808/r1699305_608x342_16-9.jpg"
+    },
+    {
       "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
@@ -1164,14 +1172,6 @@
       "pubDate": "2026-08-08T14:44:02+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Saints sign ex-Buccaneers LB Deion Jones to 1-year deal",
-      "link": "https://www.espn.com/nfl/story/_/id/49555001/sources-saints-signing-ex-bucs-lb-deion-jones-1-year-deal",
-      "description": "The Saints have signed Deion Jones to a one-year deal, as the linebacker joins the fourth NFC South team of his career.",
-      "pubDate": "2026-08-08T14:29:26Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2020/0920/r748412_600x400_3-2.jpg"
     },
     {
       "title": "Mike Tomlin hasn't thought about returning to coaching, yet",
