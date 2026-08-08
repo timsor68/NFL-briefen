@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T08:18:30.679149+00:00",
+  "generatedAt": "2026-08-08T09:04:31.470937+00:00",
   "nfl": [
     {
       "title": "Matt LaFleur bans backflips after Christian Watson and MarShawn Lloyd celebrations",
@@ -22,6 +22,14 @@
       "link": "https://sports.yahoo.com/articles/josh-allen-still-feels-guilty-040401928.html",
       "description": "The last of 10 head-coaching vacancies in the 2026 cycle arose when the Bills surprisingly fired Sean McDermott after a divisional-round overtime loss to the Broncos....",
       "pubDate": "2026-08-08T04:04:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts’ Cam Taylor-Britt suspended by NFL for violating conduct policy",
+      "link": "https://sports.yahoo.com/articles/colts-cam-taylor-britt-suspended-035204629.html",
+      "description": "The Colts will be down a defensive free agent acquisition to begin the 2026 season....",
+      "pubDate": "2026-08-08T03:52:04+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -392,14 +400,6 @@
       "pubDate": "2026-08-07T22:02:19+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Tracking 2026 NFL hold-ins: Vea and Tuipulotu",
-      "link": "https://www.espn.com/nfl/story/_/id/49490010/2026-training-camp-holdin-tracking-updates-bijan-robinson-jahmyr-gibbs-vita-vea-tuli-tuipulotu",
-      "description": "Here is the latest on the Bucs' Vita Vea and the Chargers' Tuli Tuipulotu and where they stand with their deals.",
-      "pubDate": "2026-08-07T22:01:56Z",
-      "source": "ESPN NFL · NFL Nation",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698448_608x342_16-9.jpg"
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Larry Fitzgerald refuses to call himself \"retired\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/larry-fitzgerald-refuses-to-call-himself-retired",
+      "description": "Larry Fitzgerald will be inducted into the Pro Football Hall of Fame today, and he'll turn 43 years old this month....",
+      "pubDate": "2026-08-08T08:41:48+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Matt LaFleur bans backflips after Christian Watson and MarShawn Lloyd celebrations",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-bans-backflips-after-christian-watson-and-marshawn-lloyd-celebrations",
       "description": "The Packers' head coach said he doesn't want to see any more backflips after two oft-injured players did them....",
@@ -1196,14 +1204,6 @@
       "pubDate": "2026-08-07T18:52:47Z",
       "source": "ESPN NFL · Michael DiRocco",
       "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698423_608x342_16-9.jpg"
-    },
-    {
-      "title": "Eric Bieniemy is watching Chiefs practice live streams as Mia Bieniemy continues to recover",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eric-bieniemy-is-watching-chiefs-practice-live-streams-as-mia-bieniemy-continues-to-recover",
-      "description": "Chiefs offensive coordinator Eric Bieniemy is staying involved with the team while continuing to support his wife, Mia Bieniemy, as she recovers from a shooting....",
-      "pubDate": "2026-08-07T18:42:05+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     }
   ]
 }
