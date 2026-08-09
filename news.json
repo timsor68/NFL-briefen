@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-08-09T20:24:11.195537+00:00",
+  "generatedAt": "2026-08-09T21:05:16.618591+00:00",
   "nfl": [
+    {
+      "title": "2026 Los Angeles Chargers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49424976/los-angeles-chargers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Chargers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-09T21:04:02Z",
+      "source": "ESPN NFL · Kris Rhim",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699678_500x333_3-2.jpg"
+    },
     {
       "title": "2026 Green Bay Packers training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-09T20:12:54Z",
+      "pubDate": "2026-08-09T20:54:33Z",
       "source": "ESPN NFL · Rob Demovsky",
       "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699651_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Bears sign DB Beanie Bishop",
+      "link": "https://sports.yahoo.com/articles/bears-sign-db-beanie-bishop-204409684.html",
+      "description": "The Bears continue to be busy adding defensive backs to their roster....",
+      "pubDate": "2026-08-09T20:44:09+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions put Teddy Bridgewater on reserve/retired list",
+      "link": "https://sports.yahoo.com/articles/lions-put-teddy-bridgewater-retired-203622709.html",
+      "description": "Bridgewater stepped away from the team on Sunday....",
+      "pubDate": "2026-08-09T20:36:22+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "2026 Detroit Lions training camp: Latest intel, updates",
@@ -374,30 +398,6 @@
       "link": "https://sports.yahoo.com/articles/giants-run-more-pass-more-164855770.html",
       "description": "You probably think you know the answer. Don’t be so sure....",
       "pubDate": "2026-08-09T16:48:55+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "5 things we have learned through 8 days of Broncos Camp",
-      "link": "https://sports.yahoo.com/articles/5-things-learned-8-days-164442088.html",
-      "description": "The Denver Broncos just wrapped up their 8th day of Broncos Camp, and the intensity has started to pick up. They practiced for six straight days, had the pads on for all but one da...",
-      "pubDate": "2026-08-09T16:44:42+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sources: Commanders LT Laremy Tunsil suffers torn triceps",
-      "link": "https://www.espn.com/nfl/story/_/id/49564238/commanders-lt-laremy-tunsil-suffers-torn-triceps",
-      "description": "Washington Commanders left tackle Laremy Tunsil suffered a torn triceps in practice, will likely require surgery and will miss at least a significant portion of the regular season, a source told NFL Network's Mike Garafolo and Steve Wyche on Saturday.",
-      "pubDate": "2026-08-09T16:38:53Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699334_600x600_1-1.jpg"
-    },
-    {
-      "title": "Aaron Rodgers lost his &#39;deep love&#39; for football. Mike Tomlin brought it back",
-      "link": "https://sports.yahoo.com/articles/aaron-rodgers-lost-deep-love-162626084.html",
-      "description": "Pittsburgh Steelers quarterback Aaron Rodgers might have retired if not for former Steelers head coach Mike Tomlin....",
-      "pubDate": "2026-08-09T16:26:26+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,12 +806,36 @@
   ],
   "insider": [
     {
+      "title": "2026 Los Angeles Chargers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49424976/los-angeles-chargers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Chargers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-09T21:04:02Z",
+      "source": "ESPN NFL · Kris Rhim",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699678_500x333_3-2.jpg"
+    },
+    {
       "title": "2026 Green Bay Packers training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-09T20:12:54Z",
+      "pubDate": "2026-08-09T20:54:33Z",
       "source": "ESPN NFL · Rob Demovsky",
       "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699651_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Bears sign DB Beanie Bishop",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-db-beanie-bishop",
+      "description": "The Bears continue to be busy adding defensive backs to their roster....",
+      "pubDate": "2026-08-09T20:44:09+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions put Teddy Bridgewater on reserve/retired list",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-put-teddy-bridgewater-on-reserve-retired-list",
+      "description": "Bridgewater stepped away from the team on Sunday....",
+      "pubDate": "2026-08-09T20:36:22+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Trent Williams is sued for not making payments on a 2021 Porsche lease",
@@ -1166,14 +1190,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698959_608x342_16-9.jpg"
     },
     {
-      "title": "Laremy Tunsil suffered torn triceps on Saturday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/laremy-tunsil-suffered-torn-triceps-on-saturday",
-      "description": "Tunsil is expected to miss significant regular-season time....",
-      "pubDate": "2026-08-09T00:35:56+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "2026 Dallas Cowboys training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
@@ -1188,22 +1204,6 @@
       "pubDate": "2026-08-08T22:48:41Z",
       "source": "ESPN NFL · Daniel Oyefusi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698902_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 New York Giants training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-08T22:42:28Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695297_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Denver Broncos training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Broncos training camp, including intel on the QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-08T22:23:45Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698889_608x342_16-9.jpg"
     }
   ]
 }
