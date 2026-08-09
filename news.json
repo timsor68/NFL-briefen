@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-09T04:38:31.750794+00:00",
+  "generatedAt": "2026-08-09T05:32:33.186699+00:00",
   "nfl": [
+    {
+      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-09T05:17:12Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699413_608x342_16-9.jpg"
+    },
+    {
+      "title": "Ty Simpson will play in the preseason; no decision has been made about Stetson Bennett playing",
+      "link": "https://sports.yahoo.com/articles/ty-simpson-play-preseason-no-044239985.html",
+      "description": "As the Rams prepare for the first of their three preseason games, coach Sean McVay has made a decision as to whether one of his top backup quarterbacks will play....",
+      "pubDate": "2026-08-09T04:42:39+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "2026 Houston Texans training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49419567/houston-texans-training-camp-2026-intel-updates",
@@ -24,14 +40,6 @@
       "pubDate": "2026-08-09T04:04:23Z",
       "source": "ESPN NFL · Alaina Getzenberg",
       "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699402_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-09T03:58:06Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699413_608x342_16-9.jpg"
     },
     {
       "title": "Former 2-time NFL head coach visits Virginia Tech’s fall camp",
@@ -176,6 +184,14 @@
       "pubDate": "2026-08-09T00:30:52+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/ufl-16x9-2.jpg"
+    },
+    {
+      "title": "Giants withstood John Harbaugh’s grueling road training camp: ‘Improved tremendously’",
+      "link": "https://sports.yahoo.com/articles/giants-withstood-john-harbaugh-grueling-003026595.html",
+      "description": "The Giants got through their on-the-road portion of their summer preparation in fine shape....",
+      "pubDate": "2026-08-09T00:30:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Commanders Pro Bowl LT Laremy Tunsil out indefinitely after tearing triceps in training camp",
@@ -382,22 +398,6 @@
       "link": "https://sports.yahoo.com/articles/bears-sign-defensive-backs-brandon-213515940.html",
       "description": "The Bears continued to shuffle their defensive backfield on Saturday....",
       "pubDate": "2026-08-08T21:35:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys fans expect big things from Caleb Downs this year",
-      "link": "https://sports.yahoo.com/articles/cowboys-fans-expect-big-things-213000282.html",
-      "description": "It is impressive how big the expectations are for Caleb Downs....",
-      "pubDate": "2026-08-08T21:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Louisville Football Fall Practice Notes",
-      "link": "https://sports.yahoo.com/articles/louisville-football-fall-practice-notes-211935663.html",
-      "description": "Louisville held its second open practice of the fall this morning and allowed fans and media to get a look at the team on a nice Saturday morning. I’ve been covering these practice...",
-      "pubDate": "2026-08-08T21:19:35+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,22 @@
   ],
   "insider": [
     {
+      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-09T05:17:12Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699413_608x342_16-9.jpg"
+    },
+    {
+      "title": "Ty Simpson will play in the preseason; no decision has been made about Stetson Bennett playing",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ty-simpson-will-play-in-the-preseason-no-decision-has-been-made-about-stetson-bennett-playing",
+      "description": "As the Rams prepare for the first of their three preseason games, coach Sean McVay has made a decision as to whether one of his top backup quarterbacks will play....",
+      "pubDate": "2026-08-09T04:42:39+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "2026 Houston Texans training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49419567/houston-texans-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Houston Texans training camp, including intel on QBs, position battles and potential breakouts.",
@@ -828,14 +844,6 @@
       "pubDate": "2026-08-09T04:04:23Z",
       "source": "ESPN NFL · Alaina Getzenberg",
       "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699402_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-09T03:58:06Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699413_608x342_16-9.jpg"
     },
     {
       "title": "Aaron Rodgers says Mike Tomlin helped restore his love for the game",
@@ -1194,14 +1202,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-hold-kirk-cousins-maxx-crosby-out-of-saturdays-practice-due-to-fridays-fight",
       "description": "Raiders quarterback Kirk Cousins and defensive end Maxx Crosby got into a scuffle during practice on Friday and they received some extra time to cool off on Saturday....",
       "pubDate": "2026-08-08T17:05:29+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Larry Fitzgerald: It's not just about the excellence; it's about the people who help get you there",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/larry-fitzgerald-its-not-just-about-the-excellence-its-about-the-people-who-help-get-you-there",
-      "description": "After a 17-year career with the Cardinals, Fitzgerald entered the Hall of Fame on Saturday as a first-ballot inductee....",
-      "pubDate": "2026-08-08T16:42:31+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     }
