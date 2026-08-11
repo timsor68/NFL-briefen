@@ -1,13 +1,133 @@
 {
-  "generatedAt": "2026-08-11T22:22:06.132267+00:00",
+  "generatedAt": "2026-08-11T23:21:20.853469+00:00",
   "nfl": [
     {
-      "title": "CBS Sports president: 'No timetable' on future of Romo after arrest",
+      "title": "2026 New York Giants training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T23:16:38Z",
+      "source": "ESPN NFL · Jordan Raanan",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698168_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T23:16:33Z",
+      "source": "ESPN NFL · Nate Taylor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700512_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T23:10:00Z",
+      "source": "ESPN NFL · Kevin Seifert",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0801/r1696486_608x342_16-9.jpg"
+    },
+    {
+      "title": "Seahawks' Nick Emmanwori passes physical, set to come off PUP list",
+      "link": "https://www.espn.com/nfl/story/_/id/49584391/seahawks-nick-emmanwori-passes-physical-set-come-pup-list",
+      "description": "Seahawks safety Nick Emmanwori (ankle) passed his physical, the team announced Tuesday, clearing the way for his return off the physically unable to perform list.",
+      "pubDate": "2026-08-11T23:07:52Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700422_600x400_3-2.jpg"
+    },
+    {
+      "title": "Chicago Bears Make Roster Moves",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-roster-moves-230000970.html",
+      "description": "The Chicago Bears made another roster move, once again necessitated by a sidelined player. @wiltfongjr with the details here....",
+      "pubDate": "2026-08-11T23:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Day 10 News and Notes from Broncos Camp",
+      "link": "https://sports.yahoo.com/articles/day-10-news-notes-broncos-225940193.html",
+      "description": "Day 10 of Broncos Camp is in the books, and it’s their last real training camp practice of the week before their preseason opener vs. the Falcons on Friday Night. Wednesday’s pract...",
+      "pubDate": "2026-08-11T22:59:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Indianapolis Colts training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448214/indianapolis-colts-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Colts training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:56:09Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699595_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:53:38Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0804/r1697687_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 New England Patriots training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:49:14Z",
+      "source": "ESPN NFL · Mike Reiss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700451_608x342_16-9.jpg"
+    },
+    {
+      "title": "Dallas Cowboys release first unofficial depth chart of season",
+      "link": "https://sports.yahoo.com/articles/dallas-cowboys-release-first-unofficial-224810699.html",
+      "description": "The first unofficial depth chart of the season is here!...",
+      "pubDate": "2026-08-11T22:48:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:41:57Z",
+      "source": "ESPN NFL · Nick Wagoner",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700478_608x342_16-9.jpg"
+    },
+    {
+      "title": "49ers-Titans joint practice roundup: Brock Purdy continues to shine",
+      "link": "https://sports.yahoo.com/articles/49ers-titans-joint-practice-roundup-223240397.html",
+      "description": "A look at how the 49ers-Titans joint practice went through the lens of social media...",
+      "pubDate": "2026-08-11T22:32:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Christian Gonzalez practice absence raises questions amid ongoing contract talks",
+      "link": "https://sports.yahoo.com/articles/christian-gonzalez-practice-absence-raises-223004717.html",
+      "description": "The star cornerback did not participate in the Patriots’ joint practice with the Colts....",
+      "pubDate": "2026-08-11T22:30:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "CBS Sports 'still assessing' Tony Romo status after arrest",
       "link": "https://www.espn.com/nfl/story/_/id/49585337/cbs-president-no-table-future-romo-arrest",
       "description": "CBS Sports president David Berson said Tuesday that there is \"no timetable\" on the future of NFL analyst Tony Romo after Romo's arrest on suspicion of operating a vehicle while under the influence.",
-      "pubDate": "2026-08-11T22:18:53Z",
-      "source": "ESPN NFL · ESPN",
+      "pubDate": "2026-08-11T22:27:37Z",
+      "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695598_600x400_3-2.jpg"
+    },
+    {
+      "title": "2026 Arizona Cardinals training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49426382/arizona-cardinals-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Cardinals training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:26:37Z",
+      "source": "ESPN NFL · Josh Weinfuss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0804/r1697706_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Kyle Long knows exactly what he&#39;ll bring to CBS&#39;s &#39;NFL Today&#39; after call-up",
+      "link": "https://sports.yahoo.com/articles/kyle-long-knows-exactly-hell-222227969.html",
+      "description": "Kyle Long has been working with CBS for six seasons, but 2026 will be his first as a main cast member on the network&#39;s flagship &quot;NFL Today.&quot;...",
+      "pubDate": "2026-08-11T22:22:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Vikings name Kyler Murray starting QB over J.J. McCarthy",
@@ -18,12 +138,28 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695314_1296x729_16-9.jpg"
     },
     {
+      "title": "Update on former Cardinals QB Kyler Murray’s status with the Vikings",
+      "link": "https://sports.yahoo.com/articles/former-cardinals-qb-kyler-murray-221132545.html",
+      "description": "The former quarterback is in camp with Minnesota...",
+      "pubDate": "2026-08-11T22:11:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Will The Detroit Lions Reclaim The NFC North Crown? Colin Cowherd Thinks So",
       "link": "https://www.foxsports.com/stories/nfl/will-detroit-lions-reclaim-nfc-north-crown-colin-cowherd-thinks-so",
       "description": "Colin Cowherd breaks down the NFC North division race, picking the Detroit Lions to win the division while highlighting the Chicago Bears led by Ben Johnson and Caleb Williams.",
       "pubDate": "2026-08-11T22:10:38+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/gettyimages-2235752762-scaled-e1786485195278.jpg"
+    },
+    {
+      "title": "Eagles Training Camp Practice Notes: Uar Bernard is showing some promise",
+      "link": "https://sports.yahoo.com/articles/eagles-training-camp-practice-notes-220840988.html",
+      "description": "﻿﻿﻿﻿﻿﻿Observations from the Jefferson Health Training Complex.﻿﻿...",
+      "pubDate": "2026-08-11T22:08:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Takeaways from Bills first depth ahead of Panthers preseason game",
@@ -64,14 +200,6 @@
       "pubDate": "2026-08-11T21:50:43Z",
       "source": "ESPN NFL · Daniel Oyefusi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700491_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 New York Giants training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T21:49:47Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698168_1296x729_16-9.jpg"
     },
     {
       "title": "Falcons claim OG Jaeden Roberts off waivers",
@@ -152,14 +280,6 @@
       "pubDate": "2026-08-11T21:25:45Z",
       "source": "ESPN NFL · Jamison Hensley",
       "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700391_600x400_3-2.jpg"
-    },
-    {
-      "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T21:24:15Z",
-      "source": "ESPN NFL · Nick Wagoner",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700478_608x342_16-9.jpg"
     },
     {
       "title": "Where to watch NFL preseason games: Week 1 schedule",
@@ -280,129 +400,25 @@
       "pubDate": "2026-08-11T20:58:10Z",
       "source": "ESPN NFL · Katherine Terrell",
       "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699609_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Buffalo Bills training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434544/buffalo-bills-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Bills training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T20:56:45Z",
-      "source": "ESPN NFL · Alaina Getzenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700428_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Denver Broncos training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Broncos training camp, including intel on the QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T20:54:07Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0810/r1700107_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 New York Jets training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T20:53:44Z",
-      "source": "ESPN NFL · Rich Cimini",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700461_608x342_16-9.jpg"
-    },
-    {
-      "title": "Bears sign OL Wesley French",
-      "link": "https://sports.yahoo.com/articles/bears-sign-ol-wesley-french-205329111.html",
-      "description": "The Bears added some depth to their offensive line on Tuesday....",
-      "pubDate": "2026-08-11T20:53:29+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Cincinnati Bengals training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49448120/cincinnati-bengals-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Bengals training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T20:51:06Z",
-      "source": "ESPN NFL · Ben Baby",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700425_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Jets&#39; Stiggers in hospital after collapsing in practice",
-      "link": "https://sports.yahoo.com/articles/jets-stiggers-hospital-collapsing-practice-200023674.html",
-      "description": "New York Jets cornerback Qwan&#39;tez Stiggers is taken to hospital after collapsing during a joint practice with the Tampa Bay Buccaneers....",
-      "pubDate": "2026-08-11T20:50:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Detroit Lions training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419620/detroit-lions-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Lions training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T20:49:19Z",
-      "source": "ESPN NFL · Eric Woodyard",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700416_608x342_16-9.jpg"
-    },
-    {
-      "title": "Fernando Mendoza may play with 1st-team offensive line Thursday",
-      "link": "https://sports.yahoo.com/articles/fernando-mendoza-may-play-1st-204714521.html",
-      "description": "Rookie is expected to play extensively against Arizona in preseason opener...",
-      "pubDate": "2026-08-11T20:47:14+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "A s***-talking Arch Manning is now leading Texas",
-      "link": "https://sports.yahoo.com/articles/talking-arch-manning-now-leading-204614633.html",
-      "description": "The second-year starter is now going back and forth with Colin Simmons in practice....",
-      "pubDate": "2026-08-11T20:46:14+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Commanders sign LB Curtis Jacobs",
-      "link": "https://sports.yahoo.com/articles/commanders-sign-lb-curtis-jacobs-204256076.html",
-      "description": "The Commanders announced the signing of defensive tackle Byron Cowart on Tuesday morning and they added another player to the defense in the afternoon....",
-      "pubDate": "2026-08-11T20:42:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Klint Kubiak: Fernando Mendoza will get &quot;plenty of experience&quot; on Thursday vs. Cardinals",
-      "link": "https://sports.yahoo.com/articles/klint-kubiak-fernando-mendoza-plenty-204132805.html",
-      "description": "No. 1 overall pick Fernando Mendoza is officially set to make his preseason debut on Thursday night....",
-      "pubDate": "2026-08-11T20:41:32+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 New England Patriots training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T20:41:14Z",
-      "source": "ESPN NFL · Mike Reiss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700451_608x342_16-9.jpg"
-    },
-    {
-      "title": "Tony Romo&#39;s CBS future remains uncertain as network says it&#39;s still &#39;assessing&#39; his fate",
-      "link": "https://sports.yahoo.com/nfl/article/tony-romos-cbs-future-remains-uncertain-as-network-says-its-still-assessing-his-fate-204110495.html",
-      "description": "Romo has been placed on indefinite leave after an arrest for suspected driving while intoxicated....",
-      "pubDate": "2026-08-11T20:41:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football sleepers, busts and breakouts for 2026",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSleepBustBreak26-49030808/fantasy-football-2026-rankings-nfl-sleepers-breakouts-busts",
-      "description": "Which players will surprise, disappoint or make a big jump this fantasy season? Our analysts give their picks.",
-      "pubDate": "2026-08-11T20:39:00Z",
-      "source": "ESPN NFL · Fantasy staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0702/fan_breakout-sleeper-bust_16x9_608x342.jpg"
-    },
-    {
-      "title": "Giants injuries: Abdul Carter (hand), Jaxson Dart (ankle) practice",
-      "link": "https://sports.yahoo.com/articles/giants-injuries-abdul-carter-hand-203733509.html",
-      "description": "QB Jaxson Dart and OLB Abdul Carter practice after injury scares on Monday; notes from the Giants practice on Tuesday....",
-      "pubDate": "2026-08-11T20:37:33+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Predicting which teams will have largest win increase this season",
+      "link": "https://www.espn.com/video/clip/_/id/49585728/predicting-which-teams-largest-win-increase-season",
+      "description": "Chris Doering takes a look back at the teams who had the largest win increase last season and discusses why South Carolina, Auburn and Florida could improve this year.",
+      "pubDate": "2026-08-11T23:07:20Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_SEC_NCF_Analysis_Increase_win_total_analysis_260811/dm_260811_SEC_NCF_Analysis_Increase_win_total_analysis_260811.jpg"
+    },
+    {
+      "title": "Trinidad Chambliss finds comfort in Oxford amidst crazy offseason",
+      "link": "https://www.espn.com/video/clip/_/id/49585722/trinidad-chambliss-finds-comfort-oxford-amidst-crazy-offseason",
+      "description": "Chambliss catches up with ESPN's Rece Davis to discuss how the love the people in Oxford show him made the decision to come back easy, even if it was not his call.",
+      "pubDate": "2026-08-11T23:05:15Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0811/dm_260811_SEC_NCF_Feature_Chambliss_Rece_feat_260811/dm_260811_SEC_NCF_Feature_Chambliss_Rece_feat_260811.jpg"
+    },
     {
       "title": "Rece Davis declares Chambliss the 'Mayor of Oxford'",
       "link": "https://www.espn.com/video/clip/_/id/49585311/rece-davis-declares-chambliss-mayor-oxford",
@@ -786,25 +802,81 @@
       "pubDate": "2026-08-06T21:55:33Z",
       "source": "ESPN College Football · Jake Trotter",
       "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698521_1024x683_3-2.jpg"
-    },
-    {
-      "title": "Bill Connelly highlights SEC players that will make the biggest impact",
-      "link": "https://www.espn.com/video/clip/_/id/49547882/bill-connelly-highlights-sec-players-make-biggest-impact",
-      "description": "ESPN's Connelly joins SEC Now to discuss the SEC players on his list of the most important players in college football this season.",
-      "pubDate": "2026-08-06T21:34:21Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_SEC_NCF_Interview_Bill_C_SECN_260806/dm_260806_SEC_NCF_Interview_Bill_C_SECN_260806.jpg"
-    },
-    {
-      "title": "Analyzing what SEC teams have a tough start to the season",
-      "link": "https://www.espn.com/video/clip/_/id/49546711/analyzing-sec-teams-tough-start-season",
-      "description": "SEC Network's Matt Stinchcomb dissects the difficulty of the schedule for teams around the conference for the month of September.",
-      "pubDate": "2026-08-06T18:45:14Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0806/dm_260806_SEC_NCF_Analysis_Schedule_Breakdown_260806/dm_260806_SEC_NCF_Analysis_Schedule_Breakdown_260806.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "2026 New York Giants training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T23:16:38Z",
+      "source": "ESPN NFL · Jordan Raanan",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698168_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T23:16:33Z",
+      "source": "ESPN NFL · Nate Taylor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700512_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T23:10:00Z",
+      "source": "ESPN NFL · Kevin Seifert",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0801/r1696486_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 Indianapolis Colts training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448214/indianapolis-colts-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Colts training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:56:09Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0809/r1699595_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:53:38Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0804/r1697687_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 New England Patriots training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:49:14Z",
+      "source": "ESPN NFL · Mike Reiss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700451_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:41:57Z",
+      "source": "ESPN NFL · Nick Wagoner",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700478_608x342_16-9.jpg"
+    },
+    {
+      "title": "Kyle Shanahan downplays concern over Christian McCaffrey's practice absence",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-downplays-concern-over-christian-mccaffreys-practice-absence",
+      "description": "49ers running back Christian McCaffrey missed practice again Tuesday....",
+      "pubDate": "2026-08-11T22:39:41+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Arizona Cardinals training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49426382/arizona-cardinals-training-camp-2026-intel-updates",
+      "description": "Follow our daily updates from Cardinals training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-11T22:26:37Z",
+      "source": "ESPN NFL · Josh Weinfuss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0804/r1697706_1296x729_16-9.jpg"
+    },
     {
       "title": "2026 Cleveland Browns training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49449000/cleveland-browns-training-camp-2026-intel-updates",
@@ -812,14 +884,6 @@
       "pubDate": "2026-08-11T21:50:43Z",
       "source": "ESPN NFL · Daniel Oyefusi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700491_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 New York Giants training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T21:49:47Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698168_1296x729_16-9.jpg"
     },
     {
       "title": "Falcons claim OG Jaeden Roberts off waivers",
@@ -852,14 +916,6 @@
       "pubDate": "2026-08-11T21:34:44+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 San Francisco 49ers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427696/san-francisco-49ers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from 49ers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T21:24:15Z",
-      "source": "ESPN NFL · Nick Wagoner",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700478_608x342_16-9.jpg"
     },
     {
       "title": "Josh Dobbs on leaving New England: “That was very frustrating, the way they handled that\"",
@@ -990,14 +1046,6 @@
       "thumbnail": ""
     },
     {
-      "title": "2026 New England Patriots training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T20:41:14Z",
-      "source": "ESPN NFL · Mike Reiss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700451_608x342_16-9.jpg"
-    },
-    {
       "title": "2026 Houston Texans training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49419567/houston-texans-training-camp-2026-intel-updates",
       "description": "Follow our daily updates from Houston Texans training camp, including intel on QBs, position battles and potential breakouts.",
@@ -1020,14 +1068,6 @@
       "pubDate": "2026-08-11T20:31:03+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T20:26:25Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0804/r1697687_608x342_16-9.jpg"
     },
     {
       "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
@@ -1162,46 +1202,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-sign-lb-aaron-smith-place-fb-robbie-ouzts-on-ir",
       "description": "The Seahawks have made a pair of roster moves....",
       "pubDate": "2026-08-11T18:53:29+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Myles Garrett not participating in joint practice with Cowboys",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-not-participating-in-joint-practice-with-cowboys",
-      "description": "Myles Garrett missed four practices last week with \"lower-body soreness\" but insisted he was good....",
-      "pubDate": "2026-08-11T18:50:55+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kevin O'Connell on Kyler Murray: What jumped out is what he could be in this offense",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-kyler-murray-what-jumped-out-is-what-he-could-be-in-this-offense",
-      "description": "The Vikings have named Murray their starting quarterback....",
-      "pubDate": "2026-08-11T18:46:33+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jaguars list Bhayshul Tuten or Chris Rodriguez as No. 1 running back",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-list-bhayshul-tuten-or-chris-rodriguez-as-no-1-running-back",
-      "description": "Jaguars head coach Liam Coen said last month that the team is expecting running back Bhayshul Tuten to have a big year for them, but Tuten has not nailed down the top spot on the d...",
-      "pubDate": "2026-08-11T18:16:04+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jacoby Brissett, Cardinals starters to play vs. Raiders on Thursday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-cardinals-starters-to-play-vs-raiders-on-thursday",
-      "description": "The Cardinals will be playing their starters this week....",
-      "pubDate": "2026-08-11T18:11:13+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Todd Monken: End of Monday's practice was awful, s—y football",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-end-of-mondays-practice-was-awful-s-y-football",
-      "description": "Multiple reporters on the Browns beat noted how the end of Monday's practice was sloppy, with head coach Todd Monken becoming animated over the offense's pre-snap penalties and ina...",
-      "pubDate": "2026-08-11T17:42:05+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     }
