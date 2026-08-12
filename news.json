@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-12T08:10:56.442726+00:00",
+  "generatedAt": "2026-08-12T09:32:55.320929+00:00",
   "nfl": [
+    {
+      "title": "49ers News: Sounds like the joint practice was LIT",
+      "link": "https://sports.yahoo.com/articles/49ers-news-sounds-joint-practice-090900085.html",
+      "description": "Your daily San Francisco 49ers news for Wednesday, August 12th, 2026...",
+      "pubDate": "2026-08-12T09:09:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Puka Nacua reportedly dealing with only minor soreness in his groin",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-reportedly-dealing-only-082634503.html",
+      "description": "Nacua, the star receiver heading into the final year of his rookie contract, appears to have avoided a significant injury....",
+      "pubDate": "2026-08-12T08:26:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "New Chargers offense may be just what Justin Herbert needs. Let the OC Mike McDaniel explain",
       "link": "https://sports.yahoo.com/nfl/article/new-chargers-offense-may-be-just-what-justin-herbert-needs-let-the-oc-mike-mcdaniel-explain-065049262.html",
@@ -384,22 +400,6 @@
       "pubDate": "2026-08-11T22:53:38Z",
       "source": "ESPN NFL · Rob Demovsky",
       "thumbnail": "https://a.espncdn.com/photo/2026/0804/r1697687_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 New England Patriots training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427703/new-england-patriots-training-camp-2026-intel-updates",
-      "description": "Follow our daily updates from Patriots training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-11T22:49:14Z",
-      "source": "ESPN NFL · Mike Reiss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700451_608x342_16-9.jpg"
-    },
-    {
-      "title": "Dallas Cowboys release first unofficial depth chart of season",
-      "link": "https://sports.yahoo.com/articles/dallas-cowboys-release-first-unofficial-224810699.html",
-      "description": "The first unofficial depth chart of the season is here!...",
-      "pubDate": "2026-08-11T22:48:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Puka Nacua reportedly dealing with only minor soreness in his groin",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-reportedly-dealing-with-only-minor-soreness-in-his-groin",
+      "description": "Nacua, the star receiver heading into the final year of his rookie contract, appears to have avoided a significant injury....",
+      "pubDate": "2026-08-12T08:26:34+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "CBS continues to talk to NFL about a new broadcast deal",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cbs-continues-to-talk-to-nfl-about-a-new-broadcast-deal",
       "description": "The question of whether Tony Romo will continue to call NFL games for CBS has somewhat obscured the question of whether CBS will continue to broadcast NFL games....",
@@ -1194,14 +1202,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-dances-around-question-regarding-lessons-learned-from-offseason-counseling",
       "description": "Patriots coach Mike Vrabel hasn't faced many questions during training camp about the aftermath of the offseason controversy involving himself and former ESPN/The Athletic reporter...",
       "pubDate": "2026-08-11T20:10:15+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chargers OT Rashawn Slater dealing with flare-up in his knee",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-ot-rashawn-slater-dealing-with-flare-up-in-his-knee",
-      "description": "Chargers left tackle Rashawn Slater missed his fourth straight practice on Tuesday and the reason for it involves his surgically repaired left knee....",
-      "pubDate": "2026-08-11T20:09:58+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     }
