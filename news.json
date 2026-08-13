@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-13T04:46:19.593959+00:00",
+  "generatedAt": "2026-08-13T06:11:49.813159+00:00",
   "nfl": [
     {
       "title": "Daniels sends cease and desist to LSU after Pickett given No. 5",
       "link": "https://www.espn.com/nfl/story/_/id/49596211/daniels-sends-cease-desist-lsu-pickett-given-no-5",
       "description": "Commanders quarterback Jayden Daniels informed LSU it can no longer use his name, image and likeness and said he felt \"profoundly disrespected\" after LSU allowed cornerback DJ Pickett to wear his former No. 5 jersey.",
-      "pubDate": "2026-08-13T04:11:49Z",
+      "pubDate": "2026-08-13T05:02:34Z",
       "source": "ESPN NFL · Mark Schlabach",
       "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322662_600x400_3-2.jpg"
     },
@@ -47,7 +47,7 @@
       "description": "Here’s how Nick Wright breaks down the league tiers entering Week 1 of the preseason.",
       "pubDate": "2026-08-13T02:18:56+00:00",
       "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/seahawaks.jpg"
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/josh-allen.jpg"
     },
     {
       "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
@@ -122,6 +122,22 @@
       "thumbnail": ""
     },
     {
+      "title": "Rams teammate noticed something terrifying during Aaron Donald workout",
+      "link": "https://sports.yahoo.com/articles/rams-teammate-noticed-something-terrifying-012715391.html",
+      "description": "Aaron Donald has not officially announced his return to the Los Angeles Rams, but he is beginning to resemble the world’s least convincing retiree....",
+      "pubDate": "2026-08-13T01:27:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets’ Qwan’tez Stiggers improving after scary practice collapse, in concussion protocol",
+      "link": "https://sports.yahoo.com/articles/jets-qwan-tez-stiggers-improving-012316696.html",
+      "description": "The Jets continued to get good news about cornerback Qwan’tez Stiggers, who was taken from practice Tuesday in an ambulance after passing out....",
+      "pubDate": "2026-08-13T01:23:16+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "NFL says new &quot;Move the Sticks&quot; podcast was not AI-generated or hosted",
       "link": "https://sports.yahoo.com/articles/nfl-says-move-sticks-podcast-010826517.html",
       "description": "The NFL found itself in the middle of a bizarre AI controversy on Wednesday, given the suspicions that new content posted on the Move The Sticks podcast feed seemed to be machine-g...",
@@ -134,6 +150,14 @@
       "link": "https://sports.yahoo.com/articles/darren-waller-carolina-panthers-agree-010347185.html",
       "description": "Tight end Darren Waller, a Pro Bowler in 2020 who posted back-to-back 1,000-yard seasons, has agreed to sign with the Carolina Panthers....",
       "pubDate": "2026-08-13T01:03:47+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "J.J. McCarthy opens up on NFL future as he loses Vikings starter job",
+      "link": "https://sports.yahoo.com/articles/j-j-mccarthy-opens-nfl-010134334.html",
+      "description": "J.J. McCarthy officially lost the QB competition in Minnesota on Tuesday when head coach Kevin O&#39;Connell named newcomer Kyler Murray the starter....",
+      "pubDate": "2026-08-13T01:01:34+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -376,30 +400,6 @@
       "pubDate": "2026-08-12T22:20:53Z",
       "source": "ESPN NFL · Turron Davenport",
       "thumbnail": "https://a.espncdn.com/photo/2026/0812/r1700963_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Why the Chargers' schedule makes them a fantasy defense to target",
-      "link": "https://www.espn.com/video/clip/_/id/49593606/why-chargers-schedule-makes-fantasy-defense-target",
-      "description": "Why the Chargers' schedule makes them a fantasy defense to target",
-      "pubDate": "2026-08-12T22:15:26Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0812/ss_20260812_180250113_3621454/ss_20260812_180250113_3621454.jpg"
-    },
-    {
-      "title": "2026 NFL training camp: Latest news, intel for all 32 teams",
-      "link": "https://www.espn.com/nfl/story/_/id/49368181/training-camp-2026-latest-news-intel-updates-buzz-all-32-teams",
-      "description": "Get all the latest news, intel and insights on NFL training camps from our team of reporters in the field.",
-      "pubDate": "2026-08-12T22:15:15Z",
-      "source": "ESPN NFL · NFL Nation",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0812/r1700972_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Eagles blasted for posting video of Jalen Hurts interception: Someone ‘may get fired’",
-      "link": "https://sports.yahoo.com/articles/eagles-blasted-posting-video-jalen-221001020.html",
-      "description": "The Eagles&#39; social media team might want this one back....",
-      "pubDate": "2026-08-12T22:10:01+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -407,7 +407,7 @@
       "title": "Daniels sends cease and desist to LSU after Pickett given No. 5",
       "link": "https://www.espn.com/nfl/story/_/id/49596211/daniels-sends-cease-desist-lsu-pickett-given-no-5",
       "description": "Commanders quarterback Jayden Daniels informed LSU it can no longer use his name, image and likeness and said he felt \"profoundly disrespected\" after LSU allowed cornerback DJ Pickett to wear his former No. 5 jersey.",
-      "pubDate": "2026-08-13T04:11:49Z",
+      "pubDate": "2026-08-13T04:54:14Z",
       "source": "ESPN College Football · Mark Schlabach",
       "thumbnail": "https://a.espncdn.com/photo/2024/0422/r1322662_600x400_3-2.jpg"
     },
