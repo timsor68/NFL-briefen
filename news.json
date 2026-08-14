@@ -1,34 +1,138 @@
 {
-  "generatedAt": "2026-08-14T20:06:30.819639+00:00",
+  "generatedAt": "2026-08-14T20:47:34.808443+00:00",
   "nfl": [
-    {
-      "title": "Commanders' Dorance Armstrong suspended for season opener",
-      "link": "https://www.espn.com/nfl/story/_/id/49611801/commanders-dorance-armstrong-suspended-season-opener",
-      "description": "Commanders defensive end/linebacker Dorance Armstrong has been suspended without pay for the season opener for violating the NFL's personal conduct policy.",
-      "pubDate": "2026-08-14T20:05:21Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1019/r1562654_600x400_3-2.jpg"
-    },
     {
       "title": "Falcons edge rusher James Pearce suspended 8 games by NFL",
       "link": "https://www.espn.com/nfl/story/_/id/49611663/falcons-edge-rusher-james-pearce-suspended-8-games-nfl",
       "description": "Falcons edge rusher James Pearce Jr. will be suspended by the NFL for eight games due to violating the league's personal conduct policy, the league announced Friday afternoon.",
-      "pubDate": "2026-08-14T20:00:15Z",
+      "pubDate": "2026-08-14T20:43:17Z",
       "source": "ESPN NFL · Marc Raimondi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0311/r1626981_600x400_3-2.jpg"
+    },
+    {
+      "title": "Bills' Phidarian Mathis banned 3 games for substance-abuse violation",
+      "link": "https://www.espn.com/nfl/story/_/id/49611988/bills-phidarian-mathis-banned-3-games-substance-abuse-violation",
+      "description": "Bills defensive tackle Phidarian Mathis has been suspended for the first three games of the season for violating the NFL's substances of abuse policy.",
+      "pubDate": "2026-08-14T20:39:15Z",
+      "source": "ESPN NFL · Alaina Getzenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701880_600x400_3-2.jpg"
+    },
+    {
+      "title": "49ers preseason snap counts and grades: More questions than answers at left guard",
+      "link": "https://sports.yahoo.com/articles/49ers-preseason-snap-counts-grades-203000991.html",
+      "description": "A look at who graded well for the 49ers in their first preseason game...",
+      "pubDate": "2026-08-14T20:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ravens activate LB Teddye Buchanan, place OL Kendall Lamm on reserve/retired",
+      "link": "https://sports.yahoo.com/articles/ravens-activate-lb-teddye-buchanan-202007731.html",
+      "description": "The Ravens activated linebacker Teddye Buchanan from active/physically unable to perform, the team announced....",
+      "pubDate": "2026-08-14T20:20:07+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Troy Aikman facing MNF limits due to Dolphins role, NFL says",
       "link": "https://www.espn.com/nfl/story/_/id/49611336/troy-aikman-facing-mnf-limits-due-dolphins-role-nfl-says",
       "description": "ESPN analyst Troy Aikman will see some restrictions in the lead-up to \"Monday Night Football\" broadcasts similar to those for Fox's Tom Brady.",
-      "pubDate": "2026-08-14T19:54:56Z",
+      "pubDate": "2026-08-14T20:18:34Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701830_1296x729_16-9.jpg"
     },
     {
+      "title": "Kubiak: All three QBs, including Mendoza, deserve 1st-team reps",
+      "link": "https://www.espn.com/nfl/story/_/id/49611554/kubiak-all-three-qbs-including-mendoza-deserve-1st-team-reps",
+      "description": "Raiders coach Klint Kubiak says rookie quarterback Fernando Mendoza played \"good football\" in his preseason debut, adding that all three signal-callers deserve more first-team reps.",
+      "pubDate": "2026-08-14T20:16:28Z",
+      "source": "ESPN NFL · Ryan McFadden",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701837_600x400_3-2.jpg"
+    },
+    {
+      "title": "Colts ST coordinator Brian Mason has significant knee injury after close of game collision",
+      "link": "https://sports.yahoo.com/articles/colts-st-coordinator-brian-mason-201228366.html",
+      "description": "Thoughts up to Colts special teams coordinator Brian Mason after a nasty collision last night....",
+      "pubDate": "2026-08-14T20:12:28+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kicker Trey Smack already in rare company in recent Packers history",
+      "link": "https://sports.yahoo.com/articles/kicker-trey-smack-already-rare-200838908.html",
+      "description": "Trey Smack’s long-distance attempts in Pittsburgh are creating plenty of buzz....",
+      "pubDate": "2026-08-14T20:08:38+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Commanders' Dorance Armstrong suspended for season opener",
+      "link": "https://www.espn.com/nfl/story/_/id/49611801/commanders-dorance-armstrong-suspended-season-opener",
+      "description": "Commanders defensive end/linebacker Dorance Armstrong has been suspended without pay for the season opener for violating the NFL's personal conduct policy.",
+      "pubDate": "2026-08-14T20:07:48Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1019/r1562654_600x400_3-2.jpg"
+    },
+    {
+      "title": "Shavon Revel is stacking days on days at Cowboys camp",
+      "link": "https://sports.yahoo.com/articles/shavon-revel-stacking-days-days-200000415.html",
+      "description": "Shavon Revel Jr. has arrived....",
+      "pubDate": "2026-08-14T20:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Breaking down every Chiefs position group ahead of preseason Week 1",
+      "link": "https://sports.yahoo.com/articles/breaking-down-every-chiefs-position-200000132.html",
+      "description": "Here’s a rundown of Kansas City’s roster, based on in-person observations from training camp....",
+      "pubDate": "2026-08-14T20:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Steelers chief of staff Steve Scarnecchia suffered &quot;medical situation&quot; on Thursday",
+      "link": "https://sports.yahoo.com/articles/steelers-chief-staff-steve-scarnecchia-195753000.html",
+      "description": "Steelers head coach Mike McCarthy shared on Friday that the club had a situation that resulted in some on-the-fly changes for last night’s preseason opener....",
+      "pubDate": "2026-08-14T19:57:53+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "&#39;Ready to show who I am&#39;: Ty Simpson embracing the pressure of his first Rams test",
+      "link": "https://sports.yahoo.com/articles/ready-show-am-ty-simpson-195708837.html",
+      "description": "Fans have high expectations for rookie quarterback Ty Simpson, who is embracing the pressure that comes with being Matthew Stafford&#39;s heir apparent....",
+      "pubDate": "2026-08-14T19:57:08+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Broncos vs Falcons Predictions, Picks & Odds for Tonight&#39;s NFL Preseason Game",
+      "link": "https://sports.yahoo.com/articles/broncos-vs-falcons-predictions-picks-155600494.html",
+      "description": "Fire up the Broncos today as our top Denver vs. Atlanta predictions are siding with Sean Payton & Co. as they look to extend his impressive preseason track record with a decisive w...",
+      "pubDate": "2026-08-14T19:57:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Buffalo Bills DT Phidarian Mathis suspended 3 games to start 2026 NFL season",
+      "link": "https://sports.yahoo.com/articles/buffalo-bills-dt-phidarian-mathis-195312404.html",
+      "description": "Buffalo Bills DT Phidarian Mathis has been handed a three-game suspension for violating NFL substances of abuse policy....",
+      "pubDate": "2026-08-14T19:53:12+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Injuries not a concern to Broncos fans",
+      "link": "https://sports.yahoo.com/articles/injuries-not-concern-broncos-fans-195037110.html",
+      "description": "While a few fans thought this week’s poll was aimed at “baiting” them, my intent behind the question was to gauge level of concern over some of the injuries in training camp. So jo...",
+      "pubDate": "2026-08-14T19:50:37+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Bills DT Phidarian Mathis suspended three games",
       "link": "https://sports.yahoo.com/articles/bills-dt-phidarian-mathis-suspended-194733060.html",
-      "description": "The NFL has suspended defensive tackle Phidarian Mathis for the first three games of the season for violating the NFL&#39;s substances of abuse policy....",
+      "description": "The NFL has suspended defensive tackle Phidarian Mathis for the first three games of the season for violating its substances of abuse policy....",
       "pubDate": "2026-08-14T19:47:33+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
@@ -42,14 +146,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Washington Commanders EDGE Dorance Armstrong suspended one game by the NFL",
-      "link": "https://sports.yahoo.com/articles/washington-commander-news-dorance-armstrong-194135647.html",
-      "description": "Dorance Armstrong suspended for Week 1 for violating the NFL’s personal conduct policy...",
-      "pubDate": "2026-08-14T19:41:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
       "title": "Falcons DE James Pearce Jr. Suspended 8 Games For Breaking NFL Conduct Policy",
       "link": "https://www.foxsports.com/stories/nfl/falcons-james-pearce-jr-suspension",
       "description": "Second-year Atlanta Falcons defensive end James Pearce Jr. has been suspended eight games for violating the NFL's personal conduct policy.",
@@ -58,20 +154,20 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/pearce1.jpg"
     },
     {
+      "title": "Eagles vs Ravens Predictions, Picks & Odds for Tonight&#39;s NFL Preseason Game",
+      "link": "https://sports.yahoo.com/articles/eagles-vs-ravens-predictions-picks-193700423.html",
+      "description": "Fade the new-look Ravens out of the gate in our NFL preseason expert picks, odds & predictions for Saturday, Aug. 15 against the Eagles....",
+      "pubDate": "2026-08-14T19:37:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Packers fans still favor Anthony Belton to start at right guard",
       "link": "https://sports.yahoo.com/articles/packers-fans-still-favor-anthony-193500844.html",
       "description": "Despite some shuffling in the last week, Belton still got the most votes in this week’s poll....",
       "pubDate": "2026-08-14T19:35:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Kubiak: All three QBs, including Mendoza, deserve 1st-team reps",
-      "link": "https://www.espn.com/nfl/story/_/id/49611554/kubiak-all-three-qbs-including-mendoza-deserve-1st-team-reps",
-      "description": "Raiders coach Klint Kubiak says rookie quarterback Fernando Mendoza played \"good football\" in his preseason debut, adding that all three signal-callers deserve more first-team reps.",
-      "pubDate": "2026-08-14T19:30:10Z",
-      "source": "ESPN NFL · Ryan McFadden",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701837_600x400_3-2.jpg"
     },
     {
       "title": "Best and worst Chargers PFF grades vs. the Texans",
@@ -94,6 +190,14 @@
       "link": "https://sports.yahoo.com/articles/long-dolphins-starters-play-against-192002486.html",
       "description": "Are you happy with the direction of the Miami Dolphins? It seems like the fan base is....",
       "pubDate": "2026-08-14T19:20:02+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys vs Seahawks Predictions, Picks & Odds for Saturday&#39;s NFL Preseason Game",
+      "link": "https://sports.yahoo.com/articles/cowboys-vs-seahawks-predictions-picks-191900768.html",
+      "description": "Our Cowboys vs. Seahawks predictions and picks for Saturday are backing the defending Super Bowl champions at home in their preseason opener....",
+      "pubDate": "2026-08-14T19:19:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -194,6 +298,14 @@
       "thumbnail": ""
     },
     {
+      "title": "49ers cornerback Nate Hobbs out a few weeks with groin injury",
+      "link": "https://sports.yahoo.com/articles/49ers-cornerback-nate-hobbs-few-180712336.html",
+      "description": "49ers cornerback Nate Hobbs will miss some time with a groin injury....",
+      "pubDate": "2026-08-14T18:07:12+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "2026 Dallas Cowboys training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
       "description": "Catch up on our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
@@ -288,121 +400,17 @@
       "pubDate": "2026-08-14T17:30:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Vikings vs Giants Predictions, Picks & Odds for Saturday&#39;s NFL Preseason Game",
-      "link": "https://sports.yahoo.com/articles/vikings-vs-giants-predictions-picks-172900479.html",
-      "description": "Our Vikings vs. Giants predictions and picks for Saturday are backing Minnesota due to its superior quarterback depth....",
-      "pubDate": "2026-08-14T17:29:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL preseason Week 1: Tua Tagovailoa to start for Falcons, Jets playing starters Friday night vs. Buccaneers as Baker Mayfield sits",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-preseason-week-1-tua-tagovailoa-to-start-for-falcons-jets-playing-starters-friday-night-vs-buccaneers-as-baker-mayfield-sits-171914778.html",
-      "description": "Let&#39;s take a look at who&#39;s playing (and who&#39;s not) for the second day of NFL preseason action....",
-      "pubDate": "2026-08-14T17:19:14+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "100 notes from the Houston Texans preseason matchup against LA Chargers",
-      "link": "https://sports.yahoo.com/articles/100-notes-houston-texans-preseason-171400182.html",
-      "description": "Every thought and finding during the Texans disappointing loss to the LA Chargers...",
-      "pubDate": "2026-08-14T17:14:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Marcus Mbow at center? Giants won’t be playing him there any time soon",
-      "link": "https://sports.yahoo.com/articles/marcus-mbow-center-giants-won-171343268.html",
-      "description": "The Giants are not ready to give him a real opportunity in the middle....",
-      "pubDate": "2026-08-14T17:13:43+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Will Shedeur Sanders Play Saturday? Browns QB Injury Update",
-      "link": "https://sports.yahoo.com/articles/shedeur-sanders-play-saturday-browns-170600277.html",
-      "description": "We look at whether Cleveland Browns quarterback Shedeur Sanders will play Saturday against Chicago, including the latest update on his preseason status....",
-      "pubDate": "2026-08-14T17:06:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What I’ll be watching for in the Rams opener",
-      "link": "https://sports.yahoo.com/articles/ll-watching-rams-opener-170200041.html",
-      "description": "L.A. travels to Kansas City to kickoff 2026...",
-      "pubDate": "2026-08-14T17:02:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "6 Winners and 4 losers from the 49ers’ preseason opener",
-      "link": "https://sports.yahoo.com/articles/6-winners-4-losers-49ers-170158700.html",
-      "description": "Taking a look at some under the radar names who stood out for the 49ers against the Titans...",
-      "pubDate": "2026-08-14T17:01:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "McCarthy on his Steelers coaching debut: 'It was very emotional'",
-      "link": "https://www.espn.com/video/clip/_/id/49610646/was-very-emotional",
-      "description": "McCarthy on his Steelers coaching debut: 'It was very emotional'",
-      "pubDate": "2026-08-14T17:00:21Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0814/ss_20260814_125201271_3623434779/ss_20260814_125201271_3623434779.jpg"
-    },
-    {
-      "title": "Fan Notes from the Patriots’ tie with the Colts",
-      "link": "https://sports.yahoo.com/articles/fan-notes-patriots-vs-colts-170000034.html",
-      "description": "Notes, thoughts and musings from the 13-13 tie....",
-      "pubDate": "2026-08-14T17:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL Odds: Back Murray, Flores To Reverse Vikings' Fortune",
-      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-back-murray-flores-reverse-vikings-fortune",
-      "description": "Will Hill believes the Vikings will go from (tied for) worst to first in the NFC North in 2026. Here's why he's betting Minnesota.",
-      "pubDate": "2026-08-14T16:52:39+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/murray-814.jpg"
-    },
-    {
-      "title": "The Morning After: Writing is on the wall for Steelers RB Kaleb Johnson",
-      "link": "https://sports.yahoo.com/articles/morning-writing-wall-steelers-rb-164658027.html",
-      "description": "Takeaways from the morning after the Steelers’ preseason opener....",
-      "pubDate": "2026-08-14T16:46:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys CB says facing Rams WRs in practice was ‘easy’",
-      "link": "https://sports.yahoo.com/articles/cowboys-cb-says-facing-rams-164303431.html",
-      "description": "Shavon Revel says defending Puka Nacua was “easy” compared to his normal practices...",
-      "pubDate": "2026-08-14T16:43:03+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "KeAndre Lambert-Smith among 6 Chargers who saw their stock rise vs. Texans",
-      "link": "https://sports.yahoo.com/articles/keandre-lambert-smith-among-6-163426648.html",
-      "description": "Jake Slaughter, KeAndre Lambert-Smith, and Amar Johnson were among 6 Chargers who stood out against the Texans....",
-      "pubDate": "2026-08-14T16:34:26+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy Football Roundtable: Our analysts share their preferred draft strategy for the 2026 NFL season",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-roundtable-our-analysts-share-their-preferred-draft-strategy-for-the-2026-nfl-season-163038358.html",
-      "description": "How should you approach your draft? Here&#39;s what our analysts think are the best strategies....",
-      "pubDate": "2026-08-14T16:30:38+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "SEC betting preview: Making sense of the CFP, win totals and more",
+      "link": "https://www.espn.com/espn/betting/story/_/id/49601116/sec-2026-betting-preview-odds-college-football-playoff",
+      "description": "Breaking down the best bets in the SEC ahead of the 2026 season, including wagers on Ole Miss, Oklahoma and Alabama, as well as how to bet on Texas and Florida.",
+      "pubDate": "2026-08-14T20:36:47Z",
+      "source": "ESPN College Football · Pamela Maldonado and Mark Zinno",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701332_1296x729_16-9.jpg"
+    },
     {
       "title": "Why Kirk Herbstreit is still an Arch Manning believer",
       "link": "https://www.espn.com/video/clip/_/id/49611269/why-kirk-herbstreit-arch-manning-believer",
@@ -450,14 +458,6 @@
       "pubDate": "2026-08-14T12:58:39Z",
       "source": "ESPN College Football · Jordan Reid",
       "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701068_608x342_16-9.jpg"
-    },
-    {
-      "title": "SEC betting preview: Making sense of the CFP, win totals and more",
-      "link": "https://www.espn.com/espn/betting/story/_/id/49601116/sec-2026-betting-preview-odds-college-football-playoff",
-      "description": "Breaking down the best bets in the SEC ahead of the 2026 season, including wagers on Ole Miss, Oklahoma and Alabama, as well as how to bet on Texas and Florida.",
-      "pubDate": "2026-08-14T10:47:28Z",
-      "source": "ESPN College Football · Pamela Maldonado and Mark Zinno",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701332_1296x729_16-9.jpg"
     },
     {
       "title": "SMU QB Kevin Jennings limited in camp with jammed finger",
@@ -806,20 +806,44 @@
   ],
   "insider": [
     {
-      "title": "Commanders' Dorance Armstrong suspended for season opener",
-      "link": "https://www.espn.com/nfl/story/_/id/49611801/commanders-dorance-armstrong-suspended-season-opener",
-      "description": "Commanders defensive end/linebacker Dorance Armstrong has been suspended without pay for the season opener for violating the NFL's personal conduct policy.",
-      "pubDate": "2026-08-14T20:05:21Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1019/r1562654_600x400_3-2.jpg"
-    },
-    {
       "title": "Falcons edge rusher James Pearce suspended 8 games by NFL",
       "link": "https://www.espn.com/nfl/story/_/id/49611663/falcons-edge-rusher-james-pearce-suspended-8-games-nfl",
       "description": "Falcons edge rusher James Pearce Jr. will be suspended by the NFL for eight games due to violating the league's personal conduct policy, the league announced Friday afternoon.",
-      "pubDate": "2026-08-14T20:00:15Z",
+      "pubDate": "2026-08-14T20:43:17Z",
       "source": "ESPN NFL · Marc Raimondi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0311/r1626981_600x400_3-2.jpg"
+    },
+    {
+      "title": "Bills' Phidarian Mathis banned 3 games for substance-abuse violation",
+      "link": "https://www.espn.com/nfl/story/_/id/49611988/bills-phidarian-mathis-banned-3-games-substance-abuse-violation",
+      "description": "Bills defensive tackle Phidarian Mathis has been suspended for the first three games of the season for violating the NFL's substances of abuse policy.",
+      "pubDate": "2026-08-14T20:39:15Z",
+      "source": "ESPN NFL · Alaina Getzenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701880_600x400_3-2.jpg"
+    },
+    {
+      "title": "Texans cut K Chris Freeman",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-cut-k-chris-freeman",
+      "description": "The Texans signed kicker Chris Freeman on Wednesday to have him kick in Friday's preseason game....",
+      "pubDate": "2026-08-14T20:31:19+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ravens activate LB Teddye Buchanan, place OL Kendall Lamm on reserve/retired",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-activate-lb-teddye-buchanan-place-ol-kendall-lamm-on-reserve-retired",
+      "description": "The Ravens activated linebacker Teddye Buchanan from active/physically unable to perform, the team announced....",
+      "pubDate": "2026-08-14T20:20:07+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Commanders' Dorance Armstrong suspended for season opener",
+      "link": "https://www.espn.com/nfl/story/_/id/49611801/commanders-dorance-armstrong-suspended-season-opener",
+      "description": "Commanders defensive end/linebacker Dorance Armstrong has been suspended without pay for the season opener for violating the NFL's personal conduct policy.",
+      "pubDate": "2026-08-14T20:07:48Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1019/r1562654_600x400_3-2.jpg"
     },
     {
       "title": "Steelers chief of staff Steve Scarnecchia suffered \"medical situation\" on Thursday",
@@ -1046,14 +1070,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701057_1296x729_16-9.jpg"
     },
     {
-      "title": "2026 Los Angeles Rams training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434454/los-angeles-rams-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Rams training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-14T13:33:08Z",
-      "source": "ESPN NFL · Sarah Barshop",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696836_1296x729_16-9.jpg"
-    },
-    {
       "title": "Don't miss \"The Trade\" with Andscape's Kelley L. Carter",
       "link": "https://www.espn.com/video/clip/_/id/49608832/miss-trade-andscape-kelley-l-carter",
       "description": "Don't miss \"The Trade\" with Andscape's Kelley L. Carter",
@@ -1062,26 +1078,10 @@
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0814/dm_260814_Trade/dm_260814_Trade.jpg"
     },
     {
-      "title": "Joe Burrow has no thoughts about the LSU, Jayden Daniels number fracas",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-has-no-thoughts-about-the-lsu-jayden-daniels-number-fracas",
-      "description": "The sudden and surprising scuffle between Commanders quarterback Jayden Daniels and LSU over the re-issuance of his number (5) has implicated Bengals quarterback Joe Burrow, given ...",
-      "pubDate": "2026-08-14T03:40:17+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "George McCaskey: Team will be \"Chicago Bears\" if new stadium is built in Indiana",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-mccaskey-team-will-be-chicago-bears-if-new-stadium-is-built-in-indiana",
       "description": "The Bears say their \"sole focus\" when it comes to a new stadium is on Hammond, Indiana....",
       "pubDate": "2026-08-14T02:29:59+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Will NFL place Terrion Arnold on paid leave?",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-nfl-place-terrion-arnold-on-paid-leave",
-      "description": "Now that Arnold is on a team again, the league put him on the Commissioner Exempt list....",
-      "pubDate": "2026-08-14T02:02:33+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
