@@ -1,21 +1,309 @@
 {
-  "generatedAt": "2026-08-14T02:47:59.955687+00:00",
+  "generatedAt": "2026-08-14T04:44:23.678340+00:00",
   "nfl": [
+    {
+      "title": "Rookies Drew Allar, Will Howard 'very poised' in Steelers' win",
+      "link": "https://www.espn.com/nfl/story/_/id/49606046/rookies-drew-allar-howard-very-poised-steelers-win",
+      "description": "Steelers rookie QBs Drew Allar and Will Howard turned in solid performances during the 28-9 preseason win over the Packers.",
+      "pubDate": "2026-08-14T04:39:32Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701586_600x400_3-2.jpg"
+    },
+    {
+      "title": "No. 1 pick Fernando Mendoza throws TD pass in preseason debut for Raiders in 27-14 loss to Cardinals",
+      "link": "http://www.espn.com/nfl/recap?gameId=401873640",
+      "description": "— No. 1 draft pick Fernando Mendoza threw a touchdown pass in his preseason debut for the Las Vegas ",
+      "pubDate": "2026-08-14T04:37:29Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873640.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Altmyer comes up short in his first NFL game",
+      "link": "https://sports.yahoo.com/articles/altmyer-comes-short-first-nfl-043448591.html",
+      "description": "As the saying goes: it ain’t about how you start, it&#39;s about how you end....",
+      "pubDate": "2026-08-14T04:34:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "2026 NFL preseason Week 1: Takeaways, analysis",
       "link": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
       "description": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-      "pubDate": "2026-08-14T02:44:04Z",
+      "pubDate": "2026-08-14T04:21:47Z",
       "source": "ESPN NFL · NFL Nation",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701538_608x342_16-9.jpg"
+      "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701555_608x342_16-9.jpg"
+    },
+    {
+      "title": "NFL Catchup: Mendoza, Love, Allar Shine In Preseason Debuts; Seahawks Sign Arnold",
+      "link": "https://www.foxsports.com/stories/nfl/nfl-catchup-rookies-mendoza-love-shine-preseason-debuts-more",
+      "description": "Here's what you need to know from Thursday around the NFL.",
+      "pubDate": "2026-08-14T04:18:55+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/fernando-mendoza-nfl-catchup.jpg"
+    },
+    {
+      "title": "Texans' DeMeco Ryans praises rookie Marlin Klein after catch vs Chargers in his NFL debut",
+      "link": "http://www.espn.com/nfl/recap?gameId=401873274",
+      "description": "— Houston Texans rookie Marlin Klein played just 11 snaps in his NFL debut Thursday night against the Los Angeles Chargers.",
+      "pubDate": "2026-08-14T04:15:44Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873274.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Titans win preseason opener 19-13 over 49ers",
+      "link": "https://sports.yahoo.com/articles/titans-win-preseason-opener-19-041312494.html",
+      "description": "The Titans start the 2026 preseason with a win....",
+      "pubDate": "2026-08-14T04:13:12+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Vrabel provides update on Christian Gonzalez’s recent absence",
+      "link": "https://sports.yahoo.com/articles/mike-vrabel-provides-christian-gonzalez-041121869.html",
+      "description": "Gonzalez was not present for the preseason opener for a physical issue....",
+      "pubDate": "2026-08-14T04:11:21+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cam Ward struggles in the Titans' 19-13 preseason win over the 49ers",
+      "link": "http://www.espn.com/nfl/recap?gameId=401874392",
+      "description": "— Cam Ward struggled in three drives for Tennessee against San Francisco's backup defense and the...",
+      "pubDate": "2026-08-14T04:10:43Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401874392.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "49ers fall to the Titans, but De’Zhaun Stribling steals the show",
+      "link": "https://sports.yahoo.com/articles/49ers-fall-titans-zhaun-stribling-040728880.html",
+      "description": "The 49ers lost on the scoreboard, but we saw some highlights from key players...",
+      "pubDate": "2026-08-14T04:07:28+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patrick Taylor Jr. finds his way up the middle for TD",
+      "link": "https://www.espn.com/video/clip/_/id/49605306/patrick-taylor-jr-finds-way-middle-td",
+      "description": "Patrick Taylor Jr. finds his way up the middle for TD",
+      "pubDate": "2026-08-14T04:05:59Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0814/ae3d7957-2a47-4b3e-a41a-e65ba248e43f/ae3d7957-2a47-4b3e-a41a-e65ba248e43f.jpg"
+    },
+    {
+      "title": "Colts backup QB Anthony Richardson runs for a TD in 13-13 preseason tie with Patriots",
+      "link": "http://www.espn.com/nfl/recap?gameId=401873273",
+      "description": "— Anthony Richardson believes he's done a good job turning the page during his NFL career.",
+      "pubDate": "2026-08-14T04:04:29Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873273.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Colts have plenty to evaluate after preseason opener tie with Patriots",
+      "link": "https://sports.yahoo.com/articles/colts-plenty-evaluate-preseason-opener-035952361.html",
+      "description": "For the Indianapolis Colts, the 13-13 preseason opener stalemate does not reflect the numerous missed opportunities to step on the neck of the reining AFC-champions, punch the ball...",
+      "pubDate": "2026-08-14T03:59:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Facing charges, Terrion Arnold set to join Seahawks",
+      "link": "https://www.espn.com/nfl/story/_/id/49604057/sources-terrion-arnold-plans-sign-seahawks",
+      "description": "Terrion Arnold, who sources told NFL Network plans to sign a one-year deal with the Seahawks, also had visited the Texans, Saints and Giants before choosing the Seahawks.",
+      "pubDate": "2026-08-14T03:59:38Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0706/r1685523_600x600_1-1.jpg"
+    },
+    {
+      "title": "Mendoza Mania Has Arrived: 3 Takeaways From Fernando Mendoza's Preseason Debut",
+      "link": "https://www.foxsports.com/stories/nfl/mendoza-mania-has-arrived-3-takeaways-from-fernando-mendozas-preseason-debut",
+      "description": "Fernando Mendoza made his case to be the Raiders' QB1 as he had a few strong moments playing around an improved Las Vegas offense.",
+      "pubDate": "2026-08-14T03:57:52+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/fernando-mendoza-takeaways.jpg"
+    },
+    {
+      "title": "Joe Burrow starts and backup Joe Flacco throws a TD pass as Bengals beat Lions 16-14",
+      "link": "http://www.espn.com/nfl/recap?gameId=401873272",
+      "description": "— Joe Flacco threw a touchdown pass in relief of Joe Burrow, Evan McPherson kicked three field goals and the Cincinnati Bengals beat the Detroit Lions 16-14 Thursday night in the preseason opener for both teams.",
+      "pubDate": "2026-08-14T03:43:29Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873272.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "DJ Pickett won't budge on No. 5 amid Jayden Daniels-LSU flap",
+      "link": "https://www.espn.com/college-football/story/_/id/49602842/dj-pickett-budge-no-5-amid-jayden-daniels-lsu-flap",
+      "description": "LSU's DJ Pickett says he has no plans to change out of the No. 5 amid pushback from Jayden Daniels, with the Commanders' QB saying the situation won't be a distraction.",
+      "pubDate": "2026-08-14T03:39:09Z",
+      "source": "ESPN NFL · Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701384_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Instant analysis from Patriots’ 13-13 preseason tie against Colts",
+      "link": "https://sports.yahoo.com/articles/instant-analysis-patriots-13-13-033908142.html",
+      "description": "Observations from Thursday night’s preseason opener at Gillette Stadium....",
+      "pubDate": "2026-08-14T03:39:08+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rookie Drew Allar has 2 TD passes, 1 TD run as Steelers beat Packers 28-9 in preseason opener",
+      "link": "http://www.espn.com/nfl/recap?gameId=401873275",
+      "description": "— Mike McCarthy loves playing the role of teacher during what he calls “Quarterback School,” shorthand for his highly detailed process of teaching young signal callers the finer points of their position.",
+      "pubDate": "2026-08-14T03:31:29Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873275.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "49ers rookie WR De&#39;Zhaun Stribling introduces himself with 63 receiving yards in preseason opener",
+      "link": "https://sports.yahoo.com/nfl/article/49ers-rookie-wr-dezhaun-stribling-introduces-himself-with-63-receiving-yards-in-preseason-opener-032914128.html",
+      "description": "The Niners are facing some wide receiver questions. De&#39;Zhaun Stribling is looking like an answer....",
+      "pubDate": "2026-08-14T03:29:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Detroit Lions injury updates: Good news on Ennis Rakestraw",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-injury-updates-good-032652768.html",
+      "description": "Detroit Lions injury updates on Ennis Rakestraw and Mekhi Wingo after the preseason opener....",
+      "pubDate": "2026-08-14T03:26:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Vrabel expresses confidence in Andy Borregales after 3-miss performance",
+      "link": "https://sports.yahoo.com/articles/mike-vrabel-expresses-confidence-andy-032625604.html",
+      "description": "The Patriots’ kicker went 2-of-5 in the preseason opener....",
+      "pubDate": "2026-08-14T03:26:25+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jacoby Brissett finds Marvin Harrison Jr. in the back of the end zone",
+      "link": "https://www.espn.com/video/clip/_/id/49604439/jacoby-brissett-finds-marvin-harrison-jr-back-end-zone",
+      "description": "Jacoby Brissett finds Marvin Harrison Jr. in the back of the end zone",
+      "pubDate": "2026-08-14T03:18:30Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/12801ab8ec8e4bd3a67efe489dae4cdd1341/12801ab8ec8e4bd3a67efe489dae4cdd1341.jpg"
+    },
+    {
+      "title": "Third-string Cardinals WR makes one-handed catch too good for the preseason",
+      "link": "https://sports.yahoo.com/articles/third-string-cardinals-wr-makes-030941693.html",
+      "description": "A fourth-string QB and a third-string wide receiver connected for one of the best plays of the NFL preseason so far....",
+      "pubDate": "2026-08-14T03:09:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chargers-Texans Game Recap: RB Amar Johnson scores twice as Bolts beat Houston 27-7",
+      "link": "https://sports.yahoo.com/articles/chargers-texans-game-recap-rb-030647011.html",
+      "description": "RB Amar Johnson score two rushing touchdowns and D.J. Uiagalelei threw another as the Chargers beat Houston 27-7....",
+      "pubDate": "2026-08-14T03:06:47+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Drew Allar leads Steelers&#39; offense to three touchdowns in three drives",
+      "link": "https://sports.yahoo.com/articles/drew-allar-leads-steelers-offense-030426335.html",
+      "description": "Third-rounder looks the part in his preseason debut....",
+      "pubDate": "2026-08-14T03:04:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "6 takeaways from Detroit Lions’ 16-14 loss to the Bengals",
+      "link": "https://sports.yahoo.com/articles/6-takeaways-detroit-lions-16-030251409.html",
+      "description": "6 takeaways from the Detroit Lions’ 16-14 loss to the Cincinnati Bengals in preseason Week 1....",
+      "pubDate": "2026-08-14T03:02:51+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cam Ward struggles in Titans preseason opener",
+      "link": "https://sports.yahoo.com/articles/cam-ward-struggles-titans-preseason-030242170.html",
+      "description": "A tough 2026 debut for Titans QB Cam Ward...",
+      "pubDate": "2026-08-14T03:02:42+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Arizona Cardinals get first win of preseason in Las Vegas",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-first-win-preseason-030233657.html",
+      "description": "The Arizona Cardinals get a win over the Las Vegas Raiders....",
+      "pubDate": "2026-08-14T03:02:33+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amar Johnson records his second TD of the night",
+      "link": "https://www.espn.com/video/clip/_/id/49605345/amar-johnson-records-second-td-night",
+      "description": "Amar Johnson records his second TD of the night",
+      "pubDate": "2026-08-14T03:01:36Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0814/1741184d-395f-46db-b2d9-cb5c021ab16d/1741184d-395f-46db-b2d9-cb5c021ab16d.jpg"
     },
     {
       "title": "Judge rules against Rams in latest NFL arbitration case",
       "link": "https://www.espn.com/nfl/story/_/id/49605241/judge-rules-rams-latest-nfl-arbitration-case",
       "description": "A California judge ruled Wednesday that the Rams' arbitration rules are \"an example of an employer's attempt to overreach\" in a wrongful termination lawsuit filed by a former employee against the team.",
-      "pubDate": "2026-08-14T02:42:07Z",
+      "pubDate": "2026-08-14T03:01:28Z",
       "source": "ESPN NFL · Tisha Thompson",
       "thumbnail": "https://a.espncdn.com/photo/2019/0411/r527915_600x600_1-1.jpg"
+    },
+    {
+      "title": "Rookie QB Drew Allar throws 2 passing TDs, rushes for another in Steelers&#39; preseason debut",
+      "link": "https://sports.yahoo.com/nfl/article/rookie-qb-drew-allar-throws-2-passing-tds-rushes-for-another-in-steelers-preseason-debut-030057693.html",
+      "description": "Between Allar&#39;s 3 total touchdowns  and a solid outing from Kaden Wetjen, it was a good night for Pittsburgh&#39;s rookies....",
+      "pubDate": "2026-08-14T03:00:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fernando Mendoza makes some plays in Raiders’ preseason debut",
+      "link": "https://sports.yahoo.com/articles/fernando-mendoza-makes-plays-raiders-025759679.html",
+      "description": "A breakdown of Las Vegas’ preseason loss to Arizona...",
+      "pubDate": "2026-08-14T02:57:59+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chargers preseason opener takeaways: Amar Johnson adds intrigue to running back battle",
+      "link": "https://sports.yahoo.com/articles/chargers-preseason-opener-takeaways-amar-025756711.html",
+      "description": "Jake Slaughter performs well in his first audition for the Chargers&#39; starting left-tackle role and the Mike McDaniel-guided running game puts on a show....",
+      "pubDate": "2026-08-14T02:57:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tommy DeVito finds Kyle Williams for a 12-yard passing TD",
+      "link": "https://www.espn.com/video/clip/_/id/49604590/tommy-devito-finds-kyle-williams-12-yard-passing-td",
+      "description": "Tommy DeVito finds Kyle Williams for a 12-yard passing TD",
+      "pubDate": "2026-08-14T02:53:55Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0814/bbbc0081-f58a-4d37-90d0-3b41a9194eea/bbbc0081-f58a-4d37-90d0-3b41a9194eea.jpg"
+    },
+    {
+      "title": "Colts’ key takeaways from preseason opener, 13-13 tie, against Patriots",
+      "link": "https://sports.yahoo.com/articles/colts-key-takeaways-preseason-opener-025156494.html",
+      "description": "There was some good and bad from this Week 1 of preseason stalemate against the Patriots....",
+      "pubDate": "2026-08-14T02:51:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fernando Mendoza&#39;s Raiders debut proved Kirk Cousins value – and that&#39;s OK",
+      "link": "https://sports.yahoo.com/articles/fernando-mendozas-raiders-debut-proved-024543360.html",
+      "description": "Fernando Mendoza encountered a few rough patches in his NFL preseason debut, but the Raiders QB reinforced that he can push through adversity....",
+      "pubDate": "2026-08-14T02:45:43+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Steelers stock report after their 28-9 preseason win over the Green Bay Packers",
+      "link": "https://sports.yahoo.com/articles/steelers-stock-report-28-9-024500822.html",
+      "description": "Who impressed and who disappointed in the Steelers first preseason action?...",
+      "pubDate": "2026-08-14T02:45:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Drew Allar shines with 3 TDs in Steelers' preseason debut",
@@ -56,22 +344,6 @@
       "pubDate": "2026-08-14T02:28:52+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Joe Burrow starts and backup Joe Flacco throws a TD pass as Bengals beat Lions 16-14",
-      "link": "http://www.espn.com/nfl/recap?gameId=401873272",
-      "description": "— Joe Flacco threw a touchdown pass in relief of Joe Burrow, Evan McPherson kicked three field goals and the Cincinnati Bengals beat the Detroit Lions 16-14 Thursday night in the preseason opener for both teams.",
-      "pubDate": "2026-08-14T02:28:30Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873272.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Rookie Drew Allar has 2 TD passes, 1 TD run as Steelers beat Packers 28-9 in preseason opener",
-      "link": "http://www.espn.com/nfl/recap?gameId=401873275",
-      "description": "— Rookie Drew Allar threw for a pair of touchdowns and ran for another during an impressive debut as the Pittsburgh Steelers surged past the Green Bay Packers 28-9 in the preseason opener on Thursday night.",
-      "pubDate": "2026-08-14T02:24:30Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873275.png?templateId=espn.applewatch.awayhome.1"
     },
     {
       "title": "10 winners and 4 losers in Cincinnati Bengals’ preseason win vs. Detroit Lions",
@@ -128,281 +400,17 @@
       "pubDate": "2026-08-14T01:38:38+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Fernando Mendoza throws TD on his second possession",
-      "link": "https://sports.yahoo.com/articles/fernando-mendoza-throws-td-second-012209105.html",
-      "description": "Fernando Mendoza threw his first completion to Jack Bech, and now has thrown his first touchdown pass to the second-year wide receiver....",
-      "pubDate": "2026-08-14T01:22:09+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Preseason Blitz: Colts QB Anthony Richardson Sr. rallies after a slow start in outing that included 2 turnovers",
-      "link": "https://sports.yahoo.com/nfl/article/nfl-preseason-blitz-colts-qb-anthony-richardson-sr-rallies-after-a-slow-start-in-outing-that-included-2-turnovers-012108115.html",
-      "description": "Anthony Richardson&#39;s future with the Colts has been up in the air....",
-      "pubDate": "2026-08-14T01:21:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 New York Giants training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434181/new-york-giants-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Giants training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-14T01:14:15Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0806/r1698528_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Ben Brown leaves Patriots preseason opener with injury",
-      "link": "https://sports.yahoo.com/articles/ben-brown-leaves-patriots-preseason-011037741.html",
-      "description": "Ben Brown left the game against the Colts in the first quarter....",
-      "pubDate": "2026-08-14T01:10:37+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Watch Raiders&#39; Fernando Mendoza throw first NFL TD pass to Jack Bech",
-      "link": "https://sports.yahoo.com/articles/watch-raiders-fernando-mendoza-throw-010920655.html",
-      "description": "Fernando Mendoza threw his first NFL TD during his preseason debut with the Raiders. Here&#39;s a look at his second quarter strike to Jack Bech....",
-      "pubDate": "2026-08-14T01:09:20+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthony Richardson completes 11 of 14 passes in first half of preseason opener",
-      "link": "https://sports.yahoo.com/articles/anthony-richardson-completes-11-14-010729467.html",
-      "description": "As Colts quarterback Anthony Richardson prepares for his fourth season, he&#39;s fighting to avoid falling to third on the Indy depth chart behind Daniel Jones and Riley Leonard....",
-      "pubDate": "2026-08-14T01:07:29+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "McVay to hand over play calling duties on Saturday",
-      "link": "https://sports.yahoo.com/articles/mcvay-hand-over-play-calling-010635119.html",
-      "description": "Nate Scheelhaase will call plays in a preseason game for the second time in as many years...",
-      "pubDate": "2026-08-14T01:06:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Los Angeles Rams training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49434454/los-angeles-rams-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Rams training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-14T01:05:35Z",
-      "source": "ESPN NFL · Sarah Barshop",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696836_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Sources: Facing charges, Terrion Arnold set to join Seahawks",
-      "link": "https://www.espn.com/nfl/story/_/id/49604057/sources-terrion-arnold-plans-sign-seahawks",
-      "description": "Terrion Arnold, who sources told NFL Network plans to sign a one-year deal with the Seahawks, also had visited the Texans, Saints and Giants before choosing the Seahawks.",
-      "pubDate": "2026-08-14T00:54:52Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0706/r1685523_600x600_1-1.jpg"
-    },
-    {
-      "title": "Terrion Arnold will sign with Seattle Seahawks, sparing Giants a decision",
-      "link": "https://sports.yahoo.com/articles/terrion-arnold-sign-seattle-seahawks-004739061.html",
-      "description": "New York had Arnold in for a vist, but he will not be coming to New Jersey....",
-      "pubDate": "2026-08-14T00:47:39+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers-Titans preseason game thread: It’s Kurtis Rourke time",
-      "link": "https://sports.yahoo.com/articles/49ers-titans-preseason-game-thread-004500639.html",
-      "description": "Our first game thread of the 2026 season...",
-      "pubDate": "2026-08-14T00:45:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kirk Cousins throws TD on his only drive before Fernando Mendoza replaces him",
-      "link": "https://sports.yahoo.com/articles/kirk-cousins-throws-td-only-004247996.html",
-      "description": "Kirk Cousins will start the season opener for the Raiders as No. 1 overall pick Fernando Mendoza begins his career on the bench....",
-      "pubDate": "2026-08-14T00:42:47+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Dallas Cowboys training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376535/dallas-cowboys-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Cowboys training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-14T00:33:33Z",
-      "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0810/r1700099_608x342_16-9.jpg"
-    },
-    {
-      "title": "Instant recap of the Bengals starters vs. Lions",
-      "link": "https://sports.yahoo.com/articles/instant-recap-bengals-starters-vs-001601091.html",
-      "description": "Burrow plays two offensive series against the Lions....",
-      "pubDate": "2026-08-14T00:16:01+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Joe Burrow plays two series in Bengals&#39; preseason opener",
-      "link": "https://sports.yahoo.com/articles/joe-burrow-plays-two-series-000257111.html",
-      "description": "Bengals quarterback Joe Burrow started the team&#39;s first preseason game Thursday night against the Lions....",
-      "pubDate": "2026-08-14T00:02:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What You Are Looking For: Dolphins Vs. Commanders",
-      "link": "https://sports.yahoo.com/articles/looking-dolphins-vs-commanders-000000142.html",
-      "description": "Miami Dolphins fans sound off on what they are hoping to see in the preseason contest against the Washington Commanders....",
-      "pubDate": "2026-08-14T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dallas Cowboys named most valuable professional sports franchise again",
-      "link": "https://sports.yahoo.com/articles/dallas-cowboys-named-most-valuable-000000014.html",
-      "description": "The Cowboys are worth a lot of money and that is shocking to no one....",
-      "pubDate": "2026-08-14T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Titans vs. 49ers preseason game one open thread",
-      "link": "https://sports.yahoo.com/articles/titans-vs-49ers-preseason-game-000000572.html",
-      "description": "Your place to discuss the Titans preseason opener....",
-      "pubDate": "2026-08-14T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jordan Love plays one series, leads Packers to a field goal",
-      "link": "https://sports.yahoo.com/articles/jordan-love-plays-one-series-235722435.html",
-      "description": "The Packers made a different choice than the Steelers when it came to playing their starting quarterback on Thursday night, but they didn&#39;t leave Jordan Love in the game for lo...",
-      "pubDate": "2026-08-13T23:57:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Former Lions CB Terrion Arnold Will Reportedly Sign With Seattle Seahawks",
-      "link": "https://www.foxsports.com/stories/nfl/former-lions-cb-terrion-arnold-sign-seattle-seahawks",
-      "description": "Former Detroit Lions CB Terrion Arnold has reportedly agreed to sign with the Seattle Seahawks.",
-      "pubDate": "2026-08-13T23:53:53+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/gettyimages-2252783936-scaled-e1786664159359.jpg"
-    },
-    {
-      "title": "Rams’ rivals sign CB facing 8 felony charges",
-      "link": "https://sports.yahoo.com/articles/rams-rivals-sign-cb-facing-235144138.html",
-      "description": "Seahawks are signing Terrion Arnold...",
-      "pubDate": "2026-08-13T23:51:44+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Terrion Arnold set to sign with Seahawks",
-      "link": "https://sports.yahoo.com/articles/terrion-arnold-set-sign-seahawks-234427521.html",
-      "description": "The Seahawks were quickly linked to Arnold after his release from Detroit, and now it appears Seattle has another first round cornerback....",
-      "pubDate": "2026-08-13T23:44:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Super Bowl champion Seahawks signing CB charged with kidnapping",
-      "link": "https://sports.yahoo.com/articles/super-bowl-champion-seahawks-signing-233651743.html",
-      "description": "A former first-round pick by the Detroit Lions, Terrion Arnold is facing the possibility of life in prison on kidnapping and armed robbery charges....",
-      "pubDate": "2026-08-13T23:36:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Colts vs. Patriots discussion",
-      "link": "https://sports.yahoo.com/articles/colts-vs-patriots-discussion-233050583.html",
-      "description": "It’s time for Colts football yet again....",
-      "pubDate": "2026-08-13T23:30:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Moneyline Picks for Every Week 1 Preseason Game",
-      "link": "https://sports.yahoo.com/articles/nfl-moneyline-picks-every-week-000100624.html",
-      "description": "Looking for NFL moneyline picks for every Week 1 preseason game? We&#39;ve got you covered for all 16 matchups ahead of kickoff....",
-      "pubDate": "2026-08-13T23:29:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "CB Terrion Arnold agrees to terms with Seahawks",
-      "link": "https://sports.yahoo.com/articles/cb-terrion-arnold-agrees-terms-232645993.html",
-      "description": "The NFL now must decide whether to place Arnold on the Commissioner&#39;s Exempt List....",
-      "pubDate": "2026-08-13T23:26:45+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots vs. Colts live updates: Colts inch closer 13-10 with fourth-quarter kick",
-      "link": "https://sports.yahoo.com/articles/patriots-vs-colts-live-updates-232128695.html",
-      "description": "The Patriots open their preseason on Thursday night....",
-      "pubDate": "2026-08-13T23:21:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jerry Jones: Very happy with Cowboys post-Micah Parsons trade",
-      "link": "https://www.espn.com/nfl/story/_/id/49603782/jerry-jones-very-happy-cowboys-post-micah-parsons-trade",
-      "description": "Jerry Jones likened the Micah Parsons deal to the 1989 trade of running back Herschel Walker to the Vikings that helped build the Cowboys' dynasty of the 1990s.",
-      "pubDate": "2026-08-13T23:00:04Z",
-      "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2024/0725/r1363259_600x600_1-1.jpg"
-    },
-    {
-      "title": "Kansas City Chiefs roster",
-      "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-roster-003019778.html",
-      "description": "The up-to-date team roster, including contract and salary cap information....",
-      "pubDate": "2026-08-13T23:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ravens HC Jesse Minter Has Quickly Won Over Players — Now He Must Win Games",
-      "link": "https://www.foxsports.com/stories/nfl/ravens-hc-jesse-minter-has-quickly-won-over-players-now-he-must-win-games",
-      "description": "Jesse Minter has big shoes to fill replacing John Harbaugh and big expectations to meet as he takes over a Super Bowl contender. Is he ready?",
-      "pubDate": "2026-08-13T22:49:32+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/e2a1a08e-artboard-1-1.jpg"
-    },
-    {
-      "title": "Aaron Rodgers will not play tonight against the Packers",
-      "link": "https://sports.yahoo.com/articles/aaron-rodgers-not-play-tonight-224350079.html",
-      "description": "The Steelers did not announce their quarterback plans for Thursday night&#39;s preseason game against the Packers....",
-      "pubDate": "2026-08-13T22:43:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL Odds: Back Lions In NFC North, Loveland To Dominate In Chicago",
-      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-back-lions-nfc-north-loveland-dominate-chicago",
-      "description": "Geoff Schwartz delivers his best bets for the NFC North ahead of the rapidly approaching NFL season.",
-      "pubDate": "2026-08-13T22:37:50+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/colston-813.jpg"
-    },
-    {
-      "title": "Packers vs. Steelers Preseason Week 1 Game Discussion",
-      "link": "https://sports.yahoo.com/articles/packers-vs-steelers-preseason-week-223000423.html",
-      "description": "Join APC to discuss Green Bay’s opening exhibition game in Pittsburgh!...",
-      "pubDate": "2026-08-13T22:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 31",
-      "link": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-223000032.html",
-      "description": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 31...",
-      "pubDate": "2026-08-13T22:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "DJ Pickett won't budge on No. 5 amid Jayden Daniels-LSU flap",
+      "link": "https://www.espn.com/college-football/story/_/id/49602842/dj-pickett-budge-no-5-amid-jayden-daniels-lsu-flap",
+      "description": "LSU's DJ Pickett says he has no plans to change out of the No. 5 amid pushback from Jayden Daniels, with the Commanders' QB saying the situation won't be a distraction.",
+      "pubDate": "2026-08-14T03:39:09Z",
+      "source": "ESPN College Football · Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701384_1296x729_16-9.jpg"
+    },
     {
       "title": "Roman Harper calls for Alabama to be 'tougher' in the trenches",
       "link": "https://www.espn.com/video/clip/_/id/49604225/roman-harper-calls-alabama-tougher-trenches",
@@ -442,14 +450,6 @@
       "pubDate": "2026-08-13T23:23:40Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0813/dm_260813_SEC_NCF_Analysis_TAMU_Predictions_260813/dm_260813_SEC_NCF_Analysis_TAMU_Predictions_260813.jpg"
-    },
-    {
-      "title": "DJ Pickett won't budge on No. 5 amid Jayden Daniels-LSU flap",
-      "link": "https://www.espn.com/college-football/story/_/id/49602842/dj-pickett-budge-no-5-amid-jayden-daniels-lsu-flap",
-      "description": "LSU's DJ Pickett says he has no plans to change out of the No. 5 amid pushback from Jayden Daniels, with the Commanders QB saying the situation won't be a distraction.",
-      "pubDate": "2026-08-13T22:20:27Z",
-      "source": "ESPN College Football · Mark Schlabach",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701384_1296x729_16-9.jpg"
     },
     {
       "title": "Commanders Star Jayden Daniels Reportedly Issues NIL Cease And Desist To LSU",
@@ -806,6 +806,54 @@
   ],
   "insider": [
     {
+      "title": "Jerry Jones again compares the Micah Parsons trade to the Herschel Walker trade",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-again-compares-the-micah-parsons-trade-to-the-herschel-walker-trade",
+      "description": "After the Cowboys traded Micah Parsons to the Packers last year, Dallas owner and G.M....",
+      "pubDate": "2026-08-14T04:35:20+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Vrabel won't be delegating challenge-flag duties",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-wont-be-delegating-challenge-flag-duties",
+      "description": "The NFL has tweaked the rules to allow head coaches to delegate before each game the task of physically throwing the red challenge flag....",
+      "pubDate": "2026-08-14T04:07:17+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Facing charges, Terrion Arnold set to join Seahawks",
+      "link": "https://www.espn.com/nfl/story/_/id/49604057/sources-terrion-arnold-plans-sign-seahawks",
+      "description": "Terrion Arnold, who sources told NFL Network plans to sign a one-year deal with the Seahawks, also had visited the Texans, Saints and Giants before choosing the Seahawks.",
+      "pubDate": "2026-08-14T03:59:38Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0706/r1685523_600x600_1-1.jpg"
+    },
+    {
+      "title": "Joe Burrow has no thoughts about the LSU, Jayden Daniels number fracas",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-has-no-thoughts-about-the-lsu-jayden-daniels-number-fracas",
+      "description": "The sudden and surprising scuffle between Commanders quarterback Jayden Daniels and LSU over the re-issuance of his number (5) has implicated Bengals quarterback Joe Burrow, given ...",
+      "pubDate": "2026-08-14T03:40:17+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Drew Allar leads Steelers' offense to three touchdowns in three drives",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drew-allar-leads-steelers-offense-to-three-touchdowns-in-three-drives",
+      "description": "Third-rounder looks the part in his preseason debut....",
+      "pubDate": "2026-08-14T03:04:26+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "With suspension looming, Falcons list James Pearce Jr. as third-stringer",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-suspension-looming-falcons-list-james-pearce-jr-as-third-stringer",
+      "description": "Falcons defensive end James Pearce Jr., who entered a diversion program earlier this year to resolve multiple felonies arising from a February 2026 domestic violence incident, most...",
+      "pubDate": "2026-08-14T02:49:50+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Cam Ward has tough night vs. 49ers backups",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-ward-has-tough-night-vs-49ers-backups",
       "description": "Cam Ward completed 59.8 percent of his passes for 3,169 yards with 15 touchdowns and seven interceptions as a rookie....",
@@ -892,14 +940,6 @@
       "pubDate": "2026-08-14T01:05:35Z",
       "source": "ESPN NFL · Sarah Barshop",
       "thumbnail": "https://a.espncdn.com/photo/2026/0802/r1696836_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Sources: Facing charges, Terrion Arnold set to join Seahawks",
-      "link": "https://www.espn.com/nfl/story/_/id/49604057/sources-terrion-arnold-plans-sign-seahawks",
-      "description": "Terrion Arnold, who sources told NFL Network plans to sign a one-year deal with the Seahawks, also had visited the Texans, Saints and Giants before choosing the Seahawks.",
-      "pubDate": "2026-08-14T00:54:52Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0706/r1685523_600x600_1-1.jpg"
     },
     {
       "title": "Kirk Cousins throws TD on his only drive before Fernando Mendoza replaces him",
@@ -1022,14 +1062,6 @@
       "thumbnail": ""
     },
     {
-      "title": "2026 New York Jets training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49419756/new-york-jets-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Jets training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-13T20:59:34Z",
-      "source": "ESPN NFL · Rich Cimini",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701270_1296x729_16-9.jpg"
-    },
-    {
       "title": "Za'Darius Smith worked out for Browns on Thursday",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zadarius-smith-worked-out-for-browns-on-thursday",
       "description": "Is there a reunion in order?...",
@@ -1102,14 +1134,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0804/r1697658_608x342_16-9.jpg"
     },
     {
-      "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-13T19:59:31Z",
-      "source": "ESPN NFL · Nate Taylor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701293_1296x729_16-9.jpg"
-    },
-    {
       "title": "2026 Denver Broncos training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49379469/denver-broncos-training-camp-2026-intel-updates",
       "description": "Catch up on our daily updates from Broncos training camp, including intel on QBs, position battles and potential breakouts.",
@@ -1126,14 +1150,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0810/r1700073_608x342_16-9.jpg"
     },
     {
-      "title": "2026 Cincinnati Bengals training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49448120/cincinnati-bengals-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Bengals training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-13T19:53:20Z",
-      "source": "ESPN NFL · Ben Baby",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701277_1296x729_16-9.jpg"
-    },
-    {
       "title": "2026 Baltimore Ravens training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49434567/baltimore-ravens-training-camp-2026-intel-updates",
       "description": "Catch up on our daily updates from Ravens training camp, including intel on QBs, position battles and potential breakouts.",
@@ -1148,14 +1164,6 @@
       "pubDate": "2026-08-13T19:51:58Z",
       "source": "ESPN NFL · Turron Davenport",
       "thumbnail": "https://a.espncdn.com/photo/2026/0812/r1700963_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Jacksonville Jaguars training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427691/jacksonville-jaguars-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Jaguars training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-13T19:51:11Z",
-      "source": "ESPN NFL · Michael DiRocco",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0722/r1692512_608x342_16-9.jpg"
     },
     {
       "title": "Stetson Bennett to start for Rams on Saturday vs. Chiefs",
@@ -1196,14 +1204,6 @@
       "pubDate": "2026-08-13T19:42:26Z",
       "source": "ESPN NFL · Alaina Getzenberg",
       "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700428_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-13T19:41:12Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701057_1296x729_16-9.jpg"
     }
   ]
 }
