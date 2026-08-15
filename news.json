@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-15T08:49:30.867838+00:00",
+  "generatedAt": "2026-08-15T09:19:38.516244+00:00",
   "nfl": [
+    {
+      "title": "Golden Nuggets: We’re charging on to LA",
+      "link": "https://sports.yahoo.com/articles/golden-nuggets-charging-la-090000223.html",
+      "description": "Your daily San Francisco 49ers news for Saturday, August 15th, 2026...",
+      "pubDate": "2026-08-15T09:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Tampa Bay Buccaneers vs. New York Jets: Game Highlights",
       "link": "https://www.espn.com/video/clip/_/id/49616235/game-highlights",
@@ -392,14 +400,6 @@
       "pubDate": "2026-08-15T00:27:33Z",
       "source": "ESPN NFL · Alaina Getzenberg",
       "thumbnail": "https://a.espncdn.com/photo/2026/0814/r1701880_600x400_3-2.jpg"
-    },
-    {
-      "title": "Falcons-Broncos instant takeaways: Tua Tagovailoa&#39;s debut dud, fullbacks matter",
-      "link": "https://sports.yahoo.com/articles/falcons-vs-broncos-instant-takeaways-002540083.html",
-      "description": "Tua Tagovailoa made his debut for the Falcons in their preseason game against the Broncos. Here&#39;s instant analysis and takeaways from that contest....",
-      "pubDate": "2026-08-15T00:25:40+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Tua Tagovailoa: It starts with me, my play in preseason opener was not up to standard",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoa-it-starts-with-me-my-play-in-preseason-opener-was-not-up-to-standard",
+      "description": "The Falcons' quarterback went 3-for-5 for 22 yards in Friday night's preseason game....",
+      "pubDate": "2026-08-15T08:50:27+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Nazeeh Johnson says his PED suspension is for taking a fertility medication",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nazeeh-johnson-says-his-ped-suspension-is-for-taking-a-fertility-medication",
       "description": "Titans cornerback Nazeeh Johnson, who has been suspended for the first six games of the season for violating the NFL policy on performance-enhancing substances, says his violation ...",
@@ -1130,14 +1138,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-suspends-james-pearce-jr-eight-games-for-february-domestic-violence-incident",
       "description": "Pearce entered a diversion program in May, triggering the disciplinary process....",
       "pubDate": "2026-08-14T19:13:20+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles agree to terms with LB Brandon George",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-agree-to-terms-with-lb-brandon-george",
-      "description": "The Eagles are signing free agent inside linebacker Brandon George, Jeremy Fowler of ESPN reports....",
-      "pubDate": "2026-08-14T19:09:22+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
