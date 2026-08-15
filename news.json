@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-15T23:19:46.878184+00:00",
+  "generatedAt": "2026-08-15T23:39:09.174574+00:00",
   "nfl": [
+    {
+      "title": "Jacksonville Jaguars vs. New Orleans Saints: Game Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49622569/game-highlights",
+      "description": "Jacksonville Jaguars vs. New Orleans Saints: Game Highlights",
+      "pubDate": "2026-08-15T23:30:14Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/f769016a-2b25-4952-9749-56544e893c27/f769016a-2b25-4952-9749-56544e893c27.jpg"
+    },
     {
       "title": "2026 NFL preseason Week 1: Game takeaways, analysis",
       "link": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
       "description": "The NFL preseason is underway! How did rookies and players in new places perform in their debuts?",
-      "pubDate": "2026-08-15T23:18:18Z",
+      "pubDate": "2026-08-15T23:27:40Z",
       "source": "ESPN NFL · NFL Nation",
       "thumbnail": "https://a.espncdn.com/photo/2026/0815/r1702276_608x342_16-9.jpg"
+    },
+    {
+      "title": "Final Score: Rams defeat Chiefs 20-12 in NFL Preseason Week 1",
+      "link": "https://sports.yahoo.com/articles/final-score-rams-defeat-chiefs-231500987.html",
+      "description": "Kansas City falls to 0-1 in the preseason with loss to Los Angeles....",
+      "pubDate": "2026-08-15T23:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Rams take down Chiefs 20-12 in preseason opener",
@@ -18,6 +34,14 @@
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/7a224564-9fad-4c3c-ac49-a35d3964a659/7a224564-9fad-4c3c-ac49-a35d3964a659.jpg"
     },
     {
+      "title": "Ty Simpson shines in Rams debut: Instant analysis, grades",
+      "link": "https://sports.yahoo.com/articles/ty-simpson-shines-rams-debut-230935045.html",
+      "description": "Ty Simpson made his debut for the Rams in their preseason game against the Chiefs. Here&#39;s a full breakdown of the first-round rookie&#39;s performance....",
+      "pubDate": "2026-08-15T23:09:35+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Vet Justin Fields solid for Chiefs, rookie Ty Simpson sharp as Rams rally for 20-12 preseason win",
       "link": "http://www.espn.com/nfl/recap?gameId=401873283",
       "description": "— Justin Fields completed all four of his passes in his first quarter as the backup to Chiefs quarterback Patrick Mahomes, then watched as rookie Ty Simpson led the Los Angeles Rams to a comeback 20-12 preseason win over Kansas City on Saturday.",
@@ -26,7 +50,7 @@
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873283.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Rams-Chiefs preseason final score: Ty Simpson leads L.A. to win in NFL debut",
+      "title": "Ty Simpson leads Rams to win over Chiefs in preseason debut",
       "link": "https://sports.yahoo.com/articles/rams-chiefs-preseason-final-score-230323264.html",
       "description": "The Los Angeles Rams put on a nice showing for their opening preseason game as Ty Simpson threw two scores...",
       "pubDate": "2026-08-15T23:03:23+00:00",
@@ -376,30 +400,6 @@
       "pubDate": "2026-08-15T20:28:36Z",
       "source": "ESPN NFL · Josh Weinfuss",
       "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701252_600x400_3-2.jpg"
-    },
-    {
-      "title": "Cleveland Browns vs. Chicago Bears Game Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49621117/cleveland-browns-vs-chicago-bears-game-highlights",
-      "description": "Cleveland Browns vs. Chicago Bears Game Highlights",
-      "pubDate": "2026-08-15T20:23:48Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/d8357c2c-34ec-45d5-ab42-a455438e1a50/d8357c2c-34ec-45d5-ab42-a455438e1a50.jpg"
-    },
-    {
-      "title": "Patriots sign 2 interior offensive linemen in wake of preseason opener",
-      "link": "https://sports.yahoo.com/articles/patriots-sign-2-interior-offensive-174304020.html",
-      "description": "Reinforcements arrived in Foxborough on Saturday....",
-      "pubDate": "2026-08-15T20:22:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers waive fourth-string QB Kyron Drones",
-      "link": "https://sports.yahoo.com/articles/packers-waive-fourth-string-qb-202152705.html",
-      "description": "The Packers waived fourth-string quarterback Kyron Drones on Saturday, the team announced....",
-      "pubDate": "2026-08-15T20:21:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
