@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-15T06:31:20.775825+00:00",
+  "generatedAt": "2026-08-15T07:08:53.150661+00:00",
   "nfl": [
+    {
+      "title": "Tampa Bay Buccaneers vs. New York Jets: Game Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49616235/game-highlights",
+      "description": "Tampa Bay Buccaneers vs. New York Jets: Game Highlights",
+      "pubDate": "2026-08-15T06:56:11Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/9eeccca6-e81b-442e-9aab-dc5c2de2186d/9eeccca6-e81b-442e-9aab-dc5c2de2186d.jpg"
+    },
     {
       "title": "2026 NFL preseason Week 1: Game takeaways, analysis",
       "link": "https://www.espn.com/nfl/story/_/id/49600984/2026-nfl-preseason-week-1-takeaways-analysis",
@@ -66,14 +74,6 @@
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873277.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Tampa Bay Buccaneers vs. New York Jets Game Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49614496/tampa-bay-buccaneers-vs-new-york-jets-game-highlights",
-      "description": "Tampa Bay Buccaneers vs. New York Jets Game Highlights",
-      "pubDate": "2026-08-15T03:45:30Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/74e342fe-3874-4370-94de-0683be8a1171/74e342fe-3874-4370-94de-0683be8a1171.jpg"
-    },
-    {
       "title": "Sean Payton takes shot at light turnout in Atlanta",
       "link": "https://sports.yahoo.com/articles/sean-payton-takes-shot-light-034208833.html",
       "description": "Broncos coach Sean Payton has a history with Atlanta, dating back to the intense rivalry between the Saints (whom he coached from 2006 through 2021) and the Falcons....",
@@ -94,6 +94,14 @@
       "link": "https://sports.yahoo.com/articles/bears-vs-browns-watch-start-033510717.html",
       "description": "THERE IS A BEARS FOOTBALL GAME ON TOMORROW!...",
       "pubDate": "2026-08-15T03:35:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dan Quinn talks about rookies stepping up, new coordinators, preseason win",
+      "link": "https://sports.yahoo.com/articles/dan-quinn-talks-rookies-stepping-033000481.html",
+      "description": "Updates from the Washington Commanders first preseason game...",
+      "pubDate": "2026-08-15T03:30:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -390,14 +398,6 @@
       "link": "https://sports.yahoo.com/articles/cardinals-rookie-ol-chase-bisontis-002320925.html",
       "description": "Cardinals second-round offensive guard Chase Bisontis will miss most, or possibly all, of his rookie season....",
       "pubDate": "2026-08-15T00:23:20+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Five pressing questions for Jets to answer before regular season begins",
-      "link": "https://sports.yahoo.com/articles/five-pressing-questions-jets-answer-002052820.html",
-      "description": "The Jets will open their season in four weeks from Sunday when they travel to Nashville to face old friend Robert Saleh and the Titans....",
-      "pubDate": "2026-08-15T00:20:52+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
