@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-15T13:45:10.068691+00:00",
+  "generatedAt": "2026-08-15T14:15:58.045955+00:00",
   "nfl": [
+    {
+      "title": "Somewhat positive Seahawks news on Robbie Ouzts",
+      "link": "https://sports.yahoo.com/articles/somewhat-positive-seahawks-news-robbie-140000412.html",
+      "description": "We may see Robbie Ouzts yet again in a Seahawks uniform....",
+      "pubDate": "2026-08-15T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Klint Kubiak names 3 undrafted free agent standouts in preseason against Arizona Cardinals",
+      "link": "https://sports.yahoo.com/articles/klint-kubiak-names-3-undrafted-140000933.html",
+      "description": "An edge rusher and two wideouts get a shoutout from coach...",
+      "pubDate": "2026-08-15T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Steelers' Keeanu Benton agrees to 4-year, $72M extension, sources say",
       "link": "https://www.espn.com/nfl/story/_/id/49614342/steelers-keeanu-benton-agrees-4-year-72m-extension-sources-say",
@@ -38,6 +54,14 @@
       "link": "https://sports.yahoo.com/articles/zhaun-stribling-rare-company-preseason-133000320.html",
       "description": "Stribling caught seven passes in the first half of his preseason debut. That&#39;s only happened once in the last decade....",
       "pubDate": "2026-08-15T13:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kaytron Allen, Robert Henry Jr. ramp up competition among Commanders RBs",
+      "link": "https://sports.yahoo.com/articles/kaytron-allen-robert-henry-jr-132851243.html",
+      "description": "Rookie running backs Robert Henry and Kaytron Allen had a combined 160 yards and two TDs in Washington’s preseason win...",
+      "pubDate": "2026-08-15T13:28:51+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -376,33 +400,17 @@
       "pubDate": "2026-08-15T10:39:21Z",
       "source": "ESPN NFL · Marc Raimondi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0815/r1701989_600x400_3-2.jpg"
-    },
-    {
-      "title": "Where to watch Cowboys vs Seahawks preseason game tonight: Time, channel, streaming",
-      "link": "https://sports.yahoo.com/articles/where-watch-cowboys-vs-seahawks-103114221.html",
-      "description": "NFL preseason action continues with Saturday&#39;s exhibition between the Cowboys and Seahawks at Lumen Field. Here&#39;s how to tune in....",
-      "pubDate": "2026-08-15T10:31:14+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is Patrick Mahomes playing today? Chiefs QB&#39;s status for preseason Week 1 vs Rams",
-      "link": "https://sports.yahoo.com/articles/patrick-mahomes-playing-today-chiefs-103107609.html",
-      "description": "Will Patrick Mahomes play in the Chiefs&#39; preseason Week 1 game vs. the Rams? Here&#39;s everything to know about the QB&#39;s status ahead of the 2026 season....",
-      "pubDate": "2026-08-15T10:31:07+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is Shedeur Sanders playing today? Browns QB plans for preseason game vs. Bears",
-      "link": "https://sports.yahoo.com/articles/shedeur-sanders-playing-today-browns-103034086.html",
-      "description": "Shedeur Sanders is battling Deshaun Watson for the Browns&#39; starting QB job. Watson will get the first crack at starting against the Bears....",
-      "pubDate": "2026-08-15T10:30:34+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Tennessee S Farooq suffers season-ending torn patellar tendon",
+      "link": "https://www.espn.com/college-football/story/_/id/49618393/tennessee-s-farooq-suffers-season-ending-torn-patellar-tendon",
+      "description": "Tennessee starting safety Edrees Farooq will miss the 2026 season after suffering a torn patellar tendon in his right knee in practice.",
+      "pubDate": "2026-08-15T14:03:24Z",
+      "source": "ESPN College Football · Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2023/0715/r1198254_600x400_3-2.jpg"
+    },
     {
       "title": "Ohio State-Miami and what changes you'll see in 2026 college football",
       "link": "https://www.espn.com/college-football/story/_/id/49577220/college-football-2026-trends-see-ohio-state-miami",
@@ -490,14 +498,6 @@
       "pubDate": "2026-08-14T12:58:39Z",
       "source": "ESPN College Football · Jordan Reid",
       "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701068_608x342_16-9.jpg"
-    },
-    {
-      "title": "SMU QB Kevin Jennings limited in camp with jammed finger",
-      "link": "https://www.espn.com/college-football/story/_/id/49577946/smu-qb-kevin-jennings-limited-camp-jammed-finger",
-      "description": "SMU quarterback Kevin Jennings has a jammed finger on his throwing hand that will limit him in camp, though there are no concerns about his availability for the season opener at Florida State Sept. 7, Mustangs coach Rhett Lashlee told reporters on Monday.",
-      "pubDate": "2026-08-14T10:24:19Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0810/r1700129_600x600_1-1.jpg"
     },
     {
       "title": "Former NFL QB Derek Carr joins UCLA as special adviser",
