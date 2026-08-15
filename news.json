@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-15T19:37:55.348619+00:00",
+  "generatedAt": "2026-08-15T19:52:30.653785+00:00",
   "nfl": [
+    {
+      "title": "NFL Preseason Blitz: Watson outplayed Sanders vs. Bears in latest stage of Browns QB battle",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-preseason-blitz-watson-outplayed-sanders-vs-bears-in-latest-stage-of-browns-qb-battle-195013634.html",
+      "description": "Preseason Round 1 of the Browns QB battle went to Deshaun Watson, who was steadier against the Bears than Shedeur Sanders....",
+      "pubDate": "2026-08-15T19:50:13+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Shedeur Sanders throws for 79 yards, an interception vs. Bears",
+      "link": "https://sports.yahoo.com/articles/shedeur-sanders-throws-79-yards-193518128.html",
+      "description": "After quarterback Deshaun Watson had a so-so first half against the Bears, throwing for 126 yards, Shedeur Sanders also had a middling performance in the second half of the Browns’...",
+      "pubDate": "2026-08-15T19:35:18+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Jaguars vs Saints: Preseason Week 1 Live Blog and Open Thread",
       "link": "https://sports.yahoo.com/articles/jaguars-vs-saints-preseason-week-193000631.html",
@@ -384,22 +400,6 @@
       "pubDate": "2026-08-15T16:20:07Z",
       "source": "ESPN NFL · Josh Weinfuss",
       "thumbnail": "https://a.espncdn.com/photo/2026/0815/r1701958_600x400_3-2.jpg"
-    },
-    {
-      "title": "Broncos LB Levelle Bailey suffered a broken leg vs. the Falcons",
-      "link": "https://sports.yahoo.com/articles/broncos-lb-levelle-bailey-suffered-161715409.html",
-      "description": "According to 9NEWS Denver’s Mike Klis, Broncos reserve linebacker Levelle Bailey suffered a break in his lower leg during Friday’s game vs. the Falcons. He will undergo surgery on ...",
-      "pubDate": "2026-08-15T16:17:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seahawks' DeMarcus Lawrence confirms 2026 season his last",
-      "link": "https://www.espn.com/nfl/story/_/id/49613541/seahawks-linebacker-demarcus-lawrence-confirms-2026-season-last",
-      "description": "Seahawks outside linebacker DeMarcus Lawrence confirmed to Yahoo Sports that his 13th NFL season will be his last.",
-      "pubDate": "2026-08-15T16:13:54Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0815/r1701957_600x400_3-2.jpg"
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Shedeur Sanders throws for 79 yards, an interception vs. Bears",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shedeur-sanders-throws-for-79-yards-an-interception-vs-bears",
+      "description": "After quarterback Deshaun Watson had a so-so first half against the Bears, throwing for 126 yards, Shedeur Sanders also had a middling performance in the second half of the Browns’...",
+      "pubDate": "2026-08-15T19:35:18+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Kevin O'Connell on Jamal Adams: Crushed for him, we're going to miss him",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-jamal-adams-crushed-for-him-were-going-to-miss-him",
       "description": "The Vikings have not given an official update on the nature of the injury that caused linebacker/safety Jamal Adams to be carted off in the first half of Saturday's game against th...",
@@ -1066,14 +1074,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nazeeh-johnson-says-his-ped-suspension-is-for-taking-a-fertility-medication",
       "description": "Titans cornerback Nazeeh Johnson, who has been suspended for the first six games of the season for violating the NFL policy on performance-enhancing substances, says his violation ...",
       "pubDate": "2026-08-15T08:14:14+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sean Payton takes shot at light turnout in Atlanta",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-takes-shot-at-light-turnout-in-atlanta",
-      "description": "Broncos coach Sean Payton has a history with Atlanta, dating back to the intense rivalry between the Saints (whom he coached from 2006 through 2021) and the Falcons....",
-      "pubDate": "2026-08-15T03:42:08+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
