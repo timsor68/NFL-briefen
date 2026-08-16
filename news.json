@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-08-16T23:15:37.517172+00:00",
+  "generatedAt": "2026-08-16T23:35:43.615276+00:00",
   "nfl": [
+    {
+      "title": "Jamal Adams is out for the year with a knee injury",
+      "link": "https://sports.yahoo.com/articles/jamal-adams-knee-injury-232306041.html",
+      "description": "As expected, veteran defender Jamal Adams&#39;s 2026 season is over, after only one preseason game....",
+      "pubDate": "2026-08-16T23:23:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vikings LB Jamal Adams out for season after being carted off with knee injury in preseason opener",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/vikings-lb-jamal-adams-out-for-season-after-being-carted-off-with-knee-injury-in-preseason-opener-232245548.html",
+      "description": "Jamal Adams went down with a non-contact knee injury in the first half of the Vikings&#39; preseason win over the Giants on Saturday....",
+      "pubDate": "2026-08-16T23:22:45+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "6 performances of note from the Patriots’ 16th training camp practice",
+      "link": "https://sports.yahoo.com/articles/6-performances-note-patriots-16th-231524124.html",
+      "description": "Who caught our eye during the Patriots’ walkthrough on Sunday....",
+      "pubDate": "2026-08-16T23:15:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Rams report 2nd workout for Aaron Donald",
       "link": "https://sports.yahoo.com/articles/rams-report-2nd-workout-aaron-230305270.html",
       "description": "Aaron Donald puts the pads on again for Rams…...",
       "pubDate": "2026-08-16T23:03:05+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kansas City Chiefs roster",
+      "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-roster-003019778.html",
+      "description": "The up-to-date team roster, including contract and salary cap information....",
+      "pubDate": "2026-08-16T23:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -346,6 +378,14 @@
       "thumbnail": ""
     },
     {
+      "title": "49ers get positive injury news; Nick Bosa takes big step toward return",
+      "link": "https://sports.yahoo.com/articles/49ers-positive-injury-news-nick-185248173.html",
+      "description": "nick bosa 49ers edge rusher split screenNick Bosa is one of many San Francisco 49ers players working back from injury in training camp. But good news for the team arrived......",
+      "pubDate": "2026-08-16T18:52:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Titans sign TE Matt Lauter, RB Dominic Richardson",
       "link": "https://sports.yahoo.com/articles/titans-sign-te-matt-lauter-184906678.html",
       "description": "The Titans lost a pair of players to season-ending injuries in their preseason opener and they replaced them on the active roster on Sunday....",
@@ -358,46 +398,6 @@
       "link": "https://sports.yahoo.com/articles/packers-training-camp-recap-things-184651191.html",
       "description": "Two fights broke out at Green Bay Packers training camp for the first time this summer...",
       "pubDate": "2026-08-16T18:46:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins QB Quinn Ewers to miss time with groin injury",
-      "link": "https://sports.yahoo.com/articles/dolphins-qb-quinn-ewers-miss-184122313.html",
-      "description": "The Dolphins brought quarterback Mark Gronowski back to the roster on Sunday and an injury to another player at the position likely contributed to the decision....",
-      "pubDate": "2026-08-16T18:41:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Commanders QB Marcus Mariota has sprained MCL",
-      "link": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
-      "description": "Commanders quarterback Marcus Mariota suffered a sprained right knee and will miss the rest of the preseason, but he is expected to be ready for the regular-season opener.",
-      "pubDate": "2026-08-16T18:38:23Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1201/r1583143_1296x729_16-9.jpg"
-    },
-    {
-      "title": "NFL Confidential: What's Next For RB Market After Gibbs, Robinson, Taylor Extensions",
-      "link": "https://www.foxsports.com/stories/nfl/nfl-confidential-whats-next-rb-market-after-gibbs-robinson-taylor-extensions",
-      "description": "People around the league disagree about the value of running backs, while one executive wonders if James Cook is among the league's most underpaid players.",
-      "pubDate": "2026-08-16T18:36:05+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/artboard-1-40.jpg"
-    },
-    {
-      "title": "Commanders injury news: Nick Allegretti, John Bates returning, Trey Amos still out",
-      "link": "https://sports.yahoo.com/articles/commanders-injury-news-nick-allegretti-182914789.html",
-      "description": "Nick Allegretti and John Bates set to return to Commanders practice, Trey Amos remains out...",
-      "pubDate": "2026-08-16T18:29:14+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Quinn Ewers suffers injury in Dolphins loss to Commanders",
-      "link": "https://sports.yahoo.com/articles/quinn-ewers-suffers-injury-dolphins-182341224.html",
-      "description": "Miami Dolphins second-string quarterback Quinn Ewers may miss some time after injury versus Commanders....",
-      "pubDate": "2026-08-16T18:23:41+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Jamal Adams is out for the year with a knee injury",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-is-out-for-the-year-with-a-knee-injury",
+      "description": "As expected, veteran defender Jamal Adams's 2026 season is over, after only one preseason game....",
+      "pubDate": "2026-08-16T23:23:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Report: Kyle Monangai to have MRI on knee, Bears believe he avoided serious injury",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-kyle-monangai-to-have-mri-on-knee-bears-believe-he-avoided-serious-injury",
       "description": "Running back Kyle Monangai made an early exit from Bears practice on Sunday after hurting his knee, but the team's current belief is that he avoided a major injury....",
@@ -1090,14 +1098,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-young-panthers-werent-able-to-execute-it-sucks",
       "description": "\"We all want to do a better job, myself included,\" Young said. \"We all take ownership in that.\"...",
       "pubDate": "2026-08-16T09:37:57+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles' undersized center Willie Lampkin continues to impress in the preseason",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-undersized-center-willie-lampkin-continues-to-impress-in-the-preseason",
-      "description": "A year ago, one of the stars of the NFL preseason was undrafted rookie center Willie Lampkin, who was playing for the Rams and putting on a show, repeatedly knocking opposing defen...",
-      "pubDate": "2026-08-16T08:24:05+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
