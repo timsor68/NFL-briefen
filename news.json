@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-16T15:14:46.179101+00:00",
+  "generatedAt": "2026-08-16T15:38:47.109793+00:00",
   "nfl": [
     {
       "title": "Commanders QB Marcus Mariota has sprained MCL, sources say",
       "link": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
       "description": "Commanders quarterback Marcus Mariota suffered a sprained MCL that is likely to sideline him for the remainder of the preseason, sources told ESPN.",
-      "pubDate": "2026-08-16T15:10:03Z",
+      "pubDate": "2026-08-16T15:36:54Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2025/1201/r1583143_1296x729_16-9.jpg"
     },
@@ -13,9 +13,33 @@
       "title": "Fantasy football buzz: Jaxson Dart's risk and reward both on display Saturday",
       "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
       "description": "Tristan H. Cockcroft recaps the fantasy football risers and notes from Saturday's preseason NFL action.",
-      "pubDate": "2026-08-16T15:02:08Z",
+      "pubDate": "2026-08-16T15:36:46Z",
       "source": "ESPN NFL · ESPN Fantasy",
       "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702519_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Commanders injury news: Marcus Mariota reportedly suffers sprained knee",
+      "link": "https://sports.yahoo.com/articles/commanders-injury-news-marcus-mariota-reportedly-suffers-sprained-knee-151241464.html",
+      "description": "Commanders backup quarterback Marcus Mariota suffered an injury early in the preseason victory over the Dolphins...",
+      "pubDate": "2026-08-16T15:12:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fernando Carmona’s long climb from Las Vegas to San Jose to Titans starting lineman",
+      "link": "https://sports.yahoo.com/articles/fernando-carmona-long-climb-las-150000069.html",
+      "description": "A radio booth moment started it all when former longtime Spartan radio guy Kevin Richardson nudged broadcast partner David Fales toward something worth watching. Sitting next to Fa...",
+      "pubDate": "2026-08-16T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "There were 12 penalties called on the Chiefs in preseason opener",
+      "link": "https://sports.yahoo.com/articles/were-12-penalties-called-chiefs-150000454.html",
+      "description": "Kansas City had an issue with untimely penalties last season, and it was a theme from Saturday’s game....",
+      "pubDate": "2026-08-16T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Mets troll Jayden Daniels over LSU NIL dispute",
@@ -374,30 +398,6 @@
       "link": "https://sports.yahoo.com/articles/cleveland-browns-news-qbs-struggle-100000582.html",
       "description": "The first preseason game is in the books for Todd Monken’s Cleveland Browns. Sunday morning Dawg Chow follows it up...",
       "pubDate": "2026-08-16T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Jonah Coleman hype isn’t slowing down",
-      "link": "https://sports.yahoo.com/articles/jonah-coleman-hype-isn-t-100000891.html",
-      "description": "Coleman didn’t need many touches to make an impression, continuing a strong summer with a glimpse of what he can bring....",
-      "pubDate": "2026-08-16T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sunday Bengals News and Discussion (8/16)",
-      "link": "https://sports.yahoo.com/articles/sunday-bengals-news-discussion-8-095800648.html",
-      "description": "The Bengals are gearing up for their next preseason game and had an important defensive player return to practice....",
-      "pubDate": "2026-08-16T09:58:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers News: Mike Evans practices again",
-      "link": "https://sports.yahoo.com/articles/49ers-news-mike-evans-practices-084900932.html",
-      "description": "Your daily San Francisco 49ers news for Sunday, August 16th, 2026...",
-      "pubDate": "2026-08-16T08:49:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -809,9 +809,25 @@
       "title": "Commanders QB Marcus Mariota has sprained MCL, sources say",
       "link": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
       "description": "Commanders quarterback Marcus Mariota suffered a sprained MCL that is likely to sideline him for the remainder of the preseason, sources told ESPN.",
-      "pubDate": "2026-08-16T15:10:03Z",
+      "pubDate": "2026-08-16T15:36:54Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2025/1201/r1583143_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Marcus Mariota to miss rest of preseason with sprained MCL",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marcus-mariota-to-miss-rest-of-preseason-with-sprained-mcl",
+      "description": "Commanders quarterback Marcus Mariota has taken his last snap of the preseason....",
+      "pubDate": "2026-08-16T15:33:22+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "As fifth-year chaos continues, some colleges are planning to pounce on rookies who are cut",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-fifth-year-chaos-continues-some-colleges-are-planning-to-pounce-on-rookies-who-are-cut",
+      "description": "The NCAA wants long-term order. The schools want short-term wins....",
+      "pubDate": "2026-08-16T15:22:15+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Zac Taylor defends Orlando Brown Jr. after rough preseason opener",
@@ -1066,22 +1082,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-to-sign-dl-foley-fatukasi",
       "description": "The Raiders are adding a veteran defender....",
       "pubDate": "2026-08-15T18:43:20+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Deshaun Watson throws for 126 yards in 2026 preseason debut",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-throws-for-126-yards-in-2026-preseason-debut",
-      "description": "In competition with Shedeur Sanders, Deshaun Watson started the first preseason game for the Browns on Saturday against the Bears and played the entire first half....",
-      "pubDate": "2026-08-15T18:32:06+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jets to activate T'Vondre Sweat from NFI list",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-to-activate-tvondre-sweat-from-nfi-list",
-      "description": "Defensive tackle T'Vondre Sweat is set to start practicing with the Jets....",
-      "pubDate": "2026-08-15T18:27:54+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
