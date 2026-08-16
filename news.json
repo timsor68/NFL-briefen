@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-08-16T15:55:11.102522+00:00",
+  "generatedAt": "2026-08-16T16:17:25.785225+00:00",
   "nfl": [
+    {
+      "title": "Aaron Donald decision has no 'invisible deadline,' Sean McVay says",
+      "link": "https://www.espn.com/nfl/story/_/id/49627652/aaron-donald-decision-no-invisible-deadline-sean-mcvay-says",
+      "description": "Rams coach Sean McVay says he won't put an \"invisible deadline\" on Aaron Donald to come out of retirement but added that he hopes the former star defensive tackle makes a decision \"sooner than later.\"",
+      "pubDate": "2026-08-16T16:14:37Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701255_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Rams preseason snap counts: What we learned for 53-man roster",
+      "link": "https://sports.yahoo.com/articles/rams-preseason-snap-counts-learned-160239048.html",
+      "description": "Rams 53-man roster projection: Shaun Dolac, Davis Allen, Ronnie Rivers all sat out preseason vs Chiefs...",
+      "pubDate": "2026-08-16T16:02:39+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Macdonald to Jalen Milroe: &quot;Let&#39;s go take another step&quot;",
+      "link": "https://sports.yahoo.com/articles/mike-macdonald-jalen-milroe-lets-160042197.html",
+      "description": "The Seahawks used a third-round pick in 2025 on quarterback Jalen Milroe — the same round in which they acquired Russell Wilson, 13 years earlier....",
+      "pubDate": "2026-08-16T16:00:42+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys have interesting backup running back options",
+      "link": "https://sports.yahoo.com/articles/cowboys-interesting-backup-running-back-160000534.html",
+      "description": "Do you feel like the Cowboys have established who RB2 is?...",
+      "pubDate": "2026-08-16T16:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Giants vs. Vikings: Rookie report — who played well, and who did not",
+      "link": "https://sports.yahoo.com/articles/giants-vs-vikings-rookie-report-155711485.html",
+      "description": "How did the NY Giants rookies play against the Minnesota Vikings?...",
+      "pubDate": "2026-08-16T15:57:11+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Lions sign RB Trayveon Williams, CB Ekow Boye-Doe",
       "link": "https://sports.yahoo.com/articles/lions-sign-rb-trayveon-williams-154711253.html",
@@ -210,14 +250,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Aaron Donald decision has no 'invisible deadline,' Sean McVay says",
-      "link": "https://www.espn.com/nfl/story/_/id/49627652/aaron-donald-decision-no-invisible-deadline-sean-mcvay-says",
-      "description": "Rams coach Sean McVay says he won't put an \"invisible deadline\" on Aaron Donald to come out of retirement but added that he hopes the former star defensive tackle makes a decision \"sooner than later.\"",
-      "pubDate": "2026-08-16T12:56:11Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701255_1296x729_16-9.jpg"
-    },
-    {
       "title": "New on the app: Record Book, pre-draft rankings and draft ordering",
       "link": "https://sports.yahoo.com/fantasy/article/new-on-the-app-record-book-pre-draft-rankings-and-draft-ordering-125509791.html",
       "description": "New Tools on mobile marks Day 7 of our 29 days of fantasy....",
@@ -366,38 +398,6 @@
       "link": "https://sports.yahoo.com/articles/national-reporter-goes-bat-dj-103000132.html",
       "description": "The Bengals cornerback looks like a soon-to-be NFL star....",
       "pubDate": "2026-08-16T10:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL preseason winners and losers: Which rookies stood out?",
-      "link": "https://sports.yahoo.com/articles/nfl-preseason-winners-losers-rookies-100505041.html",
-      "description": "Who were the biggest winners and losers of the NFL preseason? For better or worse, several rookies stood out in their debuts....",
-      "pubDate": "2026-08-16T10:05:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Are there NFL games today? What to know about preseason schedule",
-      "link": "https://sports.yahoo.com/articles/nfl-games-today-know-preseason-100453366.html",
-      "description": "The 2026 NFL preseason is now in full swing, and all 32 teams have played at least one exhibition matchup to date....",
-      "pubDate": "2026-08-16T10:04:53+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Titans believe Daboll can maximize Ward's potential",
-      "link": "https://www.espn.com/nfl/story/_/id/49619516/why-titans-believe-brian-daboll-maximize-cam-ward-potential",
-      "description": "The Titans are looking for the Cam Ward-Brian Daboll relationship to be as effective as what Daboll enjoyed in Buffalo.",
-      "pubDate": "2026-08-16T10:00:03Z",
-      "source": "ESPN NFL · Turron Davenport",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0815/r1702127_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Green Bay Packers Depth Chart: What Week 1 of the preseason taught us",
-      "link": "https://sports.yahoo.com/articles/green-bay-packers-depth-chart-100000179.html",
-      "description": "Karl Brooks is probably going to start in Week 1, based on when the Packers pulled him out of action...",
-      "pubDate": "2026-08-16T10:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,22 @@
   ],
   "insider": [
     {
+      "title": "Mike Macdonald to Jalen Milroe: \"Let's go take another step\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-to-jalen-milroe-lets-go-take-another-step",
+      "description": "The Seahawks used a third-round pick in 2025 on quarterback Jalen Milroe — the same round in which they acquired Russell Wilson, 13 years earlier....",
+      "pubDate": "2026-08-16T16:00:42+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions sign RB Trayveon Williams, CB Ekow Boye-Doe",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-rb-trayveon-williams-cb-ekow-boye-doe",
+      "description": "The Lions announced a handful of roster moves on Sunday morning....",
+      "pubDate": "2026-08-16T15:47:11+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Commanders QB Marcus Mariota has sprained MCL, sources say",
       "link": "https://www.espn.com/nfl/story/_/id/49628873/commanders-qb-marcus-mariota-sprained-mcl-sources-say",
       "description": "Commanders quarterback Marcus Mariota suffered a sprained MCL that is likely to sideline him for the remainder of the preseason, sources told ESPN.",
@@ -1066,22 +1082,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-on-jamal-adams-crushed-for-him-were-going-to-miss-him",
       "description": "The Vikings have not given an official update on the nature of the injury that caused linebacker/safety Jamal Adams to be carted off in the first half of Saturday's game against th...",
       "pubDate": "2026-08-15T18:50:14+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Matt Nagy is in the booth this week, will be on the sideline next week",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-nagy-is-in-the-booth-this-week-will-be-on-the-sideline-next-week",
-      "description": "Former Chiefs offensive coordinator and Bears head coach Matt Nagy made his preseason debut with the Giants on Saturday....",
-      "pubDate": "2026-08-15T18:43:57+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Raiders to sign DL Foley Fatukasi",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-to-sign-dl-foley-fatukasi",
-      "description": "The Raiders are adding a veteran defender....",
-      "pubDate": "2026-08-15T18:43:20+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
