@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-16T05:21:24.260353+00:00",
+  "generatedAt": "2026-08-16T05:57:35.105130+00:00",
   "nfl": [
+    {
+      "title": "Seahawks, CB Witherspoon agree on extension: 4 years, $132M, sources say",
+      "link": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
+      "description": "Three-time Pro Bowl cornerback Devon Witherspoon and the Seattle Seahawks reached an agreement on an extension Saturday, with sources telling ESPN's Adam Schefter it's a four-year deal worth $132 million.",
+      "pubDate": "2026-08-16T05:52:50Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700533_600x400_3-2.jpg"
+    },
     {
       "title": "Winners and Losers from Seahawks vs. Cowboys: Yeesh, that o-line",
       "link": "https://sports.yahoo.com/articles/winners-losers-seahawks-vs-cowboys-045631358.html",
@@ -122,14 +130,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Seahawks, CB Witherspoon agree on extension: 4 years, $132M, sources say",
-      "link": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
-      "description": "Three-time Pro Bowl cornerback Devon Witherspoon and the Seattle Seahawks reached an agreement on an extension Saturday, with sources telling ESPN's Adam Schefter it's a four-year deal worth $132 million.",
-      "pubDate": "2026-08-16T02:36:02Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700533_600x400_3-2.jpg"
-    },
-    {
       "title": "Philadelphia Eagles vs. Baltimore Ravens Game Highlights",
       "link": "https://www.espn.com/video/clip/_/id/49623964/philadelphia-eagles-vs-baltimore-ravens-game-highlights",
       "description": "Philadelphia Eagles vs. Baltimore Ravens Game Highlights",
@@ -216,6 +216,14 @@
       "pubDate": "2026-08-16T01:05:24+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/simpson.jpg"
+    },
+    {
+      "title": "Rams takeaways from preseason opener: Ty Simpson looks legit, OL goes down",
+      "link": "https://sports.yahoo.com/articles/rams-takeaways-preseason-opener-ty-010507441.html",
+      "description": "rams preseason opener ty simpson shinesKANSAS CITY – With arguably the deepest and most talented roster in the NFL, it’s no surprise the Rams enter the season as the prohibitive......",
+      "pubDate": "2026-08-16T01:05:07+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Bears WRs coach Antwaan Randle El called plays in the second half Saturday",
@@ -392,14 +400,6 @@
       "pubDate": "2026-08-15T23:14:31Z",
       "source": "ESPN NFL",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/7a224564-9fad-4c3c-ac49-a35d3964a659/7a224564-9fad-4c3c-ac49-a35d3964a659.jpg"
-    },
-    {
-      "title": "Ty Simpson shines in Rams debut: Instant analysis, grades",
-      "link": "https://sports.yahoo.com/articles/ty-simpson-shines-rams-debut-230935045.html",
-      "description": "Ty Simpson made his debut for the Rams in their preseason game against the Chiefs. Here&#39;s a full breakdown of the first-round rookie&#39;s performance....",
-      "pubDate": "2026-08-15T23:09:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -806,20 +806,36 @@
   ],
   "insider": [
     {
+      "title": "Seahawks, CB Witherspoon agree on extension: 4 years, $132M, sources say",
+      "link": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
+      "description": "Three-time Pro Bowl cornerback Devon Witherspoon and the Seattle Seahawks reached an agreement on an extension Saturday, with sources telling ESPN's Adam Schefter it's a four-year deal worth $132 million.",
+      "pubDate": "2026-08-16T05:52:50Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700533_600x400_3-2.jpg"
+    },
+    {
+      "title": "Jeff Hafley pulled Ollie Gordon II from Friday's game for unsportsmanlike conduct foul",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeff-hafley-pulled-ollie-gordon-ii-from-fridays-game-for-unsportsmanlike-conduct-foul",
+      "description": "The Dolphins in recent years have had an issue with discipline....",
+      "pubDate": "2026-08-16T05:44:49+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ty Simpson dazzles in his Rams debut",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ty-simpson-dazzles-in-his-rams-debut",
+      "description": "And now it's becoming a little more apparent why the Rams used the 13th overall pick in the draft on quarterback Ty Simpson....",
+      "pubDate": "2026-08-16T05:25:42+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Sean McVay doesn't want to put an \"invisible deadline\" on Aaron Donald's decision",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-doesnt-want-to-put-an-invisible-deadline-on-aaron-donalds-decision",
       "description": "The Rams are giving Donald plenty of space to make his decision....",
       "pubDate": "2026-08-16T02:55:40+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Seahawks, CB Witherspoon agree on extension: 4 years, $132M, sources say",
-      "link": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
-      "description": "Three-time Pro Bowl cornerback Devon Witherspoon and the Seattle Seahawks reached an agreement on an extension Saturday, with sources telling ESPN's Adam Schefter it's a four-year deal worth $132 million.",
-      "pubDate": "2026-08-16T02:36:02Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700533_600x400_3-2.jpg"
     },
     {
       "title": "Deshaun Watson: I don't doubt myself in any way",
@@ -1076,22 +1092,6 @@
       "pubDate": "2026-08-15T16:06:28Z",
       "source": "ESPN NFL · ESPN staff",
       "thumbnail": "https://a.espncdn.com/photo/2026/0204/r1610537_608x342_16-9.jpg"
-    },
-    {
-      "title": "Eric Bieniemy's \"intensity\" could help Chiefs get back on track",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eric-bieniemys-intensity-could-help-chiefs-get-back-on-track",
-      "description": "The Chiefs return to action on Saturday, with their first preseason game of 2026....",
-      "pubDate": "2026-08-15T15:45:25+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jeremiyah Love out at least a week due to ankle injury",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeremiyah-love-out-at-least-a-week-due-to-ankle-injury",
-      "description": "Cardinals head coach Mike LaFleur said on Thursday night that rookie running back Jeremiyah Love could have returned to the team's preseason game against the Raiders after injuring...",
-      "pubDate": "2026-08-15T15:43:06+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "Steelers' Keeanu Benton agrees to 4-year, $72M extension, sources say",
