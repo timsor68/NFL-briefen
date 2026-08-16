@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-16T08:20:52.423933+00:00",
+  "generatedAt": "2026-08-16T08:59:33.925914+00:00",
   "nfl": [
+    {
+      "title": "49ers News: Mike Evans practices again",
+      "link": "https://sports.yahoo.com/articles/49ers-news-mike-evans-practices-084900932.html",
+      "description": "Your daily San Francisco 49ers news for Sunday, August 16th, 2026...",
+      "pubDate": "2026-08-16T08:49:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles&#39; undersized center Willie Lampkin continues to impress in the preseason",
+      "link": "https://sports.yahoo.com/articles/eagles-undersized-center-willie-lampkin-082405396.html",
+      "description": "A year ago, one of the stars of the NFL preseason was undrafted rookie center Willie Lampkin, who was playing for the Rams and putting on a show, repeatedly knocking opposing defen...",
+      "pubDate": "2026-08-16T08:24:05+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Cowboys undrafted receiver Camden Brown follows strong training camp with two preseason TDs",
       "link": "https://sports.yahoo.com/articles/cowboys-undrafted-receiver-camden-brown-075231340.html",
@@ -384,22 +400,6 @@
       "pubDate": "2026-08-15T23:30:14Z",
       "source": "ESPN NFL",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0815/f769016a-2b25-4952-9749-56544e893c27/f769016a-2b25-4952-9749-56544e893c27.jpg"
-    },
-    {
-      "title": "Ty Simpson impresses in his Rams debut during preseason win over Chiefs",
-      "link": "https://sports.yahoo.com/articles/ty-simpson-impresses-rams-debut-232128852.html",
-      "description": "Rams rookie quarterback Ty Simpson puts in a solid debut and avoids making any major mistakes in a 20-12 preseason win over the Kansas City Chiefs....",
-      "pubDate": "2026-08-15T23:21:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Final Score: Rams defeat Chiefs 20-12 in NFL Preseason Week 1",
-      "link": "https://sports.yahoo.com/articles/final-score-rams-defeat-chiefs-231500987.html",
-      "description": "Kansas City falls to 0-1 in the preseason with loss to Los Angeles....",
-      "pubDate": "2026-08-15T23:15:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Eagles' undersized center Willie Lampkin continues to impress in the preseason",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-undersized-center-willie-lampkin-continues-to-impress-in-the-preseason",
+      "description": "A year ago, one of the stars of the NFL preseason was undrafted rookie center Willie Lampkin, who was playing for the Rams and putting on a show, repeatedly knocking opposing defen...",
+      "pubDate": "2026-08-16T08:24:05+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Cowboys undrafted receiver Camden Brown follows strong training camp with two preseason TDs",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-undrafted-receiver-camden-brown-follows-strong-training-camp-with-two-preseason-tds",
       "description": "It's always an uphill battle for an undrafted rookie to make the team, but Cowboys wide receiver Camden Brown may be forcing his way onto the regular-season roster with his perform...",
@@ -1066,14 +1074,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-returns-from-medical-tent-to-throw-td",
       "description": "The Giants got an unwelcome reminder of Jaxson Dart's rookie season when the quarterback went to the sideline medical tent after the end of the first quarter, but they wound up wit...",
       "pubDate": "2026-08-15T17:47:42+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kyler Murray leads Vikings to a field goal in only drive",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyler-murray-leads-vikings-to-a-field-goal-in-only-drive",
-      "description": "Kyler Murray got his first start with the Vikings on Saturday, in Minnesota's preseason opener at the Giants....",
-      "pubDate": "2026-08-15T17:45:07+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
