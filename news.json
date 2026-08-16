@@ -1,13 +1,53 @@
 {
-  "generatedAt": "2026-08-16T17:52:03.207288+00:00",
+  "generatedAt": "2026-08-16T18:18:48.535062+00:00",
   "nfl": [
     {
       "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
       "description": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-16T17:47:38Z",
+      "pubDate": "2026-08-16T18:10:40Z",
       "source": "ESPN NFL · Brady Henderson",
       "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702579_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Nick Herbig gets emotional celebrating Keeanu Benton’s extension",
+      "link": "https://sports.yahoo.com/articles/nick-herbig-gets-emotional-celebrating-175557333.html",
+      "description": "Steelers’ edge rusher Nick Herbig gets emotional celebrating teammate’s extension....",
+      "pubDate": "2026-08-16T17:55:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins bring back QB Mark Gronowski in Sunday roster moves",
+      "link": "https://sports.yahoo.com/articles/dolphins-bring-back-qb-mark-175418792.html",
+      "description": "The Miami Dolphins announced a series of roster moves on Sunday, including the return of quarterback Mark Gronowski....",
+      "pubDate": "2026-08-16T17:54:18+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ravens sign veteran running back Jonathan Ward",
+      "link": "https://sports.yahoo.com/articles/ravens-sign-veteran-running-back-175301685.html",
+      "description": "On the morning after a victory over the Philadelphia Eagles in their 2026 preseason opener, the Baltimore Ravens have reportedly made a running back addition. According to KPRC2’s ...",
+      "pubDate": "2026-08-16T17:53:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins sign QB Mark Gronowski, LB Cam Riley",
+      "link": "https://sports.yahoo.com/articles/dolphins-sign-qb-mark-gronowski-174747664.html",
+      "description": "Quarterback Mark Gronowski is back with the Dolphins....",
+      "pubDate": "2026-08-16T17:47:47+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Three reasons why the Jaguars beat the Saints",
+      "link": "https://sports.yahoo.com/articles/three-reasons-why-jaguars-beat-174414292.html",
+      "description": "Key takeways from the Jaguars’ 24-20 win over the Saints...",
+      "pubDate": "2026-08-16T17:44:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Stock Up, Stock Down after the Broncos’ preseason victory over the Falcons",
@@ -357,46 +397,6 @@
       "title": "Jaguars Stock Up, Stock Down After a Week With The Saints",
       "link": "https://sports.yahoo.com/articles/jaguars-stock-stock-down-following-130000439.html",
       "description": "See which Jacksonville Jaguars players saw their stock rise and fall after a pivotal week in New Orleans....",
-      "pubDate": "2026-08-16T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Takeaways from Cardinals vs. Raiders, including three quarterbacks",
-      "link": "https://sports.yahoo.com/articles/takeaways-cardinals-vs-raiders-including-130000418.html",
-      "description": "Preseason games tell the honest tale on every roster...",
-      "pubDate": "2026-08-16T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "10 thoughts on the Cowboys 17-7 preseason win over the Seahawks",
-      "link": "https://sports.yahoo.com/articles/10-thoughts-cowboys-17-7-130000548.html",
-      "description": "What we learned from the Cowboys win...",
-      "pubDate": "2026-08-16T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trent Williams blown away by rookie DT in opener: ‘breath of fresh air’",
-      "link": "https://sports.yahoo.com/articles/trent-williams-blown-away-rookie-130000226.html",
-      "description": "Gracen Halton and Trent Williams of the 49ers.SANTA CLARA — For the fifth year in a row, Trent Williams donned street clothes and observed a new defensive coordinator install his.....",
-      "pubDate": "2026-08-16T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The overlooked Detroit Lion who just ‘does everything right’",
-      "link": "https://sports.yahoo.com/articles/overlooked-detroit-lion-just-does-130000295.html",
-      "description": "One Detroit Lions defensive player is constantly overlooked, but highly appreciated by Dan Campbell....",
-      "pubDate": "2026-08-16T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ty Simpson compared to Baker Mayfield after 1 preseason game",
-      "link": "https://sports.yahoo.com/articles/ty-simpson-compared-baker-mayfield-130000742.html",
-      "description": "People have ways of hedging their bets when it comes to highly-touted quarterbacks in the preseason, and Ty Simpson’s successful debut for the Los Angeles Rams on Saturday was prim...",
       "pubDate": "2026-08-16T13:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
@@ -806,20 +806,36 @@
   ],
   "insider": [
     {
+      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
+      "description": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-16T18:10:40Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702579_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Tucker Kraft does 11-on-11 work at Packers practice",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tucker-kraft-does-11-on-11-work-at-packers-practice",
+      "description": "Packers tight end Tucker Kraft took a big step back toward the lineup on Sunday....",
+      "pubDate": "2026-08-16T18:06:52+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Texans add TE Louis Hansen",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-add-te-louis-hansen",
+      "description": "The Texans announced the addition of a tight end to the roster on Sunday....",
+      "pubDate": "2026-08-16T17:57:40+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Dolphins sign QB Mark Gronowski, LB Cam Riley",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-qb-mark-gronowski-lb-cam-riley",
       "description": "Quarterback Mark Gronowski is back with the Dolphins....",
       "pubDate": "2026-08-16T17:47:47+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Seattle Seahawks training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49427699/seattle-seahawks-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Seahawks training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-16T17:47:38Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702579_1296x729_16-9.jpg"
     },
     {
       "title": "Dan Campbell wishes coaches had monitors on the sideline",
@@ -1074,22 +1090,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-fourth-string-qb-max-brosmer-has-a-right-thumb-injury",
       "description": "Vikings backup quarterback Carson Wentz played more than he had expected to play in Saturday's preseason opener....",
       "pubDate": "2026-08-15T21:18:51+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "John Harbaugh on Jaxson Dart's visit to medical tent: We need to block better",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-jaxson-darts-visit-to-medical-tent-we-need-to-block-better",
-      "description": "Giants quarterback Jaxson Dart put the team's fans on a rollercoaster ride in Saturday's preseason opener against the Vikings....",
-      "pubDate": "2026-08-15T21:12:50+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jamal Adams has a right knee injury that \"doesn't look good\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-has-a-right-knee-injury-that-doesnt-look-good",
-      "description": "Vikings linebacker/safety Jamal Adams' season is likely finished before it begins....",
-      "pubDate": "2026-08-15T21:06:07+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
