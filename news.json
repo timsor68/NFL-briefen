@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-08-16T20:40:50.501036+00:00",
+  "generatedAt": "2026-08-16T21:13:55.283732+00:00",
   "nfl": [
+    {
+      "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
+      "description": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-16T21:13:02Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702646_1296x729_16-9.jpg"
+    },
+    {
+      "title": "49ers' George Kittle eyes return to practice, opener in Australia",
+      "link": "https://www.espn.com/nfl/story/_/id/49631705/49ers-george-kittle-eyes-return-practice-opener-australia",
+      "description": "George Kittle, who suffered a torn Achilles in January, said it's possible he'll be able to practice soon with the hope he'll be ready for the 49ers' opener vs. the Rams.",
+      "pubDate": "2026-08-16T21:13:00Z",
+      "source": "ESPN NFL · Nick Wagoner",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702693_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Retired Aaron Donald works out for Rams for second time",
+      "link": "https://www.espn.com/nfl/story/_/id/49631972/retired-aaron-donald-works-rams-second",
+      "description": "Aaron Donald worked out for the Los Angeles Rams on Saturday as he continues his process to determine whether he wants to come out of retirement.",
+      "pubDate": "2026-08-16T21:09:32Z",
+      "source": "ESPN NFL · Sarah Barshop",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701255_1296x729_16-9.jpg"
+    },
+    {
+      "title": "CB Keisean Nixon not guaranteed starting role with Packers",
+      "link": "https://www.espn.com/nfl/story/_/id/49631890/cb-keisean-nixon-not-guaranteed-starting-role-packers",
+      "description": "The deeper the Packers get into training camp, the more uncertain it is that Keisean Nixon will be one of their opening day starting cornerbacks.",
+      "pubDate": "2026-08-16T21:01:28Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702699_600x400_3-2.jpg"
+    },
+    {
+      "title": "A new Seahawks 53-man roster projection after Week 1 of preseason",
+      "link": "https://sports.yahoo.com/articles/seahawks-53-man-roster-projection-210056918.html",
+      "description": "Did any Seahawks players help or hurt their case for a roster spot after the Cowboys game?...",
+      "pubDate": "2026-08-16T21:00:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 28",
+      "link": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-210000081.html",
+      "description": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 28....",
+      "pubDate": "2026-08-16T21:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "LT Ozzy Trapilo (knee) now eligible to practice with Bears",
+      "link": "https://www.espn.com/nfl/story/_/id/49631637/lt-ozzy-trapilo-knee-now-eligible-practice-bears",
+      "description": "The Bears activated Ozzy Trapilo off the physically unable to perform list on Sunday, seven months after the left tackle ruptured his patellar tendon in the postseason.",
+      "pubDate": "2026-08-16T20:57:23Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702689_600x400_3-2.jpg"
+    },
+    {
+      "title": "Falcons snap counts from a Week 1 preseason loss to the Broncos",
+      "link": "https://sports.yahoo.com/articles/falcons-snap-counts-week-1-205332021.html",
+      "description": "Curious about playing time from Friday night? We got you covered....",
+      "pubDate": "2026-08-16T20:53:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Chicago Bears training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
+      "description": "Catch up on our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-16T20:53:31Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702695_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Bears activate LT Ozzy Trapilo from active/PUP",
+      "link": "https://sports.yahoo.com/articles/bears-activate-lt-ozzy-trapilo-203145152.html",
+      "description": "The Bears activated offensive tackle Ozzy Trapilo from active/physically unable to perform, the team announced....",
+      "pubDate": "2026-08-16T20:31:45+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Detroit Lions 2026 training camp observations, Day 13: Tate Ratledge gets work at center",
       "link": "https://sports.yahoo.com/articles/detroit-lions-2026-training-camp-202056098.html",
@@ -26,7 +106,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Bears activate LT Ozzy Trapilo from PUP list",
+      "title": "Bears activate left tackle Ozzy Trapilo from PUP list",
       "link": "https://sports.yahoo.com/articles/bears-activate-lt-ozzy-trapilo-201707754.html",
       "description": "The Bears get some great news, with left tackle Ozzy Trapilo coming back off the PUP list....",
       "pubDate": "2026-08-16T20:17:07+00:00",
@@ -48,14 +128,6 @@
       "pubDate": "2026-08-16T20:15:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-16T19:44:21Z",
-      "source": "ESPN NFL · Brooke Pryor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702646_1296x729_16-9.jpg"
     },
     {
       "title": "NFL Preseason Ducks Roundup – Week 1",
@@ -328,78 +400,6 @@
       "pubDate": "2026-08-16T16:31:58Z",
       "source": "ESPN NFL · Jordan Raanan",
       "thumbnail": "https://a.espncdn.com/photo/2026/0815/r1702277_600x400_3-2.jpg"
-    },
-    {
-      "title": "Rams PFF Grades: Stetson Bennett finished last on offense",
-      "link": "https://sports.yahoo.com/articles/rams-pff-grades-stetson-bennett-163119953.html",
-      "description": "Pro Football Focus gives Ty Simpson a top-5 mark. Stetson Bennett finishes in last place on offense....",
-      "pubDate": "2026-08-16T16:31:19+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL Preseason Odds Week 1: Results For All 16 Games",
-      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-preseason-odds-week-1-lines-spreads-all-16-games",
-      "description": "Check out the odds, spreads and totals for all 16 preseason Week 1 games.",
-      "pubDate": "2026-08-16T16:26:27+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/10/dak-1014.jpg"
-    },
-    {
-      "title": "Report: Browns are expected to sign Za&#39;Darius Smith",
-      "link": "https://sports.yahoo.com/articles/report-browns-expected-sign-zadarius-161717419.html",
-      "description": "It looks like Za&#39;Darius Smith is headed back to the Browns....",
-      "pubDate": "2026-08-16T16:17:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aaron Donald decision has no 'invisible deadline,' Sean McVay says",
-      "link": "https://www.espn.com/nfl/story/_/id/49627652/aaron-donald-decision-no-invisible-deadline-sean-mcvay-says",
-      "description": "Rams coach Sean McVay says he won't put an \"invisible deadline\" on Aaron Donald to come out of retirement but added that he hopes the former star defensive tackle makes a decision \"sooner than later.\"",
-      "pubDate": "2026-08-16T16:14:37Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701255_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Rams preseason snap counts: What we learned for 53-man roster",
-      "link": "https://sports.yahoo.com/articles/rams-preseason-snap-counts-learned-160239048.html",
-      "description": "Rams 53-man roster projection: Shaun Dolac, Davis Allen, Ronnie Rivers all sat out preseason vs Chiefs...",
-      "pubDate": "2026-08-16T16:02:39+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mike Macdonald to Jalen Milroe: &quot;Let&#39;s go take another step&quot;",
-      "link": "https://sports.yahoo.com/articles/mike-macdonald-jalen-milroe-lets-160042197.html",
-      "description": "The Seahawks used a third-round pick in 2025 on quarterback Jalen Milroe — the same round in which they acquired Russell Wilson, 13 years earlier....",
-      "pubDate": "2026-08-16T16:00:42+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys have interesting backup running back options",
-      "link": "https://sports.yahoo.com/articles/cowboys-interesting-backup-running-back-160000534.html",
-      "description": "Do you feel like the Cowboys have established who RB2 is?...",
-      "pubDate": "2026-08-16T16:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants vs. Vikings: Rookie report — who played well, and who did not",
-      "link": "https://sports.yahoo.com/articles/giants-vs-vikings-rookie-report-155711485.html",
-      "description": "How did the NY Giants rookies play against the Minnesota Vikings?...",
-      "pubDate": "2026-08-16T15:57:11+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lions sign RB Trayveon Williams, CB Ekow Boye-Doe",
-      "link": "https://sports.yahoo.com/articles/lions-sign-rb-trayveon-williams-154711253.html",
-      "description": "The Lions announced a handful of roster moves on Sunday morning....",
-      "pubDate": "2026-08-16T15:47:11+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -806,9 +806,33 @@
   ],
   "insider": [
     {
+      "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
+      "description": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-16T21:13:02Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702646_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Chicago Bears training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates",
+      "description": "Catch up on our daily updates from Bears training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-16T20:53:31Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702695_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Dan Campbell isn't surprised Terrion Arnold found a landing spot",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-isnt-surprised-terrion-arnold-found-a-landing-spot",
+      "description": "Campbell's praise of Arnold doesn't mesh with the Lions' decision to release him....",
+      "pubDate": "2026-08-16T20:38:33+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Bears activate LT Ozzy Trapilo from active/PUP",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-activate-lt-ozzy-trapilo-from-active-pup",
-      "description": "The Bears activated offensive tackle Ozzy Trapilo from reserve/physically unable to perform, the team announced....",
+      "description": "The Bears activated offensive tackle Ozzy Trapilo from active/physically unable to perform, the team announced....",
       "pubDate": "2026-08-16T20:31:45+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
@@ -828,14 +852,6 @@
       "pubDate": "2026-08-16T20:15:37+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Pittsburgh Steelers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49449169/pittsburgh-steelers-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Steelers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-16T19:44:21Z",
-      "source": "ESPN NFL · Brooke Pryor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702646_1296x729_16-9.jpg"
     },
     {
       "title": "Titans sign TE Matt Lauter, RB Dominic Richardson",
@@ -1058,14 +1074,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-i-dont-doubt-myself-in-any-way",
       "description": "Browns coach Todd Monken said it was \"cool\" and \"awesome\" to watch Deshaun Watson play on Saturday....",
       "pubDate": "2026-08-16T02:13:34+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears WRs coach Antwaan Randle El called plays in the second half Saturday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-wrs-coach-antwaan-randle-el-called-plays-in-the-second-half-saturday",
-      "description": "The Bears scored 24 points and put up 235 yards in the second half of their 34-10 preseason win over the Browns on Saturday....",
-      "pubDate": "2026-08-16T00:56:00+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
