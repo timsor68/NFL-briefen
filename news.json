@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-16T14:15:41.763477+00:00",
+  "generatedAt": "2026-08-16T14:42:09.789243+00:00",
   "nfl": [
+    {
+      "title": "Dan Campbell speaks on Seattle Seahawks agreeing to sign Terrion Arnold",
+      "link": "https://sports.yahoo.com/articles/dan-campbell-speaks-seattle-seahawks-143142533.html",
+      "description": "Detroit Lions coach Dan Campbell reacted to the news that the Seattle Seahawks have agreed to sign Terrion Arnold....",
+      "pubDate": "2026-08-16T14:31:42+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Camden Brown leads scoring in strong defensive effort for Cowboys win at Seahawks",
+      "link": "https://sports.yahoo.com/articles/camden-brown-leads-scoring-strong-143000480.html",
+      "description": "Saturday was pretty fun all-around for the Cowboys....",
+      "pubDate": "2026-08-16T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Zach Wilson: I would love to be the No. 2 QB in New Orleans",
+      "link": "https://sports.yahoo.com/articles/zach-wilson-love-no-2-141254844.html",
+      "description": "Tyler Shough did not play any quarterback for the Saints on Saturday, but the two players in contention to be his backup both saw action against the Jaguars....",
+      "pubDate": "2026-08-16T14:12:54+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills news: Recapping Bills vs. Panthers",
+      "link": "https://sports.yahoo.com/articles/bills-news-recapping-bills-vs-141009382.html",
+      "description": "Josh Allen engineered two scoring drives, D.J. Moore showcased his big-play potential and Deone Walker was disruptive....",
+      "pubDate": "2026-08-16T14:10:09+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "‘Things I think’: Odell Beckham’s future, Jaxson Dart, and some problems exposed",
       "link": "https://sports.yahoo.com/articles/things-think-odell-beckham-future-140432802.html",
@@ -366,38 +398,6 @@
       "link": "https://sports.yahoo.com/articles/winners-losers-seahawks-vs-cowboys-045631358.html",
       "description": "The good news is that Seahawks first-team football is back on Sept. 9!...",
       "pubDate": "2026-08-16T04:56:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Brown stands out for Cowboys with 2 TD catches in 17-7 win over Seahawks",
-      "link": "http://www.espn.com/nfl/recap?gameId=401873279",
-      "description": "— Rookie Camden Brown had two touchdown catches, including a diving, one-handed snag, to help lead the Dallas Cowboys past the Super Bowl champion Seattle Seahawks 17-7 on Saturday night in the preseason opener for both team.",
-      "pubDate": "2026-08-16T04:48:29Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873279.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Colts work out handful of players, including three veteran wideouts",
-      "link": "https://sports.yahoo.com/articles/colts-handful-players-including-three-043324163.html",
-      "description": "The Colts worked out a number of free agent players, including three veteran wideouts on Saturday....",
-      "pubDate": "2026-08-16T04:33:24+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Randle El takes over playcalling, sparking Bears' 24-0 run",
-      "link": "https://www.espn.com/nfl/story/_/id/49624578/randle-el-takes-play-calling-sparking-bears-24-0-run",
-      "description": "Bears assistant head coach Antwaan Randle El took over playcalling duties for the second half of the preseason opener vs. the Browns, helping Chicago score 24 unanswered points in the 34-10 win.",
-      "pubDate": "2026-08-16T04:06:17Z",
-      "source": "ESPN NFL · Courtney Cronin",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0816/r1702392_600x400_3-2.jpg"
-    },
-    {
-      "title": "Cowboys do something for the first time in almost a decade",
-      "link": "https://sports.yahoo.com/articles/cowboys-something-first-time-almost-040000833.html",
-      "description": "The Cowboys are 1-0 in the preseason for the first time in almost a decade....",
-      "pubDate": "2026-08-16T04:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,22 @@
   ],
   "insider": [
     {
+      "title": "Zac Taylor defends Orlando Brown Jr. after rough preseason opener",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zac-taylor-defends-orlando-brown-jr-after-rough-preseason-opener",
+      "description": "The reality of playing a franchise quarterback in the preseason entails the risk of the quarterback getting hit....",
+      "pubDate": "2026-08-16T14:20:21+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Zach Wilson: I would love to be the No. 2 QB in New Orleans",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/zach-wilson-i-would-love-to-be-the-no-2-qb-in-new-orleans",
+      "description": "Tyler Shough did not play any quarterback for the Saints on Saturday, but the two players in contention to be his backup both saw action against the Jaguars....",
+      "pubDate": "2026-08-16T14:12:54+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Mike Macdonald wasn't happy with the Seahawks' performance in preseason opener",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-wasnt-happy-with-the-seahawks-performance-in-preseason-opener",
       "description": "\"Our operation is not up to par.\"...",
@@ -1058,22 +1074,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-to-activate-tvondre-sweat-from-nfi-list",
       "description": "Defensive tackle T'Vondre Sweat is set to start practicing with the Jets....",
       "pubDate": "2026-08-15T18:27:54+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bryce Young and Panthers' offense go three-and-out on all three drives",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-young-and-panthers-offense-go-three-and-out-on-all-three-drives",
-      "description": "Panthers quarterback Bryce Young is not off to a good start this preseason....",
-      "pubDate": "2026-08-15T18:11:27+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Inside the Devon Witherspoon deal",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-devon-witherspoon-deal",
-      "description": "Here's the full breakdown of Witherspoon's new six-year deal....",
-      "pubDate": "2026-08-15T18:09:48+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
