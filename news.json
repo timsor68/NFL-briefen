@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-16T13:15:57.177559+00:00",
+  "generatedAt": "2026-08-16T13:46:21.122102+00:00",
   "nfl": [
+    {
+      "title": "USA TODAY Sports preseason All-America High School Football Team revealed",
+      "link": "https://sports.yahoo.com/articles/usa-today-sports-preseason-america-133035988.html",
+      "description": "The USA TODAY Sports All-America preseason team features elite high school football players around the country. See who made the list....",
+      "pubDate": "2026-08-16T13:30:35+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Seahawks, Witherspoon reach extension: 4 years, $132M, sources say",
+      "link": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
+      "description": "Three-time Pro Bowl cornerback Devon Witherspoon and the Seahawks have reached an agreement on an extension, with sources telling ESPN's Adam Schefter it's a four-year deal worth $132 million.",
+      "pubDate": "2026-08-16T13:22:01Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700533_600x400_3-2.jpg"
+    },
     {
       "title": "Pre-Snap Reads: Seahawks sign Devon Witherspoon, lose to Cowboys",
       "link": "https://sports.yahoo.com/articles/pre-snap-reads-seahawks-sign-130700133.html",
@@ -10,9 +26,9 @@
       "thumbnail": ""
     },
     {
-      "title": "Jaguars Stock Up, Stock Down Following Saints Week",
+      "title": "Jaguars Stock Up, Stock Down After a Week With the Saints",
       "link": "https://sports.yahoo.com/articles/jaguars-stock-stock-down-following-130000439.html",
-      "description": "See which Jacksonville Jaguars players saw their stock rise and fall after a pivotal week featuring joint practices and Saturday’s preseason victory over the New Orleans Saints....",
+      "description": "See which Jacksonville Jaguars players saw their stock rise and fall after a pivotal week in New Orleans....",
       "pubDate": "2026-08-16T13:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
@@ -298,14 +314,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Seahawks, CB Witherspoon agree on extension: 4 years, $132M, sources say",
-      "link": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
-      "description": "Three-time Pro Bowl cornerback Devon Witherspoon and the Seattle Seahawks reached an agreement on an extension Saturday, with sources telling ESPN's Adam Schefter it's a four-year deal worth $132 million.",
-      "pubDate": "2026-08-16T05:52:50Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700533_600x400_3-2.jpg"
-    },
-    {
       "title": "Winners and Losers from Seahawks vs. Cowboys: Yeesh, that o-line",
       "link": "https://sports.yahoo.com/articles/winners-losers-seahawks-vs-cowboys-045631358.html",
       "description": "The good news is that Seahawks first-team football is back on Sept. 9!...",
@@ -392,14 +400,6 @@
       "pubDate": "2026-08-16T03:13:31Z",
       "source": "ESPN NFL",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873284.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Giants position battles: Who impressed most in preseason opener?",
-      "link": "https://sports.yahoo.com/articles/giants-position-battles-impressed-most-031130208.html",
-      "description": "Saturday&#39;s preseason opener against the Minnesota Vikings may have revealed some early status updates on key position battles across the New York Giants depth chart, especially...",
-      "pubDate": "2026-08-16T03:11:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Seahawks, Witherspoon reach extension: 4 years, $132M, sources say",
+      "link": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
+      "description": "Three-time Pro Bowl cornerback Devon Witherspoon and the Seahawks have reached an agreement on an extension, with sources telling ESPN's Adam Schefter it's a four-year deal worth $132 million.",
+      "pubDate": "2026-08-16T13:22:01Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700533_600x400_3-2.jpg"
+    },
+    {
       "title": "Panthers RB Jonathon Brooks saw his first game action since his second torn ACL in 2024",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-rb-jonathon-brooks-saw-his-first-game-action-since-his-second-torn-acl-in-2024",
       "description": "In Saturday's preseason game, Panthers running back Jonathon Brooks took his biggest step yet in his long road to recovery from his second serious knee injury....",
@@ -844,14 +852,6 @@
       "pubDate": "2026-08-16T07:30:59+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Seahawks, CB Witherspoon agree on extension: 4 years, $132M, sources say",
-      "link": "https://www.espn.com/nfl/story/_/id/49619266/sources-seahawks-cb-witherspoon-agree-4-year-132m-deal",
-      "description": "Three-time Pro Bowl cornerback Devon Witherspoon and the Seattle Seahawks reached an agreement on an extension Saturday, with sources telling ESPN's Adam Schefter it's a four-year deal worth $132 million.",
-      "pubDate": "2026-08-16T05:52:50Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700533_600x400_3-2.jpg"
     },
     {
       "title": "Jeff Hafley pulled Ollie Gordon II from Friday's game for unsportsmanlike conduct foul",
