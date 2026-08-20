@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-20T08:17:24.545465+00:00",
+  "generatedAt": "2026-08-20T08:59:10.716771+00:00",
   "nfl": [
+    {
+      "title": "Deshaun Watson on the reception he&#39;ll get from Browns fans: &quot;I don&#39;t care&quot;",
+      "link": "https://sports.yahoo.com/articles/deshaun-watson-reception-hell-browns-081701119.html",
+      "description": "Watson, who is often booed in Cleveland, says it doesn&#39;t matter to him what he hears at Saturday&#39;s preseason home opener....",
+      "pubDate": "2026-08-20T08:17:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Sonny Styles' goal for Commanders' second preseason game",
       "link": "https://www.espn.com/video/clip/_/id/49666395/sonny-styles-goal-commanders-second-preseason-game",
@@ -392,14 +400,6 @@
       "pubDate": "2026-08-19T22:03:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Source: CB Trevon Diggs signing 1-year deal with Seahawks",
-      "link": "https://www.espn.com/nfl/story/_/id/49661802/source-seahawks-sign-former-pro-bowl-cb-trevon-diggs",
-      "description": "Former Cowboys Pro Bowl cornerback Trevon Diggs plans to sign a one-year deal with the Seahawks, a source told ESPN's Adam Schefter on Wednesday.",
-      "pubDate": "2026-08-19T22:02:15Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1215/r1589722_600x400_3-2.jpg"
     }
   ],
   "ncaa": [
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Deshaun Watson on the reception he'll get from Browns fans: \"I don't care\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deshaun-watson-on-the-reception-hell-get-from-browns-fans-i-dont-care",
+      "description": "Watson, who is often booed in Cleveland, says it doesn't matter to him what he hears at Saturday's preseason home opener....",
+      "pubDate": "2026-08-20T08:17:01+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Bucs, DT Vita Vea agree to 1-year extension to end hold-in",
       "link": "https://www.espn.com/nfl/story/_/id/49664105/bucs-dt-vita-vea-agree-1-year-extension-end-hold-in",
       "description": "Two-time Pro Bowl defensive tackle Vita Vea and the Tampa Bay Buccaneers have agreed on a one-year extension that guarantees him $30 million, sources told ESPN on Wednesday.",
@@ -1196,14 +1204,6 @@
       "pubDate": "2026-08-19T17:46:28Z",
       "source": "ESPN NFL · DJ Bien-Aime",
       "thumbnail": "https://a.espncdn.com/photo/2025/1227/r1594162_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Christian McCaffrey's injury absence has more nuance than meets the eye",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-mccaffreys-injury-absence-has-more-nuance-than-meets-the-eye",
-      "description": "When is a hold in not a hold in, but still kind of a hold in?...",
-      "pubDate": "2026-08-19T17:42:59+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     }
   ]
 }
