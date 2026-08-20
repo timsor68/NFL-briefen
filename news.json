@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-08-20T02:13:40.600042+00:00",
+  "generatedAt": "2026-08-20T03:11:22.517312+00:00",
   "nfl": [
+    {
+      "title": "Source: Commanders DL Newton has surgery to repair torn pec",
+      "link": "https://www.espn.com/nfl/story/_/id/49665858/source-commanders-dl-newton-surgery-repair-torn-pec",
+      "description": "Commanders defensive lineman Jer'Zhan Newton underwent surgery Wednesday to repair a torn pectoral muscle, a source confirmed.",
+      "pubDate": "2026-08-20T02:56:59Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1212/r1588589_600x400_3-2.jpg"
+    },
+    {
+      "title": "NFL Catchup: Vita Vea Gets His Deal, Sparks At Eagles-Patriots Practice & More",
+      "link": "https://www.foxsports.com/stories/nfl/nfl-catchup-vita-vea-gets-his-deal-sparks-eagles-patriots-practice-more",
+      "description": "Get the latest NFL updates as Vita Vea earns a major extension, Trevon Diggs heads to Seattle, Alvin Kamara suffers an injury, and Drake Maye shines in joint practice.",
+      "pubDate": "2026-08-20T02:52:45+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/vita-vea.jpg"
+    },
+    {
+      "title": "Texans WR Jayden Higgins tears ACL in training camp, will miss entire 2026 season",
+      "link": "https://sports.yahoo.com/nfl/article/texans-wr-jayden-higgins-tears-acl-in-training-camp-will-miss-entire-2026-season-025228261.html",
+      "description": "Jayden Higgins went down with a torn ACL in a joint practice with the Raiders on Tuesday....",
+      "pubDate": "2026-08-20T02:52:28+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts TE Tyler Warren injures groin in practice",
+      "link": "https://www.espn.com/nfl/story/_/id/49664278/colts-tight-end-tyler-warren-injures-groin-practice",
+      "description": "Colts star tight end Tyler Warren sustained a groin injury in Wednesday's joint practice and did not return.",
+      "pubDate": "2026-08-20T02:45:00Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0819/r1704152_600x400_3-2.jpg"
+    },
+    {
+      "title": "Bengals vs. Bears: How to watch, stream, and listen to on the radio",
+      "link": "https://sports.yahoo.com/articles/bengals-vs-bears-watch-stream-022437470.html",
+      "description": "Can the rookies continue to put on a show in the Jungle?...",
+      "pubDate": "2026-08-20T02:24:37+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts reportedly receive positive news on TE Tyler Warren’s groin injury",
+      "link": "https://sports.yahoo.com/articles/colts-reportedly-receive-positive-news-021646520.html",
+      "description": "According to NFL Insider Jordan Schultz, the Indianapolis Colts have received positive news on Tyler Warren’s groin injury suffered during Wednesday’s joint training camp practice ...",
+      "pubDate": "2026-08-20T02:16:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts QB Daniel Jones Continues To Impress In Return From Achilles Injury",
+      "link": "https://www.foxsports.com/stories/nfl/colts-falcons-joint-practice-daniel-jones-return-from-achilles-injury",
+      "description": "Daniel Jones lit up a solid Falcons secondary on Wednesday, though a key Colts pass-catcher had to leave the field with an injury.",
+      "pubDate": "2026-08-20T02:13:35+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/artboard-1-19.jpg"
+    },
     {
       "title": "Everything you need to know from Day 1 of Falcons-Colts joint practices",
       "link": "https://sports.yahoo.com/articles/everything-know-day-1-falcons-013855864.html",
@@ -64,14 +120,6 @@
       "pubDate": "2026-08-20T00:37:26+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Colts TE Tyler Warren injures groin in practice",
-      "link": "https://www.espn.com/nfl/story/_/id/49664278/colts-tight-end-tyler-warren-injures-groin-practice",
-      "description": "Colts star tight end Tyler Warren sustained a groin injury in Wednesday's joint practice and did not return.",
-      "pubDate": "2026-08-20T00:33:53Z",
-      "source": "ESPN NFL · Stephen Holder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0819/r1704152_600x400_3-2.jpg"
     },
     {
       "title": "2026 Carolina Panthers training camp: Latest intel, updates",
@@ -258,6 +306,14 @@
       "thumbnail": ""
     },
     {
+      "title": "Geno Smith’s status for second Jets preseason game remains a mystery",
+      "link": "https://sports.yahoo.com/articles/geno-smith-status-second-jets-220712309.html",
+      "description": "Geno Smith missed last week’s preseason opener with ankle soreness....",
+      "pubDate": "2026-08-19T22:07:12+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "10 Observations from the Jaguars-Panthers Joint Practice",
       "link": "https://sports.yahoo.com/articles/10-observations-jaguars-panthers-joint-220300688.html",
       "description": "Between the heat, the fights, the individual performances, and the physicality, Wednesday&#39;s Jaguars Joint Practice with the Panthers gave the fanbase more to talk about than an...",
@@ -344,62 +400,6 @@
       "pubDate": "2026-08-19T21:36:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Minnesota Vikings training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376202/minnesota-vikings-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Vikings training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-19T21:33:20Z",
-      "source": "ESPN NFL · Kevin Seifert",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0811/r1700437_608x342_16-9.jpg"
-    },
-    {
-      "title": "Mason Rudolph admits jealousy towards Drew Allar, Will Howard",
-      "link": "https://sports.yahoo.com/articles/mason-rudolph-admits-jealousy-towards-213216302.html",
-      "description": "Mason Rudolph gets candid about Drew Allar, Will Howard, and the Steelers’ QB program....",
-      "pubDate": "2026-08-19T21:32:16+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kyle Shanahan roasts Robert Saleh after unusual 49ers practice",
-      "link": "https://sports.yahoo.com/articles/kyle-shanahan-roasts-robert-saleh-212617172.html",
-      "description": "It was a dramatic departure from a chaotic joint practice with the Titans one week earlier....",
-      "pubDate": "2026-08-19T21:26:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Which teams could be calling the Bills in the near future about a trade?",
-      "link": "https://sports.yahoo.com/articles/teams-could-calling-bills-near-212316830.html",
-      "description": "Which clubs could be calling the Bills soon about a potential trade?...",
-      "pubDate": "2026-08-19T21:23:16+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mack Hollins breaks out adult-themed TD celebration after long practice score",
-      "link": "https://sports.yahoo.com/articles/mack-hollins-breaks-adult-themed-212232203.html",
-      "description": "Mack Hollins&#39; latest touchdown celebration might have some sheepish NFL fans reaching to shield their eyes....",
-      "pubDate": "2026-08-19T21:22:32+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chargers rookie on 49ers defense in joint practice: ‘We tore them up’",
-      "link": "https://sports.yahoo.com/articles/chargers-rookie-49ers-defense-joint-212155423.html",
-      "description": "One Chargers rookie did not hold back after Tuesday’s joint practice....",
-      "pubDate": "2026-08-19T21:21:55+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Howard, Allar to get all of Steelers' QB reps vs. Jets",
-      "link": "https://www.espn.com/nfl/story/_/id/49660895/howard-allar-get-all-steelers-qb-reps-vs-jets",
-      "description": "The Steelers will start second-year quarterback Will Howard against the Jets on Friday while 2026 fourth-round pick Drew Allar will follow.",
-      "pubDate": "2026-08-19T21:19:21Z",
-      "source": "ESPN NFL · Brooke Pryor",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0805/r1528294_600x400_3-2.jpg"
     }
   ],
   "ncaa": [
@@ -806,6 +806,38 @@
   ],
   "insider": [
     {
+      "title": "Jason Licht: Vita Vea is the type of player and person we want to build around",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jason-licht-vita-vea-is-the-type-of-player-and-person-we-want-to-build-around",
+      "description": "The Buccaneers announced the one-year extension for defensive lineman Vita Vea on Wednesday....",
+      "pubDate": "2026-08-20T03:02:01+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Source: Commanders DL Newton has surgery to repair torn pec",
+      "link": "https://www.espn.com/nfl/story/_/id/49665858/source-commanders-dl-newton-surgery-repair-torn-pec",
+      "description": "Commanders defensive lineman Jer'Zhan Newton underwent surgery Wednesday to repair a torn pectoral muscle, a source confirmed.",
+      "pubDate": "2026-08-20T02:56:59Z",
+      "source": "ESPN NFL · John Keim",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1212/r1588589_600x400_3-2.jpg"
+    },
+    {
+      "title": "NFL Catchup: Vita Vea Gets His Deal, Sparks At Eagles-Patriots Practice & More",
+      "link": "https://www.foxsports.com/stories/nfl/nfl-catchup-vita-vea-gets-his-deal-sparks-eagles-patriots-practice-more",
+      "description": "Get the latest NFL updates as Vita Vea earns a major extension, Trevon Diggs heads to Seattle, Alvin Kamara suffers an injury, and Drake Maye shines in joint practice.",
+      "pubDate": "2026-08-20T02:52:45+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/vita-vea.jpg"
+    },
+    {
+      "title": "Commanders RB Rachaad White tweaked his hamstring",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-rb-rachaad-white-tweaked-his-hamstring",
+      "description": "Commanders running back Rachaad White has missed the past few days with an undisclosed injury....",
+      "pubDate": "2026-08-20T02:34:55+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Tyler Warren has groin injury",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-warren-has-groin-injury",
       "description": "Colts tight end Tyler Warren left practice on Wednesday with an injury....",
@@ -1030,14 +1062,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Giants trade Daniel Faalele to Jaguars for 6th-round draft pick",
-      "link": "https://www.espn.com/nfl/story/_/id/49659019/sources-giants-agree-trade-daniel-faalele-jaguars",
-      "description": "The Giants have traded guard Daniel Faalele to the Jaguars for a sixth-round draft pick in 2027.",
-      "pubDate": "2026-08-19T19:53:26Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0819/r1703847_1296x729_16-9.jpg"
-    },
-    {
       "title": "2026 Kansas City Chiefs training camp: Latest intel, updates",
       "link": "https://www.espn.com/nfl/story/_/id/49447878/kansas-city-chiefs-training-camp-2026-intel-updates",
       "description": "Catch up on our updates from Chiefs training camp, including intel on QBs, position battles and potential breakouts.",
@@ -1180,30 +1204,6 @@
       "pubDate": "2026-08-19T17:14:45+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Saints Reportedly Lose RB Alvin Kamara To Injury For At Least a Month",
-      "link": "https://www.foxsports.com/stories/nfl/new-orleans-saints-alvin-kamara-knee-injury",
-      "description": "The Saints' backfield took a hit, with 2025 starting running back Alvin Kamara set to miss time.",
-      "pubDate": "2026-08-19T17:00:52+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/kamarah1.jpg"
-    },
-    {
-      "title": "Texans to rest starters Thursday vs. Raiders",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-to-rest-starters-thursday-vs-raiders",
-      "description": "Houston head coach DeMeco Ryans has changed his mind when it comes to playing time for Thursday’s preseason matchup with Las Vegas....",
-      "pubDate": "2026-08-19T16:52:49+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "What does Giants signing Najee Harris mean for Cam Skattebo in fantasy?",
-      "link": "https://www.espn.com/video/clip/_/id/49659161/what-does-giants-signing-najee-harris-mean-cam-skattebo-fantasy",
-      "description": "What does Giants signing Najee Harris mean for Cam Skattebo in fantasy?",
-      "pubDate": "2026-08-19T16:30:27Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0819/ss_20260819_102418457_3629001634/ss_20260819_102418457_3629001634.jpg"
     }
   ]
 }
