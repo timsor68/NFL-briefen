@@ -1,29 +1,53 @@
 {
-  "generatedAt": "2026-08-22T21:15:20.375412+00:00",
+  "generatedAt": "2026-08-22T21:38:47.895447+00:00",
   "nfl": [
     {
-      "title": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49694669/game-highlights",
-      "description": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
-      "pubDate": "2026-08-22T21:12:03Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0822/d639989f-14b2-49ff-8fdc-150298c76144/d639989f-14b2-49ff-8fdc-150298c76144.jpg"
+      "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
+      "link": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
+      "description": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
+      "pubDate": "2026-08-22T21:33:02Z",
+      "source": "ESPN NFL · NFL Nation",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0822/r1705413_608x342_16-9.jpg"
+    },
+    {
+      "title": "Report: Steelers will keep both Will Howard, Drew Allar on the 53-player roster",
+      "link": "https://sports.yahoo.com/articles/report-steelers-keep-both-howard-212212713.html",
+      "description": "Mason Rudolph is the second-best quarterback on the Steelers&#39; roster....",
+      "pubDate": "2026-08-22T21:22:12+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Falcons quarterback Michael Penix fully cleared to practice",
       "link": "https://www.espn.com/nfl/story/_/id/49694493/falcons-quarterback-michael-penix-fully-cleared-practice",
       "description": "Falcons quarterback Michael Penix Jr. has been cleared to practice fully, head coach Kevin Stefanski said after Saturday's 34-6 preseason win over the Colts.",
-      "pubDate": "2026-08-22T21:10:00Z",
+      "pubDate": "2026-08-22T21:15:49Z",
       "source": "ESPN NFL · Marc Raimondi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0810/r1700111_600x400_3-2.jpg"
     },
     {
-      "title": "2026 NFL preseason Week 2: Game takeaways, analysis",
-      "link": "https://www.espn.com/nfl/story/_/id/49664649/2026-nfl-preseason-week-2-takeaways-analysis-roster-questions",
-      "description": "NFL Nation reporters tackle the biggest looming roster questions coming off each NFL Week 2 preseason game.",
-      "pubDate": "2026-08-22T21:02:03Z",
-      "source": "ESPN NFL · NFL Nation",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0822/r1705413_608x342_16-9.jpg"
+      "title": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49694669/game-highlights",
+      "description": "Buffalo Bills vs. Cleveland Browns: Game Highlights",
+      "pubDate": "2026-08-22T21:14:27Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0822/d639989f-14b2-49ff-8fdc-150298c76144/d639989f-14b2-49ff-8fdc-150298c76144.jpg"
+    },
+    {
+      "title": "Jayden Daniels explains why preseason cameo vs. Lions was ‘very valuable to me’",
+      "link": "https://sports.yahoo.com/articles/jayden-daniels-explains-why-preseason-211340146.html",
+      "description": "Commanders quarterback Jayden Daniels played just three snaps in a 17-13 preseason loss to the Detroit Lions...",
+      "pubDate": "2026-08-22T21:13:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Michael Penix cleared for all football activities",
+      "link": "https://sports.yahoo.com/articles/michael-penix-cleared-football-activities-210731827.html",
+      "description": "Falcons quarterback Michael Penix has been limited in practice all summer, but that is set to change this week....",
+      "pubDate": "2026-08-22T21:07:31+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Johnny Wilson reverts to Eagles’ injured reserve list",
@@ -78,6 +102,22 @@
       "link": "https://sports.yahoo.com/articles/geno-smith-leads-five-jets-204815008.html",
       "description": "The Jets beat the Pittsburgh Steelers in preseason action Friday night by a score of 17-0. Who were the big Jets winners? Geno Smith: I don’t know that Geno necessarily needed to “...",
       "pubDate": "2026-08-22T20:48:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bears vs Bengals Prediction, Picks & Odds for Tonight&#39;s NFL Preseason Game",
+      "link": "https://sports.yahoo.com/articles/bears-vs-bengals-prediction-picks-181900638.html",
+      "description": "Our Bears vs. Bengals expert prediction, odds and picks are backing Chicago&#39;s backup QB tandem of Tyson Bagent and Case Keenum to win big on the road on Saturday, Aug. 22....",
+      "pubDate": "2026-08-22T20:43:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles vs Patriots Prediction, Picks & Odds for Tonight&#39;s NFL Preseason Game",
+      "link": "https://sports.yahoo.com/articles/eagles-vs-patriots-prediction-picks-231900896.html",
+      "description": "New England&#39;s offensive line depth is taking heavy hits—making the Patriots a tough play in our Saturday, Aug. 22 Eagles vs. Patriots predictions, odds, and NFL best bets....",
+      "pubDate": "2026-08-22T20:39:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -164,7 +204,7 @@
     {
       "title": "Colts depth gets exposed in preseason blowout loss to Falcons",
       "link": "https://sports.yahoo.com/articles/colts-depth-gets-exposed-preseason-200846600.html",
-      "description": "For Indianapolis, the numbers were ugly from virtually every angle. The Colts committed eight penalties, were forced to punt seven times, started 0-for-9 on third down and collecte...",
+      "description": "For Indianapolis, the numbers were ugly from virtually every angle. The Colts were forced to punt seven times, committed eight penalties, started 0-for-9 on third down and collecte...",
       "pubDate": "2026-08-22T20:08:46+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
@@ -360,46 +400,6 @@
       "pubDate": "2026-08-22T18:05:43Z",
       "source": "ESPN NFL · Brooke Pryor",
       "thumbnail": "https://a.espncdn.com/photo/2026/0822/r1705147_600x400_3-2.jpg"
-    },
-    {
-      "title": "Lightning delay derails Bills-Browns early in first quarter",
-      "link": "https://sports.yahoo.com/articles/lightning-delay-derails-bills-browns-180028622.html",
-      "description": "Shedeur Sanders&#39;s opportunity to make a closing argument for the starting job in Cleveland has been delayed....",
-      "pubDate": "2026-08-22T18:00:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Day After The Day After: The Houston Texans’ 22-20 preseason loss to the Las Vegas Raiders",
-      "link": "https://sports.yahoo.com/articles/day-day-houston-texans-22-180000448.html",
-      "description": "2nd preseason Game, 2nd preseason loss, Let’s review…and then forget it...",
-      "pubDate": "2026-08-22T18:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles rookie storylines for Patriots preseason game",
-      "link": "https://sports.yahoo.com/articles/eagles-rookie-storylines-patriots-preseason-175948861.html",
-      "description": "Keeping an eye on Philadelphia’s 2026 NFL Draft picks....",
-      "pubDate": "2026-08-22T17:59:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seahawks put WR Jake Bobo (knee) on injured reserve",
-      "link": "https://sports.yahoo.com/articles/seahawks-put-wr-jake-bobo-175159393.html",
-      "description": "Key Seattle backup is lost for the year....",
-      "pubDate": "2026-08-22T17:51:59+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 22",
-      "link": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-173000045.html",
-      "description": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 22...",
-      "pubDate": "2026-08-22T17:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -806,6 +806,22 @@
   ],
   "insider": [
     {
+      "title": "J.J. McCarthy: End zone misses are throws I have to make",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/j-j-mccarthy-end-zone-misses-are-throws-i-have-to-make",
+      "description": "Vikings quarterback J.J....",
+      "pubDate": "2026-08-22T21:24:04+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Steelers will keep both Will Howard, Drew Allar on the 53-player roster",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-steelers-will-keep-both-will-howard-drew-allar-on-the-53-player-roster",
+      "description": "Mason Rudolph is the second-best quarterback on the Steelers' roster....",
+      "pubDate": "2026-08-22T21:22:12+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Michael Penix cleared for all football activities",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-cleared-for-all-football-activities",
       "description": "Falcons quarterback Michael Penix has been limited in practice all summer, but that is set to change this week....",
@@ -1034,22 +1050,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-chubb-retires-from-the-nfl",
       "description": "Running back Nick Chubb, a four-time Pro Bowler, has announced his retirement....",
       "pubDate": "2026-08-22T01:36:59+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ryan Fitzgerald hits 61-yard FG for Panthers",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ryan-fitzgerald-hits-61-yard-fg-for-panthers",
-      "description": "Panthers starting quarterback Bryce Young played 11 snaps on Friday against the Jaguars....",
-      "pubDate": "2026-08-22T01:32:06+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Josh McDaniels has ideal response as to whether Tom Brady helped Seahawks",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-mcdaniels-has-ideal-response-as-to-whether-tom-brady-helped-seahawks",
-      "description": "Patriots offensive coordinator Josh McDaniels worked in New England for each of the six Super Bowls that Tom Brady won there....",
-      "pubDate": "2026-08-22T00:05:51+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
