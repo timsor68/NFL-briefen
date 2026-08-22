@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-08-22T11:14:50.567927+00:00",
+  "generatedAt": "2026-08-22T11:38:10.819900+00:00",
   "nfl": [
+    {
+      "title": "Former Browns RB Nick Chubb retires; Career stats include joining history",
+      "link": "https://sports.yahoo.com/articles/former-browns-rb-nick-chubb-113106867.html",
+      "description": "One of Cleveland Browns best of all-time, RB Nick Chubb retires and joins history in doing so...",
+      "pubDate": "2026-08-22T11:31:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "How does James Cook follow his rushing title season?",
+      "link": "https://sports.yahoo.com/articles/does-james-cook-rushing-title-112823775.html",
+      "description": "The NFL’s reigning rushing yardage king looks to follow a career year with something just as impressive...",
+      "pubDate": "2026-08-22T11:28:23+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Andrei Iosivas isn’t trying to prove himself anymore",
+      "link": "https://sports.yahoo.com/articles/andrei-iosivas-isn-t-trying-111500844.html",
+      "description": "Fourth-year receiver concentrating on himself...",
+      "pubDate": "2026-08-22T11:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "How to watch Lions vs. Commanders preseason: TV, time, online streaming",
       "link": "https://sports.yahoo.com/articles/watch-lions-vs-commanders-preseason-111020171.html",
       "description": "All the TV, streaming, and radio information you need for Lions vs. Commanders in preseason Week 2....",
       "pubDate": "2026-08-22T11:10:20+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nick Chubb is the fourth RB ever to retire with over 1,000 carries, over 5 yards a carry",
+      "link": "https://sports.yahoo.com/articles/nick-chubb-fourth-rb-ever-110913949.html",
+      "description": "Chubb retired with 7,349 yards on 1,462 carries, an average of 5.03 yards per carry....",
+      "pubDate": "2026-08-22T11:09:13+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -368,41 +400,17 @@
       "pubDate": "2026-08-22T03:29:29Z",
       "source": "ESPN NFL",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401873288.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Running Back Nick Chubb Announces Retirement From The NFL After 8 Seasons",
-      "link": "https://www.foxsports.com/stories/nfl/running-back-nick-chubb-announces-retirement-from-nfl-after-eight-seasons",
-      "description": "Nick Chubb retired from the NFL after eight seasons, he announced via instagram.",
-      "pubDate": "2026-08-22T03:20:31+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/chubb.jpg"
-    },
-    {
-      "title": "Geno Smith assuages Jets training camp concerns with perfect passing night",
-      "link": "https://sports.yahoo.com/articles/geno-smith-assuages-jets-training-031406883.html",
-      "description": "Smith missed last week&#39;s preseason opener with a sore ankle but he looked 100 percent healthy and ready for the regular season in his brief appearance against the Steelers....",
-      "pubDate": "2026-08-22T03:14:06+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Takeaways from the Jets’ preseason win over the Steelers",
-      "link": "https://sports.yahoo.com/articles/takeaways-jets-preseason-win-over-030605542.html",
-      "description": "Three takeaways from the Jets’ 17-0 preseason win over the Steelers on Friday night in Pittsburgh....",
-      "pubDate": "2026-08-22T03:06:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bo Nix shines in Broncos preseason return: Instant analysis, grades",
-      "link": "https://sports.yahoo.com/articles/bo-nix-shines-broncos-preseason-030440261.html",
-      "description": "Bo Nix was back in the Broncos lineup for the first time since suffering a fractured ankle in the playoffs. Here&#39;s a breakdown of how he played....",
-      "pubDate": "2026-08-22T03:04:40+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "2026-27 preseason College Football Playoff, bowl projections",
+      "link": "https://www.espn.com/college-football/story/_/id/49661442/2026-27-preseason-college-football-playoff-cfp-bowl-projections",
+      "description": "College football is still a week away, but it's never too soon to look ahead to bowl season.",
+      "pubDate": "2026-08-22T11:25:42Z",
+      "source": "ESPN College Football · Kyle Bonagura and Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0821/r1704813_608x342_16-9.jpg"
+    },
     {
       "title": "Former FSU QB Tommy Castellanos enters transfer portal",
       "link": "https://www.espn.com/college-football/story/_/id/49685143/former-florida-state-qb-tommy-castellanos-enters-transfer-portal",
@@ -794,14 +802,6 @@
       "pubDate": "2026-08-18T23:40:38Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0818/dm_260818_SEC_NCF_Feature_non_con_mcgee_essay_feature_260818/dm_260818_SEC_NCF_Feature_non_con_mcgee_essay_feature_260818.jpg"
-    },
-    {
-      "title": "2026 College Football Odds: Can Indiana Repeat As Big Ten Champions?",
-      "link": "https://www.foxsports.com/stories/college-football/2026-college-football-odds-who-will-crowned-big-ten-champion",
-      "description": "Take a look at the 2026 Big Ten Championship odds as Ohio State, Indiana and Oregon headline the loaded title race.",
-      "pubDate": "2026-08-18T23:35:16+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/05/gettyimages-2250452213-scaled.jpg"
     }
   ],
   "insider": [
