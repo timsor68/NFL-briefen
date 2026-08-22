@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-22T07:48:25.744604+00:00",
+  "generatedAt": "2026-08-22T08:20:47.084420+00:00",
   "nfl": [
+    {
+      "title": "Riley Moss left Week 2 preseason game with rib injury",
+      "link": "https://sports.yahoo.com/articles/riley-moss-left-week-2-080401208.html",
+      "description": "The best outcome of any preseason game is to emerge with as few injuries as possible....",
+      "pubDate": "2026-08-22T08:04:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Three reasons why the Jaguars lost to the Panthers",
+      "link": "https://sports.yahoo.com/articles/three-reasons-why-jaguars-lost-080108872.html",
+      "description": "Three takeaways from the Jaguars’ 34-17 loss to the Panthers...",
+      "pubDate": "2026-08-22T08:01:08+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Broncos coach Sean Payton on preseason performance vs. Packers: &quot;That wasn&#39;t good enough&quot;",
+      "link": "https://sports.yahoo.com/articles/broncos-coach-sean-payton-preseason-074032703.html",
+      "description": "The Broncos had a rough outing in their preseason home opener against the Packers....",
+      "pubDate": "2026-08-22T07:40:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Matt LaFleur feels great about rookie kicker Trey Smack",
+      "link": "https://sports.yahoo.com/articles/matt-lafleur-feels-great-rookie-073836334.html",
+      "description": "The Packers drafted kicker Trey Smack in the sixth round this year, then cut veterans Brandon McManus and Lucas Havrisik to leave Smack as the only kicker on the roster....",
+      "pubDate": "2026-08-22T07:38:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Packers Depth Chart: Who played for Green Bay’s 1s and 2s vs. the Broncos?",
       "link": "https://sports.yahoo.com/articles/packers-depth-chart-played-green-065759178.html",
@@ -366,38 +398,6 @@
       "link": "https://sports.yahoo.com/articles/ryan-fitzpatrick-tom-hanks-top-005907249.html",
       "description": "Former NFL quarterback Ryan Fitzpatrick was thrilled to be acknowledged by acting titan Tom Hanks, until he was unsure if there was a joke or not....",
       "pubDate": "2026-08-22T00:59:07+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears fans can’t get enough of Jordan van den Berg",
-      "link": "https://sports.yahoo.com/articles/bears-fans-t-enough-jordan-005500388.html",
-      "description": "Two weeks in a row, Bears fans have picked Jordan van den Berg as the player they are most excited about seeing in the preseason game....",
-      "pubDate": "2026-08-22T00:55:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Texans star reveals Myles Garrett advice that young Rams stars need to take advantage of",
-      "link": "https://sports.yahoo.com/articles/texans-star-reveals-myles-garrett-004905506.html",
-      "description": "The Los Angeles Rams&#39; young defensive stars need to take advantage of their natural resources; just ask Houston Texans star edge rusher Will Anderson Jr....",
-      "pubDate": "2026-08-22T00:49:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Will Howard throws 2 preseason picks in first half as interception-starved Jets shut out Steelers",
-      "link": "https://sports.yahoo.com/nfl/article/will-howard-throws-2-preseason-picks-in-first-half-as-interception-starved-jets-shut-out-steelers-003958801.html",
-      "description": "In 2025, New York became the first team in NFL history to go a full season without an interception....",
-      "pubDate": "2026-08-22T00:39:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Saints Reacts Results: Which player impressed you the most against the Jaguars?",
-      "link": "https://sports.yahoo.com/articles/saints-reacts-results-player-impressed-002350820.html",
-      "description": "In a close vote, 35% of Saints fans said…...",
-      "pubDate": "2026-08-22T00:23:50+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Riley Moss left Week 2 preseason game with rib injury",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/riley-moss-left-week-2-preseason-game-with-rib-injury",
+      "description": "The best outcome of any preseason game is to emerge with as few injuries as possible....",
+      "pubDate": "2026-08-22T08:04:01+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Broncos coach Sean Payton on preseason performance vs. Packers: \"That wasn't good enough\"",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-coach-sean-payton-on-preseason-performance-vs-packers-that-wasnt-good-enough",
       "description": "The Broncos had a rough outing in their preseason home opener against the Packers....",
@@ -1042,14 +1050,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashod-bateman-ronnie-stanley-say-new-ravens-coaching-staff-values-details-more-than-previous-one",
       "description": "The Ravens are nearing the end of their first offseason under head coach Jesse Minter and a pair of the team's veterans have identified areas they believe have improved since John ...",
       "pubDate": "2026-08-21T16:42:41+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "FIFA hands out multiple suspensions to Argentina for World Cup Final post-game fracas",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/fifa-hands-out-multiple-suspensions-to-argentina-for-world-cup-final-post-game-fracas",
-      "description": "The 2026 World Cup Final, played at MetLife Stadium, ended with a fight between members of the two teams involved....",
-      "pubDate": "2026-08-21T16:42:21+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
