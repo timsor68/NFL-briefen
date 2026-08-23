@@ -1,13 +1,37 @@
 {
-  "generatedAt": "2026-08-23T21:15:25.230013+00:00",
+  "generatedAt": "2026-08-23T21:38:15.233872+00:00",
   "nfl": [
+    {
+      "title": "Agents: Dae'Quan Wright to be waived by Browns, set to join LSU",
+      "link": "https://www.espn.com/college-football/story/_/id/49705433/agents-daequan-wright-waived-browns-set-join-lsu",
+      "description": "The Browns are waiving tight end Dae'Quan Wright, who has an agreement in place for the 2026 season to play for LSU if he clears waivers, agents Drew Rosenhaus and Kyle Lincoln told ESPN's Adam Schefter.",
+      "pubDate": "2026-08-23T21:35:25Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0823/r1705953_1296x729_16-9.jpg"
+    },
     {
       "title": "Browns' Monken: Watson's comments not a factor in QB decision",
       "link": "https://www.espn.com/nfl/story/_/id/49705127/browns-monken-watson-comments-not-factor-qb-decision",
-      "description": "Browns coach Todd Monken said he anticipates naming a starting quarterback Monday but that Deshaun Watson's postgame comments Saturday won't factor into his decision.",
-      "pubDate": "2026-08-23T21:12:22Z",
+      "description": "Browns coach Todd Monken said that he anticipates naming a starting quarterback Monday and that Deshaun Watson's postgame comments Saturday won't factor into his decision.",
+      "pubDate": "2026-08-23T21:29:27Z",
       "source": "ESPN NFL · Daniel Oyefusi",
       "thumbnail": "https://a.espncdn.com/photo/2026/0823/r1705605_600x400_3-2.jpg"
+    },
+    {
+      "title": "NFL tight end to join LSU to play college football if he clears waivers",
+      "link": "https://sports.yahoo.com/articles/nfl-tight-end-join-lsu-212839331.html",
+      "description": "Dae&#39;Quan Wright, who signed NFL training camp deals with the Saints and Browns, is set to join LSU if he clears waivers....",
+      "pubDate": "2026-08-23T21:28:39+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Browns Waive TE Dae’Quan Wright, Paving Way For Him To Play At LSU In Historical Move",
+      "link": "https://www.foxsports.com/stories/nfl/browns-waive-te-daequan-wright-paving-way-him-play-lsu-historical-move",
+      "description": "Tight end Dae’Quan Wright is set to make history in an unusual way.",
+      "pubDate": "2026-08-23T21:25:47+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/daequan-wright.jpg"
     },
     {
       "title": "NFL preseason Week 2: A look at who&#39;s playing as Seahawks, Titans juggle resting starters",
@@ -374,30 +398,6 @@
       "link": "https://sports.yahoo.com/articles/buccaneers-preseason-week-2-winners-162436703.html",
       "description": "Another week, more mostly good than bad for the Buccaneers!...",
       "pubDate": "2026-08-23T16:24:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lions DT Skyler Gill-Howard is clicking but still not happy with 1 part of his game",
-      "link": "https://sports.yahoo.com/articles/lions-dt-skyler-gill-howard-160002973.html",
-      "description": "Detroit Lions rookie DT Skyler Gill-Howard is making a huge impact, but he’s not happy with his progress in one area....",
-      "pubDate": "2026-08-23T16:00:02+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Washington Commanders Whiteboard: Notes and observations from preseason Week 2",
-      "link": "https://sports.yahoo.com/articles/washington-commanders-whiteboard-notes-observations-160000875.html",
-      "description": "Preseason Week 2 notes on Julian Good-Jones and the offense, Ricky Barber, Will Harris, and Daronte Jones&#39; defense...",
-      "pubDate": "2026-08-23T16:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Preseason Week 2 notes for Chiefs’ offense, defense and special teams",
-      "link": "https://sports.yahoo.com/articles/preseason-week-2-notes-chiefs-160000260.html",
-      "description": "One thought about each phase of Kansas City’s team after the second preseason game....",
-      "pubDate": "2026-08-23T16:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Agents: Dae'Quan Wright to be waived by Browns, set to join LSU",
+      "link": "https://www.espn.com/college-football/story/_/id/49705433/agents-daequan-wright-waived-browns-set-join-lsu",
+      "description": "The Browns are waiving tight end Dae'Quan Wright, who has an agreement in place for the 2026 season to play for LSU if he clears waivers, agents Drew Rosenhaus and Kyle Lincoln told ESPN's Adam Schefter.",
+      "pubDate": "2026-08-23T21:35:25Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0823/r1705953_1296x729_16-9.jpg"
+    },
+    {
       "title": "Browns will waive Dae’Quan Wright, who has agreed to play for LSU",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-will-waive-daequan-wright-who-has-agreed-to-play-for-lsu",
       "description": "Browns tight end Dae’Quan Wright is poised to do something that once would have been unthinkable: Leave the NFL and go play in the NCAA....",
@@ -1092,14 +1100,6 @@
       "pubDate": "2026-08-20T02:52:45+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/vita-vea.jpg"
-    },
-    {
-      "title": "Vita Vea, Buccaneers Reportedly Agree On 1-Year, $30 Million Extension",
-      "link": "https://www.foxsports.com/stories/nfl/vita-vea-buccaneers-reportedly-agree-1-year-30-million-extension",
-      "description": "Tampa Bay Buccaneers DT Vita Vea agreed to a one-year, $30 million fully guaranteed extension that keeps him locked up through the 2027 season.",
-      "pubDate": "2026-08-19T23:28:24+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/bucs1.jpg"
     }
   ]
 }
