@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-08-23T10:16:53.835606+00:00",
+  "generatedAt": "2026-08-23T10:44:06.633014+00:00",
   "nfl": [
+    {
+      "title": "Bengals News: Josh Johnson makes his case to stick with Cincinnati",
+      "link": "https://sports.yahoo.com/articles/bengals-news-josh-johnson-makes-103200456.html",
+      "description": "The journeyman quarterback had an electric night against the Bears on Saturday....",
+      "pubDate": "2026-08-23T10:32:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cleveland Browns news: Did the Browns look like they belonged?",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-did-browns-103000777.html",
+      "description": "The latest Cleveland Browns news and notes from around the NFL in the August 23 edition of the Sunday Dawg Chow....",
+      "pubDate": "2026-08-23T10:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "What channel is Titans vs. Seahawks game tonight? Start time, schedule, streaming",
+      "link": "https://sports.yahoo.com/articles/channel-titans-vs-seahawks-game-102034528.html",
+      "description": "NFL preseason action continues with Sunday night&#39;s game between the Seahawks and Titans at Nissan Stadium. Here&#39;s where to watch the NFL game today....",
+      "pubDate": "2026-08-23T10:20:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Milton throws 2 TDs in 1st half, makes case for Cowboys' backup job in 34-13 win over Cardinals",
+      "link": "http://www.espn.com/nfl/recap?gameId=401874101",
+      "description": "— Joe Milton had another good day in his quest to become the Dallas Cowboys' backup quarterback. Coach Brian Schottenheimer says there's still work to be done.",
+      "pubDate": "2026-08-23T10:18:32Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401874101.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "NFL preseason winners, losers: Deshaun Watson remains a tone-deaf has-been | Opinion",
+      "link": "https://sports.yahoo.com/articles/nfl-preseason-winners-losers-deshaun-101538797.html",
+      "description": "The Cleveland quarterback probably lost team&#39;s starting QB competition on the field Saturday. He was worse at the podium afterward....",
+      "pubDate": "2026-08-23T10:15:38+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "What was the most promising part of the Lions’ win over the Commanders?",
       "link": "https://sports.yahoo.com/articles/most-promising-part-lions-win-101114635.html",
@@ -96,14 +136,6 @@
       "pubDate": "2026-08-23T06:22:21Z",
       "source": "ESPN NFL",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0823/dm_260823_Browns_QB_Comp_IA/dm_260823_Browns_QB_Comp_IA.jpg"
-    },
-    {
-      "title": "Milton throws 2 TDs in 1st half, makes case for Cowboys' backup job in 34-13 win over Cardinals",
-      "link": "http://www.espn.com/nfl/recap?gameId=401874101",
-      "description": "— Joe Milton had another good day in his quest to become the Dallas Cowboys' backup quarterback. Coach Brian Schottenheimer says there's still work to be done.",
-      "pubDate": "2026-08-23T05:52:29Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401874101.png?templateId=espn.applewatch.awayhome.1"
     },
     {
       "title": "Odell Beckham Jr. came oh-so-close to proving to Giants, fans he still has it",
@@ -366,38 +398,6 @@
       "link": "https://sports.yahoo.com/articles/eagles-patriots-preseason-observations-notes-021613186.html",
       "description": "The Birds are 0-2 in meaningless summer games....",
       "pubDate": "2026-08-23T02:16:13+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears can’t get the offense going; drop preseason game 2 to the Bengals",
-      "link": "https://sports.yahoo.com/articles/bears-t-offense-going-drop-021401636.html",
-      "description": "The Chicago Bears don’t do much in Cincinnati as the Bengals coast to victory. @wiltfongjr has the details here....",
-      "pubDate": "2026-08-23T02:14:01+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots vs. Eagles recap: Nick DeGennaro game-winning touchdown seals 24-21 victory",
-      "link": "https://sports.yahoo.com/articles/patriots-vs-eagles-live-updates-223702050.html",
-      "description": "The Patriots will play their preseason game of the summer on Saturday night....",
-      "pubDate": "2026-08-23T02:13:43+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Four down territory: Takeaways from Rams blowout win over Saints",
-      "link": "https://sports.yahoo.com/articles/four-down-territory-takeaways-rams-021246616.html",
-      "description": "Sean McVay has to decide whether Stetson Bennett or Ty Simpson should be the backup...",
-      "pubDate": "2026-08-23T02:12:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Surprising name emerges in Rams receiver competition",
-      "link": "https://sports.yahoo.com/articles/surprising-name-emerges-rams-receiver-021054242.html",
-      "description": "Alex Bachman’s return to the Rams was something you had to see to believe...",
-      "pubDate": "2026-08-23T02:10:54+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "It's time for the Browns and Deshaun Watson to go their separate ways",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/its-time-for-the-browns-and-deshaun-watson-to-go-their-separate-ways",
+      "description": "After Saturday's game and press conference, it's impossible for the Browns to play Watson again....",
+      "pubDate": "2026-08-23T10:26:14+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Stetson Bennett IV seems to be ready to serve as Matthew Stafford's understudy",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stetson-bennett-iv-seems-to-be-ready-to-serve-as-matthew-staffords-understudy",
       "description": "Two years ago, with Rams backup quarterback Jimmy Garoppolo due to miss the first two games of the regular season because of a PED suspension, the Rams weren't sure Stetson Bennett...",
@@ -1042,14 +1050,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lightning-delay-derails-bills-browns-early-in-first-quarter",
       "description": "Shedeur Sanders's opportunity to make a closing argument for the starting job in Cleveland has been delayed....",
       "pubDate": "2026-08-22T18:00:28+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seahawks put WR Jake Bobo (knee) on injured reserve",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-put-wr-jake-bobo-knee-on-injured-reserve",
-      "description": "Key Seattle backup is lost for the year....",
-      "pubDate": "2026-08-22T17:51:59+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
