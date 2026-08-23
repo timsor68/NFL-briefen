@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-23T17:39:11.108528+00:00",
+  "generatedAt": "2026-08-23T17:54:32.116883+00:00",
   "nfl": [
+    {
+      "title": "Browns lose DE Wright (Achilles) for season, add DE Barnett",
+      "link": "https://www.espn.com/nfl/story/_/id/49702666/sources-browns-lose-de-wright-achilles-season-add-barnett",
+      "description": "The Browns placed starting defensive end Alex Wright on season-ending injured reserve with a ruptured Achilles and signed veteran defensive end Derek Barnett.",
+      "pubDate": "2026-08-23T17:51:42Z",
+      "source": "ESPN NFL · Daniel Oyefusi",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0823/r1705789_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Georgie Kittle has been activated from the Active/PUP list; Christian McCaffrey returns",
+      "link": "https://sports.yahoo.com/articles/georgie-kittle-activated-active-pup-171751105.html",
+      "description": "It’s still no guarantee that Kittle plays in Week 1, but this is a sign that we’ll see him in September...",
+      "pubDate": "2026-08-23T17:41:13+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Vrabel is protecting key starters in preseason due to depth concerns",
+      "link": "https://sports.yahoo.com/articles/mike-vrabel-protecting-key-starters-173541280.html",
+      "description": "Patriots coach Mike Vrabel has kept quarterback Drake Maye and other key starters out of the first two preseason games....",
+      "pubDate": "2026-08-23T17:35:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Chargers place Tyler Biadasz on season-ending injured reserve",
       "link": "https://www.espn.com/nfl/story/_/id/49702892/chargers-place-tyler-biadasz-season-ending-injured-reserve",
@@ -8,14 +32,6 @@
       "pubDate": "2026-08-23T17:35:19Z",
       "source": "ESPN NFL · Kris Rhim",
       "thumbnail": "https://a.espncdn.com/photo/2017/0824/r248445_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Browns lose DE Wright (Achilles) for season, add DE Barnett",
-      "link": "https://www.espn.com/nfl/story/_/id/49702666/sources-browns-lose-de-wright-achilles-season-add-barnett",
-      "description": "The Browns placed starting defensive end Alex Wright on season-ending injured reserve with a ruptured Achilles and signed veteran defensive end Derek Barnett.",
-      "pubDate": "2026-08-23T17:32:48Z",
-      "source": "ESPN NFL · Daniel Oyefusi",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0823/r1705789_1296x729_16-9.jpg"
     },
     {
       "title": "49ers activate star TE George Kittle from PUP list",
@@ -30,14 +46,6 @@
       "link": "https://sports.yahoo.com/articles/49ers-activate-george-kittle-pup-172308035.html",
       "description": "Kittle, who suffered a torn Achilles tendon in January, is now eligible to practice and may be ready to play in Week One....",
       "pubDate": "2026-08-23T17:23:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Georgie Kittle has been activated from the Active/PUP list",
-      "link": "https://sports.yahoo.com/articles/georgie-kittle-activated-active-pup-171751105.html",
-      "description": "It’s still no guarantee that Kittle plays in Week 1, but this is a sign that we’ll see him in September...",
-      "pubDate": "2026-08-23T17:17:51+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -389,14 +397,6 @@
       "title": "Beaks & Geeks: Cardinals lose big to Cowboys",
       "link": "https://sports.yahoo.com/articles/beaks-geeks-cardinals-lose-big-120000484.html",
       "description": "Few starters played...",
-      "pubDate": "2026-08-23T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Breaking down Riley Leonard’s performance vs the Falcons",
-      "link": "https://sports.yahoo.com/articles/breaking-down-riley-leonard-performance-120000562.html",
-      "description": "Riley Leonard showed enough positive signs against Atlanta to keep the Colts’ QB2 battle alive....",
       "pubDate": "2026-08-23T12:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
@@ -806,6 +806,14 @@
   ],
   "insider": [
     {
+      "title": "Mike Vrabel is protecting key starters in preseason due to depth concerns",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-is-protecting-key-starters-in-preseason-due-to-depth-concerns",
+      "description": "Patriots coach Mike Vrabel has kept quarterback Drake Maye and other key starters out of the first two preseason games....",
+      "pubDate": "2026-08-23T17:35:41+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Chargers place Tyler Biadasz on season-ending injured reserve",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-place-tyler-biadasz-on-season-ending-injured-reserve",
       "description": "Chargers center Tyler Biadasz will not play at all this season....",
@@ -1034,14 +1042,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-rookie-wr-makai-lemon-remains-out-tonight",
       "description": "Rookie wide receiver Makai Lemon is among the Eagles players not suited up for tonight's preseason game against the Patriots, Jeff McLane of the Philadelphia Inquirer reports....",
       "pubDate": "2026-08-22T22:55:21+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins claim CB Jai'Onte' McMillan",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-claim-cb-jaionte-mcmillan",
-      "description": "The Dolphins went to the waiver wire to add a cornerback on Saturday....",
-      "pubDate": "2026-08-22T21:53:06+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
