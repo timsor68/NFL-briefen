@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-24T22:18:37.908555+00:00",
+  "generatedAt": "2026-08-24T22:47:50.375461+00:00",
   "nfl": [
+    {
+      "title": "49ers sign DE Viliami Fehoko",
+      "link": "https://sports.yahoo.com/articles/49ers-sign-viliami-fehoko-223357282.html",
+      "description": "The 49ers added pass rush help on Monday, signing defensive end Viliami Fehoko, according to the NFL&#39;s transaction wire....",
+      "pubDate": "2026-08-24T22:33:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
+      "description": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-24T22:32:01Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696113_608x342_16-9.jpg"
+    },
     {
       "title": "LSU's Lane Kiffin defends pursuit of NFL players returning to college",
       "link": "https://www.espn.com/college-football/story/_/id/49715699/lsu-lane-kiffin-defends-pursuit-nfl-players-returning-college",
       "description": "LSU's Lane Kiffin defended his decision to pursue NFL rookies seeking a fifth year of playing college football, saying he's just one of many coaches trying to do so.",
-      "pubDate": "2026-08-24T22:15:11Z",
+      "pubDate": "2026-08-24T22:26:18Z",
       "source": "ESPN NFL · Max Olson",
       "thumbnail": "https://a.espncdn.com/photo/2026/0810/r1699949_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Eagles sign two free agents",
+      "link": "https://sports.yahoo.com/articles/eagles-sign-two-free-agents-222100115.html",
+      "description": "The Philadelphia Eagles made four roster moves on Monday, according to the NFL’s official personnel notice. Here’s an overview: Let’s sort through this news on a player-by-player b...",
+      "pubDate": "2026-08-24T22:21:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions put RB Raheem Blackshear, WR Cedrick Wilson on injured reserve",
+      "link": "https://sports.yahoo.com/articles/lions-put-rb-raheem-blackshear-221657217.html",
+      "description": "The Lions placed a couple of veterans on injured reserve Monday....",
+      "pubDate": "2026-08-24T22:16:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "49ers add a local product on defense; release TE Josiah Deguara",
@@ -56,14 +88,6 @@
       "pubDate": "2026-08-24T21:45:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-24T21:38:00Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696113_608x342_16-9.jpg"
     },
     {
       "title": "Daniel Faalele trade could just be the beginning for the Giants",
@@ -376,30 +400,6 @@
       "pubDate": "2026-08-24T20:19:37+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Jeremiyah Love will remain out of practice this week",
-      "link": "https://sports.yahoo.com/articles/jeremiyah-love-remain-practice-week-201719723.html",
-      "description": "At least one J....",
-      "pubDate": "2026-08-24T20:17:19+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football buzz: Does Monday's trade improve Kayshon Boutte's outlook?",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "description": "What does Monday's trade mean for Kayshon Boutte's fantasy potential as he joins the Houston Texans?",
-      "pubDate": "2026-08-24T20:15:33Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0824/r1706422_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Eagles release S J.T. Gray, waive RB Ja&#39;Quinden Jackson",
-      "link": "https://sports.yahoo.com/articles/eagles-release-j-t-gray-201004825.html",
-      "description": "The Eagles dropped a pair of players from their 90-man roster on Monday....",
-      "pubDate": "2026-08-24T20:10:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
@@ -407,7 +407,7 @@
       "title": "LSU's Lane Kiffin defends pursuit of NFL players returning to college",
       "link": "https://www.espn.com/college-football/story/_/id/49715699/lsu-lane-kiffin-defends-pursuit-nfl-players-returning-college",
       "description": "LSU's Lane Kiffin defended his decision to pursue NFL rookies seeking a fifth year of playing college football, saying he's just one of many coaches trying to do so.",
-      "pubDate": "2026-08-24T22:15:11Z",
+      "pubDate": "2026-08-24T22:26:18Z",
       "source": "ESPN College Football · Max Olson",
       "thumbnail": "https://a.espncdn.com/photo/2026/0810/r1699949_1296x729_16-9.jpg"
     },
@@ -806,6 +806,30 @@
   ],
   "insider": [
     {
+      "title": "49ers sign DE Viliami Fehoko",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-sign-de-viliami-fehoko",
+      "description": "The 49ers added pass rush help on Monday, signing defensive end Viliami Fehoko, according to the NFL's transaction wire....",
+      "pubDate": "2026-08-24T22:33:57+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
+      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
+      "description": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
+      "pubDate": "2026-08-24T22:32:01Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696113_608x342_16-9.jpg"
+    },
+    {
+      "title": "Texans DE Dylan Horton tore his Achilles at Monday's practice",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-de-dylan-horton-tore-his-achilles-at-mondays-practice",
+      "description": "Texans defensive end Dylan Horton is likely to miss the entire 2026 season after an injury at Monday's practice....",
+      "pubDate": "2026-08-24T22:26:10+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Lions put RB Raheem Blackshear, WR Cedrick Wilson on injured reserve",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-put-rb-raheem-blackshear-wr-cedrick-wilson-on-injured-reserve",
       "description": "The Lions placed a couple of veterans on injured reserve Monday....",
@@ -828,14 +852,6 @@
       "pubDate": "2026-08-24T21:50:47+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 Green Bay Packers training camp: Latest intel, updates",
-      "link": "https://www.espn.com/nfl/story/_/id/49376941/green-bay-packers-training-camp-2026-intel-updates",
-      "description": "Catch up on our daily updates from Packers training camp, including intel on QBs, position battles and potential breakouts.",
-      "pubDate": "2026-08-24T21:38:00Z",
-      "source": "ESPN NFL · Rob Demovsky",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0731/r1696113_608x342_16-9.jpg"
     },
     {
       "title": "NFL adds Tony Boselli to competition committee",
@@ -1122,22 +1138,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-releasing-ol-cody-ford",
       "description": "The Bengals are moving on from a veteran offensive lineman....",
       "pubDate": "2026-08-24T17:20:30+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Report: Jed York allegedly arranged to pay $140 for sex at a trailer park",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-jed-york-allegedly-arranged-to-pay-140-for-sex-at-a-trailer-park",
-      "description": "More details are emerging regarding 49ers owner Jed York's Sunday arrest and, within a day, no-contest plea in Ohio....",
-      "pubDate": "2026-08-24T17:17:55+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams sign Steven Gilmore and Devean Deal, Justin Dedich passes physical",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-sign-steven-gilmore-and-devean-deal-justin-dedich-passes-physical",
-      "description": "The Rams have made a few roster moves on Monday....",
-      "pubDate": "2026-08-24T17:08:29+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
