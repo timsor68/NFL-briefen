@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-25T11:21:07.335264+00:00",
+  "generatedAt": "2026-08-25T11:58:43.264886+00:00",
   "nfl": [
+    {
+      "title": "Study shows at least 25% of NFL players could develop CTE",
+      "link": "https://www.espn.com/nfl/story/_/id/49721156/study-shows-least-25-nfl-players-develop-cte",
+      "description": "A new study published Tuesday by the British Medical Journal showed that at least 25% of NFL players who died between 2016 and 2021 had CTE.",
+      "pubDate": "2026-08-25T11:54:49Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2014/0625/nfl_g_nfl-shield01jr_600x400.jpg"
+    },
+    {
+      "title": "Commanders to sign LB Boogie Basham",
+      "link": "https://sports.yahoo.com/articles/commanders-sign-lb-boogie-basham-113425664.html",
+      "description": "The Commanders are adding a veteran edge rusher to their roster....",
+      "pubDate": "2026-08-25T11:34:25+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Washington Commanders News: Sights and Sounds from Training Camp Day 16",
+      "link": "https://sports.yahoo.com/articles/washington-commanders-news-sights-sounds-113000420.html",
+      "description": "The Commanders are back on the practice fields of Ashburn, VA for training camp!...",
+      "pubDate": "2026-08-25T11:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles News: Makai Lemon talks about being “more professional off the field”",
+      "link": "https://sports.yahoo.com/articles/eagles-news-makai-lemon-talks-112606935.html",
+      "description": "Philadelphia Eagles news and links for 8/25/26....",
+      "pubDate": "2026-08-25T11:26:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "2026 Season Opener Countdown: 19 Days Remaining",
       "link": "https://sports.yahoo.com/articles/2026-season-opener-countdown-19-110000947.html",
@@ -112,14 +144,6 @@
       "pubDate": "2026-08-25T10:32:05+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Predicting NFL teams most likely to improve in 2026 season",
-      "link": "https://www.espn.com/nfl/story/_/id/49671327/2026-nfl-season-predict-teams-improve-more-wins-chiefs-lions-giants-jets-ravens",
-      "description": "Can the Giants and Jets improve on their awful 2025 records? Will the Chiefs, Lions and Ravens all make it back to the playoffs?",
-      "pubDate": "2026-08-25T10:31:15Z",
-      "source": "ESPN NFL · Bill Barnwell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0820/nfl_teams-most-likely-improve_16x9.jpg"
     },
     {
       "title": "Chiefs News: Chiefs lead ESPN’s list of teams most likely to improve",
@@ -376,33 +400,17 @@
       "pubDate": "2026-08-25T02:14:31Z",
       "source": "ESPN NFL · Mike Kaye",
       "thumbnail": "https://a.espncdn.com/photo/2026/0824/r1706369_608x342_16-9.jpg"
-    },
-    {
-      "title": "Which Chicago Bears bubble player do you think will make the roster?",
-      "link": "https://sports.yahoo.com/articles/chicago-bears-bubble-player-think-021324601.html",
-      "description": "The Bears pretty much know who’ll make the 53-man roster, but is there a bubble player you’re really rooting for?...",
-      "pubDate": "2026-08-25T02:13:24+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "One more Seahawks 53-man roster projection entering preseason finale",
-      "link": "https://sports.yahoo.com/articles/one-more-seahawks-53-man-020354648.html",
-      "description": "The projection changes following several Seahawks injuries against the Tennessee Titans....",
-      "pubDate": "2026-08-25T02:03:54+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Stetson Bennett’s performance against Saints was overhyped",
-      "link": "https://sports.yahoo.com/articles/stetson-bennett-performance-against-saints-014621436.html",
-      "description": "The box score can lie: Stetson Bennett isn’t ready to backup Matthew Stafford...",
-      "pubDate": "2026-08-25T01:46:21+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "How Ryan Day has survived and succeeded in a decade at Ohio State",
+      "link": "https://www.espn.com/college-football/story/_/id/49681915/college-football-2026-ryan-day-10-years-ohio-state-buckeyes",
+      "description": "Ryan Day is entering his 10th year in Columbus. From OC to trouble with Michigan, calls for his job and an ultimate breakthrough, he has seen it all.",
+      "pubDate": "2026-08-25T10:42:18Z",
+      "source": "ESPN College Football · Adam Rittenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0821/r1704904_608x342_16-9.jpg"
+    },
     {
       "title": "LSU's Lane Kiffin defends pursuit of NFL players returning to college",
       "link": "https://www.espn.com/college-football/story/_/id/49715699/lsu-lane-kiffin-defends-pursuit-nfl-players-returning-college",
@@ -794,17 +802,25 @@
       "pubDate": "2026-08-21T16:32:36+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/indianah1.jpg"
-    },
-    {
-      "title": "Kansas State LT John Pastore out for 2026 with leg injury",
-      "link": "https://www.espn.com/college-football/story/_/id/49681963/kansas-state-lt-john-pastore-2026-leg-injury",
-      "description": "Kansas State left tackle John Pastore, who earned second-team All-Big 12 honors last season, will not play in 2026 after suffering a lower leg injury during preseason camp.",
-      "pubDate": "2026-08-21T15:52:54Z",
-      "source": "ESPN College Football · Max Olson",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1106/r1571841_1296x729_16-9.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "Cowboys backup QB competition \"neck and neck\" heading into preseason finale",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-backup-qb-competition-neck-and-neck-heading-into-preseason-finale",
+      "description": "The Cowboys aren't ready to settle on a backup quarterback yet....",
+      "pubDate": "2026-08-25T11:48:51+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Commanders to sign LB Boogie Basham",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-sign-lb-boogie-basham",
+      "description": "The Commanders are adding a veteran edge rusher to their roster....",
+      "pubDate": "2026-08-25T11:34:25+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "New study finds at least 24.5 percent of NFL players who died from 2016 to 2021 had CTE",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-study-finds-at-least-24-5-percent-of-nfl-players-who-died-from-2016-to-2021-had-cte",
@@ -1122,22 +1138,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-release-s-j-t-gray-waive-rb-jaquinden-jackson",
       "description": "The Eagles dropped a pair of players from their 90-man roster on Monday....",
       "pubDate": "2026-08-24T20:10:04+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Makai Lemon: \"For sure\" I'll be up to speed for Week 1",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/makai-lemon-for-sure-ill-be-up-to-speed-for-week-1",
-      "description": "Eagles wide receiver Makai Lemon returned to practice last week after an extended absence due to a hamstring injury and the rookie is confident that he'll have enough practice time...",
-      "pubDate": "2026-08-24T20:05:04+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys sign TE Mitch Van Vooren",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-sign-te-mitch-van-vooren",
-      "description": "The Cowboys needed a tight end for depth purposes with injuries to Michael Trigg and D.J....",
-      "pubDate": "2026-08-24T20:02:30+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
