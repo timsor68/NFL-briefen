@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-08-25T09:28:35.475885+00:00",
+  "generatedAt": "2026-08-25T10:03:46.796105+00:00",
   "nfl": [
+    {
+      "title": "How Jesse Minter has motivated Lamar Jackson, Ravens to 'Be The Best'",
+      "link": "https://www.espn.com/nfl/story/_/id/49712761/how-jesse-minter-motivated-lamar-jackson-ravens-best",
+      "description": "Competitive drive. Player connection. Cool demeanor. All these are why the Ravens believe the 43-year-old can elevate Baltimore to a championship level.",
+      "pubDate": "2026-08-25T10:00:11Z",
+      "source": "ESPN NFL · Jamison Hensley",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0812/r1700790_2500x1667cc.jpg"
+    },
+    {
+      "title": "Broncos QB Bo Nix hopes slowing down leads to improvement",
+      "link": "https://www.espn.com/nfl/story/_/id/49682968/denver-broncos-quarterback-bo-nix-year-3-improvement-slow-dropbacks-progressions",
+      "description": "Nix's mobility and sack avoidance have led to success, but the Broncos think slowing him down and getting his footwork right could produce more big plays.",
+      "pubDate": "2026-08-25T10:00:07Z",
+      "source": "ESPN NFL · Jeff Legwold",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0821/r1704948_608x342_16-9.jpg"
+    },
+    {
+      "title": "Did Aaron Glenn, Geno Smith change? 10 notes from Jets camp",
+      "link": "https://www.espn.com/nfl/story/_/id/49712241/nfl-new-york-jets-aaron-glenn-geno-smith-david-bailey",
+      "description": "As New York heads toward the regular season, we look back at training camp, including the high-end promise of rookie linebacker David Bailey﻿.",
+      "pubDate": "2026-08-25T10:00:02Z",
+      "source": "ESPN NFL · Rich Cimini",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0824/r1706314_608x342_16-9.jpg"
+    },
+    {
+      "title": "How Colts' Anthony Richardson is fighting back from adversity",
+      "link": "https://www.espn.com/nfl/story/_/id/49714729/colts-quarterback-anthony-richardson-reflects-adversity-optimism",
+      "description": "He was benched, injured and asked to be traded, but Richardson remains in Indy, and he's persevering.",
+      "pubDate": "2026-08-25T10:00:01Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0824/r1706414_1296x729_16-9.jpg"
+    },
     {
       "title": "Leeds co-owner sentenced to day in jail after prostitution sting",
       "link": "https://sports.yahoo.com/articles/49ers-owner-arrested-ohio-trying-180050915.html",
@@ -366,38 +398,6 @@
       "link": "https://sports.yahoo.com/articles/steelers-ot-max-iheanachor-preparing-232231652.html",
       "description": "Steelers OT Max Iheanachor preparing to play in preseason finale....",
       "pubDate": "2026-08-24T23:22:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why 49ers Appear To Be Driving Off The Cliff Entering 2026 Season",
-      "link": "https://www.foxsports.com/stories/nfl/why-49ers-appear-driving-off-cliff-entering-2026-season",
-      "description": "During Monday's edition of The Herd, Colin Cowherd evaluated the overall state of the 49ers, questioning whether San Francisco can maintain their position among the elite teams in the NFC.",
-      "pubDate": "2026-08-24T23:17:20+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/brock-purdy-the-herd.jpg"
-    },
-    {
-      "title": "4 performances of note from the Patriots’ 21st training camp practice",
-      "link": "https://sports.yahoo.com/articles/4-performances-note-patriots-21st-231127678.html",
-      "description": "Who caught our eye during the Patriots’ practice on Monday....",
-      "pubDate": "2026-08-24T23:11:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cardinals waive former third-round RB Trey Benson after 2 injury-riddled seasons",
-      "link": "https://sports.yahoo.com/nfl/article/cardinals-waive-former-third-round-rb-trey-benson-after-2-injury-riddled-seasons-230739250.html",
-      "description": "The Cardinals drafted Benson as the potential successor to James Conner in the backfield, but injuries have cut his career in Arizona short....",
-      "pubDate": "2026-08-24T23:07:39+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys need to monitor this key position over the next weeks",
-      "link": "https://sports.yahoo.com/articles/cowboys-monitor-key-position-over-230000699.html",
-      "description": "What do you think is the shakiest position on the Cowboys?...",
-      "pubDate": "2026-08-24T23:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,6 +806,22 @@
   ],
   "insider": [
     {
+      "title": "How Colts' Anthony Richardson is fighting back from adversity",
+      "link": "https://www.espn.com/nfl/story/_/id/49714729/colts-quarterback-anthony-richardson-reflects-adversity-optimism",
+      "description": "He was benched, injured and asked to be traded, but Richardson remains in Indy, and he's persevering.",
+      "pubDate": "2026-08-25T10:00:01Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0824/r1706414_1296x729_16-9.jpg"
+    },
+    {
+      "title": "As LSU chases NFL players, SEC speaks out against it",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-lsu-chases-nfl-players-sec-speaks-out-against-it",
+      "description": "The current vibe in college football consists of Machiavelli vs. the lingering vestiges of amateurism....",
+      "pubDate": "2026-08-25T09:55:16+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Kellen Moore on Zxavian Harris going from Saints to LSU: There's no regulation to anything",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kellen-moore-on-zxavian-harris-going-from-saints-to-lsu-theres-no-regulation-to-anything",
       "description": "\"Hopefully there can be some leadership and some regulations developed,\" Moore said....",
@@ -1132,14 +1148,6 @@
       "pubDate": "2026-08-24T19:27:06Z",
       "source": "ESPN NFL · Mike Reiss",
       "thumbnail": "https://a.espncdn.com/photo/2026/0820/r1704527_608x342_16-9.jpg"
-    },
-    {
-      "title": "Raiders cut WR Noah Brown",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-cut-wr-noah-brown",
-      "description": "Veteran wide receiver Noah Brown is looking for a new team....",
-      "pubDate": "2026-08-24T19:09:21+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
