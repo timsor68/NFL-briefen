@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-08-25T03:28:19.402493+00:00",
+  "generatedAt": "2026-08-25T04:19:45.718346+00:00",
   "nfl": [
+    {
+      "title": "Allen Robinson officially announces retirement on 33rd birthday",
+      "link": "https://www.espn.com/nfl/story/_/id/49718354/allen-robinson-officially-announces-retirement-33rd-birthday",
+      "description": "Allen Robinson, the former Pro Bowl receiver who most recently played in the NFL in 2024, officially announced his retirement Monday.",
+      "pubDate": "2026-08-25T04:15:14Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2018/0313/r340473_600x600_1-1.jpg"
+    },
+    {
+      "title": "Cleveland Browns Training Camp Recap: Day 18 – Watson’s first day as the starter",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-training-camp-recap-040448288.html",
+      "description": "What happened on Day 18 of Cleveland Browns training camp?...",
+      "pubDate": "2026-08-25T04:04:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ex-Oregon State RB Anthony Hankerson Set For College Return After Being Waived By Seahawks",
+      "link": "https://www.foxsports.com/stories/nfl/ex-oregon-state-rb-anthony-hankerson-set-college-return-after-being-waived-seahawks",
+      "description": "The Seattle Seahawks have waived running back Anthony Hankerson, who could try to play in college again.",
+      "pubDate": "2026-08-25T03:20:43+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/hank.jpg"
+    },
     {
       "title": "NFL fans make their picks in the South divisions",
       "link": "https://sports.yahoo.com/articles/nfl-fans-picks-south-divisions-030200436.html",
@@ -258,6 +282,14 @@
       "thumbnail": ""
     },
     {
+      "title": "Dominic Zvada keeps making case in Giants kicker battle with perfect showing",
+      "link": "https://sports.yahoo.com/articles/dominic-zvada-keeps-making-case-232342663.html",
+      "description": "Observations from Giants practice on Monday....",
+      "pubDate": "2026-08-24T23:23:42+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Steelers OT Max Iheanachor preparing to play Thursday vs. Bills",
       "link": "https://sports.yahoo.com/articles/steelers-ot-max-iheanachor-preparing-232231652.html",
       "description": "Steelers OT Max Iheanachor preparing to play in preseason finale....",
@@ -368,38 +400,6 @@
       "pubDate": "2026-08-24T22:21:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Lions put RB Raheem Blackshear, WR Cedrick Wilson on injured reserve",
-      "link": "https://sports.yahoo.com/articles/lions-put-rb-raheem-blackshear-221657217.html",
-      "description": "The Lions placed a couple of veterans on injured reserve Monday....",
-      "pubDate": "2026-08-24T22:16:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers add a local product on defense; release TE Josiah Deguara",
-      "link": "https://sports.yahoo.com/articles/49ers-add-local-product-defense-221049677.html",
-      "description": "Vilami Fehoko is the newest pass rusher on the roster...",
-      "pubDate": "2026-08-24T22:10:49+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How a human trafficking sting in a tiny Ohio town snared 49ers owner | Exclusive",
-      "link": "https://sports.yahoo.com/articles/human-trafficking-sting-tiny-ohio-221007540.html",
-      "description": "Mayor Trent Conaway reacted to Jed York&#39;s arrest by saying his town hadn&#39;t had as much excitement since a 2023 train derailment brought national attention....",
-      "pubDate": "2026-08-24T22:10:07+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Browns Making Another QB Error? 7 Takeaways From Week 2 Of The Preseason",
-      "link": "https://www.foxsports.com/stories/nfl/browns-making-another-qb-error-7-takeaways-from-week-2-preseason",
-      "description": "Here's what we learned from this week's preseason games.",
-      "pubDate": "2026-08-24T22:08:12+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/artboard-1-50.jpg"
     }
   ],
   "ncaa": [
@@ -805,6 +805,14 @@
     }
   ],
   "insider": [
+    {
+      "title": "Ex-Oregon State RB Anthony Hankerson Set For College Return After Being Waived By Seahawks",
+      "link": "https://www.foxsports.com/stories/nfl/ex-oregon-state-rb-anthony-hankerson-set-college-return-after-being-waived-seahawks",
+      "description": "The Seattle Seahawks have waived running back Anthony Hankerson, who could try to play in college again.",
+      "pubDate": "2026-08-25T03:20:43+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/hank.jpg"
+    },
     {
       "title": "Police close investigation into death of Ed Oliver's young son",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-close-investigation-into-death-of-ed-olivers-young-son",
