@@ -1,395 +1,27 @@
 {
-  "generatedAt": "2026-08-30T11:02:07.150121+00:00",
+  "generatedAt": "2026-08-30T15:21:13.885650+00:00",
   "nfl": [
     {
-      "title": "Sunday Patriots Notes: Defensive depth a concern as cutdown deadline looms",
-      "link": "https://sports.yahoo.com/articles/sunday-patriots-notes-defensive-depth-104531073.html",
-      "description": "Notes and thoughts about the roster depth, Christian Gonzalez’s frustration, Gabe Jacas’ development, and more....",
-      "pubDate": "2026-08-30T10:45:31+00:00",
+      "title": "Bucs cut Browning, elevating UDFA Jalon Daniels to QB2 behind Mayfield",
+      "link": "https://sports.yahoo.com/nfl/article/bucs-cut-browning-elevating-udfa-jalon-daniels-to-qb2-behind-mayfield-151614591.html",
+      "description": "Daniels started 45 games in college for Kansas, but the rookie has no regular-season experience....",
+      "pubDate": "2026-08-30T15:16:14+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "What is the Detroit Lions’ toughest 53-man roster decision?",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-toughest-53-man-104318799.html",
-      "description": "Breaking down the three toughest decisions facing the 2026 Detroit Lions 2026 roster cuts....",
-      "pubDate": "2026-08-30T10:43:18+00:00",
+      "title": "How does the waiver wire work after cutdown day for the Jets?",
+      "link": "https://sports.yahoo.com/articles/does-waiver-wire-cutdown-day-151228376.html",
+      "description": "Today is cutdown day in the NFL. Teams must have their rosters at 53 players by 6:00 pm Eastern Time. Over the next day or two, you will hear a lot about the waiver wire. You might...",
+      "pubDate": "2026-08-30T15:12:28+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Cleveland Browns news: Roster cutdown day has arrived",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-roster-cutdown-103000759.html",
-      "description": "The latest Cleveland Browns news and notes from around the NFL in the August 30 edition of the Sunday Dawg Chow....",
-      "pubDate": "2026-08-30T10:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL preseason winners, losers: Who hurt or helped their cause?",
-      "link": "https://sports.yahoo.com/articles/nfl-preseason-winners-losers-hurt-100534253.html",
-      "description": "The NFL preseason schedule is wrapped up. While the exhibition slate might seem short on meaning, the games still surfaced several key takeaways....",
-      "pubDate": "2026-08-30T10:05:34+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bengals News: Final Cuts Deadline",
-      "link": "https://sports.yahoo.com/articles/bengals-news-final-cuts-deadline-100500482.html",
-      "description": "The Bengals have a good problem ahead of them....",
-      "pubDate": "2026-08-30T10:05:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What NFL games are on today? Preseason Week 3 TV channels, Sunday schedule",
-      "link": "https://sports.yahoo.com/articles/nfl-games-today-preseason-week-100446331.html",
-      "description": "NFL fans looking for some football on Sunday will be disappointed. Here&#39;s what to know....",
-      "pubDate": "2026-08-30T10:04:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Drake Maye didn't play preseason; will it matter in Week 1?",
-      "link": "https://www.espn.com/nfl/story/_/id/49756779/why-new-england-patriots-qb-drake-maye-didnt-play-preseason-matter-week-1-vs-seattle-seahawks",
-      "description": "New England will kick off the season in Seattle for a Super Bowl rematch on Wednesday, Sept. 9.",
-      "pubDate": "2026-08-30T10:00:07Z",
-      "source": "ESPN NFL · Mike Reiss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708478_608x342_16-9.jpg"
-    },
-    {
-      "title": "Sean Payton wanted Broncos roster hopefuls to “make us spin the chair”",
-      "link": "https://sports.yahoo.com/articles/sean-payton-wanted-broncos-roster-100000479.html",
-      "description": "Sean Payton wanted players on Denver’s roster bubble to make the final decisions as difficult as possible....",
-      "pubDate": "2026-08-30T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears third-round pick Zavion Thomas scores 97-yard touchdown on his first NFL play",
-      "link": "https://sports.yahoo.com/articles/bears-third-round-pick-zavion-095824792.html",
-      "description": "Thomas made his preseason debut on Saturday and put on a show....",
-      "pubDate": "2026-08-30T09:58:24+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cincinnati Bengals practice squad tracker",
-      "link": "https://sports.yahoo.com/articles/cincinnati-bengals-practice-squad-tracker-094500709.html",
-      "description": "Here’s who the Bengals have been able to sign to their practice squad....",
-      "pubDate": "2026-08-30T09:45:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dan Campbell not worried about his kicker after Jake Bates misses two extra points",
-      "link": "https://sports.yahoo.com/articles/dan-campbell-not-worried-kicker-090850151.html",
-      "description": "Lions kicker Jake Bates did not finish the preseason strong on Saturday....",
-      "pubDate": "2026-08-30T09:08:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What their first wave of roster cuts means for the Patriots",
-      "link": "https://sports.yahoo.com/articles/first-wave-roster-cuts-means-090000246.html",
-      "description": "The Patriots parted ways with 19 players on Saturday....",
-      "pubDate": "2026-08-30T09:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers News: And then there were 53",
-      "link": "https://sports.yahoo.com/articles/49ers-news-then-were-53-085500467.html",
-      "description": "Your daily San Francisco 49ers news for Sunday, August 30th, 2026...",
-      "pubDate": "2026-08-30T08:55:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Minnesota Vikings Roster Cut Tracker",
-      "link": "https://sports.yahoo.com/articles/minnesota-vikings-roster-cut-tracker-041058094.html",
-      "description": "Making the moves from 91 to 53...",
-      "pubDate": "2026-08-30T03:04:23+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tracking every Denver Broncos roster cut",
-      "link": "https://sports.yahoo.com/articles/tracking-every-denver-broncos-roster-195908403.html",
-      "description": "Every Broncos roster move as Denver trims to 53 for the 2026 season. Cuts, trades, and practice squad signings, tracked live and updated in real time....",
-      "pubDate": "2026-08-30T03:00:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Report: Saints will keep Spencer Rattler despite trade interest",
-      "link": "https://sports.yahoo.com/articles/report-saints-keep-spencer-rattler-024206201.html",
-      "description": "The Saints waived fourth quarterback Hunter Dekkers on Saturday, leaving Spencer Rattler and Zach Wilson behind Tyler Shough....",
-      "pubDate": "2026-08-30T02:42:06+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tyson Bagent sparks the Bears with a 97-yard opening TD to wrap preseason with win over Titans",
-      "link": "http://www.espn.com/nfl/recap?gameId=401874394",
-      "description": "— Tyson Bagent gave the Chicago Bears just the offensive start to wrap up the preseason in winning style.",
-      "pubDate": "2026-08-30T02:39:32Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401874394.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Sources: Cowboys acquire OT Jones in exchange for two draft picks",
-      "link": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks",
-      "description": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-round pick in 2027 to the Cowboys in exchange for a 2027 third- and sixth-round pick, sources told ESPN.",
-      "pubDate": "2026-08-30T02:26:08Z",
-      "source": "ESPN NFL · Brooke Pryor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0501/r1651739_600x400_3-2.jpg"
-    },
-    {
-      "title": "NFL Waiver Wire Rules: Chicago Bears are 25th",
-      "link": "https://sports.yahoo.com/articles/nfl-waiver-wire-rules-chicago-020000764.html",
-      "description": "Have you ever wondered exactly what the NFL’s waiver wire process is? @wiltfongjr has you covered right here....",
-      "pubDate": "2026-08-30T02:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins trade former Texas star QB Quinn Ewers to Jaguars",
-      "link": "https://sports.yahoo.com/articles/dolphins-trade-former-texas-star-015417530.html",
-      "description": "Quinn Ewers is in for a quick trip up I-95 come next season....",
-      "pubDate": "2026-08-30T01:54:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "New Orleans Saints 2026 Roster Cuts Tracker",
-      "link": "https://sports.yahoo.com/articles/orleans-saints-2026-roster-cuts-040000697.html",
-      "description": "The Saints have to get down to a 53-man roster by Sunday at 5 p.m. CST. Stay updated on all the latest moves here....",
-      "pubDate": "2026-08-30T01:37:25+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL Waiver Wire rules and order",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-waiver-wire-rules-013000334.html",
-      "description": "Everything you need to know about the NFL waiver process....",
-      "pubDate": "2026-08-30T01:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chicago Bears 2026 53-Man Roster Transaction Tracker",
-      "link": "https://sports.yahoo.com/articles/chicago-bears-2026-53-man-013000132.html",
-      "description": "NFL teams need to be down to 53 players by 5:00 CT on Sunday, August 30, and @wiltfongjr is tracking all the Bears moves here....",
-      "pubDate": "2026-08-30T01:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dallas Cowboys Reportedly Acquire Offensive Tackle Broderick Jones From Steelers",
-      "link": "https://www.foxsports.com/stories/nfl/cowboys-acquire-offensive-tackle-broderick-jones-from-steelers-ap-source-says",
-      "description": "The Dallas Cowboys have reportedly acquired offensive tackle Broderick Jones from the Pittsburgh Steelers.",
-      "pubDate": "2026-08-30T01:27:02+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/brodddd.jpg"
-    },
-    {
-      "title": "Chicago Bears vs. Tennessee Titans: Game Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49767821/game-highlights",
-      "description": "Chicago Bears vs. Tennessee Titans: Game Highlights",
-      "pubDate": "2026-08-30T01:09:40Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0830/a870dc76-d483-400b-9cd5-f783b2535068/a870dc76-d483-400b-9cd5-f783b2535068.jpg"
-    },
-    {
-      "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
-      "link": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-      "description": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
-      "pubDate": "2026-08-30T01:08:58Z",
-      "source": "ESPN NFL · ESPN staff",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1125/r1580576_608x342_16-9.jpg"
-    },
-    {
-      "title": "Titans roster cut tracker",
-      "link": "https://sports.yahoo.com/articles/titans-roster-cut-tracker-010856517.html",
-      "description": "Following all of the Titans roster cuts as they happen....",
-      "pubDate": "2026-08-30T01:08:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears close preseason with a nearly flawless performance by Tyson Bagent",
-      "link": "https://sports.yahoo.com/articles/bears-close-preseason-nearly-flawless-010001919.html",
-      "description": "The Bears played the Titans in the preseason finale (W), and @wiltfongjr recaps it right here!...",
-      "pubDate": "2026-08-30T01:00:01+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL offseason trade grades: Broderick Jones, Tutu Atwell",
-      "link": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
-      "description": "We're making sense of six big preseason deals, including Tutu Atwell to the Rams.",
-      "pubDate": "2026-08-30T00:53:37Z",
-      "source": "ESPN NFL · Seth Walder and Ben Solak",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708773_608x342_16-9.jpg"
-    },
-    {
-      "title": "What the Cowboys’ new offensive tackle brings to the team",
-      "link": "https://sports.yahoo.com/articles/cowboys-offensive-tackle-brings-team-003000983.html",
-      "description": "Here is what the Cowboys are getting in Broderick Jones....",
-      "pubDate": "2026-08-30T00:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Green Bay Packers will have 2nd shot at running back Damon Bankston",
-      "link": "https://sports.yahoo.com/articles/green-bay-packers-2nd-shot-002719997.html",
-      "description": "The 4.43-second 40-yard dash speed running back has been let go by the New York Giants...",
-      "pubDate": "2026-08-30T00:27:19+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys acquire former first-round draft pick Broderick Jones to beef up offensive line",
-      "link": "https://sports.yahoo.com/articles/cowboys-acquire-former-first-round-000741132.html",
-      "description": "The Cowboys are bolstering their offensive line headed into the season....",
-      "pubDate": "2026-08-30T00:07:41+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL waiver wire explained: Which Detroit Lions are impacted",
-      "link": "https://sports.yahoo.com/articles/nfl-waiver-wire-explained-detroit-000000878.html",
-      "description": "What is the NFL waiver wire system and which current Detroit Lions players are subject to the process?...",
-      "pubDate": "2026-08-30T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How it works: NFL Practice Squad rules, eligibility, salary, waiver wire, and more",
-      "link": "https://sports.yahoo.com/articles/works-nfl-practice-squad-rules-000000589.html",
-      "description": "Who’s eligible and how many players can be signed?...",
-      "pubDate": "2026-08-30T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Where You See The Miami Dolphins At This Point",
-      "link": "https://sports.yahoo.com/articles/where-see-miami-dolphins-point-000000545.html",
-      "description": "Miami Dolphins fans sound off on the progress made by the team up to now....",
-      "pubDate": "2026-08-30T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL 2026 roster cuts: A final Seattle Seahawks 53-man roster projection",
-      "link": "https://sports.yahoo.com/articles/nfl-2026-roster-cuts-final-234850504.html",
-      "description": "Sure, let’s do one more Seahawks roster projection before the final cuts are made....",
-      "pubDate": "2026-08-29T23:48:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Isaiah Hodgins headlines first 8 cuts by Giants",
-      "link": "https://sports.yahoo.com/articles/ny-giants-cut-8-including-233509837.html",
-      "description": "The Giants cut a former key piece of their offense as they trim their roster to 53 men....",
-      "pubDate": "2026-08-29T23:35:09+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills releasing former Super Bowl champion Mecole Hardman",
-      "link": "https://sports.yahoo.com/articles/bills-releasing-former-super-bowl-233428144.html",
-      "description": "The Buffalo Bills released wide receiver Mecole Hardman, a three-time Super Bowl champion, as they finalized their 53-man roster for Week 1....",
-      "pubDate": "2026-08-29T23:34:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chiefs final cutdown tracker: Reports and rumors ahead of Sunday’s deadline",
-      "link": "https://sports.yahoo.com/articles/chiefs-final-cutdown-tracker-know-050000876.html",
-      "description": "Following the moves Kansas City makes as it brings its roster down to 53 players before Sunday’s deadline....",
-      "pubDate": "2026-08-29T23:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jacksonville Jaguars acquire Quinn Ewers from Miami Dolphins",
-      "link": "https://www.espn.com/nfl/story/_/id/49766035/jacksonville-jaguars-acquire-quinn-ewers-miami-dolphins",
-      "description": "On Saturday, the Jacksonville Jaguars traded for quarterback Quinn Ewers, 23, who played in four games last season and completed 66.3% of his passes, sending a sixth-round pick in 2028 to the Miami Dolphins for the second-year player, the teams announced.",
-      "pubDate": "2026-08-29T23:24:22Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708705_600x600_1-1.jpg"
-    },
-    {
-      "title": "NFL depth charts for all 32 teams",
-      "link": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-      "description": "Here are the latest NFL depth charts for all 32 teams.",
-      "pubDate": "2026-08-29T23:17:28Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2023/0413/r1158435_2_608x342_16-9.jpg"
-    },
-    {
-      "title": "Giants cut eight, including WR Isaiah Hodgins",
-      "link": "https://sports.yahoo.com/articles/giants-cut-eight-including-wr-231335678.html",
-      "description": "The Giants have begun reducing their roster to 53 players....",
-      "pubDate": "2026-08-29T23:13:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Raiders cut tracker 2026: News and rumors on cutdown day",
-      "link": "https://sports.yahoo.com/articles/raiders-cut-tracker-2026-news-052700161.html",
-      "description": "All the latest roster moves here...",
-      "pubDate": "2026-08-29T23:03:42+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Detroit Lions roster cuts tracker: Latest news, moves to 53-man roster",
-      "link": "https://sports.yahoo.com/articles/2026-detroit-lions-roster-cuts-230000438.html",
-      "description": "BOOKMARK! A live-updating post on the Detroit Lions 2026 roster cuts and the players remaining on the 53-man roster....",
-      "pubDate": "2026-08-29T23:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Breaking Down The Jaguars Trade for Dolphins QB Quinn Ewers",
-      "link": "https://sports.yahoo.com/articles/breaking-down-jaguars-trade-dolphins-225608693.html",
-      "description": "The Jacksonville Jaguars have acquired Quinn Ewers from the Miami Dolphins, adding a young developmental quarterback with starting experience ahead of Sunday&#39;s 53-man roster de...",
-      "pubDate": "2026-08-29T22:56:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Report: Jets waive DT Mazi Smith",
-      "link": "https://sports.yahoo.com/articles/report-jets-waive-dt-mazi-225027368.html",
-      "description": "The Jets are releasing defensive tackle Mazi Smith, Adam Schefter of ESPN reports....",
-      "pubDate": "2026-08-29T22:50:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills&#39; new stadium facing another hurdle ahead of home opener",
-      "link": "https://sports.yahoo.com/articles/bills-stadium-facing-another-hurdle-223841724.html",
-      "description": "Before new Highmark Stadium makes its regular season debut, the Buffalo Bills are replacing its grass....",
-      "pubDate": "2026-08-29T22:38:41+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Predicting the Jets’ 53-man roster for 2026 as cut day looms",
-      "link": "https://sports.yahoo.com/articles/predicting-jets-53-man-roster-223124649.html",
-      "description": "The Jets don’t have many spots up for grabs. That doesn’t mean it will be easy for coach Aaron Glenn and general manager Darren Mougey....",
-      "pubDate": "2026-08-29T22:31:24+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "6 Lions who improved their practice squad chances in preseason finale",
-      "link": "https://sports.yahoo.com/articles/6-lions-improved-practice-squad-223000193.html",
-      "description": "Which Detroit Lions players boosted their chances of landing on the practice squad with their final preseason performance?...",
-      "pubDate": "2026-08-29T22:30:00+00:00",
+      "title": "Patriots cut 2025 draft pick Bradyn Swinson prior to 53-man deadline, per report",
+      "link": "https://sports.yahoo.com/articles/patriots-cut-2025-draft-pick-150821553.html",
+      "description": "The NFL cutdown deadline arrives Sunday at 6 p.m. ET....",
+      "pubDate": "2026-08-30T15:08:21+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -397,12 +29,452 @@
       "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
       "link": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
       "description": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-      "pubDate": "2026-08-29T22:27:07Z",
+      "pubDate": "2026-08-30T15:07:33Z",
       "source": "ESPN NFL · ESPN Staff",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0929/r1552919_608x342_16-9.jpg"
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708773_608x342_16-9.jpg"
+    },
+    {
+      "title": "NFL cuts tracker LIVE as 53-man roster deadline arrives",
+      "link": "https://sports.yahoo.com/articles/nfl-cuts-tracker-live-53-150725579.html",
+      "description": "NFL teams must have no more than 53 men on their active rosters by 6 p.m. ET on Sunday, Aug. 30. Here are the latest roster cuts and releases....",
+      "pubDate": "2026-08-30T15:07:25+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: George Kittle is expected to practice this week",
+      "link": "https://sports.yahoo.com/articles/report-george-kittle-expected-practice-150643570.html",
+      "description": "49ers head coach Kyle Shanahan said after the team&#39;s final preseason game that tight end George Kittle had &quot;taken a step back&quot; when discussing Kittle&#39;s return fro...",
+      "pubDate": "2026-08-30T15:06:43+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Miami Dolphins 2026 roster cuts tracker: Miller, Gronowski cut leaving Willis only QB",
+      "link": "https://sports.yahoo.com/articles/miami-dolphins-2026-roster-cuts-024700177.html",
+      "description": "The Miami Dolphins must drop to the NFL’s regular season roster limit by Sunday evening. We keep up with all the cuts....",
+      "pubDate": "2026-08-30T15:00:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Seattle Seahawks 2026 practice squad tracker",
+      "link": "https://sports.yahoo.com/articles/seattle-seahawks-2026-practice-squad-150000485.html",
+      "description": "Once the Seahawks have their 53-man roster, it’s time to build their initial practice squad....",
+      "pubDate": "2026-08-30T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Miami Dolphins practice squad 2026: Tracking the rumors, reports, and signings",
+      "link": "https://sports.yahoo.com/articles/miami-dolphins-practice-squad-2026-150000092.html",
+      "description": "The Miami Dolphins can start building their practice squad on Monday. We track all the reports and rumors here....",
+      "pubDate": "2026-08-30T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
+      "link": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html",
+      "description": "An updated look at the Patriots’ roster in 2026....",
+      "pubDate": "2026-08-30T14:57:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jaguars to trade TE Hunter Long to Cardinals",
+      "link": "https://sports.yahoo.com/articles/jaguars-trade-te-hunter-long-145717044.html",
+      "description": "The Jaguars and Cardinals have agreed to a trade....",
+      "pubDate": "2026-08-30T14:57:17+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patriots roster cuts tracker: All the latest moves, news, rumors, and more",
+      "link": "https://sports.yahoo.com/articles/patriots-roster-cuts-tracker-latest-040000073.html",
+      "description": "Tracking New England’s transactions ahead of the upcoming roster deadline...",
+      "pubDate": "2026-08-30T14:56:47+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets fans expect Nate Lynn to make the 53 man roster",
+      "link": "https://sports.yahoo.com/articles/jets-fans-expect-nate-lynn-145550832.html",
+      "description": "One of the surprises of Jets preseason has been the play of Nate Lynn. A late training camp signing, Lynn made a late push to make the 53 man roster with 3 sacks in the team’s fina...",
+      "pubDate": "2026-08-30T14:55:50+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL offseason trade grades: Gervon Dexter, Broderick Jones",
+      "link": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
+      "description": "We're making sense of seven big preseason deals, including Broderick Jones to the Cowboys.",
+      "pubDate": "2026-08-30T14:48:53Z",
+      "source": "ESPN NFL · Seth Walder and Ben Solak",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1014/r1559876_608x342_16-9.jpg"
+    },
+    {
+      "title": "Source: Bucs tab undrafted rookie Jalon Daniels as backup QB",
+      "link": "https://www.espn.com/nfl/story/_/id/49772519/source-bucs-tab-undrafted-rookie-jalon-daniels-backup-qb",
+      "description": "The Buccaneers have decided that Jalon Daniels, an undrafted rookie free agent, will be their backup quarterback to start the season, a source told NFL Network.",
+      "pubDate": "2026-08-30T14:43:02Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708963_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Aaron Donald&#39;s contract looms over his potential return",
+      "link": "https://sports.yahoo.com/articles/aaron-donalds-contract-looms-over-143515691.html",
+      "description": "If the two sides can&#39;t reach a deal as to what he&#39;d be paid, things could get very interesting....",
+      "pubDate": "2026-08-30T14:35:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles News: Philadelphia’s most likely first-time Pro Bowl candidate",
+      "link": "https://sports.yahoo.com/articles/eagles-news-philadelphia-most-likely-143430543.html",
+      "description": "Philadelphia Eagles news and links for 8/30/26....",
+      "pubDate": "2026-08-30T14:34:30+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patriots reportedly waive defensive tackle Eric Gregory ahead of NFL roster deadline",
+      "link": "https://sports.yahoo.com/articles/patriots-reportedly-waive-defensive-tackle-143306405.html",
+      "description": "The NFL’s 53-man roster deadline arrives at 6 p.m. ET Sunday....",
+      "pubDate": "2026-08-30T14:33:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys don’t go down without 2nd-half fight in preseason finale vs Saints",
+      "link": "https://sports.yahoo.com/articles/cowboys-don-t-down-without-143000470.html",
+      "description": "A final look back at the Saints preseason game...",
+      "pubDate": "2026-08-30T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Cowboys acquire OT Jones in exchange for draft picks",
+      "link": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks",
+      "description": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-round pick in 2027 to the Cowboys in exchange for a 2027 third- and sixth-round pick.",
+      "pubDate": "2026-08-30T14:19:45Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0501/r1651739_600x400_3-2.jpg"
+    },
+    {
+      "title": "Bears vs Titans: Inside the snap counts, stats, and an injury update",
+      "link": "https://sports.yahoo.com/articles/bears-vs-titans-inside-snap-141500511.html",
+      "description": "Here are the snap counts and a few stats from the Bears&#39; preseason win in Tennessee from @wiltfongjr. Plus the latest on some injuries....",
+      "pubDate": "2026-08-30T14:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Falcons add Gervon Dexter Sr. in trade with Bears",
+      "link": "https://www.espn.com/nfl/story/_/id/49771892/sources-falcons-add-gervon-dexter-sr-trade-bears",
+      "description": "The Falcons traded for defensive tackle Gervon Dexter Sr. in a deal with the Bears, sources told ESPN.",
+      "pubDate": "2026-08-30T14:09:28Z",
+      "source": "ESPN NFL · Marc Raimondi",
+      "thumbnail": "https://a.espncdn.com/photo/2024/1021/r1403752_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Raiders News: CBS reports Kirk Cousins is expected to be named the starter",
+      "link": "https://sports.yahoo.com/articles/raiders-news-cbs-reports-kirk-140000130.html",
+      "description": "The Las Vegas Raiders are expected to name Kirk Cousins the starter heading into Week 1...",
+      "pubDate": "2026-08-30T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Game Recap: Saints visit Cowboys in preseason finale",
+      "link": "https://sports.yahoo.com/articles/game-recap-saints-visit-cowboys-140000473.html",
+      "description": "Catch up on all the action from Dallas....",
+      "pubDate": "2026-08-30T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kansas City Chiefs roster",
+      "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-roster-003019778.html",
+      "description": "The up-to-date team roster, including contract and salary cap information....",
+      "pubDate": "2026-08-30T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Has Commanders GM Adam Peters given Dan Quinn a winning roster? - Daily Slop",
+      "link": "https://sports.yahoo.com/articles/commanders-gm-adam-peters-given-140000886.html",
+      "description": "The clock has hit zero on roster decisions...",
+      "pubDate": "2026-08-30T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts WR Keenan Allen arrested on drunken driving charges",
+      "link": "https://www.espn.com/nfl/story/_/id/49771289/colts-wr-keenan-allen-arrested-drunk-driving-charges",
+      "description": "Colts wide receiver Keenan Allen was arrested early Sunday morning on drunken driving charges.",
+      "pubDate": "2026-08-30T13:49:04Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708904_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Steelers release LB Elandon Roberts",
+      "link": "https://sports.yahoo.com/articles/steelers-release-lb-elandon-roberts-134857483.html",
+      "description": "Steelers release linebacker Elandon Roberts...",
+      "pubDate": "2026-08-30T13:48:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Pre-Snap Reads: Preseason observations and 53-man roster projections for Seahawks",
+      "link": "https://sports.yahoo.com/articles/pre-snap-reads-preseason-observations-134145364.html",
+      "description": "Who’s your favorite wild card to make the team?...",
+      "pubDate": "2026-08-30T13:41:45+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins waive QB Cam Miller",
+      "link": "https://sports.yahoo.com/articles/dolphins-waive-qb-cam-miller-133245316.html",
+      "description": "The Dolphins traded Quinn Ewers to the Jaguars on Saturday and they&#39;ve parted ways with another backup quarterback on Sunday....",
+      "pubDate": "2026-08-30T13:32:45+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills agree to trade C Sedrick Van Pran-Granger to Colts",
+      "link": "https://sports.yahoo.com/articles/bills-agree-trade-c-sedrick-132640781.html",
+      "description": "The Colts are adding an offensive lineman to the roster on Sunday....",
+      "pubDate": "2026-08-30T13:26:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "FSU got the result it needed. The performance should still worry fans",
+      "link": "https://sports.yahoo.com/articles/fsu-got-result-needed-performance-132308822.html",
+      "description": "FSU football&#39;s win over New Mexico State didn&#39;t inspire much confidence. They&#39;ve got a week to clean it up before SMU....",
+      "pubDate": "2026-08-30T13:23:08+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "ACC debuted FIFA-style ref cam on Saturday",
+      "link": "https://sports.yahoo.com/articles/acc-debuted-fifa-style-ref-131230491.html",
+      "description": "The NFL is lagging when it comes to innovation....",
+      "pubDate": "2026-08-30T13:12:30+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chicago Bears trade DT Dexter to Atlanta Falcons for CB Phillips, 5th rounder",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-trade-dt-dexter-130741327.html",
+      "description": "The Bears traded Gervon Dexter for corner depth. @SamHouseholder has the details....",
+      "pubDate": "2026-08-30T13:07:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "New Colts WR Keenan Allen arrested for DUI after preseason debut",
+      "link": "https://sports.yahoo.com/articles/colts-wr-keenan-allen-arrested-130252066.html",
+      "description": "After catching one pass in Colts&#39; loss to Lions, veteran WR Keenan Allen was arrested on two preliminary DUI charges early Sunday morning....",
+      "pubDate": "2026-08-30T13:02:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "The surprising Cowboys player who leads in total preseason snaps",
+      "link": "https://sports.yahoo.com/articles/surprising-cowboys-player-leads-total-130000169.html",
+      "description": "A look at the preseason snap counts yields some surprising results....",
+      "pubDate": "2026-08-30T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins roster predictions: Final 53-man projection 2026",
+      "link": "https://sports.yahoo.com/articles/dolphins-roster-predictions-final-53-130000830.html",
+      "description": "Our final projection of the Miami Dolphins 53-man roster - and we only have one quarterback....",
+      "pubDate": "2026-08-30T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Detroit Lions final roster bubble predictions on defense",
+      "link": "https://sports.yahoo.com/articles/2026-detroit-lions-final-roster-125935947.html",
+      "description": "Our staff makes their final 2026 Detroit Lions roster predictions for the defensive players on the bubble....",
+      "pubDate": "2026-08-30T12:59:35+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
+      "link": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
+      "description": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
+      "pubDate": "2026-08-30T12:59:31Z",
+      "source": "ESPN NFL · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2024/1021/r1403752_1296x729_16-9.jpg"
+    },
+    {
+      "title": "New Pro and College Football Challenge Games",
+      "link": "https://sports.yahoo.com/fantasy/article/new-pro-and-college-football-challenge-games-125506539.html",
+      "description": "New Pro and College Football Challenge games mark Day 21 of our 29 days of fantasy....",
+      "pubDate": "2026-08-30T12:55:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Falcons trade for Bears defensive lineman Gervon Dexter",
+      "link": "https://sports.yahoo.com/articles/falcons-trade-bears-defensive-lineman-125230250.html",
+      "description": "The Falcons add a young, capable pass rusher to their defensive interior for an affordable price....",
+      "pubDate": "2026-08-30T12:52:30+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bears to trade DT Gervon Dexter to Falcons for CB Clark Phillips and fifth-round pick",
+      "link": "https://sports.yahoo.com/articles/bears-trade-dt-gervon-dexter-124452167.html",
+      "description": "Defensive tackle Gervon Dexter is on the move ahead of Sunday afternoon&#39;s deadline to set 53-man rosters around the league....",
+      "pubDate": "2026-08-30T12:44:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Who will be this year's fantasy football 'league winners'?",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/49734412/2026-fantasy-football-breakout-stars-league-winners-michael-florio",
+      "description": "Michael F. Florio shares his players with breakout potential who could lead fantasy managers to titles in 2026.",
+      "pubDate": "2026-08-30T12:10:07Z",
+      "source": "ESPN NFL · Michael F. Florio",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0827/r1707807_608x342_16-9.jpg"
+    },
+    {
+      "title": "Notes: Bears close out preseason with strong win",
+      "link": "https://sports.yahoo.com/articles/notes-bears-close-preseason-strong-120000293.html",
+      "description": "The Bears closed out the preseason with a nice win on Saturday. @jacobinfante24 shares his notes from the game....",
+      "pubDate": "2026-08-30T12:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Final predictions for 2026 Detroit Lions roster bubble players on offense",
+      "link": "https://sports.yahoo.com/articles/lions-roster-bubble-watch-jackson-120000903.html",
+      "description": "Our staff makes their final predictions for the 2026 Detroit Lions roster bubbler players on offense....",
+      "pubDate": "2026-08-30T12:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Broncos Country likes Ehlinger in the second QB spot",
+      "link": "https://sports.yahoo.com/articles/broncos-country-likes-ehlinger-second-120000606.html",
+      "description": "Voting before the final preseason game, Broncos Country was already high on Sam Ehlinger as Denver’s backup QB. But had the poll benn taken after the win over the Vikings — in whic...",
+      "pubDate": "2026-08-30T12:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jaguars acquire Quinn Ewers in trade with Dolphins",
+      "link": "https://www.espn.com/nfl/story/_/id/49766035/jacksonville-jaguars-acquire-quinn-ewers-miami-dolphins",
+      "description": "The Jaguars have traded for quarterback Quinn Ewers, who played in four games for the Dolphins last season and completed 66.3% of his passes, sending a 2018 sixth-round pick to Miami in return.",
+      "pubDate": "2026-08-30T11:42:57Z",
+      "source": "ESPN NFL · Michael Dirocco and Marcel Louis-Jacques",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708705_600x600_1-1.jpg"
+    },
+    {
+      "title": "An Aaron Donald comeback could create costly contract dilemma for Rams",
+      "link": "https://sports.yahoo.com/articles/aaron-donald-comeback-could-create-113000209.html",
+      "description": "Rams defensive standouts Kobie Turner and Braden Fiske could benefit from Aaron Donald&#39;s return to the Rams, or see their playing time decrease....",
+      "pubDate": "2026-08-30T11:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "12 NFL teams did not play their starting quarterbacks in the preseason",
+      "link": "https://sports.yahoo.com/articles/12-nfl-teams-did-not-111021313.html",
+      "description": "The growing trend of NFL teams keeping their quarterbacks out of the preseason has reached the point where more than one-third of starting quarterbacks did not take a single snap i...",
+      "pubDate": "2026-08-30T11:10:21+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "New York Jets News: Jets start cutdown day early by releasing Bailey Zappe",
+      "link": "https://sports.yahoo.com/articles/york-jets-news-jets-start-110000658.html",
+      "description": "Happy Sunday, Jets fans! It may or may not turn into a Happy Sunday for players on the Jets roster. The team needs to get down to 53 players by 6:00 pm Eastern. If history is any j...",
+      "pubDate": "2026-08-30T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Ex-TCU S Jacob Fields charged over alleged punch of teammate",
+      "link": "https://www.espn.com/college-football/story/_/id/49772714/ex-tcu-s-jacob-fields-charged-alleged-punch-teammate",
+      "description": "Former TCU safety Jacob Fields is facing an assault charge stemming from his alleged punching of a teammate that led to his dismissal from the squad.",
+      "pubDate": "2026-08-30T15:13:37Z",
+      "source": "ESPN College Football · Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2016/0504/r79974_1296x729_16-9.jpg"
+    },
+    {
+      "title": "New Mexico State Aggies vs. Florida State Seminoles: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49772934/full-highlights",
+      "description": "New Mexico State Aggies vs. Florida State Seminoles: Full Highlights",
+      "pubDate": "2026-08-30T15:13:30Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0830/07fd5998-b932-4e9f-b849-86ff730f5bd1/07fd5998-b932-4e9f-b849-86ff730f5bd1.jpg"
+    },
+    {
+      "title": "East Texas A&M Lions vs. Mercer Bears: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49768621/full-highlights",
+      "description": "East Texas A&M Lions vs. Mercer Bears: Full Highlights",
+      "pubDate": "2026-08-30T14:30:31Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0830/ab0d4ace-dda5-4a18-b801-b45447a783c5/ab0d4ace-dda5-4a18-b801-b45447a783c5.jpg"
+    },
+    {
+      "title": "Beau Pribula dazzles in Virginia debut as Cavaliers overwhelm NC State 34-8 in season, ACC opener",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858202",
+      "description": "— Transfer quarterback Beau Pribula dazzled in his Virginia debut as the Cavaliers dominated North Carolina State 34-8 in the season and ACC opener for both teams on Saturday.",
+      "pubDate": "2026-08-30T14:12:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858202.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "South Carolina State dismantles Savannah State in 87-point shutout",
+      "link": "https://www.espn.com/college-football/story/_/id/49771504/south-carolina-state-routs-savannah-state-87-point-shutout",
+      "description": "Keely Watson threw three touchdown passes and Josh Shaw ran for three scores as defending HBCU national champion South Carolina State defeated Savannah State 87-0 on Saturday.",
+      "pubDate": "2026-08-30T13:23:36Z",
+      "source": "ESPN College Football",
+      "thumbnail": ""
+    },
+    {
+      "title": "William Jewell College RB dies after medical emergency during game",
+      "link": "https://www.espn.com/college-football/story/_/id/49766584/william-jewell-college-rb-dies-medical-emergency-game",
+      "description": "William Jewell College junior running back Micah Jo Barnett died after experiencing a medical emergency on the sideline during the Missouri-based Division II school's season opener.",
+      "pubDate": "2026-08-30T13:17:45Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2016/0917/r126977_600x400_3-2.jpg"
+    },
+    {
+      "title": "Paul Finebaum eats some crow after Belichick, UNC top TCU",
+      "link": "https://www.espn.com/video/clip/_/id/49771881/paul-finebaum-eats-some-crow-belichick-unc-top-tcu",
+      "description": "Paul Finebaum eats some crow after Belichick, UNC top TCU",
+      "pubDate": "2026-08-30T13:05:03Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/ss_20260830_085120041_3641447/ss_20260830_085120041_3641447.jpg"
+    },
+    {
+      "title": "North Dakota State cruises in Bison's first-ever FBS game",
+      "link": "https://www.espn.com/college-football/story/_/id/49768114/north-dakota-state-cruises-bison-first-ever-fbs-game",
+      "description": "Nathan Hayes completed 14 of 22 passes with two touchdowns and Myles Mitchell ran for 74 yards as North Dakota State, a former FCS power that owns 10 national titles, raced to a 33-7 win over Jacksonville State in the Bison's first FBS game.",
+      "pubDate": "2026-08-30T11:57:12Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708792_600x600_1-1.jpg"
+    },
+    {
+      "title": "UNC opens Belichick's second season with upset of TCU",
+      "link": "https://www.espn.com/college-football/story/_/id/49765005/unc-opens-belichick-second-season-upset-tcu",
+      "description": "New quarterback Billy Edwards Jr. threw for 232 yards as North Carolina opened coach Bill Belichick's second season with a 15-10 win over TCU on a rainy Saturday in Ireland.",
+      "pubDate": "2026-08-30T11:18:37Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708608_600x400_3-2.jpg"
+    },
     {
       "title": "Memphis rallies to victory in Vegas, gives Huff winning debut",
       "link": "https://www.espn.com/college-football/story/_/id/49769853/memphis-rallies-victory-vegas-gives-huff-winning-debut",
@@ -426,14 +498,6 @@
       "pubDate": "2026-08-30T05:55:30Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401862693.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "New Mexico State Aggies vs. Florida State Seminoles: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49768547/full-highlights",
-      "description": "New Mexico State Aggies vs. Florida State Seminoles: Full Highlights",
-      "pubDate": "2026-08-30T05:36:58Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0830/913bc421-cba2-4485-b240-b1d33ce1efa6/913bc421-cba2-4485-b240-b1d33ce1efa6.jpg"
     },
     {
       "title": "North Carolina takes down TCU in Ireland",
@@ -524,14 +588,6 @@
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858201.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "William Jewell College RB dies after medical emergency during game",
-      "link": "https://www.espn.com/college-football/story/_/id/49766584/william-jewell-college-rb-dies-medical-emergency-game",
-      "description": "William Jewell College junior RB Micah Jo Barnett died after experiencing a medical emergency on the sideline during the Missouri-based Division II school's season opener.",
-      "pubDate": "2026-08-30T03:49:43Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2016/0917/r126977_600x400_3-2.jpg"
-    },
-    {
       "title": "Mercer uses all phases and holds off East Texas A&m 23-15",
       "link": "http://www.espn.com/ncf/recap?gameId=401874042",
       "description": "— Jaylen King threw for a touchdown and Cameron Goggins had an interception return for a touchdown and Mercer held off East Texas A&M 23-15 in a season opener on Saturday night.",
@@ -580,28 +636,12 @@
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868305.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Texas A&M-Commerce Lions vs. Mercer Bears: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49768621/full-highlights",
-      "description": "Texas A&M-Commerce Lions vs. Mercer Bears: Full Highlights",
-      "pubDate": "2026-08-30T02:39:51Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0830/ab0d4ace-dda5-4a18-b801-b45447a783c5/ab0d4ace-dda5-4a18-b801-b45447a783c5.jpg"
-    },
-    {
       "title": "South Dakota State routs Stetson 70-7",
       "link": "http://www.espn.com/ncf/recap?gameId=401872615",
       "description": "— James Basinger and Corey Blair Jr. each surpassed 100 yards rushing and combined for three of South Dakota State's 10 touchdowns as the Jackrabbits routed Stetson 70-7 on Saturday in a season opener.",
       "pubDate": "2026-08-30T02:39:37Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401872615.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "North Dakota State cruises in Bison's first FBS game",
-      "link": "https://www.espn.com/college-football/story/_/id/49768114/north-dakota-state-cruises-bison-first-ever-fbs-game",
-      "description": "Nathan Hayes completed 14 of 22 passes with two touchdowns, and Myles Mitchell ran for 74 yards, as North Dakota State, a former FCS power that owns 10 national titles, raced to a 33-7 win over Jacksonville State in the Bison's first FBS game on Saturday.",
-      "pubDate": "2026-08-30T02:33:18Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708792_600x600_1-1.jpg"
     },
     {
       "title": "Noah Kim's 3 touchdowns lead Eastern Michigan to 28-17 win over Sacramento State",
@@ -684,14 +724,6 @@
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0829/d728e578-787a-4960-a8a8-a0be05762e19/d728e578-787a-4960-a8a8-a0be05762e19.jpg"
     },
     {
-      "title": "Beau Pribula dazzles in Virginia debut as Cavaliers overwhelm NC State 34-8 in season, ACC opener",
-      "link": "http://www.espn.com/ncf/recap?gameId=401858202",
-      "description": "— Transfer quarterback Beau Pribula dazzled in his Virginia debut as the Cavaliers drilled visiting North Carolina State 34-8 in the season and ACC opener for both squads on Saturday at Scott Stadium.",
-      "pubDate": "2026-08-29T22:58:31Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858202.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
       "title": "Cleeland, UC Davis dodge Portland St. upset bid with 31-24 win",
       "link": "http://www.espn.com/ncf/recap?gameId=401868154",
       "description": "— Treynor Cleeland threw two touchdown passes and Jordan Fisher ran for two scores, and UC Davis overcame a 21-point deficit to beat Portland State 34-21 in a season and Big Sky Conference opener on Saturday.",
@@ -756,14 +788,6 @@
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0829/67a41e4c-c02a-46a9-a1b9-4562d199e262/67a41e4c-c02a-46a9-a1b9-4562d199e262.jpg"
     },
     {
-      "title": "UNC opens Belichick's second season with upset of TCU",
-      "link": "https://www.espn.com/college-football/story/_/id/49765005/unc-opens-belichick-second-season-upset-tcu",
-      "description": "New quarterback Billy Edwards Jr. threw for 232 yards as North Carolina opened coach Bill Belichick's second season with a 15-10 win over TCU on a rainy Saturday in Ireland.",
-      "pubDate": "2026-08-29T20:24:40Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708608_600x400_3-2.jpg"
-    },
-    {
       "title": "North Carolina Opens Bill Belichick's 2nd Season With Win Over TCU In Ireland",
       "link": "https://www.foxsports.com/stories/college-football/north-carolina-tcu-recap-bill-belichick-future",
       "description": "New quarterback Billy Edwards Jr. threw for 232 yards and North Carolina opened coach Bill Belichick’s second season with a 15-10 win over TCU.",
@@ -772,39 +796,167 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/unc1.jpg"
     },
     {
-      "title": "Top returning TCU receiver Jordan Dwyer out vs. UNC",
-      "link": "https://www.espn.com/college-football/story/_/id/49762264/sources-tcu-top-returning-receiver-jordan-dwyer-vs-unc",
-      "description": "TCU wide receiver Jordan Dwyer did not play against North Carolina in Ireland on Saturday due to a foot injury.",
-      "pubDate": "2026-08-29T17:59:51Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0118/r1602380_600x400_3-2.jpg"
-    },
-    {
       "title": "Arizona State to start transfer Cutter Boley at QB",
       "link": "https://www.espn.com/college-football/story/_/id/49763064/sources-arizona-state-start-transfer-cutter-boley-qb",
       "description": "Cutter Boley has been named Arizona State's starting quarterback after winning the job over transfer Mikey Keene and freshman Jake Fette.",
       "pubDate": "2026-08-29T17:58:29Z",
       "source": "ESPN College Football · Pete Thamel",
       "thumbnail": "https://a.espncdn.com/photo/2026/0104/r1596332_1296x729_16-9.jpg"
-    },
-    {
-      "title": "All the top sights and sounds from North Carolina vs. TCU in Ireland",
-      "link": "https://www.espn.com/college-football/story/_/id/49753937/north-carolina-tcu-dublin-ireland-sights-sounds",
-      "description": "For the fifth straight year, major college football will open with a Week 0 tilt abroad, as North Carolina and TCU meet in Dublin.",
-      "pubDate": "2026-08-29T15:40:14Z",
-      "source": "ESPN College Football · ESPN Staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0828/r1708222_608x342_16-9.jpg"
-    },
-    {
-      "title": "Jordan Rodgers pulls pints in Dublin bar ahead of North Carolina-TCU",
-      "link": "https://www.espn.com/video/clip/_/id/49762318/jordan-rodgers-pulls-pints-dublin-bar-ahead-north-carolina-tcu",
-      "description": "Jordan Rodgers pulls pints in Dublin bar ahead of North Carolina-TCU",
-      "pubDate": "2026-08-29T14:18:06Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0829/dm_260829_Jordan_Rodgers_pulls_pints_in_Dublin_bar617/dm_260829_Jordan_Rodgers_pulls_pints_in_Dublin_bar617.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
+      "link": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
+      "description": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
+      "pubDate": "2026-08-30T15:07:33Z",
+      "source": "ESPN NFL · ESPN Staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708773_608x342_16-9.jpg"
+    },
+    {
+      "title": "Report: George Kittle is expected to practice this week",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-george-kittle-is-expected-to-practice-this-week",
+      "description": "49ers head coach Kyle Shanahan said after the team's final preseason game that tight end George Kittle had \"taken a step back\" when discussing Kittle's return from a torn Achilles,...",
+      "pubDate": "2026-08-30T15:06:43+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jaguars to trade TE Hunter Long to Cardinals",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-to-trade-te-hunter-long-to-cardinals",
+      "description": "The Jaguars and Cardinals have agreed to a trade....",
+      "pubDate": "2026-08-30T14:57:17+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL offseason trade grades: Gervon Dexter, Broderick Jones",
+      "link": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
+      "description": "We're making sense of seven big preseason deals, including Broderick Jones to the Cowboys.",
+      "pubDate": "2026-08-30T14:48:53Z",
+      "source": "ESPN NFL · Seth Walder and Ben Solak",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1014/r1559876_608x342_16-9.jpg"
+    },
+    {
+      "title": "Source: Bucs tab undrafted rookie Jalon Daniels as backup QB",
+      "link": "https://www.espn.com/nfl/story/_/id/49772519/source-bucs-tab-undrafted-rookie-jalon-daniels-backup-qb",
+      "description": "The Buccaneers have decided that Jalon Daniels, an undrafted rookie free agent, will be their backup quarterback to start the season, a source told NFL Network.",
+      "pubDate": "2026-08-30T14:43:02Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708963_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Buccaneers to release Jake Browning; Jalon Daniels set to be No. 2 QB",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-to-release-jake-browning-jalon-daniels-set-to-be-no-2-qb",
+      "description": "The Buccaneers gave undrafted rookie Jalon Daniels a shot to win the backup quarterback job and he took full advantage of it....",
+      "pubDate": "2026-08-30T14:39:37+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Aaron Donald's contract looms over his potential return",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donalds-contract-looms-over-his-potential-return",
+      "description": "If the two sides can't reach a deal as to what he'd be paid, things could get very interesting....",
+      "pubDate": "2026-08-30T14:35:15+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Cowboys acquire OT Jones in exchange for draft picks",
+      "link": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks",
+      "description": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-round pick in 2027 to the Cowboys in exchange for a 2027 third- and sixth-round pick.",
+      "pubDate": "2026-08-30T14:19:45Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0501/r1651739_600x400_3-2.jpg"
+    },
+    {
+      "title": "Sources: Falcons add Gervon Dexter Sr. in trade with Bears",
+      "link": "https://www.espn.com/nfl/story/_/id/49771892/sources-falcons-add-gervon-dexter-sr-trade-bears",
+      "description": "The Falcons traded for defensive tackle Gervon Dexter Sr. in a deal with the Bears, sources told ESPN.",
+      "pubDate": "2026-08-30T14:09:28Z",
+      "source": "ESPN NFL · Marc Raimondi",
+      "thumbnail": "https://a.espncdn.com/photo/2024/1021/r1403752_1296x729_16-9.jpg"
+    },
+    {
+      "title": "North Dakota State wins first game as FBS program",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/north-dakota-state-wins-first-game-as-fbs-program",
+      "description": "The Fargodome was a-rockin'....",
+      "pubDate": "2026-08-30T13:49:21+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins waive QB Cam Miller",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-waive-qb-cam-miller",
+      "description": "The Dolphins traded Quinn Ewers to the Jaguars on Saturday and they've parted ways with another backup quarterback on Sunday....",
+      "pubDate": "2026-08-30T13:32:45+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills agree to trade C Sedrick Van Pran-Granger to Colts",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-agree-to-trade-c-sedrick-van-pran-granger-to-colts",
+      "description": "The Colts are adding an offensive lineman to the roster on Sunday....",
+      "pubDate": "2026-08-30T13:26:40+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "ACC debuted FIFA-style ref cam on Saturday",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/acc-debuted-fifa-style-ref-cam-on-saturday",
+      "description": "The NFL is lagging when it comes to innovation....",
+      "pubDate": "2026-08-30T13:12:30+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
+      "link": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
+      "description": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
+      "pubDate": "2026-08-30T12:59:31Z",
+      "source": "ESPN NFL · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2024/1021/r1403752_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Bears to trade DT Gervon Dexter to Falcons for CB Clark Phillips and fifth-round pick",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-to-trade-dt-gervon-dexter-to-falcons-for-cb-clark-phillips-and-fifth-round-pick",
+      "description": "Defensive tackle Gervon Dexter is on the move ahead of Sunday afternoon's deadline to set 53-man rosters around the league....",
+      "pubDate": "2026-08-30T12:44:52+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dan Campbell \"comfortable\" with Jacob Saylors as Lions' No. 2 running back",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-comfortable-with-jacob-saylors-as-lions-no-2-running-back",
+      "description": "The Lions came into the summer with a plan for Isiah Pacheco to be their No. 2 running back behind Jahmyr Gibbs, but Pacheco has dealt with multiple injuries this month and that ma...",
+      "pubDate": "2026-08-30T12:03:52+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts WR Keenan Allen arrested for DWI",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-wr-keenan-allen-arrested-for-dwi",
+      "description": "Colts wide receiver Keenan Allen was arrested in Indianapolis early on Sunday morning....",
+      "pubDate": "2026-08-30T11:51:07+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jaguars acquire Quinn Ewers in trade with Dolphins",
+      "link": "https://www.espn.com/nfl/story/_/id/49766035/jacksonville-jaguars-acquire-quinn-ewers-miami-dolphins",
+      "description": "The Jaguars have traded for quarterback Quinn Ewers, who played in four games for the Dolphins last season and completed 66.3% of his passes, sending a 2018 sixth-round pick to Miami in return.",
+      "pubDate": "2026-08-30T11:42:57Z",
+      "source": "ESPN NFL · Michael Dirocco and Marcel Louis-Jacques",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708705_600x600_1-1.jpg"
+    },
+    {
+      "title": "12 NFL teams did not play their starting quarterbacks in the preseason",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/12-nfl-teams-did-not-play-their-starting-quarterbacks-in-the-preseason",
+      "description": "The growing trend of NFL teams keeping their quarterbacks out of the preseason has reached the point where more than one-third of starting quarterbacks did not take a single snap i...",
+      "pubDate": "2026-08-30T11:10:21+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Bears third-round pick Zavion Thomas scores 97-yard touchdown on his first NFL play",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-third-round-pick-zavion-thomas-scores-97-yard-touchdown-on-his-first-nfl-play",
@@ -846,28 +998,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Sources: Cowboys acquire OT Jones in exchange for two draft picks",
-      "link": "https://www.espn.com/nfl/story/_/id/49766398/sources-cowboys-acquire-ot-jones-exchange-two-draft-picks",
-      "description": "The Steelers are sending 2023 first-round pick Broderick Jones and a fourth-round pick in 2027 to the Cowboys in exchange for a 2027 third- and sixth-round pick, sources told ESPN.",
-      "pubDate": "2026-08-30T02:26:08Z",
-      "source": "ESPN NFL · Brooke Pryor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0501/r1651739_600x400_3-2.jpg"
-    },
-    {
       "title": "Dallas Cowboys Reportedly Acquire Offensive Tackle Broderick Jones From Steelers",
       "link": "https://www.foxsports.com/stories/nfl/cowboys-acquire-offensive-tackle-broderick-jones-from-steelers-ap-source-says",
       "description": "The Dallas Cowboys have reportedly acquired offensive tackle Broderick Jones from the Pittsburgh Steelers.",
       "pubDate": "2026-08-30T01:27:02+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/brodddd.jpg"
-    },
-    {
-      "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
-      "link": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-      "description": "We're following releases, trades, signings, practice squad additions and other intriguing moves for all 32 NFL teams.",
-      "pubDate": "2026-08-30T01:08:58Z",
-      "source": "ESPN NFL · ESPN staff",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1125/r1580576_608x342_16-9.jpg"
     },
     {
       "title": "College running back MicahJo Barnett dies after medical emergency on sideline",
@@ -878,28 +1014,12 @@
       "thumbnail": ""
     },
     {
-      "title": "2026 NFL offseason trade grades: Broderick Jones, Tutu Atwell",
-      "link": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
-      "description": "We're making sense of six big preseason deals, including Tutu Atwell to the Rams.",
-      "pubDate": "2026-08-30T00:53:37Z",
-      "source": "ESPN NFL · Seth Walder and Ben Solak",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708773_608x342_16-9.jpg"
-    },
-    {
       "title": "Anthony Richardson the favorite to win backup QB job after preseason finale",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-the-favorite-to-win-backup-qb-job-after-preseason-finale",
       "description": "Anthony Richardson lost his starting job last year....",
       "pubDate": "2026-08-30T00:31:28+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Jacksonville Jaguars acquire Quinn Ewers from Miami Dolphins",
-      "link": "https://www.espn.com/nfl/story/_/id/49766035/jacksonville-jaguars-acquire-quinn-ewers-miami-dolphins",
-      "description": "On Saturday, the Jacksonville Jaguars traded for quarterback Quinn Ewers, 23, who played in four games last season and completed 66.3% of his passes, sending a sixth-round pick in 2028 to the Miami Dolphins for the second-year player, the teams announced.",
-      "pubDate": "2026-08-29T23:24:22Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708705_600x600_1-1.jpg"
     },
     {
       "title": "Giants cut eight, including WR Isaiah Hodgins",
@@ -916,14 +1036,6 @@
       "pubDate": "2026-08-29T22:50:27+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
-      "link": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
-      "description": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-      "pubDate": "2026-08-29T22:27:07Z",
-      "source": "ESPN NFL · ESPN Staff",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0929/r1552919_608x342_16-9.jpg"
     },
     {
       "title": "Steelers trade Broderick Jones to Cowboys",
@@ -982,92 +1094,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Report: 49ers cut Adrian Martinez as Kurtis Rourke wins No. 3 QB job",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-49ers-cut-adrian-martinez-as-kurtis-rourke-wins-no-3-qb-job",
-      "description": "The 49ers didn't see much of Curtis Rourke in the preseason as he missed the final two games with fractured ribs....",
-      "pubDate": "2026-08-29T21:02:46+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills will replace grass field at new stadium before home opener",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-will-replace-grass-field-at-new-stadium-before-home-opener",
-      "description": "Large divots were a problem during the preseason....",
-      "pubDate": "2026-08-29T20:48:33+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins trade QB Quinn Ewers to Jaguars",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-trade-qb-quinn-ewers-to-jaguars",
-      "description": "Quinn Ewers is on the move....",
-      "pubDate": "2026-08-29T20:47:56+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers waive DB Travion Fluellen to make room for Jonnu Smith",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-waive-db-travion-fluellen-to-make-room-for-jonnu-smith",
-      "description": "Free agent tight end Jonnu Smith agreed to a one-year deal with the Packers earlier this week....",
-      "pubDate": "2026-08-29T20:38:32+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seahawks officially sign CB Terrion Arnold",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-officially-sign-cb-terrion-arnold",
-      "description": "The Seahawks have made it official....",
-      "pubDate": "2026-08-29T20:30:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Source: Bills cut punter Wishnowsky; Hardman also released",
       "link": "https://www.espn.com/nfl/story/_/id/49762865/source-bills-releasing-veterans-hardman-wishnowsky",
       "description": "The Bills are releasing veteran returner and wide receiver Mecole Hardman Jr. A source confirmed to ESPN that the team is also releasing punter Mitch Wishnowsky.",
       "pubDate": "2026-08-29T20:10:53Z",
       "source": "ESPN NFL · Alaina Getzenberg",
       "thumbnail": "https://a.espncdn.com/photo/2026/0117/r1601961_600x400_3-2.jpg"
-    },
-    {
-      "title": "Bills announce 13 cuts",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-announce-13-cuts",
-      "description": "The Bills announced their first wave of cuts on Saturday afternoon....",
-      "pubDate": "2026-08-29T20:06:48+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ravens waive 2025 sixth-rounder Robert Longerbeam",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-waive-2025-sixth-rounder-robert-longerbeam",
-      "description": "A 2025 draft pick is among the Ravens' cuts as they move toward a 53-man roster....",
-      "pubDate": "2026-08-29T19:55:09+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bill Belichick starts Year Two 1-0 as North Carolina beats TCU",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-starts-year-two-1-0-as-north-carolina-beats-tcu",
-      "description": "Bill Belichick's second season as a college football head coach is off to a better start than his first season....",
-      "pubDate": "2026-08-29T19:36:55+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "John Harbaugh on Odell Beckham Jr.: We'll have to see throughout the weekend if he makes the roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-on-odell-beckham-jr-well-have-to-see-throughout-the-weekend-if-he-makes-the-roster",
-      "description": "Harbaugh said Friday night that Beckham has done enough to make an NFL roster....",
-      "pubDate": "2026-08-29T19:27:17+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Panthers agree to sign Bobby Okereke, waive seven players",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-agree-to-sign-bobby-okereke-waive-seven-players",
-      "description": "The Panthers are adding a veteran linebacker at the same time as they are cutting their roster down to 53 players....",
-      "pubDate": "2026-08-29T19:19:04+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "Source: Panthers agree with veteran LB Bobby Okereke",
@@ -1090,22 +1122,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-trade-rb-corey-kiner-to-patriots-for-a-2028-seventh-round-pick",
       "description": "The Patriots have added some depth at running back through a trade with the Cardinals....",
       "pubDate": "2026-08-29T17:53:09+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chris Olave's new deal has guarantee waiver for career-ending concussion",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-olaves-new-deal-has-guarantee-waiver-for-career-ending-concussion",
-      "description": "The new contract recently signed by Saints receiver Chris Olave comes with an important caveat....",
-      "pubDate": "2026-08-29T16:51:25+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins begin roster cuts, waive 12 players",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-begin-roster-cuts-waive-12-players",
-      "description": "The Dolphins have announced a wave of cuts, with all clubs set to reduce their rosters to 53 players this weekend....",
-      "pubDate": "2026-08-29T16:38:59+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
