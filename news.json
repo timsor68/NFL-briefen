@@ -1,251 +1,227 @@
 {
-  "generatedAt": "2026-08-30T21:48:15.808613+00:00",
+  "generatedAt": "2026-08-31T00:08:02.714823+00:00",
   "nfl": [
+    {
+      "title": "2026 NFL roster cuts: Biggest moves, more for all 32 teams",
+      "link": "https://www.espn.com/nfl/story/_/id/49681232/2026-nfl-cuts-all-32-teams-cutdown-moves-updates-tracker",
+      "description": "Sunday was the deadline for NFL teams to finalize their 53-man rosters ahead of the 2026 season. We have full lists of cuts and big moves for all 32.",
+      "pubDate": "2026-08-31T00:05:15Z",
+      "source": "ESPN NFL · NFL Nation",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709179_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Aaron Donald Returns: Which Stars Can He Join In Shining After Prolonged Retirement",
+      "link": "https://www.foxsports.com/stories/nfl/aaron-donald-returns-which-stars-can-he-join-shining-after-prolonged-retirement",
+      "description": "Aaron Donald joined a shortlist of NFL legends who have retired from the league only to come back.",
+      "pubDate": "2026-08-31T00:03:19+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/aaron-donald-returns.jpg"
+    },
+    {
+      "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
+      "link": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
+      "description": "The roster cut deadline has passed! We followed all the releases, trades, signings, practice squad additions for 32 NFL teams.",
+      "pubDate": "2026-08-31T00:02:33Z",
+      "source": "ESPN NFL · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709159_1296x729_16-9.jpg"
+    },
+    {
+      "title": "6 things we learned from the Rams’ 53-man roster",
+      "link": "https://sports.yahoo.com/articles/6-things-learned-rams-53-000000371.html",
+      "description": "Rams 53-man roster instant reaction: LA wins Tutu Atwell trade, Wesley Bailey makes it, and more...",
+      "pubDate": "2026-08-31T00:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Baltimore Ravens waiver wire and practice squad tracker",
+      "link": "https://sports.yahoo.com/articles/2026-baltimore-ravens-waiver-wire-000000211.html",
+      "description": "Tracking all of the Baltimore Ravens’ 2026 waiver wire and practice squad moves!...",
+      "pubDate": "2026-08-31T00:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Aaron Donald's wife, Erica, has humorous response to Donald's return",
+      "link": "https://www.espn.com/nfl/story/_/id/49777339/aaron-erica-donald-response-los-angeles-rams-nfl-unretirement-return",
+      "description": "Aaron Donald's wife, Erica, was a key part of the offseason rumors swirling that Donald might return to the Los Angeles Rams.",
+      "pubDate": "2026-08-30T23:59:55Z",
+      "source": "ESPN NFL · Anthony Gharib",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709232_608x342_16-9.jpg"
+    },
+    {
+      "title": "Seahawks cut Trevon Diggs, but they have a plan for him",
+      "link": "https://sports.yahoo.com/articles/seahawks-cut-trevon-diggs-plan-235425910.html",
+      "description": "Diggs was cut by the Seahawks on deadline day....",
+      "pubDate": "2026-08-30T23:54:25+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Packers RB Josh Jacobs placed on commissioner exempt list",
+      "link": "https://www.espn.com/nfl/story/_/id/49774523/packers-rb-josh-jacobs-placed-commission-exempt-list",
+      "description": "The NFL has placed Packers running back Josh Jacobs on the commissioner exempt list.",
+      "pubDate": "2026-08-30T23:53:19Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1122/r1579219_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Jaguars’ initial 53-man roster includes surprises at LB, answers at QB",
+      "link": "https://sports.yahoo.com/articles/jaguars-initial-53-man-roster-235136959.html",
+      "description": "The Jags are only carrying 5 LBs?! and other observations from the first 53-man roster of the season....",
+      "pubDate": "2026-08-30T23:51:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Carolina Panthers practice squad roster tracker",
+      "link": "https://sports.yahoo.com/articles/carolina-panthers-practice-squad-roster-235057373.html",
+      "description": "Keep up with the Panthers roster moves after the 53-man cutdown...",
+      "pubDate": "2026-08-30T23:50:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy football Knockout league rankings: The 252 players to draft",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/49309401/fantasy-football-knockout-rankings-top-200",
+      "description": "Rankings for knockout leagues, where the lowest-scoring team is eliminated and the last team standing wins.",
+      "pubDate": "2026-08-30T23:50:36Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0708/r1686582_1296x729_16-9.jpg"
+    },
     {
       "title": "Sources: Aaron Donald unretires, reaches $20M deal with Rams",
       "link": "https://www.espn.com/nfl/story/_/id/49775423/sources-aaron-donald-unretires-reaches-20m-deal-rams",
       "description": "Star defensive tackle Aaron Donald is coming out of retirement to try to help the Rams win another Super Bowl. He agreed to a one-year, $20 million deal, sources told ESPN's Adam Schefter and the NFL Network's Ian Rapoport.",
-      "pubDate": "2026-08-30T21:42:51Z",
+      "pubDate": "2026-08-30T23:47:00Z",
       "source": "ESPN NFL · Sarah Barshop",
       "thumbnail": "https://a.espncdn.com/photo/2024/0315/r1305395_1296x729_16-9.jpg"
     },
     {
-      "title": "Rams poke fun at Miami Heat LeBron gaffe before Aaron Donald announcement",
-      "link": "https://www.espn.com/nfl/story/_/id/49776103/los-angeles-rams-aaron-donald-return-miami-heat-lebron-james-live-stream-link",
-      "description": "A minute before announcing Aaron Donald's return, the Rams poked fun at the Heat accidentally posting a live stream link for LeBron James' return.",
-      "pubDate": "2026-08-30T21:38:58Z",
-      "source": "ESPN NFL · Anthony Gharib",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709189_608x342_16-9.jpg"
-    },
-    {
-      "title": "Arizona Cardinals 2026 live cut tracker",
-      "link": "https://sports.yahoo.com/articles/arizona-cardinals-2026-live-cut-033000913.html",
-      "description": "Following along with all the Arizona Cardinals roster cuts....",
-      "pubDate": "2026-08-30T21:38:57+00:00",
+      "title": "Carolina Panthers 2026 roster cuts tracker",
+      "link": "https://sports.yahoo.com/articles/carolina-panthers-2026-roster-cuts-024733857.html",
+      "description": "Live updates and discussion of the Carolina Panthers roster cut down...",
+      "pubDate": "2026-08-30T23:46:45+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "NFL stars who unretired: Aaron Donald joins Deion Sanders",
-      "link": "https://www.espn.com/nfl/story/_/id/49528330/unretired-nfl-stars-aaron-donald-deion-sanders",
-      "description": "From Randall Cunningham to Bronko Nagurski to Jason Witten, here are the top players who came back for more.",
-      "pubDate": "2026-08-30T21:38:35Z",
-      "source": "ESPN NFL · Kevin Seifert",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0805/r1698050_608x342_16-9.jpg"
-    },
-    {
-      "title": "Aaron Donald’s return is the worst news for this rookie",
-      "link": "https://sports.yahoo.com/articles/aaron-donald-return-worst-news-213834135.html",
-      "description": "Rookie Carver Willis just won the 49ers’ starting spot at left guard. His first game will be against Aaron Donald....",
-      "pubDate": "2026-08-30T21:38:34+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aaron Donald return: Week 2 just got scarier for the Giants",
-      "link": "https://sports.yahoo.com/articles/aaron-donald-return-week-2-213800002.html",
-      "description": "Aaron Donald returns to the LA Rams, making a deep defensive front even more dangerous...",
-      "pubDate": "2026-08-30T21:38:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Browns keep 3 QBs on roster, put Dillon Gabriel (back) on IR",
-      "link": "https://www.espn.com/nfl/story/_/id/49776263/browns-keep-3-qbs-roster-put-dillon-gabriel-back-ir",
-      "description": "Cleveland placed Dillon Gabriel on injured reserve and designated him to return with a back injury, and will carry Deshaun Watson, Shedeur Sanders and rookie Taylen Green as the quarterbacks on their initial 53-man roster.",
-      "pubDate": "2026-08-30T21:37:53Z",
-      "source": "ESPN NFL · Daniel Oyefusi",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0828/r1707985_600x400_3-2.jpg"
-    },
-    {
-      "title": "Patriots roster cuts tracker: All the latest moves, news, rumors, and more",
-      "link": "https://sports.yahoo.com/articles/patriots-roster-cuts-tracker-latest-040000073.html",
-      "description": "Tracking New England’s transactions ahead of the upcoming roster deadline...",
-      "pubDate": "2026-08-30T21:37:13+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots add offensive lineman via trade with Vikings",
-      "link": "https://sports.yahoo.com/articles/patriots-add-offensive-lineman-via-213558401.html",
-      "description": "The Patriots have added Walter Rouse from the Vikings....",
-      "pubDate": "2026-08-30T21:35:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Former Eagles roster cuts and practice squad tracker",
-      "link": "https://sports.yahoo.com/articles/former-eagles-roster-cuts-practice-154716076.html",
-      "description": "Here’s a look at former Eagles players affected by 2026 roster cuts....",
-      "pubDate": "2026-08-30T21:35:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-      "link": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html",
-      "description": "An updated look at the Patriots’ roster in 2026....",
-      "pubDate": "2026-08-30T21:35:21+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How active NFL players continue to redefine all-time sack list",
-      "link": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-      "description": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "pubDate": "2026-08-30T21:34:46Z",
-      "source": "ESPN NFL · Sarah Barshop",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg"
-    },
-    {
-      "title": "Vikings to trade OL Walter Rouse to Patriots",
-      "link": "https://sports.yahoo.com/articles/vikings-trade-ol-walter-rouse-213426337.html",
-      "description": "The Patriots are making a move for an offensive lineman ahead of the deadline to set their initial 53-man roster....",
-      "pubDate": "2026-08-30T21:34:26+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Week 1 debut remains &quot;possible&quot; for Aaron Donald",
-      "link": "https://sports.yahoo.com/articles/week-1-debut-remains-possible-213335923.html",
-      "description": "Aaron Donald is back, but when will he officially be back?...",
-      "pubDate": "2026-08-30T21:33:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers place RB Isaac Guerendo on reserve/PUP",
-      "link": "https://sports.yahoo.com/articles/49ers-place-rb-isaac-guerendo-213236056.html",
-      "description": "The 49ers placed running back Isaac Guerendo on the reserve/physically unable to perform list, Jeremy Fowler of ESPN reports....",
-      "pubDate": "2026-08-30T21:32:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Minnesota Vikings Roster Cut Tracker",
-      "link": "https://sports.yahoo.com/articles/minnesota-vikings-roster-cut-tracker-041058094.html",
-      "description": "Making the moves from 91 to 53...",
-      "pubDate": "2026-08-30T21:31:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tracking every Denver Broncos roster cut",
-      "link": "https://sports.yahoo.com/articles/tracking-every-denver-broncos-roster-195908403.html",
-      "description": "Every Broncos roster move as Denver trims to 53 for the 2026 season. Cuts, trades, and practice squad signings, tracked live and updated in real time....",
-      "pubDate": "2026-08-30T21:30:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Denver Broncos waived cornerback Reese Taylor",
-      "link": "https://sports.yahoo.com/articles/denver-broncos-waived-cornerback-reese-212934126.html",
-      "description": "According to Parker Gabriel of The Denver Post, the Denver Broncos have waived cornerback Reese Taylor....",
-      "pubDate": "2026-08-30T21:29:34+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vikings OLB Tyler Batty out for season with torn ACL",
-      "link": "https://sports.yahoo.com/articles/vikings-olb-tyler-batty-season-212752650.html",
-      "description": "The Vikings have lost one of their young defenders for the season....",
-      "pubDate": "2026-08-30T21:27:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "With Aaron Donald back, Rams become one of the strongest Super Bowl favorites in recent years",
-      "link": "https://sports.yahoo.com/nfl/article/with-aaron-donald-back-rams-become-one-of-the-strongest-super-bowl-favorites-in-recent-years-212650163.html",
-      "description": "The Rams have added multiple difference makers on defense this offseason....",
-      "pubDate": "2026-08-30T21:26:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What does Aaron Donald's return mean for Rams? We answer 6 questions",
-      "link": "https://www.espn.com/nfl/story/_/id/49600130/aaron-donald-return-los-angeles-rams-faq",
-      "description": "After two seasons of retirement, Aaron Donald is back with his Rams with eyes on the Super Bowl. Can he help them get there?",
-      "pubDate": "2026-08-30T21:26:36Z",
-      "source": "ESPN NFL · Sarah Barshop, Jeremy Fowler and Ben Solak",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0813/r1701255_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Odell Beckham Jr. earns spot on Giants' 53-man roster",
-      "link": "https://www.espn.com/nfl/story/_/id/49776054/sources-odell-beckham-jr-earns-spot-giants-53-man-roster",
-      "description": "Wide receiver Odell Beckham Jr. has made the Giants' initial 53-man roster after a season out of the NFL.",
-      "pubDate": "2026-08-30T21:26:15Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709181_1296x729_16-9.jpg"
     },
     {
       "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
       "link": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
       "description": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-      "pubDate": "2026-08-30T21:25:25Z",
+      "pubDate": "2026-08-30T23:45:36Z",
       "source": "ESPN NFL · ESPN Staff",
       "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708773_608x342_16-9.jpg"
     },
     {
-      "title": "Reacts Survey Results: Jaguars fans spoke Quinn Ewers trade into existence",
-      "link": "https://sports.yahoo.com/articles/reacts-survey-results-jaguars-fans-212237716.html",
-      "description": "We did it, y’all....",
-      "pubDate": "2026-08-30T21:22:37+00:00",
+      "title": "Aaron Donald takes part in Rams practice Sunday",
+      "link": "https://sports.yahoo.com/articles/aaron-donald-takes-part-rams-234330915.html",
+      "description": "Defensive tackle Aaron Donald returned to the Rams&#39; roster on Sunday and he returned to the field with the team later in the day....",
+      "pubDate": "2026-08-30T23:43:30+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "49ers Practice Squad Tracker: Jalen Stroman is the latest player to be waived",
-      "link": "https://sports.yahoo.com/articles/49ers-practice-squad-tracker-vested-161500163.html",
-      "description": "The 49ers have to cut down to 53 players. But some of those cuts might be sticking around....",
-      "pubDate": "2026-08-30T21:16:52+00:00",
+      "title": "Panthers set their initial 53-player roster",
+      "link": "https://sports.yahoo.com/articles/panthers-set-initial-53-player-234308437.html",
+      "description": "The Panthers have set their initial 53-player roster....",
+      "pubDate": "2026-08-30T23:43:08+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Inside the Aaron Donald comeback deal",
-      "link": "https://sports.yahoo.com/articles/inside-aaron-donald-comeback-deal-211310859.html",
-      "description": "Here&#39;s the full formula for Donald&#39;s potential $30 million payday....",
-      "pubDate": "2026-08-30T21:13:10+00:00",
+      "title": "Cardinals 53-man roster (before waiver wire claims)",
+      "link": "https://sports.yahoo.com/articles/cardinals-53-man-roster-waiver-230151738.html",
+      "description": "Cardinals have a favorable waiver wire position...",
+      "pubDate": "2026-08-30T23:42:24+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Colts have reportedly made a decision regarding offseason kicking competition",
-      "link": "https://sports.yahoo.com/articles/colts-reportedly-made-decision-regarding-211156996.html",
-      "description": "The Colts made a decision at starting kicker, which wasn’t surprising given recent results....",
-      "pubDate": "2026-08-30T21:11:56+00:00",
+      "title": "Aaron Donald unretires, rejoins Rams",
+      "link": "https://www.espn.com/video/clip/_/id/49777699/aaron-donald-unretires-rejoins-rams",
+      "description": "Sarah Barshop breaks down what the expected role is for Aaron Donald with the Rams.",
+      "pubDate": "2026-08-30T23:41:12Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0830/dm_260830_VERTS_16x9_Rams_IA_8-30/dm_260830_VERTS_16x9_Rams_IA_8-30.jpg"
+    },
+    {
+      "title": "Raiders initial 53-man roster notes",
+      "link": "https://sports.yahoo.com/articles/raiders-initial-53-man-roster-233800282.html",
+      "description": "Las Vegas is going with 3 quarterbacks to start regular season...",
+      "pubDate": "2026-08-30T23:38:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "A Giant Decision: Odell Beckham Jr. Will Reportedly Make Giants' 53-Man Roster",
-      "link": "https://www.foxsports.com/stories/nfl/odell-beckham-jr-expected-make-giants-53-man-roster",
-      "description": "Odell Beckham Jr. is expected to make the New York Giants final 53-man roster.",
-      "pubDate": "2026-08-30T21:11:47+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/obj.jpg"
-    },
-    {
-      "title": "Isaac Guerendo to begin the season on the reserve/PUP",
-      "link": "https://sports.yahoo.com/articles/isaac-guerendo-begin-season-pup-210936291.html",
-      "description": "That means Guerendo would miss the first four games of the season...",
-      "pubDate": "2026-08-30T21:09:36+00:00",
+      "title": "Puka Nacua returns to practice, Myles Garrett working on the side",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-returns-practice-myles-233331897.html",
+      "description": "Aaron Donald isn&#39;t the only Rams player making a return to practice on Sunday....",
+      "pubDate": "2026-08-30T23:33:31+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Rams 2026 53-man roster",
-      "link": "https://sports.yahoo.com/articles/rams-2026-53-man-roster-210907007.html",
-      "description": "Rams get down to a final 53-man roster after making cuts on Sunday...",
-      "pubDate": "2026-08-30T21:09:07+00:00",
+      "title": "Denver Broncos Announce 2026 53-Man Roster",
+      "link": "https://sports.yahoo.com/articles/denver-broncos-announce-2026-53-233209043.html",
+      "description": "The Denver Broncos have trimmed their roster down from 91 players to 53 and now have their initial 53-man roster for the 2026 season. Now, we could see a few minor changes in the c...",
+      "pubDate": "2026-08-30T23:32:09+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Denver Broncos have waived wide receiver Cam Ross",
-      "link": "https://sports.yahoo.com/articles/denver-broncos-waived-wide-receiver-210602500.html",
-      "description": "According to Chris Tomasson of the Denver Gazette, the Denver Broncos have waived wide receiver Cam Ross....",
-      "pubDate": "2026-08-30T21:06:02+00:00",
+      "title": "Colts announce official initial 53-man active roster",
+      "link": "https://sports.yahoo.com/articles/colts-announce-official-initial-53-233156769.html",
+      "description": "The Colts’ initial active 53-man roster has been revealed, although the last spots remain fluid with waiver wire claims....",
+      "pubDate": "2026-08-30T23:31:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jonathan Greenard off PUP as Eagles finalize initial 53-man roster",
+      "link": "https://www.espn.com/nfl/story/_/id/49777172/jonathan-greenard-pup-eagles-finalize-initial-53-man-roster",
+      "description": "The Eagles put outside linebacker Jonathan Greenard on the initial 53-man roster, a positive sign as he continues to recover from a pec injury.",
+      "pubDate": "2026-08-30T23:31:22Z",
+      "source": "ESPN NFL · Tim McManus",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709229_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Evaluating Anthony Richardson’s Preseason: What does AR’s future look like in Indy in 2026?",
+      "link": "https://sports.yahoo.com/articles/evaluating-anthony-richardson-preseason-does-233057078.html",
+      "description": "A rollercoaster preseason in what’s already been a rollercoaster career in the NFL...",
+      "pubDate": "2026-08-30T23:30:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patriots practice squad and waiver wire tracker: Signings, losses and rumors",
+      "link": "https://sports.yahoo.com/articles/patriots-practice-squad-waiver-wire-160000332.html",
+      "description": "Keeping track of all of the Patriots’ moves after the NFL roster deadline....",
+      "pubDate": "2026-08-30T23:28:39+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Steelers keep QBs Rudolph, Howard, Allar on roster behind Rodgers",
+      "link": "https://www.espn.com/nfl/story/_/id/49777239/steelers-keep-mason-rudolph-howard-drew-allar-initial-53-man-roster-aaron-rodgers",
+      "description": "The Steelers are keeping four quarterbacks on their initial 53-man roster, with Mason Rudolph, Will Howard and Drew Allar earning spots behind starter Aaron Rodgers.",
+      "pubDate": "2026-08-30T23:28:31Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709231_600x400_3-2.jpg"
+    },
+    {
+      "title": "Raiders set first 53-man roster under HC Klint Kubiak",
+      "link": "https://sports.yahoo.com/articles/raiders-set-first-53-man-232635306.html",
+      "description": "The Raiders have officially set their first 53-man roster under head coach Klint Kubiak....",
+      "pubDate": "2026-08-30T23:26:35+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Steelers announce 53-man roster",
+      "link": "https://sports.yahoo.com/articles/steelers-announce-53-man-roster-232547980.html",
+      "description": "Pittsburgh Steelers announce 53-man roster....",
+      "pubDate": "2026-08-30T23:25:47+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -253,151 +229,175 @@
       "title": "Jaguars 2026 roster cuts tracker: Did Jabbar Muhammad make the team?",
       "link": "https://sports.yahoo.com/articles/jaguars-2026-roster-cuts-tracker-030000614.html",
       "description": "53-man rosters are due by 6 pm on Sunday!...",
-      "pubDate": "2026-08-30T21:02:22+00:00",
+      "pubDate": "2026-08-30T23:25:02+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Dillon Gabriel heads to IR with back injury, shaking up Browns QB depth chart",
-      "link": "https://sports.yahoo.com/articles/dillon-gabriel-heads-ir-back-210144894.html",
-      "description": "The Browns were originally expected to carry four quarterbacks on their 53-man roster, but Dillon Gabriel&#39;s injury will alter their plans....",
-      "pubDate": "2026-08-30T21:01:44+00:00",
+      "title": "Texans place Tank Dell on IR as WR out at least 4 weeks",
+      "link": "https://www.espn.com/nfl/story/_/id/49777386/texans-place-tank-dell-ir-wr-least-4-weeks",
+      "description": "Tank Dell was placed on injured reserve Sunday as the team made its 53-man roster cuts, and the receiver won't be eligible to return to action until Week 5.",
+      "pubDate": "2026-08-30T23:22:15Z",
+      "source": "ESPN NFL · DJ Bien-Aime",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0720/r1691855_600x600_1-1.jpg"
+    },
+    {
+      "title": "Buffalo Bills’ initial 53-man roster of 2026 NFL season, by position",
+      "link": "https://sports.yahoo.com/articles/buffalo-bills-initial-53-man-232159740.html",
+      "description": "The Buffalo Bills’ initial 53-man active roster of the 2026 NFL season is here!...",
+      "pubDate": "2026-08-30T23:21:59+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "How Aaron Donald Can Mimic Michael Jordan With His Rams Reunion",
-      "link": "https://www.foxsports.com/stories/nfl/how-aaron-donald-can-mimic-michael-jordan-his-rams-reunion",
-      "description": "Aaron Donald already has a case as the greatest defensive player in NFL history. He can cement that legacy with a Super Bowl-winning swan song.",
-      "pubDate": "2026-08-30T21:01:23+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/a62574e3-16x9-7.jpg"
+      "title": "Odell Beckham Jr. earns spot on Giants' 53-man roster",
+      "link": "https://www.espn.com/nfl/story/_/id/49776054/sources-odell-beckham-jr-earns-spot-giants-53-man-roster",
+      "description": "Wide receiver Odell Beckham Jr. has made the Giants' initial 53-man roster after a season out of the NFL.",
+      "pubDate": "2026-08-30T23:19:35Z",
+      "source": "ESPN NFL · Jordan Raanan",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709181_1296x729_16-9.jpg"
     },
     {
-      "title": "Jaguars 2026 practice squad tracker: Did J’Mari Taylor make the B team?",
-      "link": "https://sports.yahoo.com/articles/jaguars-2026-practice-squad-tracker-210005172.html",
-      "description": "Practice squad invites are about to go out!...",
-      "pubDate": "2026-08-30T21:00:05+00:00",
+      "title": "2026 Baltimore Ravens 53-man roster tracker: news and rumors",
+      "link": "https://sports.yahoo.com/articles/2026-baltimore-ravens-53-man-160000327.html",
+      "description": "Baltimore Beatdown is tracking all of the Ravens’ moves as they approach Sunday’s 53-man roster cut deadline!...",
+      "pubDate": "2026-08-30T23:18:58+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Odell Beckham Jr. makes the Giants&#39; initial 53-man roster",
-      "link": "https://sports.yahoo.com/articles/odell-beckham-jr-makes-giants-205942732.html",
-      "description": "Odell Beckham Jr.&#39;...",
-      "pubDate": "2026-08-30T20:59:42+00:00",
+      "title": "Raiders cut tracker 2026: Roster set",
+      "link": "https://sports.yahoo.com/articles/raiders-cut-tracker-2026-news-052700161.html",
+      "description": "All the latest roster moves here...",
+      "pubDate": "2026-08-30T23:18:40+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Spencer Shrader wins kicking competition as Colts cut Blake Grupe",
-      "link": "https://sports.yahoo.com/articles/spencer-shrader-wins-kicking-competition-205851813.html",
-      "description": "The Colts have picked a winner in their kicking competition: Spencer Shrader....",
-      "pubDate": "2026-08-30T20:58:51+00:00",
+      "title": "Matt Gay has won Raiders’ kicking job, what’s next?",
+      "link": "https://sports.yahoo.com/articles/matt-gay-won-raiders-kicking-231715295.html",
+      "description": "Does Kansei Matsuzawa have a future in Las Vegas?...",
+      "pubDate": "2026-08-30T23:17:15+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
-      "link": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-      "description": "Today is the cut-down deadline (6 p.m. ET)! We're following releases, trades, signings, practice squad additions for 32 NFL teams.",
-      "pubDate": "2026-08-30T20:58:50Z",
-      "source": "ESPN NFL · ESPN staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709179_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Denver Broncos waived outside linebacker Johnny Walker",
-      "link": "https://sports.yahoo.com/articles/denver-broncos-waived-outside-linebacker-205759863.html",
-      "description": "According to Chris Tomasson of the Denver Gazette, the Denver Broncos have waived outside linebacker Johnny Walker....",
-      "pubDate": "2026-08-30T20:57:59+00:00",
+      "title": "Eagles depth chart: First look at the initial 2026 roster",
+      "link": "https://sports.yahoo.com/articles/eagles-depth-chart-first-look-231713342.html",
+      "description": "How many wins do you see from this group?...",
+      "pubDate": "2026-08-30T23:17:13+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Rams cut roster down to 53 players",
-      "link": "https://sports.yahoo.com/articles/rams-cut-roster-down-53-205716179.html",
-      "description": "The Rams have reduced their roster to 53 players in advance of the league’s 6 p.m....",
-      "pubDate": "2026-08-30T20:57:16+00:00",
+      "title": "Texans reach initial roster of 53 players",
+      "link": "https://sports.yahoo.com/articles/texans-reach-initial-roster-53-231636546.html",
+      "description": "The Texans have their initial 53-player roster....",
+      "pubDate": "2026-08-30T23:16:36+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Denver Broncos cut tight end Lucas Krull",
-      "link": "https://sports.yahoo.com/articles/denver-broncos-cut-tight-end-205520647.html",
-      "description": "According to Chris Tomasson of the Denver Gazette, the Denver Broncos have cut tight end Lucas Krull....",
-      "pubDate": "2026-08-30T20:55:20+00:00",
+      "title": "49ers ‘final’ 53-man roster: The roster gymnastics are underway",
+      "link": "https://sports.yahoo.com/articles/49ers-final-53-man-roster-231631577.html",
+      "description": "The 49ers released their 53-man roster, that’s sure to change in as little as 24 hours....",
+      "pubDate": "2026-08-30T23:16:31+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Odell Beckham Jr. makes Giants&#39; initial 53-man roster",
-      "link": "https://sports.yahoo.com/articles/odell-beckham-jr-makes-giants-205500831.html",
-      "description": "Odell Beckham Jr. will make the New York Giants&#39; 53-man roster for the 2026 NFL season....",
-      "pubDate": "2026-08-30T20:55:00+00:00",
+      "title": "Frank Crum placed on injured reserve to begin season",
+      "link": "https://sports.yahoo.com/articles/frank-crum-placed-injured-begin-231500448.html",
+      "description": "The third-year offensive tackle will begin the season on injured reserve and will be eligible to return starting Week 5....",
+      "pubDate": "2026-08-30T23:15:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "49ers trade for offensive line depth after releasing Rob Jones",
-      "link": "https://sports.yahoo.com/articles/49ers-trade-offensive-line-depth-205339335.html",
-      "description": "The 49ers traded for former Texans C/G Jarrett Patterson...",
-      "pubDate": "2026-08-30T20:53:39+00:00",
+      "title": "The Seattle Seahawks 2026 roster cuts tracker",
+      "link": "https://sports.yahoo.com/articles/seattle-seahawks-2026-roster-cuts-032844137.html",
+      "description": "Before taking to the field to defend their Lombardi Trophy, the Seahawks will make dozens of roster decisions in the coming days....",
+      "pubDate": "2026-08-30T23:13:22+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Odell Beckham Jr. reportedly makes Giants&#39; 53-man roster",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/odell-beckham-jr-reportedly-makes-giants-53-man-roster-205305250.html",
-      "description": "Odell Beckham Jr. is back where he started....",
-      "pubDate": "2026-08-30T20:53:05+00:00",
+      "title": "Broncos' Jonathon Cooper placed on commissioner exempt list",
+      "link": "https://www.espn.com/nfl/story/_/id/49774684/sources-broncos-olb-jonathon-cooper-placed-exempt-list",
+      "description": "The NFL is placing Broncos outside linebacker Jonathon Cooper on the commissioner exempt list following a pair of arrests earlier this summer on domestic violence charges.",
+      "pubDate": "2026-08-30T23:13:06Z",
+      "source": "ESPN NFL · Jeff Legwold",
+      "thumbnail": "https://a.espncdn.com/photo/2024/1104/r1410396_600x400_3-2.jpg"
+    },
+    {
+      "title": "Denver Broncos have released offensive lineman Calvin Throckmorton",
+      "link": "https://sports.yahoo.com/articles/denver-broncos-released-offensive-lineman-231234206.html",
+      "description": "The Denver Broncos have announced they released offensive lineman Calvin Throckmorton....",
+      "pubDate": "2026-08-30T23:12:34+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Miami Dolphins 2026 roster cuts tracker: Trade for Kyle McCord shores up quarterback position",
-      "link": "https://sports.yahoo.com/articles/miami-dolphins-2026-roster-cuts-024700177.html",
-      "description": "The Miami Dolphins must drop to the NFL’s regular season roster limit by Sunday evening. We keep up with all the cuts....",
-      "pubDate": "2026-08-30T20:52:11+00:00",
+      "title": "Broncos cuts include RB Jaleel McLaughlin",
+      "link": "https://sports.yahoo.com/articles/broncos-cuts-rb-jaleel-mclaughlin-231208233.html",
+      "description": "The Broncos&#39; reduction to 53 includes the release of a fourth-year running back who has appeared in 41 games with nine starts....",
+      "pubDate": "2026-08-30T23:12:08+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Odell Beckham will make the NY Giants’ 53-man roster",
-      "link": "https://sports.yahoo.com/articles/odell-beckham-ny-giants-53-205203652.html",
-      "description": "Beckham’s return becomes a reality....",
-      "pubDate": "2026-08-30T20:52:03+00:00",
+      "title": "Denver Broncos have waived wide receiver Dane Key",
+      "link": "https://sports.yahoo.com/articles/denver-broncos-waived-wide-receiver-231007902.html",
+      "description": "The Denver Broncos have announced that they have waived wide receiver Dane Key....",
+      "pubDate": "2026-08-30T23:10:07+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Browns put Dillon Gabriel on IR as they set initial 53-man roster",
-      "link": "https://sports.yahoo.com/articles/browns-put-dillon-gabriel-ir-204905393.html",
-      "description": "Sunday&#39;s report that quarterback Dillon Gabriel would make the 53-man roster in Cleveland was incorrect, but he has not been waived by the Browns....",
-      "pubDate": "2026-08-30T20:49:05+00:00",
+      "title": "What their final wave of roster cuts means for the Patriots",
+      "link": "https://sports.yahoo.com/articles/final-wave-roster-cuts-means-230856864.html",
+      "description": "The Patriots removed several more players from their active roster on Sunday....",
+      "pubDate": "2026-08-30T23:08:56+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Packers Place Micah Parsons on Reserve/PUP List, Will Miss At Least Four Games",
-      "link": "https://www.foxsports.com/stories/nfl/packers-place-micah-parsons-reserve-pup-first-four-games",
-      "description": "The Green Bay Packers placed edge rusher Micah Parsons on the Reserve/PUP list ruling him out for at least the first four games of the regular season as he continues recovering from a torn ACL.",
-      "pubDate": "2026-08-30T20:46:25+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/gettyimages-2250614569-scaled-e1788121480692.jpg"
-    },
-    {
-      "title": "Patriots captain Brenden Schooler to begin year on non-football injury list, per report",
-      "link": "https://sports.yahoo.com/articles/patriots-captain-brenden-schooler-begin-204540728.html",
-      "description": "Brenden Schooler missed the duration of training camp....",
-      "pubDate": "2026-08-30T20:45:40+00:00",
+      "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
+      "link": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html",
+      "description": "An updated look at the Patriots’ roster in 2026....",
+      "pubDate": "2026-08-30T23:08:55+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Cowboys trade OT Nate Thomas to Texans",
-      "link": "https://sports.yahoo.com/articles/cowboys-trade-ot-nate-thomas-204423981.html",
-      "description": "Nate Thomas began training camp competing with Tyler Guyton for the starting left tackle job in Dallas....",
-      "pubDate": "2026-08-30T20:44:23+00:00",
+      "title": "Titans waive former starting QB Will Levis",
+      "link": "https://www.espn.com/nfl/story/_/id/49774800/titans-waive-former-starting-qb-levis",
+      "description": "The Titans waived quarterback Will Levis on Sunday.",
+      "pubDate": "2026-08-30T23:08:21Z",
+      "source": "ESPN NFL · Turron Davenport",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709107_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Denver Broncos have waived defensive tackle Kristian Williams",
+      "link": "https://sports.yahoo.com/articles/denver-broncos-waived-defensive-tackle-230821840.html",
+      "description": "The Denver Broncos have announced that they have waived defensive tackle Kristian Williams....",
+      "pubDate": "2026-08-30T23:08:21+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Denver Broncos have waived cornerback Sean Fresch, Jr.",
+      "link": "https://sports.yahoo.com/articles/denver-broncos-waived-cornerback-sean-230636889.html",
+      "description": "The Denver Broncos have announced that they have waived cornerback Sean Fresch, Jr....",
+      "pubDate": "2026-08-30T23:06:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers move Mykel Williams to reserve/PUP and Christian Kirk to IR during cut to 53-man roster",
+      "link": "https://sports.yahoo.com/articles/49ers-move-mykel-williams-pup-230528423.html",
+      "description": "Defensive end Mykel Williams will not play in at least the first four games of the 49ers&#39; season....",
+      "pubDate": "2026-08-30T23:05:28+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
@@ -806,10 +806,26 @@
   ],
   "insider": [
     {
-      "title": "Tank Dell will start the season on injured reserve",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tank-dell-will-start-the-season-on-injured-reserve",
-      "description": "Texans wide receiver Tank Dell is still not ready to return from the knee injury he suffered in December of 2024....",
-      "pubDate": "2026-08-30T21:43:40+00:00",
+      "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
+      "link": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
+      "description": "The roster cut deadline has passed! We followed all the releases, trades, signings, practice squad additions for 32 NFL teams.",
+      "pubDate": "2026-08-31T00:02:33Z",
+      "source": "ESPN NFL · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709159_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Aaron Donald's wife, Erica, has humorous response to Donald's return",
+      "link": "https://www.espn.com/nfl/story/_/id/49777339/aaron-erica-donald-response-los-angeles-rams-nfl-unretirement-return",
+      "description": "Aaron Donald's wife, Erica, was a key part of the offseason rumors swirling that Donald might return to the Los Angeles Rams.",
+      "pubDate": "2026-08-30T23:59:55Z",
+      "source": "ESPN NFL · Anthony Gharib",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709232_608x342_16-9.jpg"
+    },
+    {
+      "title": "John Schneider says Seahawks plan to add Trevon Diggs to practice squad",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-schneider-says-seahawks-plan-to-add-trevon-diggs-to-practice-squad",
+      "description": "The Seahawks cut cornerback Trevon Diggs on Sunday....",
+      "pubDate": "2026-08-30T23:56:08+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -817,17 +833,233 @@
       "title": "Sources: Aaron Donald unretires, reaches $20M deal with Rams",
       "link": "https://www.espn.com/nfl/story/_/id/49775423/sources-aaron-donald-unretires-reaches-20m-deal-rams",
       "description": "Star defensive tackle Aaron Donald is coming out of retirement to try to help the Rams win another Super Bowl. He agreed to a one-year, $20 million deal, sources told ESPN's Adam Schefter and the NFL Network's Ian Rapoport.",
-      "pubDate": "2026-08-30T21:42:51Z",
+      "pubDate": "2026-08-30T23:47:00Z",
       "source": "ESPN NFL · Sarah Barshop",
       "thumbnail": "https://a.espncdn.com/photo/2024/0315/r1305395_1296x729_16-9.jpg"
     },
     {
-      "title": "Vikings to trade OL Walter Rouse to Patriots",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-to-trade-ol-walter-rouse-to-patriots",
-      "description": "The Patriots are making a move for an offensive lineman ahead of the deadline to set their initial 53-man roster....",
-      "pubDate": "2026-08-30T21:34:26+00:00",
+      "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
+      "link": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
+      "description": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
+      "pubDate": "2026-08-30T23:45:36Z",
+      "source": "ESPN NFL · ESPN Staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708773_608x342_16-9.jpg"
+    },
+    {
+      "title": "Aaron Donald takes part in Rams practice Sunday",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-takes-part-in-rams-practice-sunday",
+      "description": "Defensive tackle Aaron Donald returned to the Rams' roster on Sunday and he returned to the field with the team later in the day....",
+      "pubDate": "2026-08-30T23:43:30+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
+    },
+    {
+      "title": "Panthers set their initial 53-player roster",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-set-their-initial-53-player-roster",
+      "description": "The Panthers have set their initial 53-player roster....",
+      "pubDate": "2026-08-30T23:43:08+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chargers didn't cut Tony Jefferson after all",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-didnt-cut-tony-jefferson-after-all",
+      "description": "Tony Jefferson remains a Charger....",
+      "pubDate": "2026-08-30T23:39:09+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Puka Nacua returns to practice, Myles Garrett working on the side",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-returns-to-practice-myles-garrett-working-on-the-side",
+      "description": "Aaron Donald isn't the only Rams player making a return to practice on Sunday....",
+      "pubDate": "2026-08-30T23:33:31+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Raiders set first 53-man roster under HC Klint Kubiak",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-set-first-53-man-roster-under-hc-klint-kubiak",
+      "description": "The Raiders have officially set their first 53-man roster under head coach Klint Kubiak....",
+      "pubDate": "2026-08-30T23:26:35+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Texans reach initial roster of 53 players",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-reach-initial-roster-of-53-players",
+      "description": "The Texans have their initial 53-player roster....",
+      "pubDate": "2026-08-30T23:16:36+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Broncos cuts include RB Jaleel McLaughlin",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-cuts-include-rb-jaleel-mclaughlin",
+      "description": "The Broncos' reduction to 53 includes the release of a fourth-year running back who has appeared in 41 games with nine starts....",
+      "pubDate": "2026-08-30T23:12:08+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Titans waive former starting QB Will Levis",
+      "link": "https://www.espn.com/nfl/story/_/id/49774800/titans-waive-former-starting-qb-levis",
+      "description": "The Titans waived quarterback Will Levis on Sunday.",
+      "pubDate": "2026-08-30T23:08:21Z",
+      "source": "ESPN NFL · Turron Davenport",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709107_1296x729_16-9.jpg"
+    },
+    {
+      "title": "49ers move Mykel Williams to reserve/PUP and Christian Kirk to IR during cut to 53-man roster",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-move-mykel-williams-to-reserve-pup-and-christian-kirk-to-ir-during-cut-to-53-man-roster",
+      "description": "Defensive end Mykel Williams will not play in at least the first four games of the 49ers' season....",
+      "pubDate": "2026-08-30T23:05:28+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chargers trading DL TeRah Edwards to Panthers",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-trading-dl-terah-edwards-to-panthers",
+      "description": "The Panthers are acquiring a young defensive lineman....",
+      "pubDate": "2026-08-30T23:02:21+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Packers cut roster to 53, confirm placement of Micah Parsons on reserve/PUP",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-cut-roster-to-53-confirm-placement-of-micah-parsons-on-reserve-pup",
+      "description": "To get to 53 players on the roster, the Packers continue to keep linebacker Micah Parsons off the roster....",
+      "pubDate": "2026-08-30T23:01:29+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Seahawks cut CB Trevon Diggs, place RB Zach Charbonnet on PUP among moves to 53",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-cut-cb-trevon-diggs-place-rb-zach-charbonnet-on-pup-among-moves-to-53",
+      "description": "Cornerback Trevon Diggs' time with the Seahawks did not last long....",
+      "pubDate": "2026-08-30T23:00:48+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Titans waive Hendon Hooker and Will Levis as they drop to 53 players",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-waive-hendon-hooker-and-will-levis-as-they-drop-to-53-players",
+      "description": "The Titans confirmed that they waived quarterback Will Levis on Sunday afternoon and they also announced the departure of Hendon Hooker....",
+      "pubDate": "2026-08-30T22:53:39+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Steelers' moves include activation of Joey Porter Jr. from PUP",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-moves-include-activation-of-joey-porter-jr-from-pup",
+      "description": "The Steelers' 53-man roster includes a player who spent all of training camp and the preseason on the physically unable to perform list....",
+      "pubDate": "2026-08-30T22:51:47+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sam Williams among the Cowboys' cuts to 53",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-williams-among-the-cowboys-cuts-to-53",
+      "description": "The Cowboys have only two tailbacks on their initial 53-player roster....",
+      "pubDate": "2026-08-30T22:44:09+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints place Jordyn Tyson on IR, reduce roster to 53 players",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-place-jordyn-tyson-on-ir-reduce-roster-to-53-players",
+      "description": "The Saints will officially be without one of their key rookies for at least the season's first four weeks....",
+      "pubDate": "2026-08-30T22:43:04+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills announce their initial 53-man roster",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-announce-their-initial-53-man-roster",
+      "description": "The Bills announced several roster moves on Saturday and they finished off the work of paring their roster to 53 players on Sunday....",
+      "pubDate": "2026-08-30T22:39:49+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Giants waive WR Jalin Hyatt among moves to get to 53 players",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-waive-wr-jalin-hyatt-among-moves-to-get-to-53-players",
+      "description": "Odell Beckham Jr. has made the Giants' initial 53-man roster and his No. 13 jersey is now available....",
+      "pubDate": "2026-08-30T22:30:21+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cardinals place James Conner on IR among their moves to 53",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-place-james-conner-on-ir-among-their-moves-to-53",
+      "description": "The Cardinals reached 53 players on Sunday afternoon....",
+      "pubDate": "2026-08-30T22:30:15+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles keep four quarterbacks on 53-player roster",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-keep-four-quarterbacks-on-53-player-roster",
+      "description": "The Eagles are keeping all four of their quarterbacks on the 53-player roster to start the regular season....",
+      "pubDate": "2026-08-30T22:29:30+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Falcons join the four-quarterback club",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-join-the-four-quarterback-club",
+      "description": "It used to be a rarity for an NFL team to keep four quarterbacks on the 53-man roster....",
+      "pubDate": "2026-08-30T22:29:07+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jaguars announce moves to reduce roster to 53 players",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-announce-moves-to-reduce-roster-to-53-players",
+      "description": "The Jaguars have announced their moves to reduce their roster to 53 players....",
+      "pubDate": "2026-08-30T22:28:01+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL offseason trade grades: Kaleb Johnson, Gervon Dexter",
+      "link": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
+      "description": "We're making sense of eight big preseason deals, including Broderick Jones to the Cowboys.",
+      "pubDate": "2026-08-30T22:27:38Z",
+      "source": "ESPN NFL · Seth Walder and Ben Solak",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709116_608x342_16-9.jpg"
+    },
+    {
+      "title": "Mike Clay's Ultimate Draft Board: Perfect picks for every round in a 12-team league",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/49658374/2026-fantasy-football-rankings-draft-strategy-best-picks-every-round-clay-espn",
+      "description": "Mike Clay provides his draft blueprint, including ideal selections in each round and overall strategy.",
+      "pubDate": "2026-08-30T22:21:44Z",
+      "source": "ESPN NFL · Mike Clay",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0821/fan_clay_draftboard_new_16x9.jpg"
+    },
+    {
+      "title": "Colts reach 53 players with QB Easton Stick among the cuts",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-reach-53-players-with-qb-easton-stick-among-the-cuts",
+      "description": "The Colts' cuts to reach the mandatory 53-player limit included quarterback Easton Stick....",
+      "pubDate": "2026-08-30T22:19:49+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vikings keep four quarterbacks on 53-man roster",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-keep-four-quarterbacks-on-53-man-roster",
+      "description": "The Vikings have trimmed their roster to 53....",
+      "pubDate": "2026-08-30T22:17:55+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vikings Keep QB J.J. McCarthy On 53-Man Roster After Trade, Release Speculation",
+      "link": "https://www.foxsports.com/stories/nfl/vikings-keep-qb-j-j-mccarthy-53-man-roster-after-trade-release-speculation",
+      "description": "J.J. McCarthy's time with the Minnesota Vikings will live to see another day.",
+      "pubDate": "2026-08-30T22:03:22+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/mccarthy.jpg"
     },
     {
       "title": "Week 1 debut remains \"possible\" for Aaron Donald",
@@ -836,38 +1068,6 @@
       "pubDate": "2026-08-30T21:33:35+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "49ers place RB Isaac Guerendo on reserve/PUP",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-place-rb-isaac-guerendo-on-reserve-pup",
-      "description": "The 49ers placed running back Isaac Guerendo on the reserve/physically unable to perform list, Jeremy Fowler of ESPN reports....",
-      "pubDate": "2026-08-30T21:32:36+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vikings OLB Tyler Batty out for season with torn ACL",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-olb-tyler-batty-out-for-season-with-torn-acl",
-      "description": "The Vikings have lost one of their young defenders for the season....",
-      "pubDate": "2026-08-30T21:27:52+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Keenan Allen was released from jail on Sunday afternoon",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keenan-allen-was-released-from-jail-on-sunday-afternoon",
-      "description": "Colts wide receiver Keenan Allen was arrested early on Sunday morning in Indianapolis and he was released from custody on Sunday afternoon....",
-      "pubDate": "2026-08-30T21:27:35+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL offseason trade tracker: Updates on preseason deals",
-      "link": "https://www.espn.com/nfl/story/_/id/48915793/2026-nfl-offseason-trade-tracker-updates-news-contracts-training-camp-preseason",
-      "description": "We're following trades right through the kickoff of the 2026 NFL season, including deals for Tutu Atwell and Kayshon Boutte.",
-      "pubDate": "2026-08-30T21:25:25Z",
-      "source": "ESPN NFL · ESPN Staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1708773_608x342_16-9.jpg"
     },
     {
       "title": "Inside the Aaron Donald comeback deal",
@@ -886,30 +1086,6 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/obj.jpg"
     },
     {
-      "title": "Odell Beckham Jr. makes the Giants' initial 53-man roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-makes-the-giants-initial-53-man-roster",
-      "description": "Odell Beckham Jr.'...",
-      "pubDate": "2026-08-30T20:59:42+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Spencer Shrader wins kicking competition as Colts cut Blake Grupe",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/spencer-shrader-wins-kicking-competition-as-colts-cut-blake-grupe",
-      "description": "The Colts have picked a winner in their kicking competition: Spencer Shrader....",
-      "pubDate": "2026-08-30T20:58:51+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL roster updates: Live tracking 53-man cut-down news",
-      "link": "https://www.espn.com/nfl/story/_/id/49679696/2026-nfl-roster-cuts-live-updates-trades-signings-moves",
-      "description": "Today is the cut-down deadline (6 p.m. ET)! We're following releases, trades, signings, practice squad additions for 32 NFL teams.",
-      "pubDate": "2026-08-30T20:58:50Z",
-      "source": "ESPN NFL · ESPN staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709179_1296x729_16-9.jpg"
-    },
-    {
       "title": "Rams cut roster down to 53 players",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-cut-roster-down-to-53-players",
       "description": "The Rams have reduced their roster to 53 players in advance of the league’s 6 p.m....",
@@ -918,74 +1094,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Browns put Dillon Gabriel on IR as they set initial 53-man roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-put-dillon-gabriel-on-ir-as-they-set-initial-53-man-roster",
-      "description": "Sunday's report that quarterback Dillon Gabriel would make the 53-man roster in Cleveland was incorrect, but he has not been waived by the Browns....",
-      "pubDate": "2026-08-30T20:49:05+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys trade OT Nate Thomas to Texans",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-trade-ot-nate-thomas-to-texans",
-      "description": "Nate Thomas began training camp competing with Tyler Guyton for the starting left tackle job in Dallas....",
-      "pubDate": "2026-08-30T20:44:23+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Source: Dallas Cowboys to waive running back Jaydon Blue",
-      "link": "https://www.espn.com/nfl/story/_/id/49775363/dallas-cowboys-waive-running-back-jaydon-blue",
-      "description": "The Dallas Cowboys are waiving running back Jaydon Blue, a source told ESPN's Adam Schefter.",
-      "pubDate": "2026-08-30T20:43:16Z",
-      "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709146_600x600_1-1.jpg"
-    },
-    {
       "title": "Aaron Donald: I'm ready to come back to try and do something special",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donald-im-ready-to-come-back-to-try-and-do-something-special",
       "description": "Aaron Donald has made it official, coming out of retirement after two seasons off to play for the Rams in 2026....",
       "pubDate": "2026-08-30T20:41:17+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Texans to trade OL Jarrett Patterson to 49ers",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-to-trade-ol-jarrett-patterson-to-49ers",
-      "description": "The 49ers are making a trade to add to their offensive line depth....",
-      "pubDate": "2026-08-30T20:39:15+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sources: Broncos OLB Jonathon Cooper placed on exempt list",
-      "link": "https://www.espn.com/nfl/story/_/id/49774684/sources-broncos-olb-jonathon-cooper-placed-exempt-list",
-      "description": "The NFL is placing Broncos outside linebacker Jonathon Cooper on the commissioner exempt list following a pair of arrests earlier this summer on domestic violence charges.",
-      "pubDate": "2026-08-30T20:23:52Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2024/1104/r1410396_600x400_3-2.jpg"
-    },
-    {
-      "title": "Chargers waive QB DJ Uiagalelei",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-waive-qb-dj-uiagalelei",
-      "description": "It appears Trey Lance has won the Chargers' backup quarterback competition....",
-      "pubDate": "2026-08-30T20:22:40+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos waive fifth-round rookie Justin Joly",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-waive-fifth-round-rookie-justin-joly",
-      "description": "The vast majority of fifth-round draft picks make the 53-man roster as rookies....",
-      "pubDate": "2026-08-30T20:19:21+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers move Micah Parsons to reserve/PUP to open season",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-move-micah-parsons-to-reserve-pup-to-open-season",
-      "description": "We've known for some time that Packers defensive end Micah Parsons would not be ready to play at the start of the regular season and the team made it official on Sunday....",
-      "pubDate": "2026-08-30T20:12:05+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -998,114 +1110,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Cardinals to waive QB Kedon Slovis",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cardinals-to-waive-qb-kedon-slovis",
-      "description": "The Cardinals are waiving quarterback Kedon Slovis, Mike Garafolo of NFL Media reports....",
-      "pubDate": "2026-08-30T20:08:21+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Report: Giants to release Braxton Berrios, but plan to bring him back",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-giants-to-release-braxton-berrios-but-plan-to-bring-him-back",
-      "description": "Veteran wide receiver Braxton Berrios won't be on the Giants' initial 53-man roster, but he will reportedly be back with the team in September....",
-      "pubDate": "2026-08-30T20:03:31+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants also cut QB Jake Haener",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-also-cut-qb-jake-haener",
-      "description": "Brandon Allen isn't the only quarterback the Giants are cutting....",
-      "pubDate": "2026-08-30T19:55:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Saints release Zamir White",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-release-zamir-white",
-      "description": "The Saints traded for running back Zamir White earlier this month, but he won't be on the team's initial 53-man roster....",
-      "pubDate": "2026-08-30T19:54:16+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sources: Titans waive former starting QB Will Levis",
-      "link": "https://www.espn.com/nfl/story/_/id/49774800/titans-waive-former-starting-qb-levis",
-      "description": "The Titans are waiving quarterback Will Levis, sources told ESPN's Jeremy Fowler and NFL Network's Ian Rapoport.",
-      "pubDate": "2026-08-30T19:46:06Z",
-      "source": "ESPN NFL · Turron Davenport",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709107_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 NFL offseason trade grades: Kaleb Johnson, Gervon Dexter",
-      "link": "https://www.espn.com/nfl/story/_/id/48915601/2026-nfl-offseason-trade-grades-best-worst-moves-training-camp-preseason",
-      "description": "We're making sense of eight big preseason deals, including Broderick Jones to the Cowboys.",
-      "pubDate": "2026-08-30T19:43:50Z",
-      "source": "ESPN NFL · Seth Walder and Ben Solak",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0830/r1709116_608x342_16-9.jpg"
-    },
-    {
-      "title": "49ers release recent arrival LB Deion Jones",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-release-recent-arrival-lb-deion-jones",
-      "description": "Veteran linebacker Deion Jones will have a short stint in San Francisco....",
-      "pubDate": "2026-08-30T19:42:15+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys to waive 2025 fifth-rounder Jaydon Blue",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-to-waive-2025-fifth-rounder-jaydon-blue",
-      "description": "Cowboys running back Jaydon Blue said in June that he \"didn’t start off like I should have\" as a rookie last year, but that he felt ready to contribute to the Cowboys in 2026....",
-      "pubDate": "2026-08-30T19:39:17+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants release QB Brandon Allen",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-release-qb-brandon-allen",
-      "description": "The Giants have released quarterback Brandon Allen, Mike Garafolo of NFL Media reports....",
-      "pubDate": "2026-08-30T19:38:04+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Saints waive Brock Rechsteiner, son of WWE Hall of Famer Scott Steiner",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-waive-brock-rechsteiner-son-of-wwe-hall-of-famer-scott-steiner",
-      "description": "Receiver Brock Rechsteiner, the son of WWE Hall of Famer Scott Steiner, won't be making the Week 1 roster in New Orleans....",
-      "pubDate": "2026-08-30T19:34:24+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Report: Browns will keep four QBs, Taylen Green makes initial 53-man roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-browns-will-keep-four-qbs-taylen-green-makes-initial-53-man-roster",
-      "description": "At least for now, the Browns are going to carry four quarterbacks on their 53-man roster....",
-      "pubDate": "2026-08-30T19:33:12+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chargers to put OL Branson Taylor on IR",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-to-put-ol-branson-taylor-on-ir",
-      "description": "Branson Taylor was in the group of options to start at left guard for the Chargers at one point this summer, but he won't be an option in the early part of the regular season....",
-      "pubDate": "2026-08-30T19:32:59+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Chargers cut veteran safety Tony Jefferson",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-cut-veteran-safety-tony-jefferson",
-      "description": "Longtime NFL safety Tony Jefferson may have reached the end of the line....",
+      "description": "UPDATE: The Chargers didn't cut Tony Jefferson after all....",
       "pubDate": "2026-08-30T19:27:48+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys release WR Marquez Valdes-Scantling",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-release-wr-marquez-valdes-scantling",
-      "description": "The Cowboys have released veteran wide receiver Marquez Valdes-Scantling, according to multiple reports....",
-      "pubDate": "2026-08-30T19:26:41+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -1196,14 +1204,6 @@
       "pubDate": "2026-08-30T01:27:02+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/brodddd.jpg"
-    },
-    {
-      "title": "Giants trade for DT CJ Okoye from Ravens for '28 draft pick",
-      "link": "https://www.espn.com/nfl/story/_/id/49762578/sources-giants-acquire-dt-okoye-ravens-28-pick",
-      "description": "Defensive tackle CJ Okoye, 24, will reunite with Giants coach John Harbaugh, after the Baltimore Ravens dealt the veteran reserve to New York for a 2028 seventh-round pick, the teams announced Saturday afternoon.",
-      "pubDate": "2026-08-29T21:26:04Z",
-      "source": "ESPN NFL · Jamison Hensley",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708506_600x400_3-2.jpg"
     }
   ]
 }
