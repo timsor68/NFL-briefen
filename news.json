@@ -1,6 +1,310 @@
 {
-  "generatedAt": "2026-09-01T07:05:09.991238+00:00",
+  "generatedAt": "2026-09-01T12:35:34.477247+00:00",
   "nfl": [
+    {
+      "title": "Ravens Discussion: Which roster cut was the biggest surprise?",
+      "link": "https://sports.yahoo.com/articles/ravens-discussion-roster-cut-biggest-121500127.html",
+      "description": "The Baltimore Ravens finalized their initial 53-man roster on Sunday following several highly competitive positional battles throughout the summer. The Ravens were faced with some ...",
+      "pubDate": "2026-09-01T12:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ranking The 10 Best 2027 NFL Draft Prospects — Who Aren't Quarterbacks",
+      "link": "https://www.foxsports.com/stories/nfl/ranking-10-best-2027-nfl-draft-prospects-who-arent-quarterbacks",
+      "description": "The 2027 draft could be one of the strongest in years, potentially featuring several franchise-altering prospects at positions other than QB.",
+      "pubDate": "2026-09-01T12:00:58+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/top-non-qb-prospects-16x9-1.jpg"
+    },
+    {
+      "title": "SOTU 2026 season preview: Defense",
+      "link": "https://sports.yahoo.com/articles/sotu-2026-season-preview-defense-120004664.html",
+      "description": "We prepare for the 2026 season by talking about the DEFENSE first....",
+      "pubDate": "2026-09-01T12:00:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Carolina Panthers fan mailbag: We’re on to the regular season!",
+      "link": "https://sports.yahoo.com/articles/carolina-panthers-fan-mailbag-regular-120000554.html",
+      "description": "Bring me all your questions in this week’s mailbag!...",
+      "pubDate": "2026-09-01T12:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Howie Roseman: Zach Ertz one of the greatest tight ends, but love what we have",
+      "link": "https://sports.yahoo.com/articles/howie-roseman-zach-ertz-one-115343357.html",
+      "description": "Word in early August was that tight end Zach Ertz has been cleared for all football activities after tearing his ACL last December, but the veteran remains a free agent with the st...",
+      "pubDate": "2026-09-01T11:53:43+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nnamdi Madubuike doing &quot;more and more,&quot; but Ravens uncertain about Week 1",
+      "link": "https://sports.yahoo.com/articles/nnamdi-madubuike-doing-more-more-114102106.html",
+      "description": "Ravens defensive tackle Nnamdi Madubuike did not go on injured reserve while the team set its initial 53-man roster, which means that the team does not think he will miss the first...",
+      "pubDate": "2026-09-01T11:41:02+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Aaron Donald&#39;s absence from Monday&#39;s practice &quot;part of the plan all along&quot;",
+      "link": "https://sports.yahoo.com/articles/aaron-donalds-absence-mondays-practice-113322653.html",
+      "description": "Aaron Donald officially came out of retirement and practiced with the Rams on Sunday, but the three-time defensive player of the year was not on the field with the team on Monday....",
+      "pubDate": "2026-09-01T11:33:22+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "How the Los Angeles Rams got Aaron Donald back",
+      "link": "https://www.espn.com/nfl/story/_/id/49782813/los-angeles-rams-aaron-donald-how-got-back",
+      "description": "It was a conversation coach Sean McVay never expected to have with the 10-season vet, but three months later, Donald is back in a Rams uniform.",
+      "pubDate": "2026-09-01T11:23:47Z",
+      "source": "ESPN NFL · Sarah Barshop",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0831/r1709564_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Dolphins news: Youngest roster, waiver claims, practice squad, and more",
+      "link": "https://sports.yahoo.com/articles/dolphins-news-youngest-roster-waiver-111425783.html",
+      "description": "The latest news from the Miami Dolphins as waiver claims are made and the practice squad is signed....",
+      "pubDate": "2026-09-01T11:14:25+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Detroit Lions signing versatile offensive lineman to practice squad",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-signing-versatile-offensive-111343680.html",
+      "description": "The Detroit Lions are signing Elijah Klein to their practice squad, an offensive lineman with experience at nearly every position....",
+      "pubDate": "2026-09-01T11:13:43+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Did the Colts make the right move at kicker?",
+      "link": "https://sports.yahoo.com/articles/did-colts-move-kicker-110250545.html",
+      "description": "The decision was tough, but the Colts chose their kicker....",
+      "pubDate": "2026-09-01T11:02:50+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tampa Bay Buccaneers news: Practice squad beginning to take shape",
+      "link": "https://sports.yahoo.com/articles/tampa-bay-buccaneers-news-practice-110000125.html",
+      "description": "The Tampa Bay Buccaneers are able to invite up to 17 players on their practice squad....",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bengals Tuesday Trenches: 53-man roster is set",
+      "link": "https://sports.yahoo.com/articles/bengals-tuesday-trenches-53-man-110000565.html",
+      "description": "Now we wait....",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Battle Red Newswire: Tuesday September 1, 2026",
+      "link": "https://sports.yahoo.com/articles/battle-red-newswire-tuesday-september-110000142.html",
+      "description": "Your one-stop shop for Houston Texans, local sports, and news from around the league for Tuesday September 1, 2026....",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fleur-de-links, September 1: Saints make additions to the practice squad",
+      "link": "https://sports.yahoo.com/articles/fleur-links-september-1-saints-110000836.html",
+      "description": "Here are today&#39;s Saints news links...",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "New York Jets Flight Connections 09/01/26",
+      "link": "https://sports.yahoo.com/articles/york-jets-flight-connections-09-110000466.html",
+      "description": "Happy Tuesday, Jets fans! Here are your links for today. Randy Lange – Aaron Glenn Assesses ‘Worst Weekend in Football’ and What It Means for the Jets Brian Costello – Jets see ple...",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tennessee Titans news: Xavier Restrepo cut after waiver claims",
+      "link": "https://sports.yahoo.com/articles/tennessee-titans-news-xavier-restrepo-110000929.html",
+      "description": "The Tennessee Titans are leaving wide receiver Xavier Restrepo off of the 53-man roster....",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys news: New addition at RB, possible new starter at RT",
+      "link": "https://sports.yahoo.com/articles/cowboys-news-addition-rb-possible-110000297.html",
+      "description": "Here is today’s Dallas Cowboys news....",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rams revel in Aaron Donald&#39;s comeback, but he might not suit up for opener",
+      "link": "https://sports.yahoo.com/articles/rams-revel-aaron-donalds-comeback-110000753.html",
+      "description": "Rams players, including Quentin Lake and Kobie Turner, are thrilled Aaron Donald is back on the team, but Sean McVay won&#39;t push for him to play in the opener....",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Season Opener Countdown: 12 Days Remaining",
+      "link": "https://sports.yahoo.com/articles/2026-season-opener-countdown-12-110000224.html",
+      "description": "We continue our countdown to the Panthers opening the 2026 season against the Chicago Bears...",
+      "pubDate": "2026-09-01T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cardinals QB Jacoby Brissett learning quickly under Mike LaFleur",
+      "link": "https://www.espn.com/nfl/story/_/id/49784509/jacoby-brissett-finding-groove-new-cardinals-coach-mike-lafleur",
+      "description": "After an extended hold-out/hold-in, Brissett is learning a new system and picking it up quickly.",
+      "pubDate": "2026-09-01T10:49:15Z",
+      "source": "ESPN NFL · Josh Weinfuss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0831/r1709557_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Fantasy Football Draft Guide: Rankings, mock drafts and analysis",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFDraftGuide26-48677635/2026-fantasy-football-rankings-mock-draft-cheat-sheets-sleepers",
+      "description": "Your one-stop shop as you prep for draft season, including rankings, projections and analysis.",
+      "pubDate": "2026-09-01T10:44:36Z",
+      "source": "ESPN NFL · Fantasy staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0615/fan_football_draft_guide_cr_16x9.jpg"
+    },
+    {
+      "title": "Fantasy football: 10 bold predictions for the 2026 season",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/49755632/fantasy-football-2026-rankings-bold-predictions",
+      "description": "Our fantasy analysts picked their favorite \"out on a limb\" predictions for the NFL season ahead.",
+      "pubDate": "2026-09-01T10:42:45Z",
+      "source": "ESPN NFL · Fantasy staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0829/r1708620_608x342_16-9.jpg"
+    },
+    {
+      "title": "Horse Tracks: Countdown to MNF begins now",
+      "link": "https://sports.yahoo.com/articles/horse-tracks-countdown-mnf-begins-103342189.html",
+      "description": "Chiefs are on the clock....",
+      "pubDate": "2026-09-01T10:33:42+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL Rank: Predicting top 100 players for this season",
+      "link": "https://www.espn.com/nfl/story/_/id/49706895/2026-nfl-season-rankings-top-100-players-predictions-stats",
+      "description": "We predicted the top 100 NFL players for 2026. Which defender came in at No. 1? How many QBs made the list? Which team had the most players included?",
+      "pubDate": "2026-09-01T10:32:43Z",
+      "source": "ESPN NFL · ESPN Staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0826/nfl_top100_2026_16x9.jpg"
+    },
+    {
+      "title": "Chiefs News: Chiefs looking to take advantage of tough cut for 49ers",
+      "link": "https://sports.yahoo.com/articles/chiefs-news-chiefs-looking-advantage-103000366.html",
+      "description": "The latest Chiefs news, brought fresh to you every morning!...",
+      "pubDate": "2026-09-01T10:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Where is the Detroit Lions’ 53-man roster’s biggest weakness?",
+      "link": "https://sports.yahoo.com/articles/where-detroit-lions-53-man-103000464.html",
+      "description": "Scanning the Detroit Lions’ 53-man roster for their biggest needs and weaknesses....",
+      "pubDate": "2026-09-01T10:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL execs pick snubs in ESPN's 2026 top 100 player rankings",
+      "link": "https://www.espn.com/nfl/story/_/id/49784013/nfl-rank-top-100-players-rankings-2026-biggest-snubs-scouts-executives",
+      "description": "Only 100 players can make our list of the top NFL players for this season. Here are nine who league insiders believe should have been there.",
+      "pubDate": "2026-09-01T10:27:55Z",
+      "source": "ESPN NFL · Jeremy Fowler",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0104/r1596270_1296x729_16-9.jpg"
+    },
+    {
+      "title": "10 years after the kneel, why Colin Kaepernick&#39;s sacrifice endures | Opinion",
+      "link": "https://sports.yahoo.com/articles/10-years-kneel-why-colin-100532206.html",
+      "description": "Colin Kaepernick might still be playing in the NFL today if he hadn&#39;t taken a knee 10 years ago, writes columnist Jarrett Bell. Just more injustice....",
+      "pubDate": "2026-09-01T10:05:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Will Packers coach Matt LaFleur let Jordan Love cook in '26?",
+      "link": "https://www.espn.com/nfl/story/_/id/49752350/nfl-green-bay-packers-jordan-love-matt-lafleur-aaron-rodgers",
+      "description": "LaFleur recently said Love is \"the best I've been around in terms of protections and adjustments.\"",
+      "pubDate": "2026-09-01T10:00:02Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0828/r1708068_608x342_16-9.jpg"
+    },
+    {
+      "title": "Cleveland Browns news: Practice squads and QBs. Always QBs",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-practice-squads-100000256.html",
+      "description": "The latest Cleveland Browns news and notes from around the NFL in the September 1 edition of the Daily Dawg Chow....",
+      "pubDate": "2026-09-01T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Giants news: Practice squad signings include Braxton Berrios, Jalin Hyatt",
+      "link": "https://sports.yahoo.com/articles/giants-news-practice-squad-signings-100000880.html",
+      "description": "New York Giants headlines for Tuesday....",
+      "pubDate": "2026-09-01T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bengals News: Practice Squad Watch",
+      "link": "https://sports.yahoo.com/articles/bengals-news-practice-squad-watch-100000929.html",
+      "description": "The roster is taking shape for 2026....",
+      "pubDate": "2026-09-01T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "What’s the Steelers’ plan at safety?",
+      "link": "https://sports.yahoo.com/articles/steelers-plan-safety-100000853.html",
+      "description": "With DeShon Elliott starting the season on injured reserve, Pittsburgh has some decisions to make....",
+      "pubDate": "2026-09-01T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Passports for practice squad signings are a logistical challenge for 49ers and Rams",
+      "link": "https://sports.yahoo.com/articles/passports-practice-squad-signings-logistical-091638332.html",
+      "description": "Every team in the league is in the process of calling players to ask them to join the practice squad, but the Rams and 49ers have another question: &quot;Do you have a passport?&qu...",
+      "pubDate": "2026-09-01T09:16:38+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Golden Nuggets: We’re officially in a Football Month",
+      "link": "https://sports.yahoo.com/articles/golden-nuggets-officially-football-month-091600168.html",
+      "description": "Your daily San Francisco 49ers news for Tuesday, September 1st, 2026...",
+      "pubDate": "2026-09-01T09:16:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "John Lynch: Aaron Donald makes the Rams better, but we&#39;re pretty good, too",
+      "link": "https://sports.yahoo.com/articles/john-lynch-aaron-donald-makes-085654249.html",
+      "description": "The 49ers are preparing to face Donald next week in Australia....",
+      "pubDate": "2026-09-01T08:56:54+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patrick Herbert, brother of Justin Herbert, joins Chargers&#39; practice squad",
+      "link": "https://sports.yahoo.com/articles/patrick-herbert-brother-justin-herbert-080039589.html",
+      "description": "After spending the last year in Jacksonville, Patrick Herbert will join his brother in Los Angeles....",
+      "pubDate": "2026-09-01T08:00:39+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Will Aaron Donald play in Rams&#39; season opener vs. 49ers?",
       "link": "https://sports.yahoo.com/articles/aaron-donald-play-rams-season-054936356.html",
@@ -74,6 +378,14 @@
       "thumbnail": ""
     },
     {
+      "title": "Myles Garrett knee injury receives timeline with a specific ‘goal’ for Rams",
+      "link": "https://sports.yahoo.com/articles/myles-garrett-knee-injury-receives-030002974.html",
+      "description": "Just about everybody has been talking about the pairing of Aaron Donald and Myles Garrett on the Rams’ defensive line, but there’s a chance neither plays Week 1. Garrett has......",
+      "pubDate": "2026-09-01T03:00:02+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Rams sign 17 players to practice squad",
       "link": "https://sports.yahoo.com/articles/rams-practice-squad-tracker-164859316.html",
       "description": "Rams begin signing players to practice squad, add to RB depth first...",
@@ -88,321 +400,41 @@
       "pubDate": "2026-09-01T02:39:22+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "WEATHER REPORT: Notre Dame Fighting Irish vs Wisconsin Badgers",
-      "link": "https://sports.yahoo.com/articles/weather-report-notre-dame-fighting-023512299.html",
-      "description": "There will definitely be a lot of moisture in the air for Notre Dame vs Wisconsin at Lambeau Field in Green bay....",
-      "pubDate": "2026-09-01T02:35:12+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles to add RB Jaydon Blue to their practice squad",
-      "link": "https://sports.yahoo.com/articles/eagles-add-rb-jaydon-blue-023118562.html",
-      "description": "Running back Jaydon Blue, who the Cowboys waived on Sunday, is signing with the Eagles&#39; practice squad, Adam Schefter of ESPN reports....",
-      "pubDate": "2026-09-01T02:31:18+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers rookie trolled for jersey number amid Daejon Love scandal",
-      "link": "https://sports.yahoo.com/articles/49ers-rookie-trolled-jersey-number-021057283.html",
-      "description": "De’Zhaun Stribling may have switched his jersey number at the wrong time. The 49ers rookie is set to wear No. 7 for the upcoming season, which is the same jersey......",
-      "pubDate": "2026-09-01T02:10:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bengals announce 11 practice squad moves",
-      "link": "https://sports.yahoo.com/articles/bengals-announce-11-practice-squad-015237553.html",
-      "description": "The Bengals still have a chunk of players to add, but they took care of their own first....",
-      "pubDate": "2026-09-01T01:52:37+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos' Cooper pleads not guilty to domestic violence charges",
-      "link": "https://www.espn.com/nfl/story/_/id/49786038/broncos-cooper-pleads-not-guilty-domestic-violence-charges",
-      "description": "Broncos outside linebacker Jonathon Cooper pleaded not guilty to multiple domestic violence charges Monday in a Douglas County (Colorado) courtroom.",
-      "pubDate": "2026-09-01T01:47:54Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0831/r1709640_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Jesse Minter expresses confidence in Tyler Loop",
-      "link": "https://sports.yahoo.com/articles/jesse-minter-expresses-confidence-tyler-014415826.html",
-      "description": "Ravens kicker Tyler Loop missed field goals of 58 and 51 yards in the preseason finale....",
-      "pubDate": "2026-09-01T01:44:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Who will be the Packers’ third quarterback?",
-      "link": "https://sports.yahoo.com/articles/packers-third-quarterback-043052519.html",
-      "description": "The Packers will eventually want to sign a third quarterback to their practice squad...",
-      "pubDate": "2026-09-01T01:32:01+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Reacting to the Seahawks’ initial 53-man roster, practice squad",
-      "link": "https://sports.yahoo.com/articles/reacting-seahawks-initial-53-man-012036955.html",
-      "description": "Thoughts and analysis on the Seahawks’ 70-man roster to start their Super Bowl repeat quest....",
-      "pubDate": "2026-09-01T01:20:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Buccaneers bring back Sean Murphy-Bunting",
-      "link": "https://sports.yahoo.com/articles/buccaneers-bring-back-sean-murphy-011000761.html",
-      "description": "Tampa Bay is bringing back a &#39;Grave Digger&#39;...",
-      "pubDate": "2026-09-01T01:10:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steve Sarkisian rips coaches for bringing back NFL players after Texas OL rejoined team after NFL minicamp stints",
-      "link": "https://sports.yahoo.com/college-football/article/steve-sarkisian-rips-coaches-for-bringing-back-nfl-players-after-texas-ol-rejoined-team-after-nfl-minicamp-stints-010831541.html",
-      "description": "Offensive lineman Cole Hutson, who went to two NFL minicamps, rejoined the Longhorns after receiving an injunction for a fifth year of eligibility this fall....",
-      "pubDate": "2026-09-01T01:08:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Buccaneers announce practice squad signings",
-      "link": "https://sports.yahoo.com/articles/buccaneers-announce-practice-squad-signings-010830467.html",
-      "description": "The Tampa Bay Buccaneers today signed the following players 16 players to the practice squad: TE Devin Culp WR Garrett Greene OLB Yasir Holmes DL Jayson Jones G Henry Lutovsky S If...",
-      "pubDate": "2026-09-01T01:08:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Odell Beckham Jr. brought to tears of joy with Giants comeback complete",
-      "link": "https://sports.yahoo.com/articles/odell-beckham-jr-brought-tears-010732025.html",
-      "description": "These were the best type of tears....",
-      "pubDate": "2026-09-01T01:07:32+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Falcons sign LB Josh Woods to active roster, place LB JD Bertrand on IR",
-      "link": "https://sports.yahoo.com/articles/falcons-sign-lb-josh-woods-010330907.html",
-      "description": "The Falcons signed veteran linebacker Josh Woods from their practice squad to their 53-player roster on Monday night, the team announced....",
-      "pubDate": "2026-09-01T01:03:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "San Francisco 49ers initial 53-man roster winners and losers",
-      "link": "https://sports.yahoo.com/articles/san-francisco-49ers-initial-53-005753619.html",
-      "description": "The San Francisco 49ers released their initial 53-man roster. Here are the takeaways including winners and losers....",
-      "pubDate": "2026-09-01T00:57:53+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Cutdowns: Former Packers pre-draft visitors released on Sunday",
-      "link": "https://sports.yahoo.com/articles/nfl-cutdowns-former-packers-pre-004310793.html",
-      "description": "The Panthers waived linebacker Trevin Wallace, who was a starter for them last year, on Sunday...",
-      "pubDate": "2026-09-01T00:56:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aaron Donald was historically great. The 2026 version will be different.",
-      "link": "https://sports.yahoo.com/articles/aaron-donald-historically-great-2026-004500664.html",
-      "description": "Ten straight seasons over elite play followed by two years off. What will Rams get from Aaron Donald in 2026?...",
-      "pubDate": "2026-09-01T00:45:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Former Eagles roster cuts and practice squad tracker",
-      "link": "https://sports.yahoo.com/articles/former-eagles-roster-cuts-practice-154716076.html",
-      "description": "Here’s a look at former Eagles players affected by 2026 roster cuts....",
-      "pubDate": "2026-09-01T00:35:14+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fernando Mendoza could be the Raiders’ starting quarterback soon, says NFL Insider",
-      "link": "https://sports.yahoo.com/articles/fernando-mendoza-could-raiders-starting-002721500.html",
-      "description": "&quot;The question is how soon?&quot;...",
-      "pubDate": "2026-09-01T00:27:21+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "QB Shane Buechele, OL Jedrick Willis among Bills&#39; practice squad signings",
-      "link": "https://sports.yahoo.com/articles/qb-shane-buechele-ol-jedrick-002342669.html",
-      "description": "The Bills announced their practice squad additions on Monday....",
-      "pubDate": "2026-09-01T00:23:42+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles sign former Cowboys running back to practice squad",
-      "link": "https://sports.yahoo.com/articles/eagles-sign-former-cowboys-running-002226518.html",
-      "description": "RB Jaydon Blue is staying in the NFC East, but is heading to Philly to start the season....",
-      "pubDate": "2026-09-01T00:22:26+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dax Hill returns to practice",
-      "link": "https://sports.yahoo.com/articles/dax-hill-returns-practice-001127442.html",
-      "description": "The cornerback had been nursing a hamstring injury since early August....",
-      "pubDate": "2026-09-01T00:11:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chicago Bears Have Signed 11 Players to Their Initial 2026 Practice Squad",
-      "link": "https://sports.yahoo.com/articles/chicago-bears-signed-11-players-000535834.html",
-      "description": "The Chicago Bears have announced their first signings for the 16-man practice squad for the 2026 season....",
-      "pubDate": "2026-09-01T00:05:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles practice squad tracker news: Signings, waiver claims, roster updates, and more",
-      "link": "https://sports.yahoo.com/articles/eagles-practice-squad-tracker-news-120800153.html",
-      "description": "Follow along with the latest transactions here....",
-      "pubDate": "2026-09-01T00:04:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Five takeaways from Dan Quinn, Adam Peters press conference after Commanders roster cuts",
-      "link": "https://sports.yahoo.com/articles/five-takeaways-dan-quinn-adam-000317706.html",
-      "description": "Commanders HC Dan Quinn and GM Adam Peters discussed Nick Allegretti, Trey Amos and more in a key press conference...",
-      "pubDate": "2026-09-01T00:03:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Miami Dolphins Players Who Are Future Household Names",
-      "link": "https://sports.yahoo.com/articles/miami-dolphins-players-future-household-000000563.html",
-      "description": "Miami Dolphins Fans share which currenly unknown player on the team will become a future “household name”...",
-      "pubDate": "2026-09-01T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Malik Nabers: I&#39;m making sure I&#39;m ready to play four quarters",
-      "link": "https://sports.yahoo.com/articles/malik-nabers-im-making-sure-235856542.html",
-      "description": "Will Nabers be ready to play against the Cowboys in Week 1?...",
-      "pubDate": "2026-08-31T23:58:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "AFC East Predictions: Can The Bills Regain Their Throne Over The Patriots?",
-      "link": "https://www.foxsports.com/stories/nfl/afc-east-predictions-can-bills-regain-throne-over-patriots",
-      "description": "The First Things First panel took a look at the AFC East, projecting how the standings will unfold for the Buffalo Bills, New England Patriots, New York Jets, and Miami Dolphins.",
-      "pubDate": "2026-08-31T23:56:59+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/wholl-win-afc-east.jpg"
-    },
-    {
-      "title": "Giants practice squad tracker, 2026: 13 signings officially announced",
-      "link": "https://sports.yahoo.com/articles/giants-practice-squad-tracker-2026-154500212.html",
-      "description": "Tracking who the Giants sign to their 2026 practice squad...",
-      "pubDate": "2026-08-31T23:53:16+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Odell Beckham ‘earned his spot’ with Giants — now what will he do with it?",
-      "link": "https://sports.yahoo.com/articles/odell-beckham-earned-spot-giants-234725358.html",
-      "description": "Beckham hoping to “rewrite some of the last bit of the chapter&quot;...",
-      "pubDate": "2026-08-31T23:47:25+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams 53-man roster: Does LA have enough tackles and defensive backs?",
-      "link": "https://sports.yahoo.com/articles/rams-53-man-roster-does-234602415.html",
-      "description": "Nine OL and eight DB’s are a mirage. The Rams are dangerously thin at tackle and in the secondary....",
-      "pubDate": "2026-08-31T23:46:02+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cody White not returning to the Seahawks, but he’ll reunite with another ex-Seahawk",
-      "link": "https://sports.yahoo.com/articles/cody-white-not-returning-seahawks-234343589.html",
-      "description": "Cody White will be on the practice squad again. The Raiders practice squad....",
-      "pubDate": "2026-08-31T23:43:43+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Frogs O’ War Reacts Survey: Who’s most to blame for TCU’s loss to North Carolina?",
-      "link": "https://sports.yahoo.com/articles/frogs-o-war-reacts-survey-234237520.html",
-      "description": "The Horned Frogs stumbled to a 15-10 loss against the Tar Heels on Saturday....",
-      "pubDate": "2026-08-31T23:42:37+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jets see plenty of reasons to believe in Cade Klubnik as backup QB — even after uneven preseason",
-      "link": "https://sports.yahoo.com/articles/jets-see-plenty-reasons-believe-234131745.html",
-      "description": "Jets fans waiting for the team to add a veteran backup quarterback are going to have to continue waiting....",
-      "pubDate": "2026-08-31T23:41:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "John Harbaugh breaks down decisions made on Giants&#39; initial 53-man roster",
-      "link": "https://sports.yahoo.com/articles/john-harbaugh-breaks-down-decisions-233924646.html",
-      "description": "Following Monday&#39;s practice, head coach John Harbaugh was asked about the difficult decisions the Giants made as they put together their initial 53-man roster....",
-      "pubDate": "2026-08-31T23:39:24+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kansas City Chiefs roster",
-      "link": "https://sports.yahoo.com/articles/kansas-city-chiefs-roster-003019778.html",
-      "description": "The up-to-date team roster, including contract and salary cap information....",
-      "pubDate": "2026-08-31T23:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vikings Officially Announce 15 Practice Squad Signings",
-      "link": "https://sports.yahoo.com/articles/vikings-officially-announce-15-practice-232900889.html",
-      "description": "Plenty of familiar faces on the list...",
-      "pubDate": "2026-08-31T23:29:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers Practice Squad Tracker: The potential Week 1 punt returner signs",
-      "link": "https://sports.yahoo.com/articles/49ers-practice-squad-tracker-vested-161500163.html",
-      "description": "The 49ers have to cut down to 53 players. But some of those cuts might be sticking around....",
-      "pubDate": "2026-08-31T23:28:47+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Instant analysis of the Patriots’ initial practice squad",
-      "link": "https://sports.yahoo.com/articles/instant-analysis-patriots-initial-practice-232246128.html",
-      "description": "The Patriots began filling out their practice squad on Monday....",
-      "pubDate": "2026-08-31T23:22:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How did Ravens coach Jesse Minter end up rapping Eminem for the team? Inside Baltimore&#39;s culture shift, where young play-callers are more than just young",
-      "link": "https://sports.yahoo.com/nfl/article/how-did-ravens-coach-jesse-minter-end-up-rapping-eminem-for-the-team-inside-baltimores-culture-shift-where-young-play-callers-are-more-than-just-young-231935528.html",
-      "description": "After 18 years with John Harbaugh as the Ravens head coach, a new and needed energy shift has arrived. That&#39;s by design. It&#39;s not a knock on Harbaugh, but sometimes message...",
-      "pubDate": "2026-08-31T23:19:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "With $6.5 million left on deal, UCLA fires AD Martin Jarmond",
+      "link": "https://www.espn.com/college-football/story/_/id/49788304/with-65-million-left-deal-ucla-fires-ad-martin-jarmond",
+      "description": "UCLA fired athletic director Martin Jarmond on Monday, with chancellor Julio Frenk explaining in a letter to the UCLA community that the Bruins' athletic program \"currently carries a significant financial deficit, and its current path is not sustainable.\"",
+      "pubDate": "2026-09-01T12:17:05Z",
+      "source": "ESPN College Football · Paolo Uggetti",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0831/r1709749_600x600_1-1.jpg"
+    },
+    {
+      "title": "2026 college football simulations: CFP, conference title odds",
+      "link": "https://www.espn.com/college-football/story/_/id/49782961/2026-college-football-simulations-cfp-conference-title-odds-predictions",
+      "description": "Using SP+ projections, we ran 1 million simulations of the 2026 season, so we found something for everyone.",
+      "pubDate": "2026-09-01T10:46:03Z",
+      "source": "ESPN College Football · Bill Connelly",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0831/r1709471_608x342_16-9.jpg"
+    },
+    {
+      "title": "What's wrong with SEC football? Nothing a national title won't fix",
+      "link": "https://www.espn.com/college-football/story/_/id/49784967/sec-football-national-title-drought-georgia-kirby-smart",
+      "description": "There's only one way to quiet the critics and calm the fans after -- gasp! -- three years without a title.",
+      "pubDate": "2026-09-01T10:44:23Z",
+      "source": "ESPN College Football · Ryan McGee",
+      "thumbnail": "https://a.espncdn.com/photo/2023/0110/r1115758_608x342_16-9.jpg"
+    },
+    {
+      "title": "College football 2026: September CFP superlatives",
+      "link": "https://www.espn.com/college-football/story/_/id/49735073/college-football-playoff-watch-september",
+      "description": "Games, coaches and players to watch as the college football season begins.",
+      "pubDate": "2026-09-01T10:41:39Z",
+      "source": "ESPN College Football · Heather Dinich",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0831/ncf_cfb-games-2watch_fc_16x9.jpg"
+    },
     {
       "title": "Affidavit: TCU WR was hospitalized after alleged assault by Fields",
       "link": "https://www.espn.com/college-football/story/_/id/49790220/affidavit-tcu-wr-was-hospitalized-alleged-assault-fields",
@@ -434,14 +466,6 @@
       "pubDate": "2026-09-01T02:13:51Z",
       "source": "ESPN College Football · Mark Schlabach",
       "thumbnail": "https://a.espncdn.com/photo/2016/0504/r79974_1296x729_16-9.jpg"
-    },
-    {
-      "title": "With $6.5 million left on deal, UCLA fires AD Martin Jarmond",
-      "link": "https://www.espn.com/college-football/story/_/id/49788304/with-65-million-left-deal-ucla-fires-ad-martin-jarmond",
-      "description": "UCLA fired athletic director Martin Jarmond on Monday, with chancellor Julio Frenk explaining in a letter to the UCLA community that the Bruins' athletic program \"currently carries a significant financial deficit, and its current path is not sustainable.\"",
-      "pubDate": "2026-09-01T01:32:34Z",
-      "source": "ESPN College Football · Paolo Uggetti",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0831/r1709749_600x600_1-1.jpg"
     },
     {
       "title": "UCLA Replaces Athletic Director Martin Jarmond With Former Lakers Executive Tim Harris",
@@ -778,33 +802,73 @@
       "pubDate": "2026-08-30T05:04:42Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868235.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Prairie View A&M Panthers vs. Tarleton Texans: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49769477/full-highlights",
-      "description": "Prairie View A&M Panthers vs. Tarleton Texans: Full Highlights",
-      "pubDate": "2026-08-30T04:55:40Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0830/29bdf2a8-c6b1-4ad9-8d7a-25ba9222b32d/29bdf2a8-c6b1-4ad9-8d7a-25ba9222b32d.jpg"
-    },
-    {
-      "title": "Keali’i Ah Yat scores go-ahead TD to help Montana beat Southern Utah 28-21",
-      "link": "http://www.espn.com/ncf/recap?gameId=401868110",
-      "description": "— Keali’i Ah Yat threw for 265 yards and two touchdowns, including a 53-yard score to Lekeldrick Bridges with 3:20 remaining, as Montana beat Southern Utah 28-21 on Saturday night in the season and Big Sky Conference opener for both teams.",
-      "pubDate": "2026-08-30T04:52:36Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868110.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Roy throws 3 TDs, helps Illinois State set stadium record with 76-0 win over NAIA opponent",
-      "link": "http://www.espn.com/ncf/recap?gameId=401891332",
-      "description": "— Gage Roy threw three touchdown passes, and Tyler Lofton ran for 119 yards and two scores as Illinois State shut out St. Francis of Illinois 76-0 on Saturday in both teams' season opener.",
-      "pubDate": "2026-08-30T04:47:25Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401891332.png?templateId=espn.applewatch.awayhome.1"
     }
   ],
   "insider": [
+    {
+      "title": "Odell Beckham Jr.: I have an opportunity to rewrite the last chapter",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/odell-beckham-jr-i-have-an-opportunity-to-rewrite-the-last-chapter",
+      "description": "Wide receiver Odell Beckham experienced something new while waiting for the Giants to set their initial 53-man roster for the 2026 season....",
+      "pubDate": "2026-09-01T12:08:15+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Howie Roseman: Zach Ertz one of the greatest tight ends, but love what we have",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/howie-roseman-zach-ertz-one-of-the-greatest-tight-ends-but-love-what-we-have",
+      "description": "Word in early August was that tight end Zach Ertz has been cleared for all football activities after tearing his ACL last December, but the veteran remains a free agent with the st...",
+      "pubDate": "2026-09-01T11:53:43+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nnamdi Madubuike doing \"more and more,\" but Ravens uncertain about Week 1",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nnamdi-madubuike-doing-more-and-more-but-ravens-uncertain-about-week-1",
+      "description": "Ravens defensive tackle Nnamdi Madubuike did not go on injured reserve while the team set its initial 53-man roster, which means that the team does not think he will miss the first...",
+      "pubDate": "2026-09-01T11:41:02+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Aaron Donald's absence from Monday's practice \"part of the plan all along\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-donalds-absence-from-mondays-practice-part-of-the-plan-all-along",
+      "description": "Aaron Donald officially came out of retirement and practiced with the Rams on Sunday, but the three-time defensive player of the year was not on the field with the team on Monday....",
+      "pubDate": "2026-09-01T11:33:22+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL execs pick snubs in ESPN's 2026 top 100 player rankings",
+      "link": "https://www.espn.com/nfl/story/_/id/49784013/nfl-rank-top-100-players-rankings-2026-biggest-snubs-scouts-executives",
+      "description": "Only 100 players can make our list of the top NFL players for this season. Here are nine who league insiders believe should have been there.",
+      "pubDate": "2026-09-01T10:27:55Z",
+      "source": "ESPN NFL · Jeremy Fowler",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0104/r1596270_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Passports for practice squad signings are a logistical challenge for 49ers and Rams",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/passports-for-practice-squad-signings-are-a-logistical-challenge-for-49ers-and-rams",
+      "description": "Every team in the league is in the process of calling players to ask them to join the practice squad, but the Rams and 49ers have another question: \"Do you have a passport?\"...",
+      "pubDate": "2026-09-01T09:16:38+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "John Lynch: Aaron Donald makes the Rams better, but we're pretty good, too",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-lynch-aaron-donald-makes-the-rams-better-but-were-pretty-good-too",
+      "description": "The 49ers are preparing to face Donald next week in Australia....",
+      "pubDate": "2026-09-01T08:56:54+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patrick Herbert, brother of Justin Herbert, joins Chargers' practice squad",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-herbert-brother-of-justin-herbert-joins-chargers-practice-squad",
+      "description": "After spending the last year in Jacksonville, Patrick Herbert will join his brother in Los Angeles....",
+      "pubDate": "2026-09-01T08:00:39+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "NFL Catchup: Cowboys Release Milton, Tunsil Goes on IR And Nabers Injury Update",
       "link": "https://www.foxsports.com/stories/nfl/nfl-catchup-cowboys-release-milton-tunsil-goes-ir-nabers-injury-update",
@@ -1014,68 +1078,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Second-place Seahawks bidders received offer to buy piece of team",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/second-place-seahawks-bidders-received-offer-to-buy-piece-of-team",
-      "description": "A group led by Vinod Khosla won the bidding for control of the Seahawks over a group led by Aditya Mittal and Wyc Grousbeck....",
-      "pubDate": "2026-08-31T20:44:28+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Carson Beck will return to practice as a full participant this week",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/carson-beck-will-return-to-practice-as-a-full-participant-this-week",
-      "description": "The Cardinals are getting one of their young offensive players back on the field this week....",
-      "pubDate": "2026-08-31T20:42:20+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Commanders put Laremy Tunsil, Johnny Newton on IR; re-sign Fabian Moreau and Shy Tuttle",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-put-laremy-tunsil-johnny-newton-on-ir-re-sign-fabian-moreau-and-shy-tuttle",
-      "description": "The Commanders are leaving the door open for left tackle Laremy Tunsil and defensive tackle Johnny Newton to return to action at some point during the 2026 season....",
-      "pubDate": "2026-08-31T20:38:50+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers re-sign S Ashtyn Davis, P Corliss Waitman, place two on IR",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-re-sign-s-ashtyn-davis-p-corliss-waitman-place-two-on-ir",
-      "description": "After reducing their roster to 53 players on Sunday, the 49ers have brought back a pair of veterans who were released and not subject to waivers....",
-      "pubDate": "2026-08-31T20:24:07+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers GM Omar Khan: We hope Joey Porter Jr. finishes his career here",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-gm-omar-khan-we-hope-joey-porter-jr-finishes-his-career-here",
-      "description": "The Steelers activated cornerback Joey Porter Jr. from the physically unable to perform list on Sunday, which clears the way for Porter to practice with the team and play in Week 1...",
-      "pubDate": "2026-08-31T20:21:05+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Steelers won't negotiate with CB Joey Porter Jr. during season",
       "link": "https://www.espn.com/nfl/story/_/id/49785992/steelers-negotiate-cb-joey-porter-jr-season",
       "description": "The Steelers say their longtime policy of not negotiating contracts in-season will stand when it comes to cornerback Joey Porter Jr., who is in the final year of his rookie deal.",
       "pubDate": "2026-08-31T20:18:35Z",
       "source": "ESPN NFL · Brooke Pryor",
       "thumbnail": "https://a.espncdn.com/photo/2025/0912/r1544507_600x400_3-2.jpg"
-    },
-    {
-      "title": "Dolphins re-sign QB Mark Gronowski to practice squad",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-re-sign-qb-mark-gronowski-to-practice-squad",
-      "description": "The Dolphins have played musical chairs with their quarterbacks, with starter Malik Willis the only constant....",
-      "pubDate": "2026-08-31T20:07:11+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys waive QB Joe Milton",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-waive-qb-joe-milton",
-      "description": "The Cowboys kept three quarterbacks on their initial 53-man roster, but they dropped to two on Monday, They have waived Joe Milton, which leaves Sam Howell as the only backup to Da...",
-      "pubDate": "2026-08-31T20:07:00+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "Eric Karabell's 2026 fantasy football flex and superflex rankings",
@@ -1108,14 +1116,6 @@
       "pubDate": "2026-08-31T10:59:10Z",
       "source": "ESPN NFL · Mike Clay",
       "thumbnail": "https://a.espncdn.com/photo/2026/0330/r1636142_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Field Yates' fantasy football PPR rankings: Top 160 for 2026",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/48711830/2026-fantasy-football-rankings-ppr-field-yates",
-      "description": "Field provides his latest rankings for the upcoming season, which will be updated throughout the summer.",
-      "pubDate": "2026-08-31T10:50:46Z",
-      "source": "ESPN NFL · Field Yates",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0112/r1599486_1296x729_16-9.jpg"
     },
     {
       "title": "2026 Super Bowl Odds: Rams Remain Favored After Aaron Donald's Return",
