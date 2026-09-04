@@ -1,13 +1,101 @@
 {
-  "generatedAt": "2026-09-04T01:03:35.711268+00:00",
+  "generatedAt": "2026-09-04T05:57:15.513451+00:00",
   "nfl": [
+    {
+      "title": "AFC South Predictions: Can The Texans Reclaim The Division From The Jaguars?",
+      "link": "https://www.foxsports.com/stories/nfl/afc-south-predictions-can-texans-reclaim-division-from-jaguars",
+      "description": "Who'll win the AFC South? Here's who the \"First Things First\" crew thinks will win the division crown.",
+      "pubDate": "2026-09-04T05:42:13+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/afc-south-ftf.jpg"
+    },
+    {
+      "title": "Ryan Rakowski powers Palos Verdes to victory over Carson",
+      "link": "https://sports.yahoo.com/articles/ryan-rakowski-powers-palos-verdes-051821660.html",
+      "description": "Nevada-bound senior quarterback Ryan Rakowski passes for two touchdowns and runs for three more in a 35-20 victory over Carson....",
+      "pubDate": "2026-09-04T05:18:21+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Caleb Williams, Caleb Wilson and Matas Buzelis start 'PCA!' chant at Cubs game",
+      "link": "https://www.espn.com/video/clip/_/id/49821854/caleb-williams-caleb-wilson-matas-buzelis-start-pca-chant-cubs-game",
+      "description": "Caleb Williams, Caleb Wilson and Matas Buzelis start 'PCA!' chant at Cubs game",
+      "pubDate": "2026-09-04T05:10:31Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Watchfolder_Cubs_16x9_for_site/dm_260904_Watchfolder_Cubs_16x9_for_site.jpg"
+    },
+    {
+      "title": "NFL Catchup: Rams Name Ty Simpson QB3; Cardinals Extend WR Michael Wilson",
+      "link": "https://www.foxsports.com/stories/nfl/nfl-catchup-rams-name-ty-simpson-qb3-cardinals-extend-wr-michael-wilson",
+      "description": "Here's the latest NFL news around the league on Thursday.",
+      "pubDate": "2026-09-04T04:07:01+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/ty-simpson-nfl-catchup.jpg"
+    },
+    {
+      "title": "Three reasons why Cal football will be better than you think",
+      "link": "https://sports.yahoo.com/articles/three-reasons-why-cal-football-032113714.html",
+      "description": "Cal football has quietly got better over the summer. Here&#39;s why they can make noise in the ACC in 2026....",
+      "pubDate": "2026-09-04T03:21:13+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ca’lil Valentine doubles longest career run",
+      "link": "https://sports.yahoo.com/articles/ca-lil-valentine-doubles-longest-024131294.html",
+      "description": "The third year back is making his mark early...",
+      "pubDate": "2026-09-04T02:41:31+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "How the 49ers, NFL made 'seamless' travel plan to Australia",
+      "link": "https://www.espn.com/nfl/story/_/id/49803389/san-francisco-49ers-travel-plan-melbourne-australia-los-angeles-rams",
+      "description": "The 49ers touched down Thursday for their weeklong stay in Melbourne, Australia, to face the Rams. How did the team prepare for the trip?",
+      "pubDate": "2026-09-04T02:24:56Z",
+      "source": "ESPN NFL · Nick Wagoner",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0903/r1710909_608x342_16-9.jpg"
+    },
+    {
+      "title": "NFC South Predictions: Can The Panthers Win The Division Again?",
+      "link": "https://www.foxsports.com/stories/nfl/nfc-south-predictions-can-panthers-win-division-again",
+      "description": "With Week 1 approaching, the First Things First crew of Nick Wright, Chris Broussard and Danny Parkins predicted how the NFC South standings would shake out.",
+      "pubDate": "2026-09-04T01:48:47+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/wholl-win-nfc-south-ftf-1.jpg"
+    },
+    {
+      "title": "DE Azeez Ojulari, OL Evan Neal, WR Ronnie Bell sign with Raiders&#39; practice squad",
+      "link": "https://sports.yahoo.com/articles/azeez-ojulari-ol-evan-neal-014131630.html",
+      "description": "The Raiders worked out 16 players on Thursday....",
+      "pubDate": "2026-09-04T01:41:31+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys create more than $19 million in cap space with restructurings",
+      "link": "https://sports.yahoo.com/articles/cowboys-create-more-19-million-011509358.html",
+      "description": "With the regular season approaching, the Cowboys have maneuvered to create some extra cap space....",
+      "pubDate": "2026-09-04T01:15:09+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Sources: Cowboys restructure deals of Clark, Bland, Ferguson",
       "link": "https://www.espn.com/nfl/story/_/id/49819676/sources-cowboys-restructure-deals-clark-bland-ferguson",
-      "description": "Veteran defensive tackle Kenny Clark, cornerback DaRon Bland and tight end Jake Ferguson had their deals re-worked to give Dallas flexibility, sources said.",
-      "pubDate": "2026-09-04T00:48:09Z",
+      "description": "Veteran defensive tackle Kenny Clark, cornerback DaRon Bland and tight end Jake Ferguson had their deals reworked to give Dallas flexibility, sources said.",
+      "pubDate": "2026-09-04T01:07:58Z",
       "source": "ESPN NFL · Todd Archer",
       "thumbnail": "https://a.espncdn.com/photo/2026/0610/r1670829_600x400_3-2.jpg"
+    },
+    {
+      "title": "UNC probe turns to Steve Belichick over potential drug use in investigation twist",
+      "link": "https://sports.yahoo.com/articles/unc-probe-turns-steve-belichick-010155174.html",
+      "description": "If Bill Belichick was hoping to have a controversy-free second season at the helm of North Carolina’s football program, he&#39;d better think again....",
+      "pubDate": "2026-09-04T01:01:55+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Ex-Giants Evan Neal, Azeez Ojulari sign with Las Vegas Raiders’ practice squad",
@@ -24,6 +112,14 @@
       "pubDate": "2026-09-04T00:38:42Z",
       "source": "ESPN NFL · Todd Archer",
       "thumbnail": "https://a.espncdn.com/photo/2026/0823/r1705841_608x342_16-9.jpg"
+    },
+    {
+      "title": "John Lynch reveals what 49ers must do to earn blockbuster trade",
+      "link": "https://sports.yahoo.com/articles/john-lynch-reveals-49ers-must-003040362.html",
+      "description": "John Lynch isn’t promising the 49ers another blockbuster trade. He is leaving the door conspicuously open. With San Francisco preparing to begin a season carrying legitimate Super ...",
+      "pubDate": "2026-09-04T00:30:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Kansas City Chiefs roster",
@@ -66,6 +162,14 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0903/r1711105_1296x729_16-9.jpg"
     },
     {
+      "title": "49ers’ early Australia arrival puts all pressure on them — not Rams",
+      "link": "https://sports.yahoo.com/articles/49ers-early-australia-arrival-puts-000255529.html",
+      "description": "Thursday didn’t exist for Kyle Shanahan and the 49ers. They boarded a two-story jumbo jet a little before midnight Wednesday evening, and by the time it touched down in Melbourne,....",
+      "pubDate": "2026-09-04T00:02:55+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Miami Dolphins Discussion: Questions You Need Answered Edition",
       "link": "https://sports.yahoo.com/articles/miami-dolphins-discussion-questions-answered-000000167.html",
       "description": "We ask Miami Dolphins fans what questions they need answered by this years version of the team....",
@@ -104,6 +208,14 @@
       "pubDate": "2026-09-03T23:42:59+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/aj-brown-ftf.jpg"
+    },
+    {
+      "title": "Rams legend close to Sean McVay makes bold Aaron Donald prediction: ‘That fire’ is back",
+      "link": "https://sports.yahoo.com/articles/rams-legend-close-sean-mcvay-232606980.html",
+      "description": "Todd Gurley exclusively predicts former Rams teammate Aaron Donald will play against the 49ers in Australia and says the fire is back in the three-time DPOY....",
+      "pubDate": "2026-09-03T23:26:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Why the Bengals may choose not to extend DJ Turner, Dax Hill, or Chase Brown right now",
@@ -146,20 +258,20 @@
       "thumbnail": ""
     },
     {
+      "title": "Rams insider warns neglected weakness could make everything ‘fall apart’",
+      "link": "https://sports.yahoo.com/articles/rams-insider-warns-neglected-weakness-223910837.html",
+      "description": "The Rams spent the offseason constructing a roster without many obvious weaknesses. Their biggest one may be standing directly in front of Matthew Stafford — and it is one of......",
+      "pubDate": "2026-09-03T22:39:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "The fair, unfair criticism of the Detroit Lions’ handling of Terrion Arnold",
       "link": "https://sports.yahoo.com/articles/fair-unfair-criticism-detroit-lions-223000754.html",
       "description": "When it comes to the Detroit Lions’ handling of Terrion Arnold, questions are fair, but the discourse needs to be honest and thoughtful....",
       "pubDate": "2026-09-03T22:30:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "How the 49ers, NFL made 'seamless' travel plan to Australia",
-      "link": "https://www.espn.com/nfl/story/_/id/49803389/san-francisco-49ers-travel-plan-melbourne-australia-los-angeles-rams",
-      "description": "The 49ers touched down Thursday for their weeklong stay in Melbourne, Australia, to face the Rams. How did the team prepare for the trip?",
-      "pubDate": "2026-09-03T22:12:30Z",
-      "source": "ESPN NFL · Nick Wagoner",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0903/r1710909_608x342_16-9.jpg"
     },
     {
       "title": "49ers land in Melbourne ahead of next week&#39;s game vs. Rams",
@@ -202,6 +314,14 @@
       "thumbnail": ""
     },
     {
+      "title": "Dianna Russini plotting media return after Athletic probe — one outlet is a lead candidate to hire her",
+      "link": "https://sports.yahoo.com/articles/dianna-russini-plotting-media-return-215915753.html",
+      "description": "Dianna Russini, former NFL insider for The Athletic, might not be out of a job for long....",
+      "pubDate": "2026-09-03T21:59:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Saints surprisingly waive two players with injury settlements",
       "link": "https://sports.yahoo.com/articles/saints-surprisingly-waive-two-players-215850908.html",
       "description": "The Saints save some money, but was it the correct decision?...",
@@ -214,6 +334,22 @@
       "link": "https://sports.yahoo.com/articles/browns-sam-williams-everything-know-215309642.html",
       "description": "What does the new guy offer the Cleveland Browns roster? A look at DE Sam Williams’ history...",
       "pubDate": "2026-09-03T21:53:09+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Raiders’ massive 16-player workout reveals biggest roster concerns",
+      "link": "https://sports.yahoo.com/articles/raiders-massive-16-player-workout-214713515.html",
+      "description": "The Raiders appear to be shopping for reinforcements before Week 1. Las Vegas worked out 16 players Thursday, according to the NFL transaction wire, with the list concentrated heav...",
+      "pubDate": "2026-09-03T21:47:13+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Lombardi resigns as UNC football GM amid investigation",
+      "link": "https://sports.yahoo.com/articles/mike-lombardi-resigns-unc-football-214513833.html",
+      "description": "Lombardi had been on paid leave since late July amid an internal investigation into a complaint from a former front office employee....",
+      "pubDate": "2026-09-03T21:45:13+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -264,145 +400,321 @@
       "pubDate": "2026-09-03T21:11:53+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Recently released Steelers LB signs with Giants",
-      "link": "https://sports.yahoo.com/articles/recently-released-steelers-lb-signs-210736952.html",
-      "description": "Former Steelers linebacker signs with New York Giants....",
-      "pubDate": "2026-09-03T21:07:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "UNC&#39;s Michael Lombardi resigns as investigation reportedly includes questions about Steve Belichick",
-      "link": "https://sports.yahoo.com/college-football/breaking-news/article/north-carolina-gm-michael-lombardi-resigns-as-uncs-investigation-reportedly-includes-questions-about-steve-belichick-210208183.html",
-      "description": "Lombardi had been on paid leave since July. Investigators are reportedly asking questions about accusations of drug use by Belichick, as well as inquiring about inappropriate relat...",
-      "pubDate": "2026-09-03T21:02:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys countdown to kickoff: Top 100 iconic games – Day 10",
-      "link": "https://sports.yahoo.com/articles/cowboys-countdown-kickoff-top-100-210000645.html",
-      "description": "We countdown 100 days until kickoff with a series of the most iconic games in Cowboys history. Today is Day 10...",
-      "pubDate": "2026-09-03T21:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nnamdi Madubuike did team drills at Ravens practice Thursday",
-      "link": "https://sports.yahoo.com/articles/nnamdi-madubuike-did-team-drills-204858143.html",
-      "description": "Ravens head coach Jesse Minter said earlier this week that he does not see defensive tackle Nnamdi Madubuike &quot;missing that many games&quot; as he finishes his comeback from la...",
-      "pubDate": "2026-09-03T20:48:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-      "link": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html",
-      "description": "An updated look at the Patriots’ roster in 2026....",
-      "pubDate": "2026-09-03T20:45:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mike Tomlin explains why Steelers traded George Pickens",
-      "link": "https://sports.yahoo.com/articles/mike-tomlin-explains-why-steelers-204456822.html",
-      "description": "Mike Tomlin breaks down reasons for Steelers trading George Pickens....",
-      "pubDate": "2026-09-03T20:44:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots add former Saints safety to practice squad, release defensive tackle",
-      "link": "https://sports.yahoo.com/articles/patriots-add-former-saints-safety-204256727.html",
-      "description": "A spot on New England’s initial practice squad has changed hands....",
-      "pubDate": "2026-09-03T20:42:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Daejon Love fake 49ers preseason hype video goes bonkers online, should annoy San Fran rookie",
-      "link": "https://sports.yahoo.com/articles/daejon-love-fake-49ers-preseason-203722378.html",
-      "description": "Daejon Love never played a snap for the 49ers. That didn’t stop the internet from giving him a highlight reel anyway. A roughly 40-second parody video making the rounds online......",
-      "pubDate": "2026-09-03T20:37:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kayshon Boutte takes Mike Vrabel&#39;s &quot;inactive&quot; comment in stride",
-      "link": "https://sports.yahoo.com/articles/kayshon-boutte-takes-mike-vrabels-203522411.html",
-      "description": "In each of the past two seasons, Kayshon Boutte ranked second in receiving yards among Patriots wideouts and first or tied for first in receiving touchdowns....",
-      "pubDate": "2026-09-03T20:35:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Khosla family closes on record purchase of Seahawks",
-      "link": "https://www.espn.com/nfl/story/_/id/49817316/khosla-family-closes-record-purchase-seahawks",
-      "description": "The Seahawks announced that the sale of the franchise from Paul Allen's estate to a group led by the Khosla family has closed.",
-      "pubDate": "2026-09-03T20:18:47Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2019/0411/r527899_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Rams&#39; depth chart lists Stetson Bennett as No. 2 QB, Ty Simpson No. 3",
-      "link": "https://sports.yahoo.com/articles/rams-depth-chart-lists-stetson-201731269.html",
-      "description": "Ty Simpson was the No. 13 overall pick in the 2026 NFL draft, but he&#39;s only the No. 3 quarterback on the Rams....",
-      "pubDate": "2026-09-03T20:17:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kansas State Football: Depth Chart Grades – Offense",
-      "link": "https://sports.yahoo.com/articles/kansas-state-football-depth-chart-200746762.html",
-      "description": "The Wildcats are loaded at quarterback, running back, and tight end, but questions linger at wide receiver and on the offensive line....",
-      "pubDate": "2026-09-03T20:07:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Availability is Chiefs OG Trey Smith&#39;s first goal as he tries to play all 17 games again",
-      "link": "https://sports.yahoo.com/articles/availability-chiefs-og-trey-smiths-200648302.html",
-      "description": "Chiefs right guard Trey Smith started 67 of a possible 68 regular-season games in the first four years of his career....",
-      "pubDate": "2026-09-03T20:06:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Will Adam Peters UDFA success alter Washington Commanders trajectory?",
-      "link": "https://sports.yahoo.com/articles/adam-peters-udfa-success-alter-200000415.html",
-      "description": "Possible the success of Tyler Owens, Colson Yankoff, Drew Stevens, Ricky Barber speed up overhaul of Commanders’ roster?...",
-      "pubDate": "2026-09-03T20:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Will Levis works out for the New York Jets",
-      "link": "https://sports.yahoo.com/articles/levis-works-york-jets-195924445.html",
-      "description": "The former Titans second round pick finally gets a call...",
-      "pubDate": "2026-09-03T19:59:24+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Report: Giants to sign LB Malik Harrison to practice squad",
-      "link": "https://sports.yahoo.com/articles/report-giants-sign-lb-malik-195703020.html",
-      "description": "Giants head coach John Harbaugh is adding one of his former Ravens players to the team&#39;s practice squad....",
-      "pubDate": "2026-09-03T19:57:03+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Alphonso Smith tried to buy a family breakfast days before disturbing death",
-      "link": "https://sports.yahoo.com/articles/alphonso-smith-tried-buy-family-195656250.html",
-      "description": "Alphonso Smith Jr. appeared to be in a very different place in the days before his reported suicide....",
-      "pubDate": "2026-09-03T19:56:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Holmes throws 3 TD passes to Morrow, Buffalo makes late goal-line stand, beats Albany 21-17",
+      "link": "http://www.espn.com/ncf/recap?gameId=401866409",
+      "description": "— Chance Morrow caught his third touchdown pass from Elijah Holmes with 4:23 left and Buffalo beat Albany 21-17 early Friday in a game that was delayed about 2 3/4 hours at the start because of rain.",
+      "pubDate": "2026-09-04T05:53:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401866409.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Javon Tracy sets Minnesota record with 2 punt return TDs",
+      "link": "https://www.espn.com/college-football/story/_/id/49821291/javon-tracy-sets-minnesota-record-2-punt-return-tds",
+      "description": "Javon Tracy set Minnesota's single-game record with two punt return touchdowns in the season-opening win against Eastern Illinois.",
+      "pubDate": "2026-09-04T05:44:52Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0904/r1711203_600x400_3-2.jpg"
+    },
+    {
+      "title": "Katin Houser throws 3 TD passes and runs for a score as Illinois beats UAB 42-23 in season opener",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858424",
+      "description": "— Katin Houser threw three touchdown passes and ran for a score in his Illinois debut as the Illini defeated UAB 42-23 on Thursday night in a season opener.",
+      "pubDate": "2026-09-04T05:37:32Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858424.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Bethune-Cookman Wildcats vs. UCF Knights: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49820873/full-highlights",
+      "description": "Bethune-Cookman Wildcats vs. UCF Knights: Full Highlights",
+      "pubDate": "2026-09-04T05:36:32Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/59c52ac3-f0e4-4676-ad97-a66c92c0c378/59c52ac3-f0e4-4676-ad97-a66c92c0c378.jpg"
+    },
+    {
+      "title": "Dampier and Parker star in No. 21 Utah's first opener without Whittingham in 21 years",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856768",
+      "description": "— Devon Dampier threw for three touchdowns, Wayshawn Parker had the first three-touchdown game of his career and No. 21 Utah routed Idaho 66-14 coach Morgan Scalley's regular-season debut.",
+      "pubDate": "2026-09-04T05:29:30Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856768.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Colorado QB Julian Lewis leads touchdown drive with 42 seconds left in 14-13 win over Georgia Tech",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856776",
+      "description": "— Colorado freshman quarterback Julian Lewis hit tight end Charlie Williams for a 20-yard touchdown with 42 seconds remaining in the fourth quarter, lifting the Buffaloes to a last-minute, 14-13 win against Georgia Tech on Thursday night in the season...",
+      "pubDate": "2026-09-04T05:27:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856776.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Colorado rallies, blocks Georgia Tech's walk-off field goal try",
+      "link": "https://www.espn.com/college-football/story/_/id/49821621/colorado-rallies-blocks-georgia-tech-walk-field-goal-try",
+      "description": "Freshman QB Julian Lewis led a clutch two-minute drill to put Colorado ahead, and the Buffaloes secured a 14-13 win by blocking Georgia Tech's 45-yard field goal attempt as time expired Thursday night.",
+      "pubDate": "2026-09-04T05:22:05Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0904/r1711211_600x400_3-2.jpg"
+    },
+    {
+      "title": "Minnesota breezes by Eastern Illinois 59-7 in the opener behind Javon Tracy's two punt return TDs",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858422",
+      "description": "— Javon Tracy set the program record with two punts for touchdowns and Darius Taylor rushed for three first-half scores as...",
+      "pubDate": "2026-09-04T05:19:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858422.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "UMass ends its 16-game losing streak with 37-21 win at Rutgers",
+      "link": "https://www.espn.com/college-football/story/_/id/49821648/umass-ends-16-game-losing-streak-37-21-win-rutgers",
+      "description": "Pop Watson III passed for 197 yards and three touchdowns as UMass ended a 16-game losing streak with a 37-21 win over Rutgers in the season opener for both teams Thursday night.",
+      "pubDate": "2026-09-04T05:16:41Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0904/r1711210_600x400_3-2.jpg"
+    },
+    {
+      "title": "Louisiana court rules for the players: Now what?",
+      "link": "https://www.espn.com/college-football/story/_/id/49815660/college-football-2026-louisiana-decision-five-years",
+      "description": "What does it all mean? What cases are still pending? What are people saying?",
+      "pubDate": "2026-09-04T05:11:42Z",
+      "source": "ESPN College Football · Max Olson",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_NCF_Analysis_Court_Ruling_260903/dm_260903_SEC_NCF_Analysis_Court_Ruling_260903.jpg"
+    },
+    {
+      "title": "Caleb Williams, Caleb Wilson and Matas Buzelis start 'PCA!' chant at Cubs game",
+      "link": "https://www.espn.com/video/clip/_/id/49821854/caleb-williams-caleb-wilson-matas-buzelis-start-pca-chant-cubs-game",
+      "description": "Caleb Williams, Caleb Wilson and Matas Buzelis start 'PCA!' chant at Cubs game",
+      "pubDate": "2026-09-04T05:10:31Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_Watchfolder_Cubs_16x9_for_site/dm_260904_Watchfolder_Cubs_16x9_for_site.jpg"
+    },
+    {
+      "title": "UAB Blazers vs. Illinois Fighting Illini: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49821721/full-highlights",
+      "description": "UAB Blazers vs. Illinois Fighting Illini: Full Highlights",
+      "pubDate": "2026-09-04T04:47:10Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/e624c0db-bcd7-4d19-ad6b-d09f287ca6c9/e624c0db-bcd7-4d19-ad6b-d09f287ca6c9.jpg"
+    },
+    {
+      "title": "Idaho Vandals vs. Utah Utes: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49821690/full-highlights",
+      "description": "Idaho Vandals vs. Utah Utes: Full Highlights",
+      "pubDate": "2026-09-04T04:41:01Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/82123daf-d626-427f-b138-21a69a3af94b/82123daf-d626-427f-b138-21a69a3af94b.jpg"
+    },
+    {
+      "title": "UMass ends its 16-game losing streak with a 37-21 win over Rutgers",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858423",
+      "description": "— Pop Watson III passed for 197 yards and three touchdowns as UMass ended a 16-game losing streak with a 37-21 win over Rutgers in the season-opener for both teams on Thursday night.",
+      "pubDate": "2026-09-04T04:34:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858423.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "What to watch for as No. 10 Oklahoma takes on UTEP",
+      "link": "https://www.espn.com/video/clip/_/id/49821620/what-watch-no-10-oklahoma-takes-utep",
+      "description": "SEC Network's Chris Doering and Benjamin Watson highlight what they want to see from QB John Mateer and the rest of the Sooners as they open the season against the Miners.",
+      "pubDate": "2026-09-04T04:30:48Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/dm_260904_SEC_NCF_Analysis_OU_FB_Pre_260903/dm_260904_SEC_NCF_Analysis_OU_FB_Pre_260903.jpg"
+    },
+    {
+      "title": "Collins, Murrell lead Kennesaw State's offensive eruption in 47-0 win over West Georgia",
+      "link": "http://www.espn.com/ncf/recap?gameId=401864425",
+      "description": "— Rickie Collins accounted for three touchdowns and Latrelle Murrell ran for two touchdowns and Kennesaw State beat West Georgia 47-0 in the Owls' season opener on Thursday night.",
+      "pubDate": "2026-09-04T04:18:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401864425.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "SVP: 'LSU plays in two days. What are we doing?'",
+      "link": "https://www.espn.com/video/clip/_/id/49821490/lsu-plays-two-days-doing",
+      "description": "SVP: 'LSU plays in two days. What are we doing?'",
+      "pubDate": "2026-09-04T04:17:59Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/ss_20260904_001339104_3646128/ss_20260904_001339104_3646128.jpg"
+    },
+    {
+      "title": "UMass Delivers Shocking Week 1 Upset Over Rutgers On The Road",
+      "link": "https://www.foxsports.com/stories/college-football/umass-delivers-shocking-week-1-upset-over-rutgers-road",
+      "description": "The UMass Minutemen upset Rutgers 37-21 on the road on Thursday night to open up their 2026 campaign.",
+      "pubDate": "2026-09-04T04:15:28+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/mass.jpg"
+    },
+    {
+      "title": "Colorado escapes with a win after late TD and Georgia Tech's missed FG",
+      "link": "https://www.espn.com/video/clip/_/id/49821391/colorado-escapes-win-late-td-georgia-tech-missed-fg",
+      "description": "Colorado escapes with a win after late TD and Georgia Tech's missed FG",
+      "pubDate": "2026-09-04T04:10:59Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0904/1fc31bbe4152425792f198ab5e54838310/1fc31bbe4152425792f198ab5e54838310.jpg"
+    },
+    {
+      "title": "Doering on Mizzou's Simmons: 'This is exactly what he needed'",
+      "link": "https://www.espn.com/video/clip/_/id/49821385/exactly-needed",
+      "description": "The SEC Now crew highlights how Austin Simmons' performance against Arkansas-Pine Bluff was beneficial for him in getting back in the QB1 role for the Tigers.",
+      "pubDate": "2026-09-04T03:56:51Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_NCF_Analysis_SECN_Simmons_Post_MIZ_260903/dm_260903_SEC_NCF_Analysis_SECN_Simmons_Post_MIZ_260903.jpg"
+    },
+    {
+      "title": "Simmons throws 4 TD passes in debut as No. 25 Missouri beats Arkansas-Pine Bluff 54-14",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856663",
+      "description": "— Austin Simmons threw for 252 yards and four touchdowns in a Missouri debut that lasted less than a half, and the No. 25 Tigers rolled to a season-opening 54-14 victory over Arkansas-Pine Bluff on Thursday night.",
+      "pubDate": "2026-09-04T03:55:35Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856663.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Highlight: No. 25 Missouri steamrolls Arkansas-Pine Bluff to open football season",
+      "link": "https://www.espn.com/video/clip/_/id/49821365/no-25-missouri-steamrolls-arkansas-pine-bluff-open-football-season",
+      "description": "Austin Simmons throws for 252 yards and four TDs along with Donovan Olugbode hauling in eight catches for 116 yards and two TDs as the Tigers dominate in the 54-14 win.",
+      "pubDate": "2026-09-04T03:55:05Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_NCF_Highlight_Mizz_over_ARKPB_260903/dm_260903_SEC_NCF_Highlight_Mizz_over_ARKPB_260903.jpg"
+    },
+    {
+      "title": "Austin Simmons says hard work is paying off, excited for season ahead",
+      "link": "https://www.espn.com/video/clip/_/id/49821324/austin-simmons-says-hard-work-paying-excited-season-ahead",
+      "description": "Simmons discusses how the Tigers have weathered adversity and kept grinding in the weight room throughout the offseason following their big win over Arkansas-Pine Bluff.",
+      "pubDate": "2026-09-04T03:47:30Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_NCF_Interview_Simmons_field_260903/dm_260903_SEC_NCF_Interview_Simmons_field_260903.jpg"
+    },
+    {
+      "title": "Arkansas-Pine Bluff Golden Lions vs. Missouri Tigers: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49821298/full-highlights",
+      "description": "Arkansas-Pine Bluff Golden Lions vs. Missouri Tigers: Full Highlights",
+      "pubDate": "2026-09-04T03:45:46Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/ff1cd314-c6e6-4ca5-9c21-9c77283f6d27/ff1cd314-c6e6-4ca5-9c21-9c77283f6d27.jpg"
+    },
+    {
+      "title": "Mizzou's Drinkwitz gives credit to QB Simmons' composure",
+      "link": "https://www.espn.com/video/clip/_/id/49821239/mizzou-drinkwitz-gives-credit-qb-simmons-composure",
+      "description": "Coming off a big win over Arkansas-Pine Bluff, Eliah Drinkwitz shows his appreciation for Austin Simmons and emphasizes how his decision-making and poise was key for the Tigers.",
+      "pubDate": "2026-09-04T03:39:22Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_NCF_Interview_DRINK_MIZZOU_260903/dm_260903_SEC_NCF_Interview_DRINK_MIZZOU_260903.jpg"
+    },
+    {
+      "title": "Judge grants injunction to pro players seeking LSU return",
+      "link": "https://www.espn.com/college-football/story/_/id/49807088/judge-grants-injunction-pro-players-seeking-lsu-return",
+      "description": "Dae'Quan Wright and Zxavian Harris are currently cleared to return to college football after brief stints in the NFL, according to a judge's orders issued Thursday evening, setting up a dramatic showdown between the SEC and LSU.",
+      "pubDate": "2026-09-04T03:26:45Z",
+      "source": "ESPN College Football · Dan Murphy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0902/r1710610_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Nick Minicucci leads Delaware to 42-7 romp over FCS member Merrimack in season opener",
+      "link": "http://www.espn.com/ncf/recap?gameId=401864424",
+      "description": "— Nick Minicucci passed for 330 yards and two touchdowns and also ran for a score to help Delaware cruise to a 42-7 victory over FCS member Merrimack on Thursday night in the Fightin' Blue Hens season opener.",
+      "pubDate": "2026-09-04T03:22:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401864424.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Michael Lombardi resigns as GM of UNC football team",
+      "link": "https://www.espn.com/college-football/story/_/id/49818279/michael-lombardi-resigns-gm-unc-football-team",
+      "description": "Michael Lombardi resigned as the GM of the UNC football team, which he had joined when Bill Belichick was hired in late 2024.",
+      "pubDate": "2026-09-04T03:21:56Z",
+      "source": "ESPN College Football · Jake Trotter",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694250_600x600_1-1.jpg"
+    },
+    {
+      "title": "Merrimack Warriors vs. Delaware Blue Hens: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49821120/full-highlights",
+      "description": "Merrimack Warriors vs. Delaware Blue Hens: Full Highlights",
+      "pubDate": "2026-09-04T03:19:09Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/75382057-89c0-4f28-a063-65b6ec371c90/75382057-89c0-4f28-a063-65b6ec371c90.jpg"
+    },
+    {
+      "title": "Lopez, Wake Forest get off to a fast offensive start in 38-16 win against Akron to open the season",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858204",
+      "description": "— Gio Lopez threw for 350 yards and three touchdowns in his Wake Forest debut, helping the Demon Deacons beat Akron 38-16 in Thursday night's opener.",
+      "pubDate": "2026-09-04T03:13:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858204.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Akron Zips vs. Wake Forest Demon Deacons: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49820893/full-highlights",
+      "description": "Akron Zips vs. Wake Forest Demon Deacons: Full Highlights",
+      "pubDate": "2026-09-04T02:44:41Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/f028cb4c-3cf7-4519-9d60-a1c23506f223/f028cb4c-3cf7-4519-9d60-a1c23506f223.jpg"
+    },
+    {
+      "title": "Southern Illinois Salukis vs. Samford Bulldogs: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49820869/full-highlights",
+      "description": "Southern Illinois Salukis vs. Samford Bulldogs: Full Highlights",
+      "pubDate": "2026-09-04T02:41:43Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/ed34b6c0-b763-4a56-a3db-85baa05ed16f/ed34b6c0-b763-4a56-a3db-85baa05ed16f.jpg"
+    },
+    {
+      "title": "All the numbers behind UMass' wild Week 1 upset of Rutgers",
+      "link": "https://www.espn.com/college-football/story/_/id/49819908/umass-rutgers-college-football-2026-week-1-upset-numbers",
+      "description": "UMass won its first game in over a calendar year in statement fashion -- dominating Rutgers 37-21 on the road in New Jersey.",
+      "pubDate": "2026-09-04T02:36:07Z",
+      "source": "ESPN College Football · Anthony Gharib",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0904/r1711144_608x342_16-9.jpg"
+    },
+    {
+      "title": "Chris 'The Bear' Fallica's College Football Week 1 Expert Picks, Best Bets",
+      "link": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-college-football-week-1-expert-picks-best-bets",
+      "description": "\"The Bear\" is back with his expert picks and best bets. Check out what he's wagering for Week 1 of the college football season.",
+      "pubDate": "2026-09-04T02:33:32+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/best-bets-16x9-bb-1.jpg"
+    },
+    {
+      "title": "Dan Murphy: Judge clears Dae'Quan Wright, Zxavian Harris to return to CFB",
+      "link": "https://www.espn.com/video/clip/_/id/49820682/judge-clears-daequan-wright-zxavian-harris-return-cfb",
+      "description": "Dan Murphy: Judge clears Dae'Quan Wright, Zxavian Harris to return to CFB",
+      "pubDate": "2026-09-04T02:32:27Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/ss_20260903_222539682_3645967/ss_20260903_222539682_3645967.jpg"
+    },
+    {
+      "title": "LSU, Lane Kiffin Cleared To Add Former NFL Players After Louisiana Court Ruling",
+      "link": "https://www.foxsports.com/stories/college-football/lsu-lane-kiffin-add-former-nfl-players-after-louisiana-court-ruling-tro",
+      "description": "A Louisiana judge issued a preliminary injunction against the NCAA and SEC, clearing way for former NFL players to return to college football.",
+      "pubDate": "2026-09-04T02:18:26+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/lane_kiffin_horizontal-1.jpg"
+    },
+    {
+      "title": "UMass Minutemen vs. Rutgers Scarlet Knights: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49820499/full-highlights",
+      "description": "UMass Minutemen vs. Rutgers Scarlet Knights: Full Highlights",
+      "pubDate": "2026-09-04T02:06:15Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0904/3b206c59-ca07-46f4-91d7-23753d2e4e20/3b206c59-ca07-46f4-91d7-23753d2e4e20.jpg"
+    },
+    {
+      "title": "Baton Rouge judge grants injunction to pro players seeking LSU return",
+      "link": "https://www.espn.com/video/clip/_/id/49820424/baton-rouge-judge-grants-injunction-pro-players-seeking-lsu-return",
+      "description": "SEC Now reacts to the judge's decision to allow players to return from the professional ranks and discusses what decisions could be coming in the near future.",
+      "pubDate": "2026-09-04T02:03:00Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_NCF_Analysis_Court_Ruling_260903/dm_260903_SEC_NCF_Analysis_Court_Ruling_260903.jpg"
+    },
+    {
+      "title": "SEC Now picks which teams will make the SEC Championship game",
+      "link": "https://www.espn.com/video/clip/_/id/49819848/sec-now-picks-which-teams-make-sec-championship-game",
+      "description": "SEC Network's Chris Doering and Benjamin Watson make their selections for which teams will make it to Atlanta for the SEC title match.",
+      "pubDate": "2026-09-04T01:06:58Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_NCF_Analysis_SEC_Champ_picks_260903/dm_260903_SEC_NCF_Analysis_SEC_Champ_picks_260903.jpg"
+    },
     {
       "title": "Which new SEC QB will make a splash this season?",
       "link": "https://www.espn.com/video/clip/_/id/49819787/which-new-sec-qb-make-splash-season",
@@ -410,14 +722,6 @@
       "pubDate": "2026-09-04T01:02:05Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/dm_260903_SEC_NCF_Analysis_QB_Talk_AUB_UF_260903/dm_260903_SEC_NCF_Analysis_QB_Talk_AUB_UF_260903.jpg"
-    },
-    {
-      "title": "Michael Lombardi resigns as GM of UNC football team",
-      "link": "https://www.espn.com/college-football/story/_/id/49818279/michael-lombardi-resigns-gm-unc-football-team",
-      "description": "Michael Lombardi has resigned as the GM of the UNC football team, which he had joined when Bill Belichick was hired in late 2024.",
-      "pubDate": "2026-09-04T00:59:50Z",
-      "source": "ESPN College Football · Jake Trotter",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694250_600x600_1-1.jpg"
     },
     {
       "title": "Previewing highly-anticipated Week 1 matchups across the SEC",
@@ -498,320 +802,88 @@
       "pubDate": "2026-09-03T20:49:16+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/cfp-horiz.jpg"
-    },
-    {
-      "title": "Top 25 betting lines: LSU a double-digit favorite over Clemson; Ohio State, UGA, Indiana all 40+ point faves",
-      "link": "https://www.espn.com/espn/betting/story/_/id/49815495/2026-college-football-top-25-betting-lines-odds",
-      "description": "This week's odds and FPI predictions for LSU-Clemson, Ole-Miss Louisville and every top 25 matchup.",
-      "pubDate": "2026-09-03T20:33:52Z",
-      "source": "ESPN College Football · ESPN",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0903/r1710952_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Elko urges focus as No 8 Texas A&M opens as a 40.5-point favorite vs Missouri State",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856668",
-      "description": "— After a long and intense camp, Texas A&M coach Mike Elko can’t wait to see how his eighth-ranked team matches up against Missouri State in its opener Saturday.",
-      "pubDate": "2026-09-03T20:23:31Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856668.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "2026 'College GameDay' Week 1: Matchup, guest picker, more",
-      "link": "https://www.espn.com/college-football/story/_/id/49816722/2026-college-gameday-week-1-matchup-guest-picker-more",
-      "description": "\"College GameDay\" heads to Baton Rouge, Louisiana for Week 1.",
-      "pubDate": "2026-09-03T20:12:27Z",
-      "source": "ESPN College Football · ESPN",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/ss_20260903_124117236_3645390779/ss_20260903_124117236_3645390779.jpg"
-    },
-    {
-      "title": "Dylan Raiola Has Never Been A Backup — Now He’s Embracing The Wait At Oregon",
-      "link": "https://www.foxsports.com/stories/college-football/dylan-raiola-oregon-dante-moore",
-      "description": "Dylan Raiola transferred to Oregon knowing Dante Moore could return for another season. Now the former five-star quarterback is embracing a role he has never experienced in his career.",
-      "pubDate": "2026-09-03T20:05:36+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/oregon-theme-16x9-cfb.jpg"
-    },
-    {
-      "title": "Be boring? Lane Kiffin is anything but as he enters a new era at LSU",
-      "link": "https://www.espn.com/college-football/story/_/id/49795137/2026-lane-kiffin-lsu-expectations-high-pressure-week-1",
-      "description": "Kiffin chose LSU as the path of least resistance to win a title. Anything short of that will bring a legion of critics.",
-      "pubDate": "2026-09-03T20:03:59Z",
-      "source": "ESPN College Football · David Hale",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0901/r1710048_608x342_16-9.jpg"
-    },
-    {
-      "title": "Brendan Sorsby on gambling addiction: 'A ton of remorse'",
-      "link": "https://www.espn.com/college-football/story/_/id/49817119/brendan-sorsby-gambling-addiction-ton-remorse",
-      "description": "Former Texas Tech quarterback Brendan Sorsby expressed remorse for his history of sports betting in a new documentary series behind the scenes of the Red Raiders' turbulent offseason.",
-      "pubDate": "2026-09-03T19:56:20Z",
-      "source": "ESPN College Football · Max Olson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0529/r1665133_600x400_3-2.jpg"
-    },
-    {
-      "title": "Judge again delays retrial of Rashaun Jones over Pata killing",
-      "link": "https://www.espn.com/college-football/story/_/id/49816694/judge-issues-third-delay-u-murder-case-retrial",
-      "description": "The retrial for Rashaun Jones over the killing of former Miami teammate Bryan Pata is now set for Nov. 9.",
-      "pubDate": "2026-09-03T19:36:20Z",
-      "source": "ESPN College Football · Paula Lavigne and Dan Arruda",
-      "thumbnail": "https://a.espncdn.com/photo/2021/0819/r897921_1296x729_16-9.jpg"
-    },
-    {
-      "title": "From Dallas to Times Square: Heisman Trophy campaigns look to make an early impact",
-      "link": "https://www.espn.com/college-football/story/_/id/49808319/2026-college-football-heisman-trophy-campaign-trinidad-chambliss-kewan-lacy",
-      "description": "Ole Miss is trying some new places and tried-and-true plans to promote it's stars, adding to unique part of the trophy's lore.",
-      "pubDate": "2026-09-03T19:13:42Z",
-      "source": "ESPN College Football · Eli Lederman",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0903/r1710683_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Clemson Or LSU? Ole Miss Handles Louisville? Joel Klatt's Week 1 CFB Picks",
-      "link": "https://www.foxsports.com/stories/college-football/joel-klatt-week-1-cfb-picks-lsu-oregon-ole-miss",
-      "description": "Joel Klatt gives his picks for Week 1 of the college football season, featuring Clemson-LSU, Louisville-Ole Miss and Boise State-Oregon.",
-      "pubDate": "2026-09-03T18:39:57+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/lsu-kiffin.jpg"
-    },
-    {
-      "title": "2026 College Football Week 1 Expert Picks: Back Oregon, Houston To Win Big",
-      "link": "https://www.foxsports.com/stories/college-football/2026-college-football-week-1-expert-picks-back-oregon-houston-win-big",
-      "description": "Geoff Schwartz delivers his best bets ahead of Week 1 of the college football season, including his Ducks to roll.",
-      "pubDate": "2026-09-03T18:20:39+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/jordon-93.jpg"
-    },
-    {
-      "title": "Sandusky to cancel hearing, seek federal remedy for appeal",
-      "link": "https://www.espn.com/college-football/story/_/id/49815835/sandusky-seek-federal-appeal-remedy",
-      "description": "Jerry Sandusky has instructed his attorneys to seek cancellation of a Tuesday hearing in which one of his accusers was expected to recant his sexual assault accusation, opting instead to take his appeal for a new trial to federal court.",
-      "pubDate": "2026-09-03T18:11:43Z",
-      "source": "ESPN College Football · Robert Klemko",
-      "thumbnail": "https://a.espncdn.com/photo/2016/0508/r81443_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Cignetti looking forward to seeing how new-look Indiana offense performs",
-      "link": "https://www.espn.com/video/clip/_/id/49816409/cignetti-looking-forward-seeing-how-new-look-indiana-offense-performs",
-      "description": "Cignetti looking forward to seeing how new-look Indiana offense performs",
-      "pubDate": "2026-09-03T18:02:30Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/ss_20260903_135709177_3645451/ss_20260903_135709177_3645451.jpg"
-    },
-    {
-      "title": "Deion Sanders, Colorado Odds Ahead of Week 1 Clash With Georgia Tech",
-      "link": "https://www.foxsports.com/stories/college-football/deion-sanders-colorado-buffaloes-odds-week-1-georgia-tech",
-      "description": "Check out Deion Sanders and Colorado's latest odds ahead of Thursday night's Week 1 matchup against Georgia Tech.",
-      "pubDate": "2026-09-03T17:59:36+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/gettyimages-2246727563-2-scaled.jpg"
-    },
-    {
-      "title": "New CFB format forces Texas-Michigan game up a week in 2027",
-      "link": "https://www.espn.com/college-football/story/_/id/49816238/new-cfb-format-forces-texas-michigan-game-week-2027",
-      "description": "Texas' home showdown against Michigan in 2027 has been moved up a week to accommodate changes to college football's schedule format.",
-      "pubDate": "2026-09-03T17:49:44Z",
-      "source": "ESPN College Football · Adam Rittenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2025/1231/r1595421_600x400_3-2.jpg"
-    },
-    {
-      "title": "Arkansas hosts FCS North Alabama in season opener",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856635",
-      "description": "North Alabama at Arkansas, Saturday, 4:15 p.m. ET\r\n              How to watch: SEC Network",
-      "pubDate": "2026-09-03T17:15:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856635.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 19 SMU opens on the road against ACC foe Florida State, which already has a victory",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858212",
-      "description": "No. 19 SMU at Florida State (1-0), Monday, 7:30 p.m. ET\r\n              How to watch: ESPN",
-      "pubDate": "2026-09-03T17:10:30Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858212.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 9 Ole Miss and No. 24 Louisville in Nashville for week's only Top 25 game",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856661",
-      "description": "No. 24 Louisville vs No. 9 Mississippi in Nashville, Tennessee, Sunday, 7:30 p.m. ET\r\n              How to watch: ABC",
-      "pubDate": "2026-09-03T17:04:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856661.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Lainey Wilson excited to be 'College GameDay' guest picker in LSU",
-      "link": "https://www.espn.com/video/clip/_/id/49815678/lainey-wilson-excited-college-gameday-guest-picker-lsu",
-      "description": "Lainey Wilson excited to be 'College GameDay' guest picker in LSU",
-      "pubDate": "2026-09-03T17:03:22Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/ss_20260903_124117236_3645390779/ss_20260903_124117236_3645390779.jpg"
-    },
-    {
-      "title": "Nick Saban's big question for Alabama ahead of season opener",
-      "link": "https://www.espn.com/video/clip/_/id/49815631/nick-saban-big-question-alabama-ahead-season-opener",
-      "description": "Nick Saban's big question for Alabama ahead of season opener",
-      "pubDate": "2026-09-03T16:49:11Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/ss_20260903_123806275_3645385764/ss_20260903_123806275_3645385764.jpg"
-    },
-    {
-      "title": "Luke Fickell Is 1 Win From A Wisconsin Breakthrough, But Notre Dame's In The Way",
-      "link": "https://www.foxsports.com/stories/college-football/notre-dame-wisconsin-fickell-freeman-history-hot-seat",
-      "description": "Luke Fickell and Wisconsin could get a statement win in Week 1, but the Badgers will have to beat his mentee, Marcus Freeman.",
-      "pubDate": "2026-09-03T16:36:04+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/16x9-11.jpg"
-    },
-    {
-      "title": "Maryland hosts Hampton in season opener for the Terrapins",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858427",
-      "description": "Hampton (1-0) at Maryland, Saturday, 8 p.m. ET\r\n              How to watch: Big Ten network",
-      "pubDate": "2026-09-03T16:26:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858427.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Arch Manning and No. 5 Texas Longhorns open 2026 season at home against Texas State",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856667",
-      "description": "Texas State at No. 5 Texas, Saturday, 3:30 p.m. ET\r\n              How to watch: ESPN",
-      "pubDate": "2026-09-03T16:13:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856667.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 7 Miami opens the season with a cross-country trip to face Stanford",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858206",
-      "description": "— No. 7 Miami got an early start to its first road trip of the 2026 season.",
-      "pubDate": "2026-09-03T15:48:45Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858206.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "College Football Week 1 Expert Picks, Predictions And Odds, Including LSU-Clemson",
-      "link": "https://www.foxsports.com/stories/college-football/week-1-picks-predictions-odds-lsu-clemson-notre-dame-michigan",
-      "description": "Our expert picks for college football Week 1, from LSU-Clemson to Notre Dame-Wisconsin.",
-      "pubDate": "2026-09-03T15:43:38+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/16x9-12.jpg"
-    },
-    {
-      "title": "No. 14 BYU hosts Utah Tech in season opener for the Cougars",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856775",
-      "description": "— How to watch: ESPN+",
-      "pubDate": "2026-09-03T15:24:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856775.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "UCLA visits Cal in season opener for former Pac-12 rivals with new coaches",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858210",
-      "description": "UCLA at California, Saturday, 10:30 p.m. ET\r\n              How to watch: ESPN",
-      "pubDate": "2026-09-03T15:10:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858210.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Hawkeyes host Northern Illinois in season opener at Kinnick Stadium",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858426",
-      "description": "Northern Illinois at Iowa, Saturday, 4:15 p.m. ET\r\n              How to watch: Big Ten Network",
-      "pubDate": "2026-09-03T15:09:33Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858426.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 23 Houston opens season at home against Oregon State after 10-win campaign in 2025",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856778",
-      "description": "Oregon State at No. 23 Houston, Saturday, noon ET\r\n              How to watch: ESPN",
-      "pubDate": "2026-09-03T15:09:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856778.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 6 Indiana begins title defense by putting its 16-game winning streak on the line vs. North Texas",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858425",
-      "description": "North Texas at Indiana, Saturday, Noon ET\r\n              How to watch: Fox",
-      "pubDate": "2026-09-03T15:04:37Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858425.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Nebraska opens its 4th season under Matt Rhule with home game against Ohio",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858430",
-      "description": "Ohio at Nebraska, Saturday, Noon ET\r\n              How to watch: FS1",
-      "pubDate": "2026-09-03T15:04:34Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858430.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Iowa State opens the Jimmy Rogers era when Southeast Missouri State visits for opener",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856779",
-      "description": "Southeast Missouri State at Iowa State, Saturday, 1 p.m. ET\r\n              \r\n              How to watch: ESPN+",
-      "pubDate": "2026-09-03T14:59:38Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856779.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Duke opens season with home game against Tulane on Saturday",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858209",
-      "description": "Tulane at Duke, Saturday, 3:30 p.m. ET\r\n              How to watch: ACC Network",
-      "pubDate": "2026-09-03T14:59:34Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858209.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "NCAA Clears Cincinnati Of Wrongdoing In Brendan Sorsby Gambling Investigation",
-      "link": "https://www.foxsports.com/stories/college-football/brendan-sorsby-gambling-investigation-cincinnati-update",
-      "description": "The NCAA has cleared the University of Cincinnati of any wrongdoing in its investigation of former quarterback Brendan Sorsby.",
-      "pubDate": "2026-09-03T14:59:32+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/sorsby1.jpg"
-    },
-    {
-      "title": "No. 20 Tennessee opens with freshman Faizon Brandon at QB against Furman",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856666",
-      "description": "Furman (1-0) at No. 20 Tennessee, Saturday, 3:30 p.m. ET\r\n              How to watch: SEC+",
-      "pubDate": "2026-09-03T14:59:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856666.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Vanderbilt and coach Clark Lea open season against Austin Peay of the FCS",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856669",
-      "description": "Austin Peay (1-0) at Vanderbilt, Saturday, 7 p.m. ET\r\n              How to watch: SEC+",
-      "pubDate": "2026-09-03T14:54:33Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856669.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Kentucky starts coach Will Stein era hosting Youngstown State in Wildcats' opener",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856659",
-      "description": "Youngstown State at Kentucky, Saturday, 1 p.m. ET\r\n              How to watch: SECN+",
-      "pubDate": "2026-09-03T14:54:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856659.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Stephen A.: Coach Prime won't survive at Colorado with another bad season",
-      "link": "https://www.espn.com/video/clip/_/id/49814496/coach-prime-survive-colorado-another-bad-season",
-      "description": "Stephen A.: Coach Prime won't survive at Colorado with another bad season",
-      "pubDate": "2026-09-03T14:51:26Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0903/ss_20260903_104504454_3645275/ss_20260903_104504454_3645275.jpg"
-    },
-    {
-      "title": "Virginia Tech opens Year 1 under James Franklin by hosting VMI",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858211",
-      "description": "VMI at Virginia Tech, Saturday, 7:30 p.m. ET\r\n              How to watch: ACC Network.",
-      "pubDate": "2026-09-03T14:49:40Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858211.png?templateId=espn.applewatch.awayhome.1"
     }
   ],
   "insider": [
     {
+      "title": "SEC: We disagree with the court's decision, expect our rules to be followed",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-we-disagree-with-the-courts-decision-expect-our-rules-to-be-followed",
+      "description": "The SEC confirmed in a statement that it will appeal the injunction allowing two former NFL players to sign with LSU....",
+      "pubDate": "2026-09-04T02:53:54+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "SEC plans immediate appeal of injunction in LSU case",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-plans-immediate-appeal-of-injunction-in-lsu-case",
+      "description": "The chaos will be getting even more chaotic....",
+      "pubDate": "2026-09-04T02:02:40+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Von Miller gives Hunter Luepke \"chicken for life\" in exchange for No. 40",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-gives-hunter-luepke-chicken-for-life-in-exchange-for-no-40",
+      "description": "Cowboys outside linebacker Von Miller and his teammate, Hunter Luepke, were playing a game of chicken with the No. 40....",
+      "pubDate": "2026-09-04T02:01:15+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dianna Russini responds to internal review by The Athletic",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dianna-russini-responds-to-internal-review-by-the-athletic",
+      "description": "On Thursday, The Athletic published the long-awaited report of its internal investigation regarding the work of former NFL Insider Dianna Russini....",
+      "pubDate": "2026-09-04T01:42:55+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "DE Azeez Ojulari, OL Evan Neal, WR Ronnie Bell sign with Raiders' practice squad",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/de-azeez-ojulari-ol-evan-neal-wr-ronnie-bell-sign-with-raiders-practice-squad",
+      "description": "The Raiders worked out 16 players on Thursday....",
+      "pubDate": "2026-09-04T01:41:31+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Judge grants injunction allowing LSU to sign former NFL players",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/judge-grants-injunction-allowing-lsu-to-sign-former-nfl-players",
+      "description": "LSU, SEC continue on a collision course....",
+      "pubDate": "2026-09-04T01:23:00+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Greg Schiano on the hot seat after Rutgers loses to 29-point underdog UMass",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/greg-schiano-on-the-hot-seat-after-rutgers-loses-to-29-point-underdog-umass",
+      "description": "Greg Schiano is officially on the hot seat at Rutgers....",
+      "pubDate": "2026-09-04T01:22:54+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys create more than $19 million in cap space with restructurings",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-create-more-than-19-million-with-restructurings",
+      "description": "With the regular season approaching, the Cowboys have maneuvered to create some extra cap space....",
+      "pubDate": "2026-09-04T01:15:09+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Sources: Cowboys restructure deals of Clark, Bland, Ferguson",
       "link": "https://www.espn.com/nfl/story/_/id/49819676/sources-cowboys-restructure-deals-clark-bland-ferguson",
-      "description": "Veteran defensive tackle Kenny Clark, cornerback DaRon Bland and tight end Jake Ferguson had their deals re-worked to give Dallas flexibility, sources said.",
-      "pubDate": "2026-09-04T00:48:09Z",
+      "description": "Veteran defensive tackle Kenny Clark, cornerback DaRon Bland and tight end Jake Ferguson had their deals reworked to give Dallas flexibility, sources said.",
+      "pubDate": "2026-09-04T01:07:58Z",
       "source": "ESPN NFL · Todd Archer",
       "thumbnail": "https://a.espncdn.com/photo/2026/0610/r1670829_600x400_3-2.jpg"
+    },
+    {
+      "title": "Seahawks' new ownership group has 12 limited partners",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-new-ownership-group-has-12-limited-partners",
+      "description": "It's fitting that the new owners of the team known for the 12th man have a group of 12 limited partners....",
+      "pubDate": "2026-09-04T01:07:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Cowboys' Luepke trades jersey number to Von Miller for chicken ownership stake",
@@ -982,78 +1054,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Seahawks announce their sale to the Khosla family is complete",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-announce-their-sale-to-the-khosla-family-is-complete",
-      "description": "The Seahawks have officially been sold to the Khosla family....",
-      "pubDate": "2026-09-03T19:20:56+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Falcons name five captains, with no QB among them",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-name-five-captains-with-no-qb-among-them",
-      "description": "The Falcons have named five team captains for 2026....",
-      "pubDate": "2026-09-03T19:19:27+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Keenan Allen won't discuss \"ongoing legal matter\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/keenan-allen-wont-discuss-ongoing-legal-matter",
-      "description": "Colts wide receiver Keenan Allen met with the media on Thursday for the first time since he was arrested early on Sunday morning....",
-      "pubDate": "2026-09-03T19:05:57+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "NCAA clears Cincinnati in Brendan Sorsby betting case",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ncaa-clears-cincinnati-in-brendan-sorsby-betting-case",
-      "description": "The NCAA's handling of the Brendan Sorsby gambling case included an investigation regarding his most recent stop....",
-      "pubDate": "2026-09-03T19:03:51+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Von Miller will wear No. 40 with the Cowboys",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-will-wear-no-40-with-the-cowboys",
-      "description": "It's official: Von Miller will wear No. 40....",
-      "pubDate": "2026-09-03T19:01:36+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "SEC sues LSU, Lane Kiffin in federal court over NFL transfer issue",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-sues-lsu-lane-kiffin-in-federal-court-over-nfl-transfer-issue",
-      "description": "LSU's plan to add pro players hits another roadblock....",
-      "pubDate": "2026-09-03T18:08:06+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cam Skattebo thought about walking away from football after ankle injury",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-thought-about-walking-away-from-football-after-ankle-injury",
-      "description": "Giants running back Cam Skattebo is set to make his return to the lineup in Week 1, but it wasn't always a sure thing in his mind that he'd return after dislocating his right ankle...",
-      "pubDate": "2026-09-03T18:02:13+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Will Levis, Jack Plummer worked out for Jets on Thursday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/will-levis-jack-plummer-worked-out-for-jets-on-thursday",
-      "description": "The Jets are looking at adding another quarterback to their broader roster....",
-      "pubDate": "2026-09-03T17:47:18+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Inside the Leonard Williams deal",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-leonard-williams-deal",
-      "description": "The Seahawks recently signed defensive tackle Leonard to a new deal....",
-      "pubDate": "2026-09-03T17:43:18+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "McAfee congratulates Michael Wilson on contract extension with Cardinals",
       "link": "https://www.espn.com/video/clip/_/id/49816230/mcafee-congratulates-michael-wilson-contract-extension-cardinals",
       "description": "McAfee congratulates Michael Wilson on contract extension with Cardinals",
@@ -1108,14 +1108,6 @@
       "pubDate": "2026-09-02T17:03:28+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/cowboys3.jpg"
-    },
-    {
-      "title": "Vikings Reportedly Sign Edge Rusher Kyle Van Noy, Reuniting Him With Brian Flores",
-      "link": "https://www.foxsports.com/stories/nfl/vikings-reportedly-sign-edge-rusher-kyle-van-noy-reuniting-him-brian-flores",
-      "description": "The Minnesota Vikings have signed edge rusher Kyle Van Noy, reuniting him with defensive coordinator Brian Flores. They won two Super Bowl championships together during their time together with the New England Patriots.",
-      "pubDate": "2026-09-02T16:57:28+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/vikings.jpg"
     },
     {
       "title": "Giants cut OL Evan Neal",
