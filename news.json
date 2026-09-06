@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-09-06T01:02:42.105652+00:00",
+  "generatedAt": "2026-09-06T05:59:41.452867+00:00",
   "nfl": [
+    {
+      "title": "With title 'in the past,' Seahawks set to tackle new season",
+      "link": "https://www.espn.com/nfl/story/_/id/49842951/with-title-seahawks-set-tackle-new-season",
+      "description": "Months after winning the Super Bowl over the New England Patriots, the Seattle Seahawks spoke Saturday about being ready to \"play some new football\" and to keep \"searching for ways to make what we do better,\" as Week 1 approaches.",
+      "pubDate": "2026-09-06T03:03:22Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712102_600x600_1-1.jpg"
+    },
     {
       "title": "Vikings safety Smith agrees to deal, back for 15th season",
       "link": "https://www.espn.com/nfl/story/_/id/49841519/vikings-safety-smith-agrees-deal-back-15th-season",
       "description": "Vikings safety Harrison Smith is returning for a 15th season, with sources telling NFL Network he reached a one-year deal worth $12.25 million.",
-      "pubDate": "2026-09-06T00:24:00Z",
+      "pubDate": "2026-09-06T02:38:46Z",
       "source": "ESPN NFL · Kevin Seifert",
       "thumbnail": "https://a.espncdn.com/photo/2026/0125/r1605472_600x400_3-2.jpg"
+    },
+    {
+      "title": "Duke 17, Tulane 3: Five Key Plays",
+      "link": "https://sports.yahoo.com/articles/duke-17-tulane-3-five-020302145.html",
+      "description": "Nate Sheppard is off to a badass start...",
+      "pubDate": "2026-09-06T02:03:02+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Patriots scouting report: Jaylen Reed will be in the spotlight all season",
@@ -30,6 +46,14 @@
       "link": "https://sports.yahoo.com/articles/harrison-smith-returns-vikings-minnesotas-235622065.html",
       "description": "The move fills the hole Jamal Adams left behind, five months after Minnesota released the longtime Vikings&#39; safety....",
       "pubDate": "2026-09-05T23:56:22+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Raiders rookie running back length catching eyes of everybody",
+      "link": "https://sports.yahoo.com/articles/raiders-rookie-running-back-length-235433059.html",
+      "description": "Mike Washington Jr. is going viral for the length of his arms.Mike Washington is about a week from making his NFL regular-season debut with the Raiders but is already a......",
+      "pubDate": "2026-09-05T23:54:33+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -134,6 +158,14 @@
       "link": "https://sports.yahoo.com/articles/dj-lagway-injury-updates-latest-211850152.html",
       "description": "Baylor&#39;s DJ Lagway injured his ankle in the first half against Auburn, and reentered the game with it taped. He was later carried off the field....",
       "pubDate": "2026-09-05T21:18:50+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Brock Purdy, Mr. Reliable, is player 49ers can count on most",
+      "link": "https://sports.yahoo.com/articles/brock-purdy-mr-reliable-player-210210978.html",
+      "description": "The 49ers‘ star power can make it easy to forget what has been the franchise’s ultimate steadying force: the quarterback position since Brock Purdy’s arrival. He isn’t known as Mr....",
+      "pubDate": "2026-09-05T21:02:10+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -368,448 +400,432 @@
       "pubDate": "2026-09-05T15:01:34+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "You predict the 2026 Seattle Seahawks season in our Field Gulls form!",
-      "link": "https://sports.yahoo.com/articles/predict-2026-seattle-seahawks-season-150000733.html",
-      "description": "What will the Seahawks’ 2026 season look like? You make the call!...",
-      "pubDate": "2026-09-05T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 college football players to watch in Week 1 for the NY Giants",
-      "link": "https://sports.yahoo.com/articles/2026-college-football-players-watch-150000355.html",
-      "description": "Which college prospects should NY Giants fans be watching this week?...",
-      "pubDate": "2026-09-05T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Predicting the New York Jets Opening Day Lineup",
-      "link": "https://sports.yahoo.com/articles/predicting-york-jets-opening-day-150000980.html",
-      "description": "Who will start for the Jets?...",
-      "pubDate": "2026-09-05T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys have struggled in recent season openers",
-      "link": "https://sports.yahoo.com/articles/cowboys-struggled-recent-season-openers-150000720.html",
-      "description": "The Cowboys have struggled in recent season openers… except when playing the Giants...",
-      "pubDate": "2026-09-05T15:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
     {
-      "title": "Gavin Garcia rushes for 3 TDs to lead The Citadel past Charlotte 43-41 in 3OT",
-      "link": "http://www.espn.com/ncf/recap?gameId=401862694",
-      "description": "— Gavin Garcia rushed for 137 yards and three touchdowns as The Citadel beat Charlotte 43-41 in triple overtime on Saturday in the 49ers’ season opener, following a 1-hour and 15-minute delay due to severe weather.",
-      "pubDate": "2026-09-06T01:00:31Z",
+      "title": "Noah Fifita throws for 2 TDs, Arizona opens season with 35-7 blowout of Northern Arizona",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856773",
+      "description": "— Noah Fifita threw for 262 yards and two touchdowns, Kedrick Reescano ran for two scores and Arizona opened the season with a 35-7 blowout over Northern Arizona on Saturday night.",
+      "pubDate": "2026-09-06T05:57:29Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401862694.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856773.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "No. 22 Iowa uses defense, Moulton's running game to beat Northern Illinois 40-0",
-      "link": "http://www.espn.com/ncf/recap?gameId=401858426",
-      "description": "— Kamari Moulton ran for a career-high 183 yards and two touchdowns and No. 22 Iowa’s defense shut down Northern Illinois in a 40-0 victory Saturday in the season opener for both teams.",
-      "pubDate": "2026-09-06T00:56:32Z",
+      "title": "Laubstein, Glasgow propel New Mexico to 38-7 victory over Central Michigan in season opener for both",
+      "link": "http://www.espn.com/ncf/recap?gameId=401864498",
+      "description": "— James Laubstein had two touchdown runs and Grant Glasgow kicked three field goals to lead New Mexico to a 38-7 victory over Central Michigan on Saturday night in a season opener for both teams.",
+      "pubDate": "2026-09-06T05:55:29Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858426.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401864498.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Eric Winters stops Baylor’s 2-point try as Auburn prevails 17-16",
-      "link": "http://www.espn.com/ncf/recap?gameId=401856636",
-      "description": "— Safety Eric Winters spared Auburn from a Week 1 upset, stopping Baylor inches short of a two-point conversion with nine seconds remaining on the clock and preserving the Tigers' 17-16 win on Saturday.",
-      "pubDate": "2026-09-06T00:55:29Z",
+      "title": "UC Davis Aggies vs. San Diego Toreros: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49845644/full-highlights",
+      "description": "UC Davis Aggies vs. San Diego Toreros: Full Highlights",
+      "pubDate": "2026-09-06T05:52:52Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856636.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/94295e4d-c7ab-48d3-b42c-566a1d760e79/94295e4d-c7ab-48d3-b42c-566a1d760e79.jpg"
     },
     {
-      "title": "Tusculum Pioneers vs. East Tennessee State Buccaneers: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49842467/full-highlights",
-      "description": "Tusculum Pioneers vs. East Tennessee State Buccaneers: Full Highlights",
-      "pubDate": "2026-09-06T00:55:27Z",
+      "title": "Thomas and Arnold lead UNLV past Hawaii 21-6 to win fourth straight Island Showdown",
+      "link": "http://www.espn.com/ncf/recap?gameId=401864497",
+      "description": "— Jai'den Thomas rushed for 143 yards and a touchdown, Jackson Arnold rushed for 89 yards and two scores along with 116 passing yards, and UNLV weathered Hawaii's attempted comeback in a 21-6 victory on Saturday night.",
+      "pubDate": "2026-09-06T05:47:35Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/deeca7b1-5ef0-413d-8153-ed0af79744b3/deeca7b1-5ef0-413d-8153-ed0af79744b3.jpg"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401864497.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Florida's 'gator bait' cheer, banned in '20, revived at opener",
-      "link": "https://www.espn.com/college-football/story/_/id/49842172/florida-gator-bait-cheer-banned-20-revived-opener",
-      "description": "Florida's \"gator bait\" cheer, banned in 2020 over concerns about possible racial undertones, returned to the Swamp early in the first quarter of Saturday's season opener against Florida Atlantic.",
-      "pubDate": "2026-09-06T00:49:23Z",
+      "title": "Sacramento State beats Mississippi Valley State 52-0 for Alonzo Carter's first win as head coach",
+      "link": "http://www.espn.com/ncf/recap?gameId=401866411",
+      "description": "— Jackson Sharman threw four touchdown passes, three to Matt Coleman, as Sacramento State shut out FCS member Mississippi Valley State 52-0 on Saturday night, giving Alonzo Carter his first win as the Hornets’ head coach.",
+      "pubDate": "2026-09-06T05:47:29Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712079_600x400_3-2.jpg"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401866411.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Northern Illinois Huskies vs. Iowa Hawkeyes: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49842234/full-highlights",
-      "description": "Northern Illinois Huskies vs. Iowa Hawkeyes: Full Highlights",
-      "pubDate": "2026-09-06T00:40:43Z",
+      "title": "Turning Point: Which play changed everything for this SEC team?",
+      "link": "https://www.espn.com/video/clip/_/id/49845571/which-play-changed-everything-sec-team",
+      "description": "The SEC Football Final crew pinpoints which play made all the difference in Week 1, analyzing just how important this first-quarter highlight was to LSU's 41-point win.",
+      "pubDate": "2026-09-06T05:41:53Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/65dd8671-0d01-4fd1-b811-0981e5f8d244/65dd8671-0d01-4fd1-b811-0981e5f8d244.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Feature_Turning_Point_260906/dm_260906_SEC_NCF_Feature_Turning_Point_260906.jpg"
     },
     {
-      "title": "KJ Jackson's 3 TD passes help Arkansas beat North Alabama 31-14 to end 10-game losing streak",
-      "link": "http://www.espn.com/ncf/recap?gameId=401856635",
-      "description": "— Arkansas quarterback KJ Jackson threw three touchdown passes to lead the Razorbacks to a 31-14 win over North Alabama on Saturday.",
-      "pubDate": "2026-09-06T00:40:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856635.png?templateId=espn.applewatch.awayhome.1"
+      "title": "CFB Week 1 takeaways: Michigan gets a gift, LSU looks title-ready and UMass wins!",
+      "link": "https://www.espn.com/college-football/story/_/page/gamedayfinal090326/2026-college-football-week-1-highlights-top-plays-games-takeaways",
+      "description": "Did Michigan deserve that last second? We welcome college football back with all the absurdity it brings.",
+      "pubDate": "2026-09-06T05:34:27Z",
+      "source": "ESPN College Football · Kyle Bonagura",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712154_608x342_16-9.jpg"
     },
     {
-      "title": "Pitt's Mason Heintschel ties school record with 7 TD passes",
-      "link": "https://www.espn.com/college-football/story/_/id/49841196/pitt-mason-heintschel-ties-school-record-7-td-passes",
-      "description": "Sophomore Mason Heintschel threw seven touchdown passes, tying the school record, and Pittsburgh rolled to a 59-14 win against Miami (Ohio) on Saturday.",
-      "pubDate": "2026-09-06T00:34:06Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0905/r1712041_600x400_3-2.jpg"
-    },
-    {
-      "title": "Alcorn State Braves vs. Southern Miss Golden Eagles: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49842137/full-highlights",
-      "description": "Alcorn State Braves vs. Southern Miss Golden Eagles: Full Highlights",
-      "pubDate": "2026-09-06T00:31:19Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/d263a7c5-3ed2-4380-9f27-3e77fb50b57b/d263a7c5-3ed2-4380-9f27-3e77fb50b57b.jpg"
-    },
-    {
-      "title": "Dante Moore throws 3 TDs as Oregon survives Boise State",
-      "link": "https://www.espn.com/college-football/story/_/id/49841664/dante-moore-throws-3-tds-oregon-survives-boise-state",
-      "description": "Dante Moore threw for 388 yards and three touchdowns, and No. 2 Oregon overcame a slow start to down resilient Boise State 34-27 in the season opener for both teams Saturday.",
-      "pubDate": "2026-09-06T00:29:45Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0905/r1712052_600x400_3-2.jpg"
-    },
-    {
-      "title": "French accounts for 4 TDs as Cincinnati extends home opener streak with 34-15 victory",
-      "link": "http://www.espn.com/ncf/recap?gameId=401856777",
-      "description": "— JC French ran for three touchdowns and threw for another to lead Cincinnati to a 34-15 season-opening win over Boston College on Saturday.",
-      "pubDate": "2026-09-06T00:29:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856777.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Robinson throws 3TDs, Albert has 3 INTs and Anderson wins in his Southern Miss head-coaching debut",
-      "link": "http://www.espn.com/ncf/recap?gameId=401868356",
-      "description": "— Steven Robinson rushed for three touchdowns and Kobi Albert intercepted three passes as Southern Miss rolled past Alcorn State 49-3 on Saturday to give Blake Anderson his first win as the Golden Eagles' head coach.",
-      "pubDate": "2026-09-06T00:27:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868356.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "North Alabama Lions vs. Arkansas Razorbacks: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49842076/full-highlights",
-      "description": "North Alabama Lions vs. Arkansas Razorbacks: Full Highlights",
-      "pubDate": "2026-09-06T00:24:19Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/26ed144a-4a97-4e4c-8187-7b01dc9da062/26ed144a-4a97-4e4c-8187-7b01dc9da062.jpg"
-    },
-    {
-      "title": "Tracking the best moments, highlights from college football's return",
-      "link": "https://www.espn.com/college-football/story/_/id/49826624/college-football-2026-live-week-1-best-moments-highlights",
-      "description": "College football is back. Indiana's new stars shined, new coaches got their debut wins and Oregon had a battle with Boise State.",
-      "pubDate": "2026-09-06T00:21:07Z",
-      "source": "ESPN College Football · ESPN Staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0905/r1712019_608x342_16-9.jpg"
-    },
-    {
-      "title": "Tennessee football, band pay homage to Dolly Parton in Week 1",
-      "link": "https://www.espn.com/college-football/story/_/id/49841223/tennessee-volunteers-dolly-parton-tribute",
-      "description": "The late entertainer was a huge fan of Tennessee football, and the program made sure to show its appreciation.",
-      "pubDate": "2026-09-06T00:20:57Z",
-      "source": "ESPN College Football · Kalan Hooks",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0905/r1712042_608x342_16-9.jpg"
-    },
-    {
-      "title": "Arch Manning throws four TD passes and No. 5 Texas eases past Texas State in season opener 59-7",
-      "link": "http://www.espn.com/ncf/recap?gameId=401856667",
-      "description": "— Arch Manning passed for 305 yards and four touchdowns, including two to Cam Coleman, and No. 5 Texas eased into the season with a 59-7 win over...",
-      "pubDate": "2026-09-06T00:17:42Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856667.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Baylor Bears vs. Auburn Tigers: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49841883/full-highlights",
-      "description": "Baylor Bears vs. Auburn Tigers: Full Highlights",
-      "pubDate": "2026-09-06T00:13:18Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/28820dc4-b0ef-4103-b9f5-58489ecc2108/28820dc4-b0ef-4103-b9f5-58489ecc2108.jpg"
-    },
-    {
-      "title": "Boston College Eagles vs. Cincinnati Bearcats: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49841773/full-highlights",
-      "description": "Boston College Eagles vs. Cincinnati Bearcats: Full Highlights",
-      "pubDate": "2026-09-06T00:11:54Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/f85021ab-ec2e-4640-8cb3-751ccd187dcc/f85021ab-ec2e-4640-8cb3-751ccd187dcc.jpg"
-    },
-    {
-      "title": "Despite Week 1 win, Ryan Silverfield says Arkansas must clean things up",
-      "link": "https://www.espn.com/video/clip/_/id/49841823/despite-week-1-win-ryan-silverfield-says-arkansas-clean-things-up",
-      "description": "After getting his first career win as head coach of the Razorbacks against North Alabama, Silverfield emphasizes improvement before facing the Utes.",
-      "pubDate": "2026-09-06T00:11:45Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_SEC_NCF_Interview_Silverfield_ARK_260905/dm_260905_SEC_NCF_Interview_Silverfield_ARK_260905.jpg"
-    },
-    {
-      "title": "2026 Heisman Trophy Odds: Mensah, Toney Surge After Historic Week 1 Performances",
-      "link": "https://www.foxsports.com/stories/college-football/2026-heisman-trophy-odds",
-      "description": "Miami teammates Darian Mensah and Malachi Toney surged up the oddsboard while Jeremiah Smith also made his mark in Week 1. See the latest Heisman odds.",
-      "pubDate": "2026-09-06T00:01:47+00:00",
+      "title": "One Second, One Hail Mary, One Unforgettable Michigan Victory",
+      "link": "https://www.foxsports.com/stories/college-football/michigan-bryce-underwood-hail-mary-western-michigan",
+      "description": "Bryce Underwood's Hail Mary rescued Michigan from a stunning upset in one of the wildest college football finishes in recent memory.",
+      "pubDate": "2026-09-06T05:31:28+00:00",
       "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/16x9geoff.jpg"
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/gettyimages-2293735748-scaled.jpg"
     },
     {
-      "title": "Freshman QB Brandon accounts for 5 TDs to lead No. 20 Tennessee over Furman 56-9",
-      "link": "http://www.espn.com/ncf/recap?gameId=401856666",
-      "description": "— Faizon Brandon threw for 226 yards and three touchdowns and ran for two more to lead No. 20 Tennessee to a 56-9 victory over Furman on Saturday.",
-      "pubDate": "2026-09-06T00:01:30Z",
+      "title": "Utah Tech vs. BYU Cougars: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49844254/full-highlights",
+      "description": "Utah Tech vs. BYU Cougars: Full Highlights",
+      "pubDate": "2026-09-06T05:30:59Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856666.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/0f547167-11c6-423d-9ebc-098def29fccd/0f547167-11c6-423d-9ebc-098def29fccd.jpg"
     },
     {
-      "title": "UT Rio Grande Valley Vaqueros vs. UTSA Roadrunners: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49841624/full-highlights",
-      "description": "UT Rio Grande Valley Vaqueros vs. UTSA Roadrunners: Full Highlights",
-      "pubDate": "2026-09-05T23:54:46Z",
+      "title": "Jaylon Hawkins' 100-yard kickoff return highlights San Diego State's 53-20 rout of Portland State",
+      "link": "http://www.espn.com/ncf/recap?gameId=401860879",
+      "description": "— Lucky Sutton rushed for three touchdowns, Jaylon Hawkins returned a kickoff 100 yards, and San Diego State routed FCS-member Portland State 53-20 on Saturday night.",
+      "pubDate": "2026-09-06T05:28:29Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/5376816f-f296-4c97-8355-83e17e72adf0/5376816f-f296-4c97-8355-83e17e72adf0.jpg"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401860879.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Oklahoma State Cowboys vs. Tulsa Golden Hurricane: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49841601/full-highlights",
-      "description": "Oklahoma State Cowboys vs. Tulsa Golden Hurricane: Full Highlights",
-      "pubDate": "2026-09-05T23:54:28Z",
+      "title": "Morgan State Bears vs. Arizona State Sun Devils: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49845466/full-highlights",
+      "description": "Morgan State Bears vs. Arizona State Sun Devils: Full Highlights",
+      "pubDate": "2026-09-06T05:27:13Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/c408bf04-ec53-41d0-bbda-b1261aeb1cbd/c408bf04-ec53-41d0-bbda-b1261aeb1cbd.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/d51659de-4409-405f-a9bb-9a4337dd46c6/d51659de-4409-405f-a9bb-9a4337dd46c6.jpg"
     },
     {
-      "title": "Rocco Becht shines with 4 TDs as No. 18 Penn State beats Marshall 45-0",
-      "link": "http://www.espn.com/ncf/recap?gameId=401858434",
-      "description": "— Rocco Becht threw for 271 yards with four touchdowns and No. 18 Penn State beat Marshall 45-0 to begin the Matt Campbell era on Saturday.",
-      "pubDate": "2026-09-05T23:51:32Z",
+      "title": "Lane Kiffin's LSU era begins with easy victory over Clemson",
+      "link": "https://www.espn.com/college-football/story/_/id/49845288/lane-kiffin-lsu-era-begins-easy-victory-clemson",
+      "description": "Arizona State transfer quarterback Sam Leavitt and Wisconsin transfer running back Dilin Jones combined for four rushing touchdowns in their new uniforms, and LSU ended a week of off-the-field drama with an easy 51-10 victory over Clemson on Saturday.",
+      "pubDate": "2026-09-06T05:26:46Z",
+      "source": "ESPN College Football · Heather Dinich",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712172_600x600_1-1.jpg"
+    },
+    {
+      "title": "Arizona State routs Morgan State 70-7 as new QB Boley tosses 6 TD passes",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856774",
+      "description": "— Cutter Boley threw six touchdown passes in his Arizona State debut, and the Sun Devils routed Morgan State 70-7 in their season opener Saturday night.",
+      "pubDate": "2026-09-06T05:24:30Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858434.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856774.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Alex Golesh emphasizes Auburn's 'go and finish' mentality",
-      "link": "https://www.espn.com/video/clip/_/id/49841512/alex-golesh-emphasizes-auburn-go-finish-mentality",
-      "description": "Golesh praises Eric Winters for denying Baylor's two-point conversion to seal the Tigers' win while stressing the improvements Auburn must make moving forward.",
-      "pubDate": "2026-09-05T23:49:35Z",
+      "title": "Lane Kiffin proud of LSU of silencing outside noise with blowout",
+      "link": "https://www.espn.com/video/clip/_/id/49845440/lane-kiffin-proud-lsu-silencing-noise-blowout",
+      "description": "Kiffin says the Tigers have a lot to improve going forward but showed they can bounce back and stay focused in the face of adversity.",
+      "pubDate": "2026-09-06T05:23:38Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_SEC_NCF_Interview_Golesh_Auburn_260905/dm_260905_SEC_NCF_Interview_Golesh_Auburn_260905.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Interview_Kiffin_field_260905/dm_260906_SEC_NCF_Interview_Kiffin_field_260905.jpg"
     },
     {
-      "title": "Lane Kiffin's Star-Studded LSU Entrance Includes Livvy Dunne, Theo Von, Brooks Nader",
-      "link": "https://www.foxsports.com/stories/college-football/lane-kiffin-lsu-entrance-livvy-dunne-theo-von-brooks-nader",
-      "description": "LSU head coach Lane Kiffin arrived at Tiger Stadium with Livvy Dunne, Theo Von and Brooks Nader because ... of course.",
-      "pubDate": "2026-09-05T23:48:01+00:00",
+      "title": "LSU's Sam Leavitt expands on winning in Tiger Stadium",
+      "link": "https://www.espn.com/video/clip/_/id/49845435/lsu-sam-leavitt-expands-winning-tiger-stadium",
+      "description": "After scoring three total touchdowns to help the Tigers dominate Clemson, Leavitt describes the moment as surreal as he recalls his performance.",
+      "pubDate": "2026-09-06T05:23:20Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Interview_Leavitt_LSU_260906/dm_260906_SEC_NCF_Interview_Leavitt_LSU_260906.jpg"
+    },
+    {
+      "title": "SEC 3: One crushing hit confirms Watson made the right call",
+      "link": "https://www.espn.com/video/clip/_/id/49845381/one-crushing-hit-confirms-watson-made-right-call",
+      "description": "The SEC Football Final crew reviews the three best plays from within the conference, including one hit big enough to keep Benjamin Watson content with retirement.",
+      "pubDate": "2026-09-06T05:13:38Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Feature_SEC_top_3_plays_260906/dm_260906_SEC_NCF_Feature_SEC_top_3_plays_260906.jpg"
+    },
+    {
+      "title": "4 Takeaways From LSU's Absolute Throttling Of Clemson In Their Season Opener",
+      "link": "https://www.foxsports.com/stories/college-football/lsu-clemson-lane-kiffin-dabo-swinney-sam-leavitt-takeaways",
+      "description": "LSU could be the real deal this college football season, but Dabo Swinney and Clemson might be in trouble.",
+      "pubDate": "2026-09-06T05:11:48+00:00",
       "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/laneeeee.jpg"
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/cfb-16x9-1-1.jpg"
     },
     {
-      "title": "Tennessee St. vs. Georgia",
-      "link": "https://www.espn.com/video/clip/_/id/49841212/tennessee-st-vs-georgia",
-      "description": "Tennessee St. vs. Georgia",
-      "pubDate": "2026-09-05T23:46:41Z",
+      "title": "Doering, Watson point out their favorite SEC coaching debut",
+      "link": "https://www.espn.com/video/clip/_/id/49845337/doering-watson-point-their-favorite-sec-coaching-debut",
+      "description": "SEC Network's Chris Doering and Benjamin Watson expand on which new head coach in the conference caught their eye in their season debut.",
+      "pubDate": "2026-09-06T05:11:02Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/e19c4073-ae15-436b-8d69-08a1f825ec28/e19c4073-ae15-436b-8d69-08a1f825ec28.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Analysis_SEC_Coaches_Debut_260906/dm_260906_SEC_NCF_Analysis_SEC_Coaches_Debut_260906.jpg"
     },
     {
-      "title": "Furman Paladins vs. Tennessee Volunteers: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49841292/full-highlights",
-      "description": "Furman Paladins vs. Tennessee Volunteers: Full Highlights",
-      "pubDate": "2026-09-05T23:45:29Z",
+      "title": "Lane Kiffin's debut with No. 11 LSU matches the hype in a 51-10 victory over outmatched Clemson",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856660",
+      "description": "— Lane Kiffin's LSU debut was delayed, but by no means derailed.",
+      "pubDate": "2026-09-06T05:10:46Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/ss_20260905_193241542_3648932/ss_20260905_193241542_3648932.jpg"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856660.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "No. 2 Oregon survives scare vs. Boise State, pulls out win",
-      "link": "https://www.espn.com/video/clip/_/id/49841284/no-2-oregon-survives-scare-vs-boise-state-pulls-win",
-      "description": "No. 2 Oregon survives scare vs. Boise State, pulls out win",
-      "pubDate": "2026-09-05T23:41:22Z",
+      "title": "LSU trounces Clemson to open season",
+      "link": "https://www.espn.com/video/clip/_/id/49845306/lsu-trounces-clemson-open-season",
+      "description": "LSU trounces Clemson to open season",
+      "pubDate": "2026-09-06T05:09:14Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/6c41d0a4d4f24bf68d1649d35e79eb7f1180/6c41d0a4d4f24bf68d1649d35e79eb7f1180.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/ffd7d8fb-f4af-405d-bc46-c48279eac0ce/ffd7d8fb-f4af-405d-bc46-c48279eac0ce.jpg"
     },
     {
-      "title": "Eric Winters makes the clutch tackle to deny Baylor the win",
-      "link": "https://www.espn.com/video/clip/_/id/49841217/eric-winters-makes-clutch-tackle-deny-baylor-win",
-      "description": "Eric Winters makes the clutch tackle to deny Baylor the win",
-      "pubDate": "2026-09-05T23:39:01Z",
+      "title": "MS State totals program-record 762 yards, ninth most in SEC history",
+      "link": "https://www.espn.com/video/clip/_/id/49845330/ms-state-totals-program-record-762-yards-ninth-most-sec-history",
+      "description": "The Bulldogs' offense goes ballistic against ULM led by Kamario Taylor who accounted for more than 400 yards and five TDs in the 62-13 victory.",
+      "pubDate": "2026-09-06T05:09:03Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/c6ac4e6b-3ca1-4dfc-bde2-00e0450be3e0/c6ac4e6b-3ca1-4dfc-bde2-00e0450be3e0.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Highlight_MSST_record_260905/dm_260906_SEC_NCF_Highlight_MSST_record_260905.jpg"
     },
     {
-      "title": "Steve Sarkisian highlights impact transfers after No. 5 Texas' win",
-      "link": "https://www.espn.com/video/clip/_/id/49841226/steve-sarkisian-highlights-impact-transfers-no-5-texas-win",
-      "description": "Sarkisian discusses how new Longhorns are making an impact on offense as Will Muschamp's defense showed toughness but claims they have a lot to improve on ahead of matchup with Ohio State.",
-      "pubDate": "2026-09-05T23:30:22Z",
+      "title": "Welcome to the Lane Kiffin Show: Sights and sounds from LSU",
+      "link": "https://www.espn.com/college-football/story/_/id/49842102/lane-kiffin-show-lsu-college-football-2026-opener-sights-sounds",
+      "description": "Amid controversy and surrounded by celebrities, Kiffin's debut a smashing success.",
+      "pubDate": "2026-09-06T05:05:02Z",
+      "source": "ESPN College Football · David Hale",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712168_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Highlight: Freshman QB Faizon Brandon's five TDs power Tennessee past Furman",
+      "link": "https://www.espn.com/video/clip/_/id/49845263/freshman-qb-faizon-brandon-five-tds-power-tennessee-furman",
+      "description": "Brandon puts together a phenomenal debut, throwing for 226 yards and three TDs and running for two more in the No. 20 Vols' 56-7 win over the Paladins.",
+      "pubDate": "2026-09-06T04:57:16Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_SEC_NCF_Interview_Sark_field_260905/dm_260905_SEC_NCF_Interview_Sark_field_260905.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Highlight_TENN_Furman_260906/dm_260906_SEC_NCF_Highlight_TENN_Furman_260906.jpg"
     },
     {
-      "title": "Vols' Faizon Brandon explains what he was most proud in debut",
-      "link": "https://www.espn.com/video/clip/_/id/49841202/vols-faizon-brandon-explains-was-most-proud-debut",
-      "description": "After a three-passing and two-rushing touchdown performance in the win against Furman, Brandon speaks on what it means to be QB1 for Tennessee.",
-      "pubDate": "2026-09-05T23:24:52Z",
+      "title": "Butler Bulldogs vs. Montana State Bobcats: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49845231/full-highlights",
+      "description": "Butler Bulldogs vs. Montana State Bobcats: Full Highlights",
+      "pubDate": "2026-09-06T04:53:20Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_SEC_NCF_Interview_Faizon_Vols_260905/dm_260905_SEC_NCF_Interview_Faizon_Vols_260905.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/e5bbd719-2654-4495-bf24-9f13a618d2b6/e5bbd719-2654-4495-bf24-9f13a618d2b6.jpg"
     },
     {
-      "title": "Texas State Bobcats vs. Texas Longhorns: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49841151/full-highlights",
-      "description": "Texas State Bobcats vs. Texas Longhorns: Full Highlights",
-      "pubDate": "2026-09-05T23:23:41Z",
+      "title": "Highlight: KJ Jackson's consistency leads Arkansas over North Alabama",
+      "link": "https://www.espn.com/video/clip/_/id/49845177/kj-jackson-consistency-leads-arkansas-north-alabama",
+      "description": "Jackson throws for 267 yards and three touchdowns while Braylon Russell rushes for a touchdown to lead the Razorbacks over the Lions, 31-14.",
+      "pubDate": "2026-09-06T04:50:25Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/5eb9d255-b6b9-43d1-b967-3de3382c1852/5eb9d255-b6b9-43d1-b967-3de3382c1852.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Highlight_Ark_NBama_260906/dm_260906_SEC_NCF_Highlight_Ark_NBama_260906.jpg"
     },
     {
-      "title": "Tennessee State Tigers vs. Georgia Bulldogs: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49841124/full-highlights",
-      "description": "Tennessee State Tigers vs. Georgia Bulldogs: Full Highlights",
-      "pubDate": "2026-09-05T23:19:26Z",
+      "title": "Nick Sessions' pick-6 on first play of game sparks New Mexico State to 51-14 romp over Mercyhurst",
+      "link": "http://www.espn.com/ncf/recap?gameId=401870790",
+      "description": "— Nick Sessions returned an interception 26 yards for a score on the first play of the game and Trey Hedden threw two touchdown passes to help New Mexico State roll to a 51-14 victory over FCS member Mercyhurst on Saturday night.",
+      "pubDate": "2026-09-06T04:49:34Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/ss_20260905_184936897_3648804/ss_20260905_184936897_3648804.jpg"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401870790.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Singleton throws for 3 TDs in 1st half as App State opens season by beating FCS-program Maine 55-3",
-      "link": "http://www.espn.com/ncf/recap?gameId=401866627",
-      "description": "— Malachi Singleton threw for 291 yards and three touchdowns on 22-of-24 passing to help Appalachian State open its season by beating FCS-program Maine 55-3 on Saturday.",
-      "pubDate": "2026-09-05T23:13:19Z",
+      "title": "Aidan Chiles throws for TD in debut as Northwestern rallies past FCS South Dakota State 34-18",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858431",
+      "description": "— Aidan Chiles threw for 273 yards and a touchdown in his debut, and Northwestern pulled away late to top FCS South Dakota State 34-18 on Saturday night.",
+      "pubDate": "2026-09-06T04:48:29Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401866627.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858431.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Gilman accounts for 4 touchdowns to break and tie Montana records in 45-10 victory over Drake",
-      "link": "http://www.espn.com/ncf/recap?gameId=401868111",
-      "description": "— Eli Gilman rushed for three touchdowns to set a school record, then caught a touchdown pass from Keali'i Ah Yat to tie another as Montana rolled to a 45-10 victory over Drake on Saturday.",
-      "pubDate": "2026-09-05T23:09:44Z",
+      "title": "Maryland rushes for 6 touchdowns, gains 646 yards of offense in a 62-0 win over Hampton",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858427",
+      "description": "— DeJuan Williams scored on a 94-yard run in the first quarter, the first of six rushing touchdowns for Maryland in a 62-0 rout of Hampton on Saturday night.",
+      "pubDate": "2026-09-06T04:47:29Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868111.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858427.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Arch Manning ties CAREER HIGH with 4 TDs in Texas’ big win vs. Texas State",
-      "link": "https://www.espn.com/video/clip/_/id/49840479/arch-manning-ties-career-high-4-tds-texas-big-win-vs-texas-state",
-      "description": "Arch Manning ties CAREER HIGH with 4 TDs in Texas’ big win vs. Texas State",
-      "pubDate": "2026-09-05T22:59:01Z",
+      "title": "Taylor throws for 354 yards and 4 TDs, Mississippi State routs Louisiana-Monroe 62-13",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856662",
+      "description": "— Kamario Taylor passed for 354 yards and four touchdowns, added 59 yards and a score on the ground, and Mississippi State cruised past Louisiana-Monroe 62-13 in the season opener for both teams on Saturday.",
+      "pubDate": "2026-09-06T04:45:29Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/ss_20260905_183300711_3648764/ss_20260905_183300711_3648764.jpg"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856662.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Drake Bulldogs vs. Montana Grizzlies: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49840739/full-highlights",
-      "description": "Drake Bulldogs vs. Montana Grizzlies: Full Highlights",
-      "pubDate": "2026-09-05T22:54:20Z",
+      "title": "Breaking down Keelon Russell's historic Bama QB debut",
+      "link": "https://www.espn.com/video/clip/_/id/49845140/breaking-keelon-russell-historic-bama-qb-debut",
+      "description": "Keelon Russell's 342 total yards are the second-most by an Alabama QB in his first start in 60 years, trailing only 2021 Heisman winner Bryce Young.",
+      "pubDate": "2026-09-06T04:45:21Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/7cbeaa3f-8e5a-48b9-b120-934705a61fc4/7cbeaa3f-8e5a-48b9-b120-934705a61fc4.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Analysis_Bama_Russell_breakdown_260906/dm_260906_SEC_NCF_Analysis_Bama_Russell_breakdown_260906.jpg"
     },
     {
-      "title": "Maine Black Bears vs. Appalachian State Mountaineers: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49840664/full-highlights",
-      "description": "Maine Black Bears vs. Appalachian State Mountaineers: Full Highlights",
-      "pubDate": "2026-09-05T22:50:55Z",
+      "title": "Highlight: Kenny Minchey shines as Wildcats down Penguins to open season",
+      "link": "https://www.espn.com/video/clip/_/id/49845074/kenny-minchey-shines-wildcats-penguins-open-season",
+      "description": "Minchey leads the offense with 301 passing yards and four TDs as CJ Baxter brings in two touchdowns to power Kentucky to a 45-13 decision against Youngstown State.",
+      "pubDate": "2026-09-06T04:37:24Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/81679562-d1b0-4015-9e1f-f58f3b82e815/81679562-d1b0-4015-9e1f-f58f3b82e815.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Highlight_UK_over_Young_260906/dm_260906_SEC_NCF_Highlight_UK_over_Young_260906.jpg"
     },
     {
-      "title": "The Oregon Duck Found The Perfect Entrance To Ensure Its Head Didn't Fall Off",
-      "link": "https://www.foxsports.com/stories/college-football/oregon-duck-mascot-entrance-cardboard-cutout-boise",
-      "description": "The Oregon Duck remains one of the most memorable mascots in college football.",
-      "pubDate": "2026-09-05T22:50:45+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/gettyimages-2255486630-scaled-e1788648457783.jpg"
-    },
-    {
-      "title": "North Dakota State blanks Fordham 38-0, improves to 2-0 in first FBS season",
-      "link": "http://www.espn.com/ncf/recap?gameId=401864499",
-      "description": "— Nathan Hayes threw for two touchdowns, DJ Scott ran for two and North Dakota State allowed just 135 total yards in a 38-0 win over FCS-opponent Fordham on Saturday.",
-      "pubDate": "2026-09-05T22:48:30Z",
+      "title": "Highlight: No. 8 Texas A&M shuts out Missouri State",
+      "link": "https://www.espn.com/video/clip/_/id/49844838/no-8-texas-shuts-missouri-state",
+      "description": "The Aggies spread the wealth on offense with six different players scoring a touchdown as the defense dominates and posts five TFL in the 50-0 win.",
+      "pubDate": "2026-09-06T04:18:02Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401864499.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Highlight_TAMU_over_MizzSt_260906/dm_260906_SEC_NCF_Highlight_TAMU_over_MizzSt_260906.jpg"
     },
     {
-      "title": "Woodson rushes for 200 yards and 3 scores, Navy racks up 506 rushing yards in 42-15 win over Towson",
-      "link": "http://www.espn.com/ncf/recap?gameId=401862696",
-      "description": "— Braxton Woodson ran for 200 yards and three touchdowns, Jackson Gutierrez added two touchdowns of his own, and Navy cruised by FCS member Towson 42-15 in the Midshipmen's season opener on Saturday.",
-      "pubDate": "2026-09-05T22:47:29Z",
+      "title": "Jadan Baugh runs wild in the Swamp as Florida opens the Jon Sumrall era with a 66-21 win over FAU",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856637",
+      "description": "— First-year Florida coach Jon Sumrall stepped into the Swamp minutes before the opening kick and was admittedly surprised. It was even more intense than what he experienced as a Kentucky linebacker more than two decades ago.",
+      "pubDate": "2026-09-06T04:16:31Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401862696.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856637.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Frazier, Stockton proud of No. 3 Georgia's dominant season debut",
-      "link": "https://www.espn.com/video/clip/_/id/49840562/frazier-stockton-proud-no-3-georgia-dominant-season-debut",
-      "description": "Gunner Stockton and Nate Frazier praise Bulldog Nation, reflect on Georgia's hot start and explain why there's still room to improve with each game.",
-      "pubDate": "2026-09-05T22:46:06Z",
+      "title": "SEC Now says tight Auburn win can be a culture-shifting moment",
+      "link": "https://www.espn.com/video/clip/_/id/49844742/sec-now-says-tight-auburn-win-culture-shifting-moment",
+      "description": "SEC Network's Chris Doering and Benjamin Watson break down how the close win over Baylor can help the Tigers build momentum and stack wins.",
+      "pubDate": "2026-09-06T04:12:40Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_SEC_NCF_Interview_UGA_Stockton_Frazier_260905/dm_260905_SEC_NCF_Interview_UGA_Stockton_Frazier_260905.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0906/dm_260906_SEC_NCF_Analysis_AUB_BAY_260906/dm_260906_SEC_NCF_Analysis_AUB_BAY_260906.jpg"
     },
     {
-      "title": "Towson Tigers vs. Navy Midshipmen: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49840533/full-highlights",
-      "description": "Towson Tigers vs. Navy Midshipmen: Full Highlights",
-      "pubDate": "2026-09-05T22:41:14Z",
+      "title": "Florida Atlantic Owls vs. Florida Gators: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49844732/full-highlights",
+      "description": "Florida Atlantic Owls vs. Florida Gators: Full Highlights",
+      "pubDate": "2026-09-06T04:11:14Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/be1ebcb6-facb-4451-8684-f0ee5b3ed628/be1ebcb6-facb-4451-8684-f0ee5b3ed628.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/b6ec0cf3-0f93-40be-89ab-6e6f34276c13/b6ec0cf3-0f93-40be-89ab-6e6f34276c13.jpg"
     },
     {
-      "title": "Gardner-Webb Bulldogs vs. Wofford Terriers: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49840200/full-highlights",
-      "description": "Gardner-Webb Bulldogs vs. Wofford Terriers: Full Highlights",
-      "pubDate": "2026-09-05T22:10:28Z",
+      "title": "Michigan's Whittingham: 'I was pretty sure there was one second left'",
+      "link": "https://www.espn.com/video/clip/_/id/49844609/was-pretty-sure-there-was-one-second-left",
+      "description": "Michigan's Whittingham: 'I was pretty sure there was one second left'",
+      "pubDate": "2026-09-06T03:58:50Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/424666d5-11e3-4ac9-a315-b1d61b5ac7c1/424666d5-11e3-4ac9-a315-b1d61b5ac7c1.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_Whittingham_presser/dm_260905_Whittingham_presser.jpg"
     },
     {
-      "title": "Ohio State routs Ball State, ready for 'monster game' at Texas",
-      "link": "https://www.espn.com/college-football/story/_/id/49839635/ohio-state-routs-ball-state-ready-monster-game-texas",
-      "description": "Ohio State coach Ryan Day said the top-ranked Buckeyes were already focused on next week's game vs. Texas moments after Saturday's season-opening 56-3 win over Ball State.",
-      "pubDate": "2026-09-05T22:05:53Z",
-      "source": "ESPN College Football · Jake Trotter",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0905/r1711839_600x400_3-2.jpg"
-    },
-    {
-      "title": "How Much Is Clemson's Dabo Swinney's Buyout? Contract Details In 2026",
-      "link": "https://www.foxsports.com/stories/college-football/clemson-dabo-swinney-buyout-contract",
-      "description": "What are Dabo Swinney's contract details in 2026? Here's everything you need to know about the Clemson head coach's buyout, contract.",
-      "pubDate": "2026-09-05T21:55:44+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/dab.jpg"
-    },
-    {
-      "title": "Keveun Mason had 158 yards, 2TDs and Temple adds two pick-6 scores in 38-14 win over Rhode Island",
-      "link": "http://www.espn.com/ncf/recap?gameId=401862698",
-      "description": "— Keveun Mason rushed for 158 yards and a pair of touchdowns and the Owls added two pick-6 scores as Temple beat Rhode Island 38-14 on Saturday in the Owls' season opener.",
-      "pubDate": "2026-09-05T21:39:36Z",
+      "title": "Sumrall on Gators' QB Philo: 'It's fun to watch him play'",
+      "link": "https://www.espn.com/video/clip/_/id/49844599/fun-watch-play",
+      "description": "After the win over FAU, Jon Sumrall credits Aaron Philo's poise and confidence and shares his expectations of Florida's continued improvement throughout the season.",
+      "pubDate": "2026-09-06T03:56:39Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401862698.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_SEC_NCF_Interview_UF_Sumrall_260905/dm_260905_SEC_NCF_Interview_UF_Sumrall_260905.jpg"
     },
     {
-      "title": "Rhode Island Rams vs. Temple Owls: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49839588/full-highlights",
-      "description": "Rhode Island Rams vs. Temple Owls: Full Highlights",
-      "pubDate": "2026-09-05T21:26:26Z",
+      "title": "Philo, Baugh explain the Gators' mentality in win vs. FAU",
+      "link": "https://www.espn.com/video/clip/_/id/49844571/philo-baugh-explain-gators-mentality-win-vs-fau",
+      "description": "With six touchdowns combined in the win against the Owls, Aaron Philo and Jadan Baugh describe the message Florida wants to portray for the season.",
+      "pubDate": "2026-09-06T03:53:30Z",
       "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0905/2b9c0ae6-a101-4d9d-bc6f-05e361b209ff/2b9c0ae6-a101-4d9d-bc6f-05e361b209ff.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_SEC_NCF_Interview_Philo_Baugh_UF_260905/dm_260905_SEC_NCF_Interview_Philo_Baugh_UF_260905.jpg"
     },
     {
-      "title": "4 Takeaways From Indiana's Season-Opening Win Over North Texas",
-      "link": "https://www.foxsports.com/stories/college-football/indiana-north-texas-season-opener-takeaways",
-      "description": "Josh Hoover impressed, the defense showed some cracks and Indiana cruised past North Texas. Here are four takeaways from the Hoosiers' opener.",
-      "pubDate": "2026-09-05T20:48:35+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/f48e044a-cfb-16x9-1.jpg"
+      "title": "Jabez Woods' 100-yard kickoff TD return fuels Montana State's 51-24 victory over Butler",
+      "link": "http://www.espn.com/ncf/recap?gameId=401868119",
+      "description": "— Jabez Woods returned a kickoff 100 yards for a touchdown and later added a 35-yard touchdown catch as Montana State downed Butler 51-24 on Saturday night.",
+      "pubDate": "2026-09-06T03:51:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868119.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "UL Monroe Warhawks vs. Mississippi State Bulldogs: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49844545/full-highlights",
+      "description": "UL Monroe Warhawks vs. Mississippi State Bulldogs: Full Highlights",
+      "pubDate": "2026-09-06T03:49:03Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/bc3e6483-d3c6-42a9-a9cb-3154886ed4f9/bc3e6483-d3c6-42a9-a9cb-3154886ed4f9.jpg"
+    },
+    {
+      "title": "Lamar Cardinals vs. Louisiana Ragin' Cajuns: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49844541/full-highlights",
+      "description": "Lamar Cardinals vs. Louisiana Ragin' Cajuns: Full Highlights",
+      "pubDate": "2026-09-06T03:48:18Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/0e5b9858-4970-407c-8f0b-8b7c04b2286a/0e5b9858-4970-407c-8f0b-8b7c04b2286a.jpg"
+    },
+    {
+      "title": "Dawson scores 2 rushing TDs to lead Illinois State past Western Illinois 41-10",
+      "link": "http://www.espn.com/ncf/recap?gameId=401867845",
+      "description": "— Victor Dawson scored twice on the ground, Alex Herrera and Stevan Gavric each caught touchdowns and Illinois State took down Western Illinois 41-10 on Saturday.",
+      "pubDate": "2026-09-06T03:46:30Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401867845.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Weber State Wildcats vs. Southern Utah Thunderbirds: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49844437/full-highlights",
+      "description": "Weber State Wildcats vs. Southern Utah Thunderbirds: Full Highlights",
+      "pubDate": "2026-09-06T03:42:48Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/ab471e14-c5f6-49fa-9aec-6920873d733e/ab471e14-c5f6-49fa-9aec-6920873d733e.jpg"
+    },
+    {
+      "title": "Johnson throws for 281 yards and Georgia Southern defeats Charleston Southern 31-0",
+      "link": "http://www.espn.com/ncf/recap?gameId=401868170",
+      "description": "— Max Johnson threw for 281 yards, three Eagles scored rushing touchdowns, and Georgia Southern cruised past FCS member Charleston Southern 31-0 on Saturday night.",
+      "pubDate": "2026-09-06T03:41:29Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868170.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Louisiana Tech routs Northwestern State 80-6",
+      "link": "http://www.espn.com/ncf/recap?gameId=401869129",
+      "description": "— Blake Baker accounted for three of Louisiana Tech's 10 touchdowns as the Bulldogs opened their season with an 80-6 rout over Northwestern State on Saturday night.",
+      "pubDate": "2026-09-06T03:38:40Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401869129.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "MS State's Kamario Taylor dissects his long and short-term preparation",
+      "link": "https://www.espn.com/video/clip/_/id/49844321/ms-state-kamario-taylor-dissects-long-short-term-preparation",
+      "description": "Taylor takes time to discuss the offseason habits that have helped him become a better leader and physically ready for anything.",
+      "pubDate": "2026-09-06T03:37:48Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0905/dm_260905_SEC_NCF_Interview_Kamario_MSST_260905/dm_260905_SEC_NCF_Interview_Kamario_MSST_260905.jpg"
+    },
+    {
+      "title": "Rutherford throws for 140 yards and scores 2 TDs, Stephen F. Austin defeats East Texas A&M 44-7",
+      "link": "http://www.espn.com/ncf/recap?gameId=401868306",
+      "description": "— Gavin Rutherford rushed for two touchdowns and threw for 140 yards, Jaylen Jenkins also ran for a score, and Stephen F. Austin took down East Texas A&M 44-7 on Saturday night.",
+      "pubDate": "2026-09-06T03:35:36Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868306.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "South Dakota Coyotes vs. Northern Colorado Bears: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49844232/full-highlights",
+      "description": "South Dakota Coyotes vs. Northern Colorado Bears: Full Highlights",
+      "pubDate": "2026-09-06T03:30:11Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/7f502a1f-dae7-4de8-a343-03bde7f70f02/7f502a1f-dae7-4de8-a343-03bde7f70f02.jpg"
+    },
+    {
+      "title": "Pierre Jr. scores twice in South Dakota's 38-23 win over Northern Colorado",
+      "link": "http://www.espn.com/ncf/recap?gameId=401867883",
+      "description": "— Charles Pierre Jr. rushed for two touchdowns, Tennel Bryant took his only carry for a score, and South Dakota defeated Northern Colorado 38-23 on Saturday.",
+      "pubDate": "2026-09-06T03:29:30Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401867883.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "VMI Keydets vs. Virginia Tech Hokies: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/49844190/full-highlights",
+      "description": "VMI Keydets vs. Virginia Tech Hokies: Full Highlights",
+      "pubDate": "2026-09-06T03:27:09Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0906/742bf405-34e7-4142-9168-7365edd612ad/742bf405-34e7-4142-9168-7365edd612ad.jpg"
     }
   ],
   "insider": [
     {
+      "title": "Lane Kiffin at halftime of 31-3 blowout: \"Imagine if we had pro players\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lane-kiffin-at-halftime-of-31-3-blowout-imagine-if-we-had-pro-players",
+      "description": "Some regard LSU coach Lane Kiffin as an agent of chaos....",
+      "pubDate": "2026-09-06T03:50:56+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Michigan avoids disaster via all-time controversial call",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michigan-avoids-disaster-via-all-time-controversial-call",
+      "description": "Western Michigan got robbed of an all-time upset, with an all-time replay blunder....",
+      "pubDate": "2026-09-06T03:30:11+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Vikings safety Smith agrees to deal, back for 15th season",
       "link": "https://www.espn.com/nfl/story/_/id/49841519/vikings-safety-smith-agrees-deal-back-15th-season",
       "description": "Vikings safety Harrison Smith is returning for a 15th season, with sources telling NFL Network he reached a one-year deal worth $12.25 million.",
-      "pubDate": "2026-09-06T00:24:00Z",
+      "pubDate": "2026-09-06T02:38:46Z",
       "source": "ESPN NFL · Kevin Seifert",
       "thumbnail": "https://a.espncdn.com/photo/2026/0125/r1605472_600x400_3-2.jpg"
     },
@@ -1042,22 +1058,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-captains-kenny-clark-quinnen-williams-dak-prescott-brandon-aubrey",
       "description": "The Cowboys have two defensive captains this season, and both were acquired by trading Micah Parsons....",
       "pubDate": "2026-09-04T19:11:52+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Josh Jacobs's first court appearance moves from November 17 to September 10",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobss-first-court-appearance-moves-from-november-17-to-september-10",
-      "description": "Paid leave puts a premium on expediting the prosecuion....",
-      "pubDate": "2026-09-04T19:04:50+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Shaq Mason won't be disciplined after 2025 arrest, remains a free agent",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shaq-mason-wont-be-disciplined-after-2025-arrest-remains-a-free-agent",
-      "description": "Shaq Mason is ready to resume his career....",
-      "pubDate": "2026-09-04T18:58:25+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
