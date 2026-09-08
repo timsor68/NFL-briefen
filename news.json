@@ -1,423 +1,519 @@
 {
-  "generatedAt": "2026-09-08T14:02:44.361194+00:00",
+  "generatedAt": "2026-09-08T17:56:41.727114+00:00",
   "nfl": [
+    {
+      "title": "Patrick Mahomes expected to start Chiefs' opener vs. Broncos on MNF",
+      "link": "https://www.espn.com/nfl/story/_/id/49870606/patrick-mahomes-expected-start-chiefs-opener-vs-broncos-mnf",
+      "description": "Patrick Mahomes is expected to start the Chiefs' season opener Monday against the Broncos.",
+      "pubDate": "2026-09-08T17:51:19Z",
+      "source": "ESPN NFL · Nate Taylor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698843_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Week 1 fantasy defense rankings: Top D/ST streamers, starts",
+      "link": "https://sports.yahoo.com/articles/week-1-fantasy-defense-rankings-175057720.html",
+      "description": "Rams have added sack king Myles Garrett and future Hall of Famer Aaron Donald, but they&#39;re not the top defense/special teams unit in Week 1. Who is?...",
+      "pubDate": "2026-09-08T17:50:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Andy Reid: Patrick Mahomes will &quot;most likely&quot; start Week 1",
+      "link": "https://sports.yahoo.com/articles/andy-reid-patrick-mahomes-most-173804496.html",
+      "description": "Though he suffered a torn ACL in December, Mahomes is in line to return for the start of the 2026 season....",
+      "pubDate": "2026-09-08T17:38:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chicago Bears Announce ‘26 Team Captains",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-announce-26-team-173523016.html",
+      "description": "Week 1 is finally upon us and the Chicago Bears team captains have been announced. @BryanOrenchuk with more here....",
+      "pubDate": "2026-09-08T17:35:23+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sam Darnold And The New-Look Seahawks Offense Face Huge Immediate Test",
+      "link": "https://www.foxsports.com/stories/nfl/seahawks-qb-sam-darnold-seattle-new-offense",
+      "description": "New OC Brian Fleury's acclimation is one of the top storylines for the Seahawks, who open the NFL season Wednesday against the Patriots.",
+      "pubDate": "2026-09-08T17:35:12+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/artboard-1seahawks.jpg"
+    },
+    {
+      "title": "The Seahawks open their title defense with a rare Week 1 Super Bowl rematch vs the Patriots",
+      "link": "http://www.espn.com/nfl/preview?gameId=401872656",
+      "description": "The Seattle Seahawks have gotten an offseason full of congratulations, their Super Bowl rings and...",
+      "pubDate": "2026-09-08T17:31:47Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872656.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Badgers snap counts, grades on defense: The rotations are starting to settle out",
+      "link": "https://sports.yahoo.com/articles/badgers-snap-counts-grades-defense-173119862.html",
+      "description": "How did the Badgers fare on defense on Sunday?...",
+      "pubDate": "2026-09-08T17:31:19+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football Week 1: Justin Boone&#39;s rankings (half and full-PPR)",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-1-justin-boones-rankings-half-and-full-ppr-172922968.html",
+      "description": "Week 1 Justin Boone fantasy football rankings....",
+      "pubDate": "2026-09-08T17:29:22+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Power Rankings (Week 1): Sorting Them Out Before the Season",
+      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-week-1-172639988.html",
+      "description": "Wednesday brings us the start of the NFL season, and the same matchup as the last NFL game we saw, as the Seahawks and Patriots face off in a Super Bowl rematch. After that, we hav...",
+      "pubDate": "2026-09-08T17:26:39+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "&#39;Very good chance&#39; Patrick Mahomes starts Week 1 vs. Broncos, says Chiefs coach Andy Reid",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/very-good-chance-patrick-mahomes-starts-week-1-vs-broncos-says-chiefs-coach-andy-reid-172525331.html",
+      "description": "Mahomes and the Chiefs will face the Denver Broncos in Week 1&#39;s Monday Night Football game....",
+      "pubDate": "2026-09-08T17:25:25+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Aikman on Eisen: This is the best 'MNF' schedule we've ever had",
+      "link": "https://www.espn.com/video/clip/_/id/49870234/best-mnf-schedule-ever-had",
+      "description": "Aikman on Eisen: This is the best 'MNF' schedule we've ever had",
+      "pubDate": "2026-09-08T17:19:35Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_130635736_3652544795/ss_20260908_130635736_3652544795.jpg"
+    },
+    {
+      "title": "Rome Odunze dealing with foot injury, Bears hopeful he&#39;ll play Week 1",
+      "link": "https://sports.yahoo.com/articles/rome-odunze-dealing-foot-injury-171334273.html",
+      "description": "Bears receiver Rome Odunze is dealing with a foot injury, but he may still be able to play in Sunday’s season opener against the Panthers....",
+      "pubDate": "2026-09-08T17:13:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Detroit Lions considering left guard rotation for Week 1",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-considering-left-guard-171109717.html",
+      "description": "The Detroit Lions continue to have an ongoing left guard battle between Christian Mahogany and Ben Bartch as Week 1 approaches....",
+      "pubDate": "2026-09-08T17:11:09+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "What Patrick Surtain II's pay raise means for the NFL corner market",
+      "link": "https://www.espn.com/video/clip/_/id/49869904/what-patrick-surtain-ii-pay-raise-means-nfl-corner-market",
+      "description": "What Patrick Surtain II's pay raise means for the NFL corner market",
+      "pubDate": "2026-09-08T17:10:35Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_123152884_3652525784/ss_20260908_123152884_3652525784.jpg"
+    },
+    {
+      "title": "Fantasy Football Defense Rankings for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-defense-rankings-for-week-1-170851681.html",
+      "description": "Here are our consensus D/ST rankings for Week 1 of the 2026 fantasy football season....",
+      "pubDate": "2026-09-08T17:08:51+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Fantasy Football Full-PPR Rankings: Justin Boone&#39;s FLEX rankings for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-full-ppr-rankings-justin-boones-flex-rankings-for-week-1-170735946.html",
+      "description": "Here&#39;s a look at Justin Boone&#39;s FLEX rankings for fantasy football Week 1 of the 2026 NFL season....",
+      "pubDate": "2026-09-08T17:07:35+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Fantasy Football Full-PPR Rankings: Justin Boone&#39;s top tight ends for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-full-ppr-rankings-justin-boones-top-tight-ends-for-week-1-170733340.html",
+      "description": "Here&#39;s Justin Boone&#39;s full-PPR TE rankings for Week 1 of 2026 fantasy football....",
+      "pubDate": "2026-09-08T17:07:33+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Fantasy Football Full-PPR Rankings: Justin Boone&#39;s top running backs for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-full-ppr-rankings-justin-boones-top-running-backs-for-week-1-170730179.html",
+      "description": "Check out Justin Boone&#39;s full-PPR RB rankings for fantasy football Week 1....",
+      "pubDate": "2026-09-08T17:07:30+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Fantasy Football Full-PPR Rankings: Justin Boone&#39;s top players for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-full-ppr-rankings-justin-boones-top-players-for-week-1-170728422.html",
+      "description": "Check out Justin Boone&#39;s full-PPR rankings for fantasy football Week 1....",
+      "pubDate": "2026-09-08T17:07:28+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Fantasy Football Full-PPR Rankings: Justin Boone&#39;s top wide receivers for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-full-ppr-rankings-justin-boones-top-wide-receivers-for-week-1-170726544.html",
+      "description": "Check out Justin Boone&#39;s full-PPR WR rankings for fantasy football Week 1....",
+      "pubDate": "2026-09-08T17:07:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football Kicker Rankings for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-kicker-rankings-for-week-1-170554101.html",
+      "description": "Here are our consensus kicker rankings for Week 1 of the 2026 fantasy football season....",
+      "pubDate": "2026-09-08T17:05:54+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles' Brandon Graham announces he is retiring from NFL for 2nd time",
+      "link": "https://www.espn.com/nfl/story/_/id/49870106/eagles-brandon-graham-announces-retires-nfl-2nd",
+      "description": "Longtime Eagles defensive end Brandon Graham announced he is retiring from the NFL again.",
+      "pubDate": "2026-09-08T17:04:41Z",
+      "source": "ESPN NFL · Tim McManus",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1021/r1563282_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 NFL Odds: Which Squads Will Reach 10 Wins?",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-squads-will-reach-10-wins",
+      "description": "Fourteen teams are favored to reach 10 wins. Is your team one of them? See the odds.",
+      "pubDate": "2026-09-08T17:03:53+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/cmac-98.jpg"
+    },
+    {
+      "title": "Brandon Graham, 2-Time Eagles Super Bowl Champion, Reportedly Retires Again",
+      "link": "https://www.foxsports.com/stories/nfl/philadelphia-eagles-brandon-graham-pass-rusher-retirement",
+      "description": "Philadelphia Eagles two-time Super Bowl champion Brandon Graham is retiring for the second time. He made the decision official on Tuesday morning at a Jefferson Health event in Philadelphia.",
+      "pubDate": "2026-09-08T17:02:48+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/eagles1.jpg"
+    },
+    {
+      "title": "Fantasy Football FLEX Rankings for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-flex-rankings-for-week-1-170141329.html",
+      "description": "Here are our consensus FLEX rankings for Week 1 of 2026 fantasy football....",
+      "pubDate": "2026-09-08T17:01:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles depth chart: Roster thoughts entering Week 1",
+      "link": "https://sports.yahoo.com/articles/eagles-depth-chart-roster-thoughts-165836742.html",
+      "description": "What stands out to you?...",
+      "pubDate": "2026-09-08T16:58:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football: Justin Boone&#39;s Week 1 Defense Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-justin-boones-week-1-defense-rankings-165755027.html",
+      "description": "Here&#39;s a look at Justin Boone&#39;s defense fantasy football rankings for Week 1 of the 2026 NFL season....",
+      "pubDate": "2026-09-08T16:57:55+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football: Justin Boone&#39;s Week 1 Kicker Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-justin-boones-week-1-kicker-rankings-165701383.html",
+      "description": "Here&#39;s a look at Justin Boone&#39;s kicker fantasy football rankings for Week 1 of the 2026 NFL season....",
+      "pubDate": "2026-09-08T16:57:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football TE Rankings: Top tight ends for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-te-rankings-top-tight-ends-for-week-1-165608946.html",
+      "description": "Here are our consensus tight end rankings for Week 1 of the 2026 fantasy football season....",
+      "pubDate": "2026-09-08T16:56:08+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Fantasy Football Rankings: Justin Boone&#39;s FLEX rankings for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-rankings-justin-boones-flex-rankings-for-week-1-165555810.html",
+      "description": "Here&#39;s a look at Justin Boone&#39;s FLEX rankings for Week 1 of fantasy football in 2026....",
+      "pubDate": "2026-09-08T16:55:55+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 Fantasy Football Rankings: Justin Boone&#39;s top tight ends for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/2026-fantasy-football-rankings-justin-boones-top-tight-ends-for-week-1-165506737.html",
+      "description": "Here&#39;s a look at Justin Boone&#39;s TE fantasy football rankings for Week 1 of the 2026 NFL season....",
+      "pubDate": "2026-09-08T16:55:06+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Stephen A.: Aaron Rodgers has gotten a bad rap to some degree",
+      "link": "https://www.espn.com/video/clip/_/id/49870016/aaron-rodgers-gotten-bad-rap-some-degree",
+      "description": "Stephen A.: Aaron Rodgers has gotten a bad rap to some degree",
+      "pubDate": "2026-09-08T16:54:16Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_123917597_3652531/ss_20260908_123917597_3652531.jpg"
+    },
+    {
+      "title": "Fantasy Football: Justin Boone&#39;s Week 1 WR Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-justin-boones-week-1-wr-rankings-165303341.html",
+      "description": "Here&#39;s a look at Justin Boone&#39;s WR fantasy football rankings for Week 1 of the 2026 NFL season....",
+      "pubDate": "2026-09-08T16:53:03+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football WR Rankings: Top wide receivers for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-wr-rankings-top-wide-receivers-for-week-1-165302852.html",
+      "description": "Here are our consensus WR rankings ahead of Week 1 of the 2026 fantasy football season....",
+      "pubDate": "2026-09-08T16:53:02+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football: Justin Boone&#39;s Week 1 RB Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-justin-boones-week-1-rb-rankings-165241364.html",
+      "description": "Here&#39;s a look at Justin Boone&#39;s RB fantasy football rankings for Week 1 of the 2026 NFL season....",
+      "pubDate": "2026-09-08T16:52:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football: Justin Boone&#39;s Week 1 QB Rankings",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-justin-boones-week-1-qb-rankings-165217932.html",
+      "description": "Here&#39;s a look at Justin Boone&#39;s QB fantasy football rankings for Week 1 of the 2026 NFL season....",
+      "pubDate": "2026-09-08T16:52:17+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football Week 1 Rankings: Justin Boone&#39;s top overall players",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-1-rankings-justin-boones-top-overall-players-165054284.html",
+      "description": "Check out Justin Boone&#39;s Week 1 fantasy football rankings....",
+      "pubDate": "2026-09-08T16:50:54+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football RB Rankings: Top running backs for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rb-rankings-top-running-backs-for-week-1-164952139.html",
+      "description": "Here are our consensus RB rankings for Week 1 of 2026 fantasy football....",
+      "pubDate": "2026-09-08T16:49:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football QB Rankings: Top quarterbacks for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-qb-rankings-top-quarterbacks-for-week-1-164648741.html",
+      "description": "Here are our QB rankings for Week 1 of 2026 fantasy football....",
+      "pubDate": "2026-09-08T16:46:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football Rankings for Week 1",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-for-week-1-164129934.html",
+      "description": "Here are our Yahoo analyst&#39;s consensus rankings at each position for half-PPR fantasy football in Week 1 of 2026....",
+      "pubDate": "2026-09-08T16:41:29+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Sources: Christian Gonzalez, Patriots reach 4-year, $135M deal",
       "link": "https://www.espn.com/nfl/story/_/id/49865736/sources-christian-gonzalez-patriots-reach-4-year-135m-deal",
       "description": "The Patriots and Christian Gonzalez agreed to terms on a four-year, $135 million extension that makes him the highest-paid CB in NFL history.",
-      "pubDate": "2026-09-08T13:46:45Z",
+      "pubDate": "2026-09-08T16:41:09Z",
       "source": "ESPN NFL · Mike Reiss",
       "thumbnail": "https://a.espncdn.com/photo/2025/0101/r1433646_600x600_1-1.jpg"
     },
     {
-      "title": "PFT&#39;s Week 1 2026 NFL power rankings",
-      "link": "https://sports.yahoo.com/articles/pfts-week-1-2026-nfl-134342473.html",
-      "description": "The defending champs still cling to the top spot, barely....",
-      "pubDate": "2026-09-08T13:43:42+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Which trends will continue or change for the 49ers in 2026?",
-      "link": "https://sports.yahoo.com/articles/trends-continue-change-49ers-2026-133000056.html",
-      "description": "Three trends to watch in 2026....",
-      "pubDate": "2026-09-08T13:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Browns Week 1: A look at changes to Jaguars roster this year",
-      "link": "https://sports.yahoo.com/articles/browns-week-1-look-changes-132946556.html",
-      "description": "The Cleveland Browns Week 1 opponent, the Jacksonville Jaguars, have seen some roster, depth chart changes this year...",
-      "pubDate": "2026-09-08T13:29:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Harrison Smith Returns — And the Cap Gets Complicated",
-      "link": "https://sports.yahoo.com/articles/harrison-smith-returns-cap-gets-132559961.html",
-      "description": "Harrison Smith&#39;s $12.25M return, cap concerns, bold predictions, and an NFL Rivalry Weekend pitch....",
-      "pubDate": "2026-09-08T13:25:59+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "'This is massive!': Saturday discusses Cowboys' big loss before the season",
-      "link": "https://www.espn.com/video/clip/_/id/49868293/saturday-discusses-cowboys-big-loss-season",
-      "description": "'This is massive!': Saturday discusses Cowboys' big loss before the season",
-      "pubDate": "2026-09-08T13:25:07Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_084946516_3652393533/ss_20260908_084946516_3652393533.jpg"
-    },
-    {
-      "title": "5 Jets storylines to watch as 2026 NFL season begins",
-      "link": "https://sports.yahoo.com/articles/5-jets-storylines-watch-2026-132418621.html",
-      "description": "Here are five Jets storylines to watch during the 2026 NFL regular season......",
-      "pubDate": "2026-09-08T13:24:18+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Myles Garrett expected to go for Rams on Thursday",
-      "link": "https://sports.yahoo.com/articles/myles-garrett-expected-rams-thursday-132158367.html",
-      "description": "Myles Garrett should be good to start the season, Van Jefferson finds a new home and more!...",
-      "pubDate": "2026-09-08T13:21:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Who will lead the Titans in receiving in Week 1?",
-      "link": "https://sports.yahoo.com/articles/lead-titans-receiving-week-1-131500594.html",
-      "description": "Which playmaker will lead the Tennessee Titans in receiving yards against the New York Jets in Week 1?...",
-      "pubDate": "2026-09-08T13:15:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Peyton, Eli Manning take 'ManningCast' to new heights in 'ManningCast: Heist'",
-      "link": "https://www.espn.com/nfl/story/_/id/49843209/peyton-eli-manning-manningcast-heist-2026",
-      "description": "\"ManningCast\" is back with a new season on Monday Night Football -- and the Manning brothers with a new look.",
-      "pubDate": "2026-09-08T13:04:57Z",
-      "source": "ESPN NFL · Kalan Hooks",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0907/r1712794_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Why Mike Tomlin is welcoming &#39;a little bit of performance anxiety&#39; in new job",
-      "link": "https://sports.yahoo.com/articles/why-mike-tomlin-welcoming-little-130451405.html",
-      "description": "Mike Tomlin stepped down from the Steelers to become an analyst for NBC. He&#39;s dealing with &#39;a little bit of performance anxiety&#39; in his new role....",
-      "pubDate": "2026-09-08T13:04:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The quiet shift reshaping the Cowboys",
-      "link": "https://sports.yahoo.com/articles/quiet-shift-reshaping-cowboys-130000807.html",
-      "description": "It’s becoming hard to ignore how Brian Schottenheimer is changing the culture of the Cowboys....",
-      "pubDate": "2026-09-08T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Pre-Snap Reads: What is the likelihood the Seahawks repeat as champions?",
-      "link": "https://sports.yahoo.com/articles/pre-snap-reads-likelihood-seahawks-130000088.html",
-      "description": "We pretty much did it once before, right guys? (cough, cough) How hard can it be?...",
-      "pubDate": "2026-09-08T13:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys guard Tyler Smith to have thumb surgery, headed for IR",
-      "link": "https://www.espn.com/nfl/story/_/id/49861767/cowboys-guard-tyler-smith-thumb-surgery-headed-ir",
-      "description": "Cowboys starting left guard Tyler Smith will undergo thumb surgery and is headed to injured reserve, coach Brian Schottenheimer said Monday.",
-      "pubDate": "2026-09-08T12:56:35Z",
+      "title": "Cowboys have 'serious' financial room to make a trade, says Jones",
+      "link": "https://www.espn.com/nfl/story/_/id/49869284/cowboys-serious-financial-room-make-trade-says-jones",
+      "description": "Cowboys owner Jerry Jones told 105.3 The Fan on Tuesday that the team has \"serious room financially\" to make a trade after restructuring several veteran contracts last week.",
+      "pubDate": "2026-09-08T16:40:16Z",
       "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0907/r1712921_1296x729_16-9.jpg"
+      "thumbnail": "https://a.espncdn.com/photo/2024/1118/r1416421_600x400_3-2.jpg"
     },
     {
-      "title": "Getting Defensive: Week 1 fantasy plays led by Jaguars, Chargers; top streaming defenses",
-      "link": "https://sports.yahoo.com/articles/getting-defensive-week-1-fantasy-125404088.html",
-      "description": "Gary Davenport breaks down the fantasy football defense landscape headed into Week 1 of the 2026 NFL season....",
-      "pubDate": "2026-09-08T12:54:04+00:00",
+      "title": "2026 NFL season predictions for Super Bowl winner, MVP, top surprises and disappointments",
+      "link": "https://sports.yahoo.com/nfl/article/2026-nfl-season-predictions-for-super-bowl-winner-mvp-top-surprises-and-disappointments-163716464.html",
+      "description": "This season, we think we have it figured out. Well, most of us anyway....",
+      "pubDate": "2026-09-08T16:37:16+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "How Christian Gonzalez became the NFL’s highest-paid cornerback",
-      "link": "https://www.espn.com/video/clip/_/id/49868230/how-christian-gonzalez-became-nfls-highest-paid-cornerback",
-      "description": "How Christian Gonzalez became the NFL’s highest-paid cornerback  ",
-      "pubDate": "2026-09-08T12:53:33Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_083720563_3652384/ss_20260908_083720563_3652384.jpg"
-    },
-    {
-      "title": "Mike Tomlin chooses Josh Allen as the quarterback he would love to coach: &#39;He&#39;s built for it&#39;",
-      "link": "https://sports.yahoo.com/nfl/article/mike-tomlin-chooses-josh-allen-as-the-quarterback-he-would-love-to-coach-hes-built-for-it-124420489.html",
-      "description": "Mike Tomlin is a big fan of the Bills&#39; star quarterback....",
-      "pubDate": "2026-09-08T12:44:20+00:00",
+      "title": "NFL Week 1 Vegas power rankings: Los Angeles Rams are the clear No. 1 team",
+      "link": "https://sports.yahoo.com/nfl/betting/article/nfl-week-1-vegas-power-rankings-los-angeles-rams-are-the-clear-no-1-team-163708242.html",
+      "description": "Our NFL handicapper gives his power ratings for all 32 teams....",
+      "pubDate": "2026-09-08T16:37:08+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Todd Monken, QBs, the Browns and a lifetime in pursuit",
-      "link": "https://www.espn.com/nfl/story/_/id/49860607/todd-monken-cleveland-browns-quarterbacks-life-pursuit-2026-head-coach",
-      "description": "At age 60, the first-time head coach brings to Cleveland a gritty resolve, an ability to cut through to QBs and a dream that this will be \"my last job.\"",
-      "pubDate": "2026-09-08T12:39:15Z",
-      "source": "ESPN NFL · Daniel Oyefusi",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0907/r1712894_1296x729_16-9.jpg"
+      "title": "Can Patriots QB Drake Maye repeat MVP-caliber season in 2026?",
+      "link": "https://www.espn.com/nfl/story/_/id/49860900/new-england-patriots-qb-drake-maye-2026-nfl-season-aj-brown",
+      "description": "The New England quarterback is letting the Super Bowl loss motivate him in 2026, starting with the rematch at Seahawks on Wednesday.",
+      "pubDate": "2026-09-08T16:33:47Z",
+      "source": "ESPN NFL · Mike Reiss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0907/r1712924_608x342_16-9.jpg"
     },
     {
-      "title": "Bills must be prepared for this unique but straight-forward wrinkle from Texans defense",
-      "link": "https://sports.yahoo.com/articles/bills-must-prepared-unique-straight-123121951.html",
-      "description": "The Bills have to be prepared for this against the Texans defense...",
-      "pubDate": "2026-09-08T12:31:21+00:00",
+      "title": "Klay Kubiak discusses the 49ers left guard competition and who will play",
+      "link": "https://sports.yahoo.com/articles/klay-kubiak-discusses-49ers-left-163208242.html",
+      "description": "The 49ers will have multiple bodies active on game day capable of playing left guard...",
+      "pubDate": "2026-09-08T16:32:08+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "2026 NFL predictions: Detroit Lions defensive MVP",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-predictions-detroit-lions-123000163.html",
-      "description": "Our staff makes their 2026 NFL predictions for Detroit Lions defensive MVP. Don’t forget to vote!...",
-      "pubDate": "2026-09-08T12:30:00+00:00",
+      "title": "Aaron Rodgers did not expect Steelers to keep four QBs",
+      "link": "https://sports.yahoo.com/articles/aaron-rodgers-did-not-expect-163055653.html",
+      "description": "Aaron Rodgers was surprised to see every quarterback make the roster....",
+      "pubDate": "2026-09-08T16:30:55+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Chiefs begin week as favorites over the Broncos in Week 1",
-      "link": "https://sports.yahoo.com/articles/chiefs-begin-week-favorites-over-123000590.html",
-      "description": "Kansas City enters Week 1 as a 2.5-point favorite in an AFC West battle with Denver....",
-      "pubDate": "2026-09-08T12:30:00+00:00",
+      "title": "Nittany Lions in the NFL 2026: Final Rosters",
+      "link": "https://sports.yahoo.com/articles/nittany-lions-nfl-2026-final-163000574.html",
+      "description": "Welcome back to another year!...",
+      "pubDate": "2026-09-08T16:30:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Cutting Darius Slayton is a move the Giants might regret",
-      "link": "https://sports.yahoo.com/articles/cutting-darius-slayton-move-giants-122822660.html",
-      "description": "With a lot of question marks at wide receiver, the Giants still rolled the dice by letting Slayton go....",
-      "pubDate": "2026-09-08T12:28:22+00:00",
+      "title": "Week 1 fantasy tight end rankings: Top TE streamers, starts",
+      "link": "https://sports.yahoo.com/articles/week-1-fantasy-tight-end-162714916.html",
+      "description": "Chicago&#39;s Colston Loveland finished strong last season and became one of the top tight ends in this year&#39;s fantasy drafts. Where does he rank Week 1?...",
+      "pubDate": "2026-09-08T16:27:14+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Panthers banking on RBs Hubbard, Brooks despite injury histories",
-      "link": "https://www.espn.com/nfl/story/_/id/49860263/carolina-panthers-banking-running-backs-chuba-hubbard-jonathon-brooks-injury-histories",
-      "description": "Carolina wants to run the ball more, but how will each back -- including AJ Dillon -- handle the workload?",
-      "pubDate": "2026-09-08T12:24:34Z",
-      "source": "ESPN NFL · Mike Kaye",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0907/r1712828_608x342_16-9.jpg"
-    },
-    {
-      "title": "Jumbo Package: Keelon Russell and Alabama may be working their way back to the top ten",
-      "link": "https://sports.yahoo.com/articles/jumbo-package-keelon-russell-alabama-122400926.html",
-      "description": "It was an encouraging opening week for the Tide, but there’s a long ways to go...",
-      "pubDate": "2026-09-08T12:24:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Week 1 Odds & Betting Lines: Super Bowl Rematch to Kick Off Season",
-      "link": "https://sports.yahoo.com/articles/nfl-week-1-odds-betting-153300092.html",
-      "description": "Get the latest NFL Week 1 odds, betting lines, spreads, moneylines, and totals for every game, including Patriots vs. Seahawks....",
-      "pubDate": "2026-09-08T12:22:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Five NFL teams that could race to strong starts in 2026 season",
-      "link": "https://sports.yahoo.com/articles/five-nfl-teams-could-race-121831986.html",
-      "description": "A September surge isn&#39;t always indicative of a team&#39;s full-season performance, but these five NFL teams could be poised to start strong this season....",
-      "pubDate": "2026-09-08T12:18:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL Power Rankings: Where Every Team Stands Heading Into The Season",
-      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-where-every-team-stands-heading-season",
-      "description": "Ralph Vacchiano updates the NFL hierarchy as the 2026 season kicks off.",
-      "pubDate": "2026-09-08T12:00:37+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/4549cfd7-16x9-9.jpg"
-    },
-    {
-      "title": "2026 NFL Season Award Predictions: Coach of the Year",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-season-award-predictions-120000269.html",
-      "description": "The WCG Crew is predicting the 2026 NFL Awards, and next is our pick for Coach of the Year....",
-      "pubDate": "2026-09-08T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Optimism rises with healthier Commanders roster for Wk 1 road trip to Philly - Daily Slop",
-      "link": "https://sports.yahoo.com/articles/optimism-rises-healthier-commanders-roster-120000724.html",
-      "description": "Commanders re-made coaching staff and roster means that a different and more talented team will take the field on Sunday...",
-      "pubDate": "2026-09-08T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "New Orleans Saints News: Shough will have a massive opportunity on Sunday",
-      "link": "https://sports.yahoo.com/articles/orleans-saints-news-shough-massive-120000056.html",
-      "description": "Here are today&#39;s Saints news links...",
-      "pubDate": "2026-09-08T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Every NFL team ranked by their 2027 Super Bowl chances entering Week 1",
-      "link": "https://sports.yahoo.com/articles/every-nfl-team-ranked-2027-120000604.html",
-      "description": "NFL Week 1 Power Rankings, let’s go....",
-      "pubDate": "2026-09-08T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bay State Ballers: How Massachusetts Ties Connect Miami’s Most Underrated X-Factors in Samson Okunlola and Omar Thornton",
-      "link": "https://sports.yahoo.com/articles/bay-state-ballers-massachusetts-ties-120000788.html",
-      "description": "Brockton grit, Chestnut Hill polish - Okunlola and Thornton are Miami&#39;s quiet, Massachusetts-tested breakout stars....",
-      "pubDate": "2026-09-08T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos open 2.5-point underdogs vs. Chiefs in Week 1",
-      "link": "https://sports.yahoo.com/articles/broncos-open-2-5-point-120000766.html",
-      "description": "Denver Broncos opening odds and betting lines vs. Kansas City Chiefs in Week 1 of the 2026 NFL season....",
-      "pubDate": "2026-09-08T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How the Falcons can start reviving a dejected fanbase with low expectations",
-      "link": "https://sports.yahoo.com/articles/falcons-start-reviving-dejected-fanbase-120000633.html",
-      "description": "In what seems likely to be another season without playoff football in Atlanta, worthwhile progress is still possible....",
-      "pubDate": "2026-09-08T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Can the Commanders upset the Eagles in Philly to open the season and seize control of the NFC East?",
-      "link": "https://sports.yahoo.com/articles/commanders-upset-eagles-philly-open-120000921.html",
-      "description": "David Blough and Sean Mannion look to elevate Jayden Daniels and Jalen Hurts; Daronte Jones steps out of Flores&#39; shadow...",
-      "pubDate": "2026-09-08T12:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL power rankings Week 1: Did a Super Bowl 60 team miss top five?",
-      "link": "https://sports.yahoo.com/articles/nfl-power-rankings-week-1-115729954.html",
-      "description": "As the 2026 NFL season kicks off, last year&#39;s two best teams already find themselves looking up at this year&#39;s apparent challengers....",
-      "pubDate": "2026-09-08T11:57:29+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ravens vs Colts Prediction, Picks & Early Odds: NFL Week 1",
-      "link": "https://sports.yahoo.com/articles/ravens-vs-colts-prediction-picks-134100742.html",
-      "description": "We&#39;re making our early Ravens vs. Colts predictions ahead of this Week 1 clash at Lucas Oil Stadium. Free NFL picks for Sunday, Sept. 13....",
-      "pubDate": "2026-09-08T11:44:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Buccaneers vs Bengals Prediction, Picks & Early Odds: NFL Week 1",
-      "link": "https://sports.yahoo.com/articles/buccaneers-vs-bengals-prediction-picks-154300367.html",
-      "description": "Early Buccaneers vs. Bengals predictions for Week 1, featuring NFL picks for spread and total....",
-      "pubDate": "2026-09-08T11:41:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Saints vs Lions Prediction, Picks & Early Odds: NFL Week 1",
-      "link": "https://sports.yahoo.com/articles/saints-vs-lions-prediction-picks-173900936.html",
-      "description": "Early Saints vs. Lions predictions for Week 1 action. Free moneyline and Over/Under NFL picks....",
-      "pubDate": "2026-09-08T11:35:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dolphins news: Malik Willis perseverance, captains named, mores",
-      "link": "https://sports.yahoo.com/articles/dolphins-news-malik-willis-perseverance-113357152.html",
-      "description": "The latest news from the Miami Dolphins includes Malik Willis’ perseverance, the captains named, Kyle Louis’ position change, and more....",
-      "pubDate": "2026-09-08T11:33:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Early NFL Survivor Picks & Strategy: Who to Target in Week 1",
-      "link": "https://sports.yahoo.com/articles/early-nfl-survivor-picks-strategy-211000282.html",
-      "description": "Geoff Clark takes an early look at the Week 1 NFL slate, breaks down his Survivor Pool strategy, and highlights the teams worth targeting and avoiding in Week 1....",
-      "pubDate": "2026-09-08T11:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams used player &#39;guinea pigs&#39; to help craft their Australia travel plan",
-      "link": "https://sports.yahoo.com/articles/rams-used-player-guinea-pigs-113000195.html",
-      "description": "The Rams&#39; decision to leave as late as possible for their Australian season opener against the 49ers is based in part on player experiences from last year....",
-      "pubDate": "2026-09-08T11:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lions open 2026 as big Vegas favorites over Saints in Week 1",
-      "link": "https://sports.yahoo.com/articles/lions-open-2026-big-vegas-113000600.html",
-      "description": "Checking in on the opening betting odds for when the Detroit Lions host the New Orleans Saints in Week 1....",
-      "pubDate": "2026-09-08T11:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys vs Giants Prediction, Picks & Early Odds for Sunday Night Football",
-      "link": "https://sports.yahoo.com/articles/cowboys-vs-giants-prediction-picks-181600702.html",
-      "description": "Soft secondaries help the Over in our early Cowboys vs. Giants prediction and NFL picks for Sept. 13....",
-      "pubDate": "2026-09-08T11:26:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers vs Rams Prediction, Picks & Early Odds for Thursday Night Football",
-      "link": "https://sports.yahoo.com/articles/49ers-vs-rams-prediction-picks-192100621.html",
-      "description": "Joe Osborne offers his early 49ers vs. Rams predictions ahead of Thursday Night Football in Melbourne, Australia. Free NFL picks for September 10....",
-      "pubDate": "2026-09-08T11:21:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Instant grades for Christian Gonzalez contract extension with Patriots",
-      "link": "https://sports.yahoo.com/articles/instant-grades-christian-gonzalez-contract-110509316.html",
-      "description": "The Patriots are keeping their top cornerback on a new four-year extension....",
-      "pubDate": "2026-09-08T11:05:09+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 Season Opener Countdown: 5 Days Remaining",
-      "link": "https://sports.yahoo.com/articles/2026-season-opener-countdown-4-110000116.html",
-      "description": "We continue our countdown to the Panthers opening the 2026 season against the Chicago Bears...",
-      "pubDate": "2026-09-08T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bengals Tuesday Trenches: It begins with Pirates",
-      "link": "https://sports.yahoo.com/articles/bengals-tuesday-trenches-begins-pirates-110000835.html",
-      "description": "So it begins....",
-      "pubDate": "2026-09-08T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dark horse Jovaughn Gwyn wins Ravens’ Week 1 starting center job",
-      "link": "https://sports.yahoo.com/articles/dark-horse-jovaughn-gwyn-wins-110000385.html",
-      "description": "The Ravens have named Jovaughn Gwyn as their starting center for Week 1 vs. the Colts....",
-      "pubDate": "2026-09-08T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams vs. 49ers will be a mini Super Bowl for Melbourne&#39;s iconic cricket ground",
-      "link": "https://sports.yahoo.com/articles/rams-vs-49ers-mini-super-110000040.html",
-      "description": "The Rams and 49ers kick off the NFL season 8,000 miles from home, turning the Melbourne Cricket Ground into the stage for Australia&#39;s first regular-season NFL game....",
-      "pubDate": "2026-09-08T11:00:00+00:00",
+      "title": "NFL Moneyline Picks for Every Week 1 Game",
+      "link": "https://sports.yahoo.com/articles/nfl-moneyline-picks-every-week-162500410.html",
+      "description": "Real football is finally here, and Trevor Knapp has you covered with his favorite plays for every single game on the Week 1 slate....",
+      "pubDate": "2026-09-08T16:25:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
   ],
   "ncaa": [
     {
-      "title": "2026 Power Rankings: How did the Top 25 look in Week 1?",
-      "link": "https://www.espn.com/college-football/story/_/id/49828383/2026-college-football-power-rankings-top-25-ohio-state-notre-dame",
-      "description": "After an entertaining Week 1, which teams did our college football experts vote into the Top 25?",
-      "pubDate": "2026-09-08T13:13:11Z",
-      "source": "ESPN College Football · ESPN",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0907/r1712618_608x342_16-9.jpg"
+      "title": "AJ Surace replaces injured Dylan Lonergan as Rutgers QB",
+      "link": "https://www.espn.com/college-football/story/_/id/49870545/aj-surace-replaces-injured-dylan-lonergan-rutgers-qb",
+      "description": "Rutgers will start junior quarterback AJ Surace on Friday night at Boston College as Dylan Lonergan continues to recover from an injury sustained in the opener.",
+      "pubDate": "2026-09-08T17:53:43Z",
+      "source": "ESPN College Football · Adam Rittenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0908/r1713293_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Notre Dame S Brauntae Johnson, DL Jason Onye out a few weeks",
+      "link": "https://www.espn.com/college-football/story/_/id/49870512/notre-dame-s-brauntae-johnson-dl-jason-onye-weeks",
+      "description": "Notre Dame starting safety Brauntae Johnson and defensive lineman Jason Onye are expected to miss a few weeks with foot injuries, coach Marcus Freeman announced Tuesday.",
+      "pubDate": "2026-09-08T17:52:26Z",
+      "source": "ESPN College Football · Adam Rittenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2017/1023/r278541_600x400_3-2.jpg"
+    },
+    {
+      "title": "Iowa band member taken off life support after collapsing at game",
+      "link": "https://www.espn.com/college-football/story/_/id/49870190/iowa-band-member-taken-life-support-collapsing-game",
+      "description": "A University of Iowa band member has been taken off of life support after collapsing Saturday in the heat during the season-opening football game against Northern Illinois.",
+      "pubDate": "2026-09-08T17:27:38Z",
+      "source": "ESPN College Football · Adam Rittenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2015/0904/ap_115000904698_r6337_600x400_3-2.jpg"
+    },
+    {
+      "title": "SEC Leaders To Discuss Kicking LSU Out Of League Over Player Eligibility",
+      "link": "https://www.foxsports.com/stories/college-football/sec-lsu-meeting-lane-kiffin-nfl-player-eligibility",
+      "description": "Leaders of the Southeastern Conference plan to meet Thursday to discuss possibly kicking LSU out of the conference.",
+      "pubDate": "2026-09-08T17:21:40+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/lane2.jpg"
+    },
+    {
+      "title": "SEC schedules vote about whether to expel LSU, amends lawsuit",
+      "link": "https://www.espn.com/college-football/story/_/id/49869481/sec-files-amendment-authority-expel-lsu-conference",
+      "description": "The SEC has filed an amended complaint against LSU regarding its potential plans to add ex-NFL players and scheduled a vote on whether to expel the Tigers.",
+      "pubDate": "2026-09-08T17:14:22Z",
+      "source": "ESPN College Football · Pete Thamel and Mark Schlabach and Dan Murphy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0825/r1706937_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Sandusky withdraws recantation claim, seeks higher court trial",
+      "link": "https://www.espn.com/college-football/story/_/id/49869424/sandusky-withdraws-recantation-claim-seeks-higher-court-trial",
+      "description": "Jerry Sandusky appeared in Centre County Court on Tuesday via video conference to withdraw his claim there for an appeal, which included a recantation witness, in hopes of taking his effort for a new trial to a higher court.",
+      "pubDate": "2026-09-08T17:02:40Z",
+      "source": "ESPN College Football · Robert Klemko",
+      "thumbnail": "https://a.espncdn.com/photo/2016/0508/r81443_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Allstate Playoff Predictor",
+      "link": "https://www.espn.com/espn/feature/story/_/page/cfbplayoffpredictor/college-football-allstate-playoff-bracket-predictor",
+      "description": "Select your favorite contender, make your picks for how its season will play out and see what the Allstate Playoff Predictor foretells.",
+      "pubDate": "2026-09-08T16:55:06Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0831/cfb_predictor_photo26__1296x729.jpg"
+    },
+    {
+      "title": "Chris Canty on SEC's lawsuit against LSU: 'It's a step they had to take'",
+      "link": "https://www.espn.com/video/clip/_/id/49869866/step-had-take",
+      "description": "Chris Canty on SEC's lawsuit against LSU: 'It's a step they had to take'",
+      "pubDate": "2026-09-08T16:34:09Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/ss_20260908_122227754_3652519749/ss_20260908_122227754_3652519749.jpg"
+    },
+    {
+      "title": "Another ACC loss for Florida State keeps the pressure on for Mike Norvell",
+      "link": "https://www.espn.com/video/clip/_/id/49869836/another-acc-loss-florida-state-keeps-pressure-mike-norvell",
+      "description": "Andrea Adelson breaks down FSU's loss to SMU heading into their game against Alabama.",
+      "pubDate": "2026-09-08T16:18:37Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0908/dm_260908_FSU_Norvell_IA/dm_260908_FSU_Norvell_IA.jpg"
+    },
+    {
+      "title": "Kevin Jennings overcomes miscues, leads No. 19 SMU to win",
+      "link": "https://www.espn.com/nfl/story/_/id/49865739/kevin-jennings-leads-winning-drive-no-19-smu-outlasts-fsu",
+      "description": "SMU quarterback Kevin Jennings shook off a pair of interceptions to lead the No. 19 Mustangs' winning scoring drive, capped by Nick Reed's 20-yard field goal with 21 seconds to play, and the road team wrapped up a 27-24 win over Florida State on Monday.",
+      "pubDate": "2026-09-08T15:42:44Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0908/r1713106_600x600_1-1.jpg"
     },
     {
       "title": "Looking at the Heisman and CFP markets after Week 1: Favorites, fades and best bets",
       "link": "https://www.espn.com/espn/betting/story/_/id/49864331/college-football-playoff-heisman-odds-favorites-week-1-2026",
       "description": "After points galore in Week 1, which teams and players are most likely to keep up throughout the season?",
-      "pubDate": "2026-09-08T12:34:27Z",
+      "pubDate": "2026-09-08T15:24:34Z",
       "source": "ESPN College Football · Pamela Maldonado",
       "thumbnail": "https://a.espncdn.com/photo/2026/0908/r1713058_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 college football SP+ rankings for all 138 FBS teams",
+      "link": "https://www.espn.com/college-football/story/_/id/49868647/2026-college-football-sp+-rankings-all-138-fbs-teams",
+      "description": "The updated SP+ rankings, plus strength of schedule and résumé SP+, after this weekend's results.",
+      "pubDate": "2026-09-08T14:54:36Z",
+      "source": "ESPN College Football · Bill Connelly",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0908/r1713220_608x342_16-9.jpg"
+    },
+    {
+      "title": "College Football Playoff 2026: Bubble watch after Week 1",
+      "link": "https://www.espn.com/college-football/story/_/id/49860937/college-football-playoff-2026-week-1-bubble-watch",
+      "description": "Putting the spotlight on select teams and questions around others as the early playoff picture takes shape.",
+      "pubDate": "2026-09-08T14:32:48Z",
+      "source": "ESPN College Football · Heather Dinich",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0905/r1711610_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 Power Rankings: How did the Top 25 look in Week 1?",
+      "link": "https://www.espn.com/college-football/story/_/id/49828383/2026-college-football-power-rankings-top-25-ohio-state-notre-dame",
+      "description": "After an entertaining Week 1, which teams did our college football experts vote into the Top 25?",
+      "pubDate": "2026-09-08T13:13:11Z",
+      "source": "ESPN College Football · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0908/r1712618_608x342_16-9.jpg"
     },
     {
       "title": "CFB Week 1 Superlatives: Michigan's Hail Mary, Lane Kiffin's LSU Debut And CFP Effects",
@@ -444,28 +540,12 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712507_1296x729_16-9.jpg"
     },
     {
-      "title": "College Football Playoff 2026: Bubble watch after Week 1",
-      "link": "https://www.espn.com/college-football/story/_/id/49860937/college-football-playoff-2026-week-1-bubble-watch",
-      "description": "Putting the spotlight on select teams and questions around others as the early playoff picture takes shape.",
-      "pubDate": "2026-09-08T10:28:35Z",
-      "source": "ESPN College Football · Heather Dinich",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0905/r1711610_1296x729_16-9.jpg"
-    },
-    {
       "title": "SMU-FSU played with limited power after lengthy outage delay",
       "link": "https://www.espn.com/college-football/story/_/id/49863701/start-smu-florida-state-game-delayed-power-outage",
       "description": "The game between No. 19 SMU and Florida State kicked off after a nearly two-hour delay and was played with limited power at Doak Campbell Stadium.",
       "pubDate": "2026-09-08T07:35:11Z",
       "source": "ESPN College Football · Andrea Adelson",
       "thumbnail": "https://a.espncdn.com/photo/2026/0908/r1713028_600x400_3-2.jpg"
-    },
-    {
-      "title": "Kevin Jennings overcomes miscues, leads No. 19 SMU to win",
-      "link": "https://www.espn.com/nfl/story/_/id/49865739/kevin-jennings-leads-winning-drive-no-19-smu-outlasts-fsu",
-      "description": "SMU quarterback Kevin Jennings shook off a pair of interceptions to lead the No. 19 Mustangs' winning scoring drive, capped by Nick Reed's 20-yard field goal with 21 seconds to play, and the road team wrapped up a 27-24 win over Florida State on Monday.",
-      "pubDate": "2026-09-08T06:36:58Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0908/r1713106_600x600_1-1.jpg"
     },
     {
       "title": "No. 19 SMU beats Florida State 27-24 on Nick Reed’s late field goal",
@@ -722,96 +802,136 @@
       "pubDate": "2026-09-07T17:16:07Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/ss_20260907_121234184_3651649761/ss_20260907_121234184_3651649761.jpg"
-    },
-    {
-      "title": "Power rankings with a twist: Best of SEC's perfect Week 1",
-      "link": "https://www.espn.com/video/clip/_/id/49860627/best-sec-perfect-week-1",
-      "description": "After the SEC rolled to a 16-0 Week 1, the SEC This Morning crew puts a different spin on power rankings, weighing everything from Monday coffee and coach debuts to hyped QBs.",
-      "pubDate": "2026-09-07T17:11:02Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/dm_260907_SEC_NCF_Analysis_SECTM_Power_Ranks_260907/dm_260907_SEC_NCF_Analysis_SECTM_Power_Ranks_260907.jpg"
-    },
-    {
-      "title": "2026 College Football Rankings: Oregon, Notre Dame Slip After Week 1 Performances",
-      "link": "https://www.foxsports.com/stories/college-football/2026-college-football-rankings-oregon-notre-dame-slip-after-week-1-performances",
-      "description": "The season is young, but teams are already shifting up and down Joel Klatt's top 10 rankings.",
-      "pubDate": "2026-09-07T16:58:32+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/5gop07wdwqwhqx8a.jpg"
-    },
-    {
-      "title": "Week 1 overreactions on LSU, Clemson, Michigan, Alabama, more",
-      "link": "https://www.espn.com/college-football/story/_/id/49850053/college-football-week-1-overreactions-lsu-clemson-michigan-alabama",
-      "description": "We've seen a week's worth of games, so it's time to jump to a bunch of premature conclusions.",
-      "pubDate": "2026-09-07T15:51:35Z",
-      "source": "ESPN College Football · Bill Connelly",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712448_608x342_16-9.jpg"
-    },
-    {
-      "title": "'It's an absolute joke!': Stephen A. rips controversial Michigan finish",
-      "link": "https://www.espn.com/video/clip/_/id/49859672/stephen-rips-controversial-michigan-finish",
-      "description": "'It's an absolute joke!': Stephen A. rips controversial Michigan finish",
-      "pubDate": "2026-09-07T15:44:44Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/ss_20260907_102244881_3651573702/ss_20260907_102244881_3651573702.jpg"
-    },
-    {
-      "title": "Kyle Whittingham: Bryce Underwood is Michigan's QB1 'right now'",
-      "link": "https://www.espn.com/college-football/story/_/id/49859822/kyle-whittingham-bryce-underwood-michigan-qb1-right-now",
-      "description": "Michigan will continue to start Bryce Underwood at quarterback despite struggles in the season opener, coach Kyle Whittingham said Monday.",
-      "pubDate": "2026-09-07T15:14:02Z",
-      "source": "ESPN College Football · Adam Rittenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0907/r1712796_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Chris 'The Bear' Fallica's 2026 College Football Top 10 — Week 2",
-      "link": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-2026-college-football-top-10-week-2",
-      "description": "\"The Bear\" drops his latest Top 10 rankings ahead of Week 2 in college football. Who does he have at No. 1?",
-      "pubDate": "2026-09-07T15:07:15+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/fallica10.jpg"
-    },
-    {
-      "title": "Stephen A. in disbelief over how bad Clemson looked vs. LSU",
-      "link": "https://www.espn.com/video/clip/_/id/49859814/stephen-disbelief-how-bad-clemson-looked-vs-lsu",
-      "description": "Stephen A. in disbelief over how bad Clemson looked vs. LSU",
-      "pubDate": "2026-09-07T15:04:30Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/ss_20260907_105156480_3651588/ss_20260907_105156480_3651588.jpg"
-    },
-    {
-      "title": "Michigan's Whittingham on Underwood: 'He's our QB right now'",
-      "link": "https://www.espn.com/video/clip/_/id/49859735/our-qb-right-now",
-      "description": "Michigan's Whittingham on Underwood: 'He's our QB right now'",
-      "pubDate": "2026-09-07T14:42:42Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/ss_20260907_103648594_3651578/ss_20260907_103648594_3651578.jpg"
-    },
-    {
-      "title": "2026 CFP Title Odds: Ohio State Favored; Oregon, Michigan Drop",
-      "link": "https://www.foxsports.com/stories/college-football/2026-cfp-title-odds",
-      "description": "College football Week 1 has come and gone. Check out the updated national championship odds, with some major shifts taking place.",
-      "pubDate": "2026-09-07T13:53:56+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/cfp-odds.jpg"
-    },
-    {
-      "title": "Paul Finebaum sounds off on clock controversy in Michigan's win",
-      "link": "https://www.espn.com/video/clip/_/id/49859072/paul-finebaum-sounds-clock-controversy-michigan-win",
-      "description": "Paul Finebaum sounds off on clock controversy in Michigan's win",
-      "pubDate": "2026-09-07T12:53:30Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/ss_20260907_084047593_3651544/ss_20260907_084047593_3651544.jpg"
     }
   ],
   "insider": [
     {
+      "title": "Member of Iowa marching band is removed from life support after suffering cardiac arrest at game",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/member-of-iowa-marching-band-is-removed-from-life-support-after-suffering-cardiac-arrest-at-game",
+      "description": "A member of the Iowa marching band was removed from life support on Monday, two days after collapsing shortly before halftime of a game against Northern Illinois....",
+      "pubDate": "2026-09-08T17:38:50+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Andy Reid: Patrick Mahomes will \"most likely\" start Week 1",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-patrick-mahomes-will-most-likely-start-week-1",
+      "description": "Though he suffered a torn ACL in December, Mahomes is in line to return for the start of the 2026 season....",
+      "pubDate": "2026-09-08T17:38:04+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Tomlin on a possible return to coaching: \"Never say never\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-on-a-possible-return-to-coaching-never-say-never",
+      "description": "As he embarks on TV career, Tomlin doesn't rule out a second act in the NFL....",
+      "pubDate": "2026-09-08T17:15:05+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rome Odunze dealing with foot injury, Bears hopeful he'll play Week 1",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rome-odunze-dealing-with-foot-injury-bears-hopeful-hell-play-week-1",
+      "description": "Bears receiver Rome Odunze is dealing with a foot injury, but he may still be able to play in Sunday’s season opener against the Panthers....",
+      "pubDate": "2026-09-08T17:13:34+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Brandon Graham, 2-Time Eagles Super Bowl Champion, Reportedly Retires Again",
+      "link": "https://www.foxsports.com/stories/nfl/philadelphia-eagles-brandon-graham-pass-rusher-retirement",
+      "description": "Philadelphia Eagles two-time Super Bowl champion Brandon Graham is retiring for the second time. He made the decision official on Tuesday morning at a Jefferson Health event in Philadelphia.",
+      "pubDate": "2026-09-08T17:02:48+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/eagles1.jpg"
+    },
+    {
+      "title": "SEC seeks authority to expel LSU",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sec-seeks-authority-to-expel-lsu",
+      "description": "Even though LSU blinked for now on the issue of adding former NFL players to the roster for its first game of the 2026 season, the SEC wants to be able to blow the Tigers out of th...",
+      "pubDate": "2026-09-08T16:56:53+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Sources: Christian Gonzalez, Patriots reach 4-year, $135M deal",
       "link": "https://www.espn.com/nfl/story/_/id/49865736/sources-christian-gonzalez-patriots-reach-4-year-135m-deal",
       "description": "The Patriots and Christian Gonzalez agreed to terms on a four-year, $135 million extension that makes him the highest-paid CB in NFL history.",
-      "pubDate": "2026-09-08T13:46:45Z",
+      "pubDate": "2026-09-08T16:41:09Z",
       "source": "ESPN NFL · Mike Reiss",
       "thumbnail": "https://a.espncdn.com/photo/2025/0101/r1433646_600x600_1-1.jpg"
+    },
+    {
+      "title": "Cowboys have 'serious' financial room to make a trade, says Jones",
+      "link": "https://www.espn.com/nfl/story/_/id/49869284/cowboys-serious-financial-room-make-trade-says-jones",
+      "description": "Cowboys owner Jerry Jones told 105.3 The Fan on Tuesday that the team has \"serious room financially\" to make a trade after restructuring several veteran contracts last week.",
+      "pubDate": "2026-09-08T16:40:16Z",
+      "source": "ESPN NFL · Todd Archer",
+      "thumbnail": "https://a.espncdn.com/photo/2024/1118/r1416421_600x400_3-2.jpg"
+    },
+    {
+      "title": "Breece Hall set to practice this week, \"trending towards playing\" against Titans",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/breece-hall-set-to-practice-this-week-trending-towards-playing-against-titans",
+      "description": "Running back Breece Hall remains on the right path to be in the lineup for the Jets against the Titans in Week 1....",
+      "pubDate": "2026-09-08T16:22:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Brandon Graham says he's \"officially done\" playing football",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-graham-says-hes-officially-done-playing-football",
+      "description": "Brandon Graham's first retirement was a brief one, but he says the second one will be a lasting exit from the football field....",
+      "pubDate": "2026-09-08T16:14:21+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lamar Jackson: \"I don't feel like I have anything to prove to anyone but myself\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-i-dont-feel-like-i-have-anything-to-prove-to-anyone-but-myself",
+      "description": "I feel great. I feel healthy, 100 percent healthy. I'm just ready to get after it,\" Jackson said....",
+      "pubDate": "2026-09-08T15:58:51+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Todd Monken: Deshaun Watson's rant against fans was a \"speed bump\" with confidence",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-deshaun-watsons-rant-against-fans-was-a-speed-bump-with-confidence",
+      "description": "The Browns and their fan base have not been on the same page when it comes to the team's starting quarterback....",
+      "pubDate": "2026-09-08T15:11:53+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles depth chart doesn't name a backup to Jalen Hurts",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-depth-chart-doesnt-name-a-backup-to-jalen-hurts",
+      "description": "Eagles General Manager Howie Roseman declined to say who the team has installed as Jalen Hurts' backup quarterback last week and the team isn't sharing that information this week e...",
+      "pubDate": "2026-09-08T15:10:17+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Inside the Christian Gonzalez deal",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-christian-gonzalez-deal",
+      "description": "Here's the full breakdown of the new deal between the Patriots and their top corner....",
+      "pubDate": "2026-09-08T14:55:16+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dan Campbell: Jared Goff, Drew Petzing have worked really well together",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-jared-goff-drew-petzing-have-worked-really-well-together",
+      "description": "When Ben Johnson departed the Lions in 2025 to become the Bears head coach, the Lions replaced him with John Morton....",
+      "pubDate": "2026-09-08T14:25:00+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jerry Jones: Creating cap space gives us room to make a trade",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-creating-cap-space-gives-us-room-to-make-a-trade",
+      "description": "After the Cowboys signed Von Miller last month, their owner Jerry Jones said that he would be open to making a trade \"if we saw an opportunity to take a little of the future and pu...",
+      "pubDate": "2026-09-08T14:03:21+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "PFT's Week 1 2026 NFL power rankings",
@@ -862,14 +982,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Seahawks pick different captains for each game, including Sam Darnold for Week 1",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-pick-different-captains-for-each-game-including-sam-darnold-for-week-1",
-      "description": "When the Seahawks open the season on Wednesday night against the Patriots, quarterback Sam Darnold will be one of their captains....",
-      "pubDate": "2026-09-08T07:58:44+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Christian Gonzalez, Patriots agree to four-year extension",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-gonzalez-patriots-agree-to-four-year-extension",
       "description": "Gonzalez has agreed to a deal that will make him the league's highest-paid corner, ending a contract dispute....",
@@ -884,22 +996,6 @@
       "pubDate": "2026-09-08T04:10:55Z",
       "source": "ESPN NFL · Nick Wagoner",
       "thumbnail": "https://a.espncdn.com/photo/2026/0908/r1713083_600x600_1-1.jpg"
-    },
-    {
-      "title": "George Kittle \"in good shape\" to play season opener",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/george-kittle-in-good-shape-to-play-season-opener",
-      "description": "Tight end George Kittle traveled with the 49ers to Australia, which was a sign he would play in Thursday night's season opener....",
-      "pubDate": "2026-09-08T03:16:06+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Raheem Morris confirms Nick Bosa will play season opener",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raheem-morris-confirms-nick-bosa-will-play-season-opener",
-      "description": "The 49ers defensive end tore his ACL in a Sept. 21 game against the Cardinals and underwent surgery Sept. 26....",
-      "pubDate": "2026-09-08T02:13:47+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "Giants release WR Darius Slayton, team's longest-tenured player",
@@ -918,98 +1014,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Report: Three teams have reached out to Darius Slayton",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-three-teams-have-reached-out-to-darius-slayton",
-      "description": "The Giants released wide receiver Darius Slayton on Monday, making him a free agent....",
-      "pubDate": "2026-09-07T23:56:38+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Derrick Henry: I am tired of watching the Super Bowl on TV",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-i-am-tired-of-watching-the-super-bowl-on-tv",
-      "description": "Derrick Henry has played in one AFC Championship Game, a 35-24 loss to the Chiefs in the 2019 season....",
-      "pubDate": "2026-09-07T23:09:28+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jacoby Brissett among Cardinals' team captains",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-among-cardinals-team-captains",
-      "description": "Jacoby Brissett who is in his first season as a starter for the Cardinals, was named one of five captains for the team this season....",
-      "pubDate": "2026-09-07T22:36:25+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Darius Slayton: Grateful for time with Giants, excited to see what's next",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/darius-slayton-grateful-for-time-with-giants-excited-to-see-whats-next",
-      "description": "Wide receiver Darius Slayton's long run with the Giants came to an end on Monday....",
-      "pubDate": "2026-09-07T22:10:54+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Titans LB Cedric Gray injured in off-road vehicle accident",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-lb-cedric-gray-injured-in-off-road-vehicle-accident",
-      "description": "Titans linebacker Cedric Gray has entered the NFL's concussion protocol after being injured in an off-field accident over the weekend....",
-      "pubDate": "2026-09-07T22:01:11+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams DC Chris Shula: Everything's day by day with Aaron Donald",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-dc-chris-shula-everythings-day-by-day-with-aaron-donald",
-      "description": "The Rams are moving closer to their trip to Australia for their season opener against the 49ers and it remains unclear if defensive tackle Aaron Donald is going to be on the field....",
-      "pubDate": "2026-09-07T21:58:36+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Seahawks S Nick Emmanwori remains limited, S Ty Okada DNP again on Monday",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-s-nick-emmanwori-remains-limited-s-ty-okada-dnp-again-on-monday",
       "description": "Seahawks safety Nick Emmanwori remained limited in Monday's practice....",
       "pubDate": "2026-09-07T21:40:29+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bill Belichick, to no surprise, has little to say about expanding UNC investigation",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bill-belichick-to-no-surprise-has-little-to-say-about-expanding-unc-investigation",
-      "description": "Despite the team's 1-0 record, a storm has been blowing through the North Carolina football program, with most of it playing out privately....",
-      "pubDate": "2026-09-07T21:18:52+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mike LaFleur says he feels \"good\" about Jeremiyah Love's chances for Week 1",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-lafleur-says-he-feels-good-about-jeremiyah-loves-chances-for-week-1",
-      "description": "Cardinals running back Jeremiyah Love injured his ankle in an Aug. 13 preseason game against the Raiders....",
-      "pubDate": "2026-09-07T21:18:13+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants cut Darius Slayton",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-cut-darius-slayton",
-      "description": "The veteran wide receiver, who signed a three-year, $36 million contract last season, is out....",
-      "pubDate": "2026-09-07T21:09:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ja'Marr Chase, Tee Higgins return to Bengals practice",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-tee-higgins-return-to-bengals-practice",
-      "description": "The Bengals didn't show concern about wide receivers Ja'Marr Chase and Tee Higgins missing Week 1 when they missed practice last week and the outlook continues to be good as they m...",
-      "pubDate": "2026-09-07T21:04:18+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Newcomer Zaire Franklin named a Packers captain, along with four repeat captains from 2025",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/newcomer-zaire-franklin-named-a-packers-captain-along-with-four-repeat-captains-from-2025",
-      "description": "It didn't take long for new Packers linebacker Zaire Franklin to establish himself as a team leader....",
-      "pubDate": "2026-09-07T21:02:23+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -1022,14 +1030,6 @@
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0907/dm_260907_CJ_Stroud_Wants_A_Big_Year_IA/dm_260907_CJ_Stroud_Wants_A_Big_Year_IA.jpg"
     },
     {
-      "title": "Christian Barmore returns to Patriots practice, TreVeyon Henderson remains out",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-barmore-returns-to-patriots-practice-treveyon-henderson-remains-out",
-      "description": "The Patriots listed three players as out of practice on Sunday and they got one of them back on the field Monday....",
-      "pubDate": "2026-09-07T20:27:46+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Mike McCarthy hopeful that Joey Porter will play Week 1",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-hopeful-that-joey-porter-will-play-week-1",
       "description": "The Steelers do not negotiate contract extensions once the season starts....",
@@ -1038,52 +1038,36 @@
       "thumbnail": ""
     },
     {
-      "title": "Lions sign LB Joe Bachie to active roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-sign-lb-joe-bachie-to-active-roster",
-      "description": "The Lions have filled one of the openings on their active roster....",
-      "pubDate": "2026-09-07T20:22:16+00:00",
+      "title": "Tua Tagovailoa's return to Pittsburgh puts extra pressure on Mike McCarthy's debut",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoas-return-to-pittsburgh-puts-extra-pressure-on-mike-mccarthys-debut",
+      "description": "The last time quarterback Tua Tagovailoa started a game in Pittsburgh, it became his last start with the Miami Dolphins....",
+      "pubDate": "2026-09-07T19:25:54+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "Bryce Underwood is Michigan's QB \"right now,\" but his job security isn't \"infinite\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bryce-underwood-is-michigans-qb-right-now-but-his-job-security-isnt-infinite",
-      "description": "Michigan quarterback Bryce Underwood saved the Wolverines' bacon with a Hail Mary mulligan....",
-      "pubDate": "2026-09-07T20:09:36+00:00",
+      "title": "Michael Penix: I'm close to 100 percent, but I'm not there yet",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/michael-penix-im-close-to-100-percent-but-im-not-there-yet",
+      "description": "Falcons head coach Kevin Stefanski named Tua Tagovailoa the team's starting quarterback for the first game of the season on Monday and that decision was not made over any objection...",
+      "pubDate": "2026-09-07T18:37:54+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "Steelers won't have full-season captains under Mike McCarthy",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-wont-have-full-season-captains-under-mike-mccarthy",
-      "description": "It's currently team captain season, with plenty of NFL franchises unveiling plenty of season-long captains....",
-      "pubDate": "2026-09-07T19:53:49+00:00",
+      "title": "Todd Monken: There could be a package of plays for QB Taylen Green",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-monken-there-could-be-a-package-of-plays-for-qb-taylen-green",
+      "description": "Deshaun Watson will be starting at quarterback for the Browns in Week 1, but head coach Todd Monken left the door open to the possibility that another quarterback could also see pl...",
+      "pubDate": "2026-09-07T18:29:02+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "Alec Pierce is expected to play for the Colts in Week 1",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alec-pierce-is-expected-to-play-for-the-colts-in-week-1",
-      "description": "Colts wide receiver Alec Pierce has been back at practice for a little over a week, but that's been enough time for the team to see what they needed from the wideout....",
-      "pubDate": "2026-09-07T19:52:08+00:00",
+      "title": "ESPN welcomes new season with a Mike Vrabel longread",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-welcomes-new-season-with-a-mike-vrabel-longread",
+      "description": "New article takes a close look at Vrabel's memorable offseason — and the team's effort to get past it....",
+      "pubDate": "2026-09-07T15:56:43+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Cowboys LG Tyler Smith to have thumb surgery, miss 4-6 weeks",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-lg-tyler-smith-to-have-thumb-surgery-miss-4-6-weeks",
-      "description": "The Cowboys are going to be missing a starting offensive lineman for the first chunk of the regular season....",
-      "pubDate": "2026-09-07T19:30:20+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants reach 2-year extensions with Jameis Winston, Jon Runyan",
-      "link": "https://www.espn.com/nfl/story/_/id/49852419/source-giants-qb-jameis-winston-reach-2-year-13m-extension",
-      "description": "The Giants and backup quarterback Jameis Winston have agreed to a two-year, $13 million contract extension, a source confirmed to ESPN amid multiple reports.",
-      "pubDate": "2026-09-07T16:48:15Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712467_1296x729_16-9.jpg"
     },
     {
       "title": "Niners' head coach Kyle Shanahan expects to be playing against Donald in week 1",
@@ -1102,20 +1086,20 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0903/nfl_stroud_16x9.jpg"
     },
     {
+      "title": "All 2026 quarterback competitions went to the older players",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/all-2026-quarterback-competitions-went-to-the-older-players",
+      "description": "Training camp opened with four, and potentially five, NFL quarterback competitions....",
+      "pubDate": "2026-09-07T12:52:13+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Kyle Shanahan \"a little confused\" playing Friday in Australia, which is Thursday in America",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-a-little-confused-playing-friday-in-australia-which-is-thursday-in-america",
       "description": "\"I feel like I'm in the future,\" Shanahan said on Sunday. \"I call today Tuesday. No, wait, sorry, I call today Wednesday.\"...",
       "pubDate": "2026-09-07T08:41:24+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Rams expect Puka Nacua, Alaric Jackson to play vs. 49ers",
-      "link": "https://www.espn.com/nfl/story/_/id/49853118/rams-expect-puka-nacua-alaric-jackson-play-vs-49ers",
-      "description": "The Rams do not expect wide receiver Puka Nacua and left tackle Alaric Jackson to be suspended for the season opener against the 49ers despite ongoing legal situations, head coach Sean McVay said.",
-      "pubDate": "2026-09-07T04:42:05Z",
-      "source": "ESPN NFL · Sarah Barshop",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712506_600x400_3-2.jpg"
     },
     {
       "title": "Rams WR Puka Nacua Expected To Play In Season Opener vs. 49ers",
@@ -1126,20 +1110,20 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/gettyimages-2287916338-scaled-e1788735682931.jpg"
     },
     {
-      "title": "Jameis Winston Reportedly Agrees To 2-Year Extension With New York Giants",
-      "link": "https://www.foxsports.com/stories/nfl/jameis-winston-reportedly-agrees-2-year-extension-new-york-giants",
-      "description": "The New York Giants reportedly signed Winston to a two-year, $13 million contract extension that keeps him with the organization through the 2028 season.",
-      "pubDate": "2026-09-06T21:01:57+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/gettyimages-2247029111-scaled-e1788726816532.jpg"
+      "title": "Under NFL rules, Michigan wouldn't have gotten a final play",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/under-nfl-rules-michigan-wouldnt-have-gotten-a-final-play",
+      "description": "Current college rules set the stage for a controversial one-second hair-splitting....",
+      "pubDate": "2026-09-06T15:41:13+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
-      "title": "NFL Commissioner Roger Goodell Receives Extension, Keeping Him In Job Through 2030",
-      "link": "https://www.foxsports.com/stories/nfl/nfl-commissioner-roger-goodell-receives-extension-keeping-him-job-through-2030",
-      "description": "As another NFL season kicks off, the league’s top executive isn’t going anywhere. NFL owners have officially locked in Roger Goodell with a multi-year contract extension on Sunday morning.",
-      "pubDate": "2026-09-06T18:30:11+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/nfl.jpg"
+      "title": "Hall of Fame overhauls voting process, reducing panel from 50 to 28",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/hall-of-fame-overhauls-voting-process-reducing-panel-from-50-to-28",
+      "description": "The Belichick snub has prompted major changes to the rules....",
+      "pubDate": "2026-09-04T17:24:26+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     }
   ]
 }
