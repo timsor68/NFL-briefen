@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-12T05:51:35.910141+00:00",
+  "generatedAt": "2026-09-12T09:54:49.925493+00:00",
   "nfl": [
+    {
+      "title": "Golden Nuggets: Now we wait on MRI news…",
+      "link": "https://sports.yahoo.com/articles/golden-nuggets-now-wait-mri-091500858.html",
+      "description": "Your daily San Francisco 49ers news for Saturday, September 12th, 2026...",
+      "pubDate": "2026-09-12T09:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Rutgers Second Half Push Comes Up Short in 28-21 Loss to Boston College",
       "link": "https://sports.yahoo.com/articles/rutgers-second-half-push-comes-042736419.html",
@@ -42,10 +50,26 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0911/r1715063_600x400_3-2.jpg"
     },
     {
+      "title": "Richard Sherman on 49ers defeating Rams: ‘Kyle Shanahan has Sean McVay’s number’",
+      "link": "https://sports.yahoo.com/articles/richard-sherman-49ers-defeating-rams-020904985.html",
+      "description": "Few believed the San Francisco 49ers would defeat the Super Bowl favorite Los Angeles Rams in Australia. But Richard Sherman always knew. “They were in the broadcast talking about ...",
+      "pubDate": "2026-09-12T02:09:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Green Bay&#39;s Week 1 injury report",
       "link": "https://sports.yahoo.com/articles/green-bays-week-1-injury-015116662.html",
       "description": "The Packers have posted their injury report for Week 1...",
       "pubDate": "2026-09-12T01:51:16+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Odell Beckham Jr. returns to vintage Giants form — in more ways than just his hair",
+      "link": "https://sports.yahoo.com/articles/odell-beckham-jr-returns-vintage-015007850.html",
+      "description": "Odell Beckham Jr. couldn’t have paid one of his Hollywood friends to write a better script for the start of his Giants sequel....",
+      "pubDate": "2026-09-12T01:50:07+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -376,33 +400,33 @@
       "pubDate": "2026-09-11T21:38:59+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Titans postpone Chris Johnson induction one day after he shared ALS struggles",
-      "link": "https://sports.yahoo.com/articles/titans-postpone-chris-johnson-induction-212215882.html",
-      "description": "The Titans announced Chris Johnson, who shared his ALS diagnosis in June, and his family are unable to travel to Nashville for his induction ceremony....",
-      "pubDate": "2026-09-11T21:22:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Perry: Why A.J. Brown&#39;s high ankle sprain is ‘major concern&#39; for Patriots",
-      "link": "https://sports.yahoo.com/articles/perry-why-j-browns-high-211028451.html",
-      "description": "The loss of A.J. Brown hurts in the present but could be a future problem, too....",
-      "pubDate": "2026-09-11T21:10:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Myles Garrett’s rebound is going to be hell for Jaxson Dart and Giants",
-      "link": "https://sports.yahoo.com/articles/myles-garrett-rebound-going-hell-210251615.html",
-      "description": "Myles Garrett is set to go nuclear against Giants after rough Rams debut...",
-      "pubDate": "2026-09-11T21:02:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "How to Watch Sooners vs. Wolverines: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-oklahoma-sooners-vs-michigan-wolverines-tv-channel-live-stream-2026-week-2",
+      "description": "Learn which TV channel or how to live stream the CFB Week 2 Oklahoma Sooners and Michigan Wolverines game.",
+      "pubDate": "2026-09-12T09:33:30+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/how-to-watch-oklahoma-sooners-vs-michigan-wolverines-horizontal.png"
+    },
+    {
+      "title": "Illinois vs. Duke Prediction, Odds, Pick For College Football Week 2",
+      "link": "https://www.foxsports.com/stories/college-football/illinois-vs-duke-prediction-odds-pick-college-football-week-2",
+      "description": "Get the latest Illinois vs. Duke odds, prediction and pick for College Football Week 2, plus kickoff time, TV channel and streaming information.",
+      "pubDate": "2026-09-12T07:30:44+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/2026-09-12-duke-vs-ill-prediction-1920x1080-1.png"
+    },
+    {
+      "title": "BYU vs. Arizona Prediction, Odds, Pick For College Football Week 2",
+      "link": "https://www.foxsports.com/stories/college-football/byu-vs-arizona-illinois-prediction-odds-pick-college-football-week-2",
+      "description": "Get the latest BYU vs. Arizona odds, prediction and pick for College Football Week 2, plus kickoff time, TV channel and streaming information.",
+      "pubDate": "2026-09-12T07:30:17+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/2026-09-12-ariz-vs-byu-prediction-1920x1080-1.png"
+    },
     {
       "title": "Boston College hosts Rutgers in annual Red Bandanna Game",
       "link": "https://www.espn.com/college-football/story/_/id/49908977/boston-college-hosts-rutgers-honors-welles-crowther-25th-anniversary-9-11-annual-red-bandanna-game",
@@ -778,33 +802,25 @@
       "pubDate": "2026-09-11T13:45:06Z",
       "source": "ESPN College Football · ESPN staff",
       "thumbnail": "https://a.espncdn.com/photo/2026/0910/r1714538_608x342_16-9.jpg"
-    },
-    {
-      "title": "Ohio State-Texas marks latest battle between Heisman hopefuls",
-      "link": "https://www.espn.com/college-football/story/_/id/49893302/ohio-state-texas-arch-manning-jeremiah-smith-julian-sayin-heisman",
-      "description": "Saturday will mark the fourth time in the past 10 seasons in which at least three players in the top 10 of the Heisman odds list squared off in August or September.",
-      "pubDate": "2026-09-11T13:28:20Z",
-      "source": "ESPN College Football · J.J. Post",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0910/r1714378_608x342_16-9.jpg"
-    },
-    {
-      "title": "No. 7 Miami crushes FCS Florida A&M 77-7 in home opener",
-      "link": "https://www.espn.com/college-football/story/_/id/49900347/no-7-miami-crushes-fcs-florida-home-opener-77-7",
-      "description": "Miami had 856 yards and 42 first downs in a 77-7 onslaught of Florida A&M in its home opener.",
-      "pubDate": "2026-09-11T13:06:41Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0911/r1714685_600x600_1-1.jpg"
-    },
-    {
-      "title": "How to Watch Missouri vs. Kansas: TV Channel, Live Stream, Time",
-      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-missouri-vs-kansas-tv-channel-live-stream-2026-week-2",
-      "description": "Learn which TV channel or how to live stream the CFB Week 2 Missouri Tigers and Kansas Jayhawks game.",
-      "pubDate": "2026-09-11T12:02:16+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/how-to-watch-missouri-tigers-vs-kansas-jayhawks-horizontal.png"
     }
   ],
   "insider": [
+    {
+      "title": "After arriving in David Montgomery trade, Juice Scruggs is Lions' starting center",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-arriving-in-david-montgomery-trade-juice-scruggs-is-lions-starting-center",
+      "description": "When the Lions traded running back David Montgomery to the Texans in March, Juice Scruggs was viewed as mostly a throw-in along with the fourth-round pick and seventh-round pick Ho...",
+      "pubDate": "2026-09-12T09:31:11+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ben Johnson sees Bears practicing at a championship level, unlike last year",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnson-sees-bears-practicing-at-a-championship-level-unlike-last-year",
+      "description": "A year ago, Johnson said his team's practice habits were not yet championship-caliber. He no longer thinks that....",
+      "pubDate": "2026-09-12T08:46:53+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Caleb Williams is one game from tying the franchise record for multiple TD passes",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-is-one-game-from-tying-the-franchise-record-for-multiple-td-passes",
@@ -1082,22 +1098,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-mcmillan-doubtful-for-bucs-but-emeka-egbuka-is-set-to-play",
       "description": "The Buccaneers will likely be down one wide receiver when they open the regular season against the Bengals on Sunday....",
       "pubDate": "2026-09-11T18:43:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Report: Kyle Shanahan quietly signed contract extension with 49ers",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-kyle-shanahan-quietly-signed-contract-extension-with-49ers",
-      "description": "On the heels of San Francisco's dominant victory over the Rams in Australia comes some news about their head coach....",
-      "pubDate": "2026-09-11T18:36:49+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "DL T.J. Sanders listed as questionable for the Bills",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dl-t-j-sanders-listed-as-questionable-for-the-bills",
-      "description": "The Bills have three players on their final injury report ahead of Sunday's game in Houston....",
-      "pubDate": "2026-09-11T18:32:00+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
