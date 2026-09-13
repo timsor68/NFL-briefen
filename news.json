@@ -1,408 +1,424 @@
 {
-  "generatedAt": "2026-09-13T11:57:14.192703+00:00",
+  "generatedAt": "2026-09-13T15:41:22.166421+00:00",
   "nfl": [
     {
-      "title": "Sources: Joey Porter Jr. unlikely to play amid uncertain Steelers future",
-      "link": "https://www.espn.com/nfl/story/_/id/49920002/sources-joey-porter-jr-unlikely-play-amid-uncertain-steelers-future",
-      "description": "Steelers CB Joey Porter Jr., who has been embroiled in a contract dispute all summer, is unlikely to play Sunday against the Falcons because of a back injury, sources told NFL Network and ESPN, and the possibility of a trade remains in play.",
-      "pubDate": "2026-09-13T11:52:52Z",
-      "source": "ESPN NFL · Ian Rapoport and Adam Schefter",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0912/r1544507_1296x729_16-9.jpg"
+      "title": "Peyton Manning: Defenses will have more to worry about playing Lamar, Ravens offense",
+      "link": "https://www.espn.com/video/clip/_/id/49928062/defenses-more-worry-playing-lamar-ravens-offense",
+      "description": "Peyton Manning: Defenses will have more to worry about playing Lamar, Ravens offense",
+      "pubDate": "2026-09-13T15:38:49Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0913/ss_20260913_112629773_3659564694/ss_20260913_112629773_3659564694.jpg"
     },
     {
       "title": "Fantasy football Week 1 inactives: Status for Jeanty, Love, Odunze and others",
       "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-49647166/fantasy-football-injuries-nfl-week-1-inactive-active",
       "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "pubDate": "2026-09-13T11:52:49Z",
+      "pubDate": "2026-09-13T15:36:19Z",
       "source": "ESPN NFL · Michael F. Florio",
       "thumbnail": "https://a.espncdn.com/photo/2026/0911/r1715055_576x324_16-9.jpg"
+    },
+    {
+      "title": "Ty Law's 'I scored a touchdown' story: Super Bowl XXXVI",
+      "link": "https://www.espn.com/video/clip/_/id/49906036/super-bowl-xxxvi",
+      "description": "Ty Law's 'I scored a touchdown' story: Super Bowl XXXVI",
+      "pubDate": "2026-09-13T15:35:16Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0911/dm_260911_Ty_Law_I_scored_a_touchdown/dm_260911_Ty_Law_I_scored_a_touchdown.jpg"
+    },
+    {
+      "title": "Sources: Rams' Myles Garrett to have knee surgery, headed to IR",
+      "link": "https://www.espn.com/nfl/story/_/id/49928065/sources-rams-myles-garrett-knee-surgery-headed-ir",
+      "description": "Rams star defensive end Myles Garrett will undergo knee surgery and is headed to injured reserve, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+      "pubDate": "2026-09-13T15:32:45Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0911/r1714767_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Rams Star Myles Garrett Reportedly Undergoes Knee Surgery, Will Go On IR",
+      "link": "https://www.foxsports.com/stories/nfl/rams-myles-garrett-surgery-injury-update",
+      "description": "Three days after their season-opening loss to the San Francisco 49ers, the Los Angeles Rams took another hit on Sunday.",
+      "pubDate": "2026-09-13T15:29:14+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/myles-garrettt-ir.jpg"
+    },
+    {
+      "title": "Malik Nabers remains questionable for Sunday Night Football vs. Cowboys, will &#39;let God tell me&#39; if he&#39;s ready to play Week 1",
+      "link": "https://sports.yahoo.com/nfl/article/malik-nabers-remains-questionable-for-sunday-night-football-vs-cowboys-will-let-god-tell-me-if-hes-ready-to-play-week-1-152550525.html",
+      "description": "Nabers hasn&#39;t played for the Giants since Week 4 of last year....",
+      "pubDate": "2026-09-13T15:25:50+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Myles Garrett injury: Rams star placed on IR after knee surgery",
+      "link": "https://sports.yahoo.com/articles/myles-garrett-injury-rams-star-152413359.html",
+      "description": "Rams pass rusher Myles Garrett is headed to injured reserve, per reports...",
+      "pubDate": "2026-09-13T15:24:13+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Myles Garrett to reportedly undergo knee surgery, miss at least four weeks after struggling in Week 1 loss",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/myles-garrett-to-reportedly-undergo-knee-surgery-miss-at-least-four-weeks-after-struggling-in-week-1-loss-152118056.html",
+      "description": "Myles Garrett will reportedly have arthroscopic surgery on his knee....",
+      "pubDate": "2026-09-13T15:21:18+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Olamide Zaccheaus will be the Falcons&#39; emergency option at QB",
+      "link": "https://sports.yahoo.com/articles/olamide-zaccheaus-falcons-emergency-option-152015631.html",
+      "description": "The Falcons kept four quarterbacks on their 53-man roster, but they still needed to get creative with their plans at the position for Sunday&#39;s game against the Steelers....",
+      "pubDate": "2026-09-13T15:20:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rams had shown interest in Maxx Crosby",
+      "link": "https://sports.yahoo.com/articles/rams-had-shown-interest-maxx-151957241.html",
+      "description": "Rams pursued Raiders&#39; Maxx Crosby after proposed deal with Baltimore fell through...",
+      "pubDate": "2026-09-13T15:19:57+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
+      "link": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
+      "description": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
+      "pubDate": "2026-09-13T15:19:56Z",
+      "source": "ESPN NFL · NFL Nation",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0912/r1715501_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Sources: Raiders believe Brock Bowers could play Week 2",
+      "link": "https://www.espn.com/nfl/story/_/id/49927883/sources-raiders-believe-brock-bowers-play-week-2",
+      "description": "The Raiders believe there is a realistic chance that Brock Bowers will miss only one game because of his knee injury, sources told ESPN.",
+      "pubDate": "2026-09-13T15:17:00Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1204/r1584739_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Rams reportedly tried to trade for Maxx Crosby after Ravens&#39; deal fell through",
+      "link": "https://sports.yahoo.com/nfl/article/rams-reportedly-tried-to-trade-for-maxx-crosby-after-ravens-deal-fell-through-151511804.html",
+      "description": "Maxx Crosby reportedly told teams he did not want to be traded....",
+      "pubDate": "2026-09-13T15:15:11+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins 2026 Week 1 mailbag: Defensive identity, offensive aggression, and running back depth",
+      "link": "https://sports.yahoo.com/articles/dolphins-2026-week-1-mailbag-151500603.html",
+      "description": "Answering your defense, offense, and running back questions as the Miami Dolphins prepare to face the Las Vegas Raiders....",
+      "pubDate": "2026-09-13T15:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ex-NFL QB on Joe Burrow&#39;s Bengals future: &#39;I think he wants to leave&#39;",
+      "link": "https://sports.yahoo.com/articles/ex-nfl-qb-joe-burrows-151117535.html",
+      "description": "Joe Burrow&#39;s future in Cincinnati is based on winning this season, Russell Wilson says. If not, the quarterback could have a new home come 2027....",
+      "pubDate": "2026-09-13T15:11:17+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles-Commanders Week 1 prediction",
+      "link": "https://sports.yahoo.com/articles/eagles-commanders-week-1-prediction-150920241.html",
+      "description": "﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿How are you feeling about this matchup?﻿﻿...",
+      "pubDate": "2026-09-13T15:09:20+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Position Grades: Temple",
+      "link": "https://sports.yahoo.com/articles/position-grades-temple-150400083.html",
+      "description": "So, how does one try to grade a game where the final result was fairly comfortable, but the beginning was shaky? Let’s find out! Quarterback: B+ Rocco Becht got off to a rough star...",
+      "pubDate": "2026-09-13T15:04:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL &quot;trying all sorts of legal maneuvers&quot; to get Josh Jacobs video",
+      "link": "https://sports.yahoo.com/articles/nfl-trying-sorts-legal-maneuvers-150332315.html",
+      "description": "Jacobs will remain on paid leave while NFL reviews the case....",
+      "pubDate": "2026-09-13T15:03:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL Odds Week 1: Lines, Spreads, Results For All 16 Games",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-1-lines-spreads-all-16-games",
+      "description": "Check out the early odds, spreads and totals for all 16 Week 1 games.",
+      "pubDate": "2026-09-13T15:03:19+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/artboard-1-14.jpg"
+    },
+    {
+      "title": "Alec Pierce expected to be on snap count vs. Ravens",
+      "link": "https://sports.yahoo.com/articles/alec-pierce-expected-snap-count-150311318.html",
+      "description": "Alec Pierce will play against Baltimore, but the Colts will limit his workload in Week 1....",
+      "pubDate": "2026-09-13T15:03:11+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rapoport: NFL attempting to get their hands on the Josh Jacobs video",
+      "link": "https://sports.yahoo.com/articles/rapoport-nfl-attempting-hands-josh-150241700.html",
+      "description": "Apparently, the NFL hasn’t seen the Josh Jacobs video, either...",
+      "pubDate": "2026-09-13T15:02:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Broncos Country highly confident heading into Monday Night Football",
+      "link": "https://sports.yahoo.com/articles/broncos-country-highly-confident-heading-150000659.html",
+      "description": "That’s the way to walk into Arrowhead....",
+      "pubDate": "2026-09-13T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2 Cowboys to buy, 2 to sell versus the Giants",
+      "link": "https://sports.yahoo.com/articles/2-cowboys-buy-2-sell-150000384.html",
+      "description": "Which 2 Cowboys do you think will have huge games?...",
+      "pubDate": "2026-09-13T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cleveland Browns vs. Jacksonville Jaguars Week 1 discussion",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-vs-jacksonville-jaguars-150000362.html",
+      "description": "The Cleveland Browns take on the Jacksonville Jaguars to kick off the regular season....",
+      "pubDate": "2026-09-13T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Joey Porter Jr. unlikely to play amid uncertain Steelers future",
+      "link": "https://www.espn.com/nfl/story/_/id/49920002/sources-joey-porter-jr-unlikely-play-amid-uncertain-steelers-future",
+      "description": "Steelers cornerback Joey Porter Jr., who has been embroiled in a contract dispute all summer, is unlikely to play against the Falcons because of a back injury, sources told NFL Network and ESPN, and the possibility of a trade remains in play.",
+      "pubDate": "2026-09-13T14:58:52Z",
+      "source": "ESPN NFL · Ian Rapoport and Adam Schefter",
+      "thumbnail": "https://a.espncdn.com/photo/2025/0912/r1544507_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Is Patrick Mahomes playing tomorrow? Chiefs QB Week 1 injury update",
+      "link": "https://sports.yahoo.com/articles/patrick-mahomes-playing-tomorrow-chiefs-144616329.html",
+      "description": "Is Patrick Mahomes active in Week 1? Kansas City Chiefs QB has been out since December with a knee injury....",
+      "pubDate": "2026-09-13T14:46:16+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: 49ers rookie De'Zhaun Stribling out at least 1 month",
+      "link": "https://www.espn.com/nfl/story/_/id/49926803/sources-49ers-rookie-dezhaun-stribling-least-1-month",
+      "description": "49ers rookie wide receiver De'Zhaun Stribling will miss at least a month because of an ankle injury, sources told NFL Network.",
+      "pubDate": "2026-09-13T14:46:01Z",
+      "source": "ESPN NFL · Ian Rapoport",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0913/r1715841_1296x729_16-9.jpg"
+    },
+    {
+      "title": "2026 NFL Week 1 odds, picks: Sunday schedule predictions",
+      "link": "https://sports.yahoo.com/articles/2026-nfl-week-1-odds-144401972.html",
+      "description": "Our Sunday winners picks for Week 1 of 2026 are here....",
+      "pubDate": "2026-09-13T14:44:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Raiders News: Raiders elevated TE Chris Myarick and WR Cody White from the practice squad.",
+      "link": "https://sports.yahoo.com/articles/raiders-news-raiders-elevated-te-143000097.html",
+      "description": "The Las Vegas Raiders elevated two players from the practice squad to help out on Sunday...",
+      "pubDate": "2026-09-13T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "How long is Sam Darnold out? Return date, injury update for Seahawks QB",
+      "link": "https://sports.yahoo.com/articles/long-sam-darnold-return-date-142920199.html",
+      "description": "The Seattle Seahawks passer is out with an injury he suffered in Week 1 vs. the New England Patriots. How long is he out?...",
+      "pubDate": "2026-09-13T14:29:20+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cooper Rush to reportedly start for Falcons in Week 1 after Tua Tagovailoa sustained injury in practice",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/cooper-rush-to-reportedly-start-for-falcons-in-week-1-after-tua-tagovailoa-sustained-injury-in-practice-142204482.html",
+      "description": "Cooper Rush will get a surprising start in Week 1 after Tua Tagovailoa got hurt....",
+      "pubDate": "2026-09-13T14:22:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Za&#39;Darius Smith likely to play in Week 1",
+      "link": "https://sports.yahoo.com/articles/zadarius-smith-likely-play-week-141804325.html",
+      "description": "Za&#39;Darius Smith expected to face Steelers barring setback...",
+      "pubDate": "2026-09-13T14:18:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Raiders vs. Dolphins: How to watch, TV schedule, streaming and more",
+      "link": "https://sports.yahoo.com/articles/raiders-vs-dolphins-watch-tv-141519493.html",
+      "description": "Kickoff is at 1:25 p.m. PT...",
+      "pubDate": "2026-09-13T14:15:19+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "De&#39;Zhaun Stribling to reportedly miss at least a month due to ankle injury after leaving 49ers&#39; Week 1 win over Rams",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/dezhaun-stribling-to-reportedly-miss-at-least-a-month-due-to-ankle-injury-after-leaving-49ers-week-1-win-over-rams-140939469.html",
+      "description": "De&#39;Zhaun Stribling will miss at least four games while recovering from an ankle issue....",
+      "pubDate": "2026-09-13T14:09:39+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chiefs rule out LT Josh Simmons and will start undrafted rookie Kahlil Benson at LT vs. the Broncos",
+      "link": "https://sports.yahoo.com/articles/chiefs-rule-lt-josh-simmons-140649573.html",
+      "description": "The Broncos will kick off their 2026 regular season on Monday Night vs. their division rivals, the Kansas City Chiefs, in Arrowhead. This game will feature the return of Chiefs qua...",
+      "pubDate": "2026-09-13T14:06:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kevin Stefanski told Cooper Rush: Get the ball out quickly to our playmakers",
+      "link": "https://sports.yahoo.com/articles/kevin-stefanski-told-cooper-rush-140618588.html",
+      "description": "Falcons head coach Kevin Stefanski says starting quarterback Cooper Rush&#39;s job today is simple: Put the ball in the hands of the Falcons&#39; playmakers, particularly running b...",
+      "pubDate": "2026-09-13T14:06:18+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "WCG Sunday Livestream: NFL Week 1 – Chicago Bears vs Carolina Panthers",
+      "link": "https://sports.yahoo.com/articles/wcg-sunday-livestream-nfl-week-140542255.html",
+      "description": "The Bears start their season against the Carolina Panthers, but you can start the season with us!...",
+      "pubDate": "2026-09-13T14:05:42+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Davante Adams must be better for Rams as NFL season continues",
+      "link": "https://sports.yahoo.com/articles/davante-adams-must-better-rams-140000322.html",
+      "description": "L.A.’s WR2 can’t be invisible as the season progresses....",
+      "pubDate": "2026-09-13T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions vs. Saints: Best odds, bets, and parlays",
+      "link": "https://sports.yahoo.com/articles/lions-vs-saints-best-odds-140000477.html",
+      "description": "Detroit Lions vs. New Orleans Saints Week 1 best player prop bets and parlays...",
+      "pubDate": "2026-09-13T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Understanding Terrion Arnold’s contract with the Seahawks",
+      "link": "https://sports.yahoo.com/articles/understanding-terrion-arnold-contract-seahawks-140000178.html",
+      "description": "Seattle signed Arnold to a one-year contract, but the mechanics of the RFA system effectively make it a two year deal....",
+      "pubDate": "2026-09-13T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Intriguing players to watch in Falcons vs. Steelers",
+      "link": "https://sports.yahoo.com/articles/intriguing-players-watch-falcons-vs-140000730.html",
+      "description": "Cooper Rush is among five intriguing matchups that will decide if the Falcons can pull off the Week 1 upset...",
+      "pubDate": "2026-09-13T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dolphins vs. Raiders: How to stream, TV channel, start time, odds, and more",
+      "link": "https://sports.yahoo.com/articles/dolphins-vs-raiders-stream-tv-140000948.html",
+      "description": "How can you watch the Dolphins at Raiders game? We have everything you need to know for today’s Week 1 contest....",
+      "pubDate": "2026-09-13T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints vs. Lions How to Watch: Game time, TV, streaming, radio, and odds",
+      "link": "https://sports.yahoo.com/articles/saints-vs-lions-watch-game-140000058.html",
+      "description": "The Saints face the Lions for their Week 1 matchup and this is your one-stop shop to find out how to follow the action!...",
+      "pubDate": "2026-09-13T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Will Caleb Downs make the Giants regret not drafting him?",
+      "link": "https://sports.yahoo.com/articles/caleb-downs-giants-regret-not-140000716.html",
+      "description": "Read the answer in this week’s ‘5 questions’ segment....",
+      "pubDate": "2026-09-13T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers’ rookie De’Zhaun Stribling to miss ‘at least a month’ with deltoid sprain in ankle",
+      "link": "https://sports.yahoo.com/articles/49ers-rookie-zhaun-stribling-miss-135749100.html",
+      "description": "The timeline for De’Zhaun Stribling remains unclear...",
+      "pubDate": "2026-09-13T13:57:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Source: Jaguars, Parker Washington unlikely to agree to deal",
+      "link": "https://www.espn.com/nfl/story/_/id/49920927/source-jaguars-parker-washington-unlikely-agree-deal",
+      "description": "The Jaguars and Parker Washington are unlikely to agree to a contract extension before the start of the season, a source told NFL Network.",
+      "pubDate": "2026-09-13T13:53:39Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0909/r1713780_1296x729_16-9.jpg"
+    },
+    {
+      "title": "AFC North: 2 contract dramas brewing, including a trade rumored for a top defender",
+      "link": "https://sports.yahoo.com/articles/afc-north-2-contract-dramas-134913756.html",
+      "description": "Trade rumors ramping up before most Week 1 games? Not about the Cleveland Browns? 2 AFC North contract dramas brewing...",
+      "pubDate": "2026-09-13T13:49:13+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Sources: Maxx Crosby shut down Rams trade talks after failed Ravens deal",
       "link": "https://www.espn.com/nfl/story/_/id/49921824/sources-maxx-crosby-shut-rams-trade-talks-failed-ravens-deal",
       "description": "The Rams pursued Maxx Crosby shortly after his trade from the Raiders to the Ravens fell through, sources told NFL Network.",
-      "pubDate": "2026-09-13T11:52:43Z",
+      "pubDate": "2026-09-13T13:36:45Z",
       "source": "ESPN NFL · Ian Rapoport",
       "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694346_1296x729_16-9.jpg"
     },
     {
-      "title": "How to Watch Cowboys vs. Giants: TV Channel, Live Stream, Time",
-      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-dallas-cowboys-vs-new-york-giants-tv-channel-live-stream-september-13-2026",
-      "description": "Learn which TV channel or how to live stream the NFL Week 1 Dallas Cowboys and New York Giants game.",
-      "pubDate": "2026-09-13T11:50:48+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/6be666880eaf373bf7891f384101e76446715ad035b1fbf731c2c8145831e714.png"
+      "title": "Falcons QB Rush still slated to start despite back spasms",
+      "link": "https://www.espn.com/nfl/story/_/id/49918004/falcons-qb-rush-slated-start-back-spasms",
+      "description": "Falcons quarterback Cooper Rush experienced back spasms Saturday, but he will still start Sunday against the Pittsburgh Steelers, the team announced.",
+      "pubDate": "2026-09-13T13:26:28Z",
+      "source": "ESPN NFL · Marc Raimondi",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0729/r1695147_600x400_3-2.jpg"
     },
     {
-      "title": "Jaxson Dart holds Giants’ future in his hands, wants to do ‘something special’",
-      "link": "https://sports.yahoo.com/articles/jaxson-dart-holds-giants-future-114302935.html",
-      "description": "Dart is set to make first Week 1 start of his NFL career on Sunday vs. Cowboys....",
-      "pubDate": "2026-09-13T11:43:02+00:00",
+      "title": "Week 1 NFL schedule, inactives, live updates: Cardinals&#39; Jeremiyah Love expected to play; Steelers CB Joey Porter Jr. unlikely to go Week 1",
+      "link": "https://sports.yahoo.com/nfl/live/week-1-nfl-scores-news-live-updates-schedule-highlights-stats-inactives-where-to-watch-130749440.html",
+      "description": "Welcome to the first NFL Sunday of the 2026 season....",
+      "pubDate": "2026-09-13T13:07:49+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Over-confident Eagles fans expect easy win in season opener vs Commanders - Daily Slop",
-      "link": "https://sports.yahoo.com/articles/over-confident-eagles-fans-expect-113357026.html",
-      "description": "Philly fans think Jayden Daniels stinks; Commanders defense is inept; Washington’s receivers are old; JCM can’t run the ball, and Dan Quinn & coordinators suck...",
-      "pubDate": "2026-09-13T11:33:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Betting Cowboys-Giants on 'SNF': Dallas a slight favorite on the road",
-      "link": "https://www.espn.com/espn/betting/story/_/id/49489682/nfl-week-1-odds-best-betting-tips-picks-dallas-cowboys-new-york-giants",
-      "description": "Odds, bets and analysis to help you bet Cowboys-Giants on \"Sunday Night Football.\"",
-      "pubDate": "2026-09-13T11:32:59Z",
-      "source": "ESPN NFL · Seth Walder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0322/r1632099_608x342_16-9.jpg"
-    },
-    {
-      "title": "Miami Dolphins season 2026: Pattern recognition the key to success",
-      "link": "https://sports.yahoo.com/articles/miami-dolphins-season-2026-pattern-113000501.html",
-      "description": "Finding the patterns will lead to success....",
-      "pubDate": "2026-09-13T11:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles vs. Commanders Week 1 game information",
-      "link": "https://sports.yahoo.com/articles/eagles-vs-commanders-week-1-110807946.html",
-      "description": "Learn more about this NFC East matchup to open the 2026 NFL season....",
-      "pubDate": "2026-09-13T11:08:07+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Young, unproven and in charge of NFL offenses, these 30-somethings are calling shots",
-      "link": "https://sports.yahoo.com/articles/young-unproven-charge-nfl-offenses-110100180.html",
-      "description": "Declan Doyle (Ravens), David Blough (Commanders), Davis Webb (Broncos) and Sean Mannion (Eagles) all are first-time play-callers in their early-30s....",
-      "pubDate": "2026-09-13T11:01:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys news: Dallas signs practice squad RB after Malik Davis injury",
-      "link": "https://sports.yahoo.com/articles/cowboys-news-dallas-signs-practice-110000819.html",
-      "description": "Here is today’s Cowboys news....",
-      "pubDate": "2026-09-13T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Detroit Lions updated depth chart: Week 1 vs. Saints",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-updated-depth-chart-110000918.html",
-      "description": "An updated look at the 2026 Detroit Lions’ depth chart ahead of their Week 1 game vs. the New Orleans Saints....",
-      "pubDate": "2026-09-13T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Where to Watch: Colts host Ravens for regular season opener",
-      "link": "https://sports.yahoo.com/articles/where-watch-colts-host-ravens-110000652.html",
-      "description": "Everything you need to know to successfully watch Colts vs. Ravens for Week 1!...",
-      "pubDate": "2026-09-13T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "New York Jets Flight Connections 09/13/26",
-      "link": "https://sports.yahoo.com/articles/york-jets-flight-connections-09-110000115.html",
-      "description": "Happy game day, Jets fans! The 2026 regular season officially gets started today at 1:00 pm Eastern in Nashville as the Jets face former coach Robert Saleh and the Tennessee Titans...",
-      "pubDate": "2026-09-13T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos at Chiefs: The No Bull Week 1 Preview",
-      "link": "https://sports.yahoo.com/articles/broncos-chiefs-no-bull-week-110000576.html",
-      "description": "Denver Broncos at Kansas City Chiefs week 1. No Bull thoughts on what the game means, advantages, and keys to the game....",
-      "pubDate": "2026-09-13T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Chicago Bears are trying to defy history",
-      "link": "https://sports.yahoo.com/articles/chicago-bears-trying-defy-history-110000244.html",
-      "description": "Ben Johnson and Caleb Williams have their eyes set on winning a championship. It will require a historic turnaround....",
-      "pubDate": "2026-09-13T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jaguars vs Browns: How to Watch Week 1",
-      "link": "https://sports.yahoo.com/articles/jaguars-vs-browns-watch-week-110000935.html",
-      "description": "Game time, TV/radio schedule, betting odds, and more for Jaguars vs Browns in Week 1....",
-      "pubDate": "2026-09-13T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "The Cowboys are legitimate Super Bowl contenders. For real, this time | Opinion",
-      "link": "https://sports.yahoo.com/articles/cowboys-legitimate-super-bowl-contenders-105522524.html",
-      "description": "The Cowboys always get attention as potential Super Bowl contenders, but they really will be in 2026. Here&#39;s why....",
-      "pubDate": "2026-09-13T10:55:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sunday Patriots Notes: Week 1 loss won’t define season",
-      "link": "https://sports.yahoo.com/articles/sunday-patriots-notes-week-1-104641281.html",
-      "description": "Notes and thoughts about the Patriots’ Week 1 loss, A.J. Brown landing on IR, and more....",
-      "pubDate": "2026-09-13T10:46:41+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "&#39;He&#39;s got a gift&#39;: JJ Watt&#39;s CBS rise continues with Tony Romo on leave",
-      "link": "https://sports.yahoo.com/articles/hes-got-gift-jj-watts-104540856.html",
-      "description": "JJ Watt was a dominant defensive players in the NFL for a decade. His next challenge is replacing Tony Romo is the NFL on CBS booth next to Jim Nantz....",
-      "pubDate": "2026-09-13T10:45:40+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Baker Mayfield's contract means the QB market could burst",
-      "link": "https://www.espn.com/nfl/story/_/id/49915176/quarterback-contract-market-baker-mayfield-extensions",
-      "description": "Baker Mayfield just got $55 million per year in new money -- which is telling about where the QB market is headed. That's great news for 11 other passers ready for big deals.",
-      "pubDate": "2026-09-13T10:39:32Z",
-      "source": "ESPN NFL · Dan Graziano",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0912/r1715407_608x342_16-9.jpg"
-    },
-    {
-      "title": "Green Bay Packers vs. Minnesota Vikings: How to watch, start time, where to stream free and more",
-      "link": "https://sports.yahoo.com/nfl/article/green-bay-packers-vs-minnesota-vikings-how-to-watch-start-time-where-to-stream-free-and-more-101500563.html",
-      "description": "Find out how to watch the Packers vs. Vikings NFL game this week....",
-      "pubDate": "2026-09-13T10:35:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How many Giants players were on the Ravens last year? Full list",
-      "link": "https://sports.yahoo.com/articles/many-giants-players-were-ravens-103100106.html",
-      "description": "New York Giants head coach John Harbaugh left the Baltimore Ravens in the offseason, but he brought five players with him to his new team....",
-      "pubDate": "2026-09-13T10:31:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Which games are Fox, CBS broadcasting? NFL Week 1 coverage maps",
-      "link": "https://sports.yahoo.com/articles/games-fox-cbs-broadcasting-nfl-103051149.html",
-      "description": "The 2026 NFL season is here. Which games will be broadcast in your region for Week 1? Here are the coverage maps for Sunday&#39;s action....",
-      "pubDate": "2026-09-13T10:30:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cleveland Browns news: Welcome back NFL. We’ve missed you!",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-welcome-back-103000912.html",
-      "description": "The latest Cleveland Browns news and notes from around the NFL in the September 13 edition of the Saturday Dawg Chow....",
-      "pubDate": "2026-09-13T10:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dan Campbell clocks out at Applebee&#39;s to focus solely on Lions in 2026",
-      "link": "https://sports.yahoo.com/articles/dan-campbell-clocks-applebees-focus-101716112.html",
-      "description": "Dan Campbell won&#39;t be working for Applebee&#39;s in 2026, ending his ad campaign. The coach hopes it sends his Lions team a message....",
-      "pubDate": "2026-09-13T10:17:16+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sunday Night Football: How to watch the Dallas Cowboys vs. New York Giants game tonight",
-      "link": "https://sports.yahoo.com/nfl/article/sunday-night-football-how-to-watch-the-dallas-cowboys-vs-new-york-giants-game-tonight-101500272.html",
-      "description": "How to watch this week&#39;s Sunday Night Football clash between the Cowboys and the Giants....",
-      "pubDate": "2026-09-13T10:15:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Atlanta Falcons vs. Pittsburgh Steelers: How to watch the NFL Week 1 game, channel, streaming info and more",
-      "link": "https://sports.yahoo.com/nfl/article/atlanta-falcons-vs-pittsburgh-steelers-how-to-watch-the-nfl-week-1-game-channel-streaming-info-and-more-111500233.html",
-      "description": "How to watch the NFL season opener between the Steelers and the Falcons....",
-      "pubDate": "2026-09-13T10:15:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bengals vs. Buccaneers gameday news and pregame discussion",
-      "link": "https://sports.yahoo.com/articles/bengals-vs-buccaneers-gameday-news-101100139.html",
-      "description": "Cincinnati kicks off against the Buccaneers at 1 pm ET....",
-      "pubDate": "2026-09-13T10:11:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aaron Rodgers&#39; favorite target? Michael Pittman Jr. debut. Things to watch in Steelers opener",
-      "link": "https://sports.yahoo.com/articles/aaron-rodgers-favorite-target-michael-100438512.html",
-      "description": "Fans will be watching the expected debut of Michael Pittman Jr. closely after he missed most of the preseason with an injury....",
-      "pubDate": "2026-09-13T10:04:38+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers predictions: Big years for DK Metcalf, Derrick Harmon - but no playoff win",
-      "link": "https://sports.yahoo.com/articles/steelers-predictions-big-years-dk-100430308.html",
-      "description": "The Steelers have possibly their most complete roster in several years, but lack the obvious star power to become a serious Super Bowl contender....",
-      "pubDate": "2026-09-13T10:04:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is Malik Nabers playing vs. the Cowboys? Latest status update for Giants WR",
-      "link": "https://sports.yahoo.com/articles/malik-nabers-playing-vs-cowboys-100427516.html",
-      "description": "The Giants are returning to the field for a divisional clash vs. the Dallas Cowboys. Will they have their star wide receiver on the field?...",
-      "pubDate": "2026-09-13T10:04:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What NFL games are on today? Week 1 TV channels, Sunday schedule",
-      "link": "https://sports.yahoo.com/articles/nfl-games-today-week-1-100412871.html",
-      "description": "The first Sunday of the NFL regular season has arrived. Here&#39;s a look at the full list of games and how to watch....",
-      "pubDate": "2026-09-13T10:04:12+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What channel is the Giants vs Cowboys game on tonight? Start time, schedule, streaming",
-      "link": "https://sports.yahoo.com/articles/channel-giants-vs-cowboys-game-100404251.html",
-      "description": "The Giants and Cowboys will play on &quot;Sunday Night Football&quot; in Week 1. Here&#39;s how you can watch the action....",
-      "pubDate": "2026-09-13T10:04:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers vs Falcons live updates: TV info, live stream, odds for NFL Week 1 game",
-      "link": "https://sports.yahoo.com/articles/steelers-vs-falcons-live-updates-100053404.html",
-      "description": "Aaron Rodgers will begin what he says will be his final NFL season as coach Mike McCarthy makes his regular season debut for his hometown team....",
-      "pubDate": "2026-09-13T10:00:53+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots face uphill battle without A.J. Brown for four weeks",
-      "link": "https://www.espn.com/nfl/story/_/id/49907771/new-england-patriots-receivers-replace-aj-brown",
-      "description": "Brown suffered a high ankle sprain in Week 1 that will keep him out of the lineup. Who will need to step up for the Patriots in his absence?",
-      "pubDate": "2026-09-13T10:00:11Z",
-      "source": "ESPN NFL · Mike Reiss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0911/r1715123_608x342_16-9.jpg"
-    },
-    {
-      "title": "Jets hope to end historic interception drought vs. Titans",
-      "link": "https://www.espn.com/nfl/story/_/id/49905349/new-york-jets-historical-interception-drought-lingers",
-      "description": "New York is eager to end drought, but it's also ready to see what No. 2 pick David Bailey will do in his debut.",
-      "pubDate": "2026-09-13T10:00:02Z",
-      "source": "ESPN NFL · Rich Cimini",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0807/r1698816_608x342_16-9.jpg"
-    },
-    {
-      "title": "Broncos captains show what leadership means in Denver",
-      "link": "https://sports.yahoo.com/articles/broncos-captains-show-leadership-means-100000833.html",
-      "description": "Bo Nix, Wil Lutz and Courtland Sutton shared what being named a Broncos captain means to them as the season starts....",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "News Analysis: Myles Garrett&#39;s knee injury a warning sign for suddenly fragile Rams defense",
-      "link": "https://sports.yahoo.com/articles/news-analysis-myles-garretts-knee-100000866.html",
-      "description": "Uncertainty surrounding Myles Garrett&#39;s knee injury threatens to transform what was expected to be a ferocious Rams defense into something much more tame....",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cleveland Browns vs. Jacksonville Jaguars: How to watch, TV schedule, history, betting odds and more",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-vs-jacksonville-jaguars-100000739.html",
-      "description": "Which cities get to watch the game on TV? What uniforms will the Browns wear? And a little bit of history between the two teams....",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers-Vikings Week 1 Game Primer: Kickoff time, how to watch, odds, & more",
-      "link": "https://sports.yahoo.com/articles/packers-vikings-week-1-game-100000522.html",
-      "description": "It’s time to get ready for the season opener....",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jets vs. Titans: Game Time, TV, Announcers, Online Streaming, and More",
-      "link": "https://sports.yahoo.com/articles/jets-vs-titans-game-time-100000027.html",
-      "description": "Both CBS and FOX will have a Week 1 doubleheader. If you live in the New York area, you will see: Jets at Titans early on CBS Falcons at Steelers early on FOX Packers at Vikings la...",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Plaschke: Reaction to columnist&#39;s latest crash is painfully predictable",
-      "link": "https://sports.yahoo.com/articles/plaschke-reaction-columnists-latest-crash-100000866.html",
-      "description": "The Times columnist writes about readers&#39; reactions to the Rams losing their season opener after he predicted they&#39;d go unbeaten in winning the Super Bowl....",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills at Texans: How to watch, TV schedule, and more",
-      "link": "https://sports.yahoo.com/articles/bills-texans-watch-tv-schedule-100000566.html",
-      "description": "Wanna watch a Texans game? We can help you with that....",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears vs. Panthers: How to watch and listen, previews, odds, and more",
-      "link": "https://sports.yahoo.com/articles/bears-vs-panthers-watch-listen-100000292.html",
-      "description": "Here’s all you need to know about the Chicago Bears vs the Carolina Panthers!...",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants vs. Cowboys: Game time, TV channel, streaming, odds",
-      "link": "https://sports.yahoo.com/articles/giants-vs-cowboys-game-time-100000238.html",
-      "description": "Get ready to settle in for Sunday Night Football....",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How to watch Lions vs. Saints: TV, streaming, coverage map",
-      "link": "https://sports.yahoo.com/articles/watch-lions-vs-saints-tv-100000169.html",
-      "description": "How to watch Detroit Lions vs. New Orleans Saints on TV, streaming, and coverage maps for Week 1....",
-      "pubDate": "2026-09-13T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Watch Jets vs. Titans: TV Channel, Live Stream, Time",
-      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-new-york-jets-vs-tennessee-titans-tv-channel-live-stream-september-13-2026",
-      "description": "Learn which TV channel or how to live stream the NFL Week 1 New York Jets and Tennessee Titans game.",
-      "pubDate": "2026-09-13T09:53:43+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/4582bf9106d5a02131d9dba263a1d937e321bf031f7896d2f09054a78cbb48af.png"
-    },
-    {
-      "title": "How to Watch Buccaneers vs. Bengals: TV Channel, Live Stream, Time",
-      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-tampa-bay-buccaneers-vs-cincinnati-bengals-tv-channel-live-stream-september-13-2026",
-      "description": "Learn which TV channel or how to live stream the NFL Week 1 Tampa Bay Buccaneers and Cincinnati Bengals game.",
-      "pubDate": "2026-09-13T09:46:58+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/f26736848970d3754d608b9dcef76aa5564e706ba67a5808f2e752bcee44d611.png"
-    },
-    {
-      "title": "How to Watch Falcons vs. Steelers: TV Channel, Live Stream, Time",
-      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-atlanta-falcons-vs-pittsburgh-steelers-tv-channel-live-stream-september-13-2026",
-      "description": "Learn which TV channel or how to live stream the NFL Week 1 Atlanta Falcons and Pittsburgh Steelers game.",
-      "pubDate": "2026-09-13T09:40:06+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/d398eedb111622b2fbeee39d3ba8f3b2fd9f721afb5c6a78e59ae1227159396a.png"
     }
   ],
   "ncaa": [
+    {
+      "title": "No. 1 Ohio State sees 20-point lead evaporate in 4th quarter",
+      "link": "https://www.espn.com/college-football/story/_/id/49924284/no-1-ohio-state-sees-20-point-lead-evaporate-4th-quarter",
+      "description": "No. 1 Ohio State controlled the game for more than three quarters but quickly unraveled in the fourth, dropping a 24-23 decision to No. 4 Texas. \"This one hurts,\" coach Ryan Day told reporters.",
+      "pubDate": "2026-09-13T13:50:06Z",
+      "source": "ESPN College Football · Jake Trotter",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0913/r1715761_600x600_1-1.jpg"
+    },
+    {
+      "title": "2026 college football SP+ rankings for all 138 FBS teams",
+      "link": "https://www.espn.com/college-football/story/_/id/49868647/2026-college-football-sp+-rankings-all-138-fbs-teams",
+      "description": "The updated SP+ rankings, plus strength of schedule and résumé SP+, after this weekend's results.",
+      "pubDate": "2026-09-13T13:43:23Z",
+      "source": "ESPN College Football · Bill Connelly",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712083_608x342_16-9.jpg"
+    },
     {
       "title": "Week 2's best moments: Arch's defining moment, Michigan's revival and Oregon's downfall",
       "link": "https://www.espn.com/college-football/story/_/page/gamedayfinal091226/2026-college-football-week-2-highlights-top-plays-games-takeaways",
@@ -514,14 +530,6 @@
       "pubDate": "2026-09-13T06:11:29Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858219.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 1 Ohio State sees 20-point lead evaporate in 4th quarter",
-      "link": "https://www.espn.com/college-football/story/_/id/49924284/no-1-ohio-state-sees-20-point-lead-evaporate-4th-quarter",
-      "description": "The No. 1 Ohio State Buckeyes controlled the game for more than three quarters, but quickly unraveled in the fourth, dropping a 24-23 decision to No. 4 Texas on Saturday night, with coach Ryan Day telling reporters afterward that \"this one hurts.\"",
-      "pubDate": "2026-09-13T05:49:53Z",
-      "source": "ESPN College Football · Jake Trotter",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0913/r1715761_600x600_1-1.jpg"
     },
     {
       "title": "Highlight: Florida's Vernell Brown III says he hit 'flow state' in three-TD game",
@@ -644,14 +652,6 @@
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856784.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Jaden Craig leads TCU to bounceback win over Grambling State 63-7",
-      "link": "http://www.espn.com/ncf/recap?gameId=401856789",
-      "description": "— Jaden Craig completed 24 of 31 passes for a career-high 391 yards and four touchdowns and TCU rebounded from its opening loss to North Carolina and beat Grambling State 63-7 on Saturday night.",
-      "pubDate": "2026-09-13T05:03:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856789.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
       "title": "Swain's 2 punt return TDs set school career record, lead South Carolina to 45-9 win over FCS Towson",
       "link": "http://www.espn.com/ncf/recap?gameId=401856680",
       "description": "— Vicari Swain will likely always remember his 22nd birthday. It was the day he returned two punts for touchdowns to become South Carolina's career record holder with five in the Gamecocks' 45-9 victory over Towson on Saturday night.",
@@ -732,9 +732,9 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/cfb-16x9-10.jpg"
     },
     {
-      "title": "2026 CFP Title Odds: Texas Surges After Historic Comeback, Oregon Plummets",
+      "title": "2026 CFP Title Odds: Texas Surges After Historic Comeback; Oregon Plummets",
       "link": "https://www.foxsports.com/stories/college-football/2026-cfp-title-odds",
-      "description": "College football Week 2 provided a major shakeup to the oddsboard. Check out the updated national championship odds.",
+      "description": "College football Week 2 provided a major shake-up to the oddsboard. Check out the updated national championship odds.",
       "pubDate": "2026-09-13T04:13:56+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/08/cfp-odds.jpg"
@@ -806,36 +806,188 @@
   ],
   "insider": [
     {
-      "title": "Sources: Joey Porter Jr. unlikely to play amid uncertain Steelers future",
-      "link": "https://www.espn.com/nfl/story/_/id/49920002/sources-joey-porter-jr-unlikely-play-amid-uncertain-steelers-future",
-      "description": "Steelers CB Joey Porter Jr., who has been embroiled in a contract dispute all summer, is unlikely to play Sunday against the Falcons because of a back injury, sources told NFL Network and ESPN, and the possibility of a trade remains in play.",
-      "pubDate": "2026-09-13T11:52:52Z",
-      "source": "ESPN NFL · Ian Rapoport and Adam Schefter",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0912/r1544507_1296x729_16-9.jpg"
+      "title": "Joey Porter is inactive for the Steelers",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-is-inactive-for-the-steelers",
+      "description": "Porter has a back injury, but his desire for a contract extension also looms over the situation in Pittsburgh....",
+      "pubDate": "2026-09-13T15:39:50+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Fantasy football Week 1 inactives: Status for Jeanty, Love, Odunze and others",
       "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-49647166/fantasy-football-injuries-nfl-week-1-inactive-active",
       "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "pubDate": "2026-09-13T11:52:49Z",
+      "pubDate": "2026-09-13T15:36:19Z",
       "source": "ESPN NFL · Michael F. Florio",
       "thumbnail": "https://a.espncdn.com/photo/2026/0911/r1715055_576x324_16-9.jpg"
+    },
+    {
+      "title": "Sources: Rams' Myles Garrett to have knee surgery, headed to IR",
+      "link": "https://www.espn.com/nfl/story/_/id/49928065/sources-rams-myles-garrett-knee-surgery-headed-ir",
+      "description": "Rams star defensive end Myles Garrett will undergo knee surgery and is headed to injured reserve, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
+      "pubDate": "2026-09-13T15:32:45Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0911/r1714767_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Rams Star Myles Garrett Reportedly Undergoes Knee Surgery, Will Go On IR",
+      "link": "https://www.foxsports.com/stories/nfl/rams-myles-garrett-surgery-injury-update",
+      "description": "Three days after their season-opening loss to the San Francisco 49ers, the Los Angeles Rams took another hit on Sunday.",
+      "pubDate": "2026-09-13T15:29:14+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/myles-garrettt-ir.jpg"
+    },
+    {
+      "title": "Myles Garrett will have knee surgery, head to IR",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-will-have-knee-surgery-head-to-ir",
+      "description": "The dream team has encountered an unexpected detour....",
+      "pubDate": "2026-09-13T15:29:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Olamide Zaccheaus will be the Falcons' emergency option at QB",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/olamide-zaccheaus-will-be-the-falcons-emergency-option-at-qb",
+      "description": "The Falcons kept four quarterbacks on their 53-man roster, but they still needed to get creative with their plans at the position for Sunday's game against the Steelers....",
+      "pubDate": "2026-09-13T15:20:15+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cooper Rush has had a wild ride in 2026",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cooper-rush-has-had-a-wild-ride-in-2026",
+      "description": "Cooper Rush has had a wild ride in 2026....",
+      "pubDate": "2026-09-13T15:20:05+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Raiders believe Brock Bowers could play Week 2",
+      "link": "https://www.espn.com/nfl/story/_/id/49927883/sources-raiders-believe-brock-bowers-play-week-2",
+      "description": "The Raiders believe there is a realistic chance that Brock Bowers will miss only one game because of his knee injury, sources told ESPN.",
+      "pubDate": "2026-09-13T15:17:00Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1204/r1584739_1296x729_16-9.jpg"
+    },
+    {
+      "title": "NFL \"trying all sorts of legal maneuvers\" to get Josh Jacobs video",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-trying-all-sorts-of-legal-maneuvers-to-get-josh-jacobs-video",
+      "description": "Jacobs will remain on paid leave while NFL reviews the case....",
+      "pubDate": "2026-09-13T15:03:32+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Joey Porter Jr. unlikely to play amid uncertain Steelers future",
+      "link": "https://www.espn.com/nfl/story/_/id/49920002/sources-joey-porter-jr-unlikely-play-amid-uncertain-steelers-future",
+      "description": "Steelers cornerback Joey Porter Jr., who has been embroiled in a contract dispute all summer, is unlikely to play against the Falcons because of a back injury, sources told NFL Network and ESPN, and the possibility of a trade remains in play.",
+      "pubDate": "2026-09-13T14:58:52Z",
+      "source": "ESPN NFL · Ian Rapoport and Adam Schefter",
+      "thumbnail": "https://a.espncdn.com/photo/2025/0912/r1544507_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Sources: 49ers rookie De'Zhaun Stribling out at least 1 month",
+      "link": "https://www.espn.com/nfl/story/_/id/49926803/sources-49ers-rookie-dezhaun-stribling-least-1-month",
+      "description": "49ers rookie wide receiver De'Zhaun Stribling will miss at least a month because of an ankle injury, sources told NFL Network.",
+      "pubDate": "2026-09-13T14:46:01Z",
+      "source": "ESPN NFL · Ian Rapoport",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0913/r1715841_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Kevin Stefanski told Cooper Rush: Get the ball out quickly to our playmakers",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-stefanski-told-cooper-rush-get-the-ball-out-quickly-to-our-playmakers",
+      "description": "Falcons head coach Kevin Stefanski says starting quarterback Cooper Rush's job today is simple: Put the ball in the hands of the Falcons' playmakers, particularly running back Bija...",
+      "pubDate": "2026-09-13T14:06:18+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "ESPN offers a lame excuse for giving Ted Cruz unopposed airtime",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-offers-a-lame-excuse-for-giving-ted-cruz-unopposed-airtime",
+      "description": "We interrupt our ongoing coverage of the first Sunday of the NFL regular season for one last item regarding Saturday's developments in the NFL's unofficial farm system, originating...",
+      "pubDate": "2026-09-13T13:57:26+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Source: Jaguars, Parker Washington unlikely to agree to deal",
+      "link": "https://www.espn.com/nfl/story/_/id/49920927/source-jaguars-parker-washington-unlikely-agree-deal",
+      "description": "The Jaguars and Parker Washington are unlikely to agree to a contract extension before the start of the season, a source told NFL Network.",
+      "pubDate": "2026-09-13T13:53:39Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0909/r1713780_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Report: 49ers WR De'Zhaun Stribling to miss at least a month with an ankle injury",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-49ers-wr-dezhaun-stribling-to-miss-at-least-a-month-with-an-ankle-injury",
+      "description": "The 49ers lost wide receiver De'Zhaun Stribling to an ankle injury on their way to a win over the Rams in Melbourne, Australia on Thursday and it will reportedly be a bit of time b...",
+      "pubDate": "2026-09-13T13:40:28+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Sources: Maxx Crosby shut down Rams trade talks after failed Ravens deal",
       "link": "https://www.espn.com/nfl/story/_/id/49921824/sources-maxx-crosby-shut-rams-trade-talks-failed-ravens-deal",
       "description": "The Rams pursued Maxx Crosby shortly after his trade from the Raiders to the Ravens fell through, sources told NFL Network.",
-      "pubDate": "2026-09-13T11:52:43Z",
+      "pubDate": "2026-09-13T13:36:45Z",
       "source": "ESPN NFL · Ian Rapoport",
       "thumbnail": "https://a.espncdn.com/photo/2026/0727/r1694346_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Steelers, Joey Porter Jr. reach the moment of truth",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-joey-porter-jr-reach-the-moment-of-truth",
+      "description": "The Steelers' outdated approach to contract negotiations is not aging well....",
+      "pubDate": "2026-09-13T13:25:09+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Justin Herbert needs 180 passing yards to be fourth-fastest to 25,000",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/justin-herbert-needs-180-passing-yards-to-be-fourth-fastest-to-25-000",
+      "description": "The quarterback whom Jim Harbaugh believes will be remembered as the greatest of all time has a chance to join the all-time greats on Sunday....",
+      "pubDate": "2026-09-13T12:51:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Why Baker Mayfield's contract means the QB market could burst",
       "link": "https://www.espn.com/nfl/story/_/id/49915176/quarterback-contract-market-baker-mayfield-extensions",
       "description": "Baker Mayfield just got $55 million per year in new money -- which is telling about where the QB market is headed. That's great news for 11 other passers ready for big deals.",
-      "pubDate": "2026-09-13T10:39:32Z",
+      "pubDate": "2026-09-13T12:38:29Z",
       "source": "ESPN NFL · Dan Graziano",
       "thumbnail": "https://a.espncdn.com/photo/2026/0912/r1715407_608x342_16-9.jpg"
+    },
+    {
+      "title": "Jim Harbaugh tries to extend Week 1 record to 7-0",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-tries-to-extend-week-1-record-to-7-0",
+      "description": "When it comes to the first game of football season, Chargers coach Jim Harbaugh does indeed attack the day with an enthusiasm unknown to mankind....",
+      "pubDate": "2026-09-13T12:31:11+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Lamar Jackson, Ravens have not had substantive contract talks",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-lamar-jackson-ravens-have-not-had-substantive-contract-talks",
+      "description": "Ravens quarterback Lamar Jackson will play his first game under offensive coordinator Declan Doyle on Sunday and he's set to do so without a contract extension....",
+      "pubDate": "2026-09-13T12:21:54+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Alvin Kamara is not expected to play on Sunday",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/alvin-kamara-is-not-expected-to-play-on-sunday",
+      "description": "The Saints are set to open the 2026 season without running back Alvin Kamara....",
+      "pubDate": "2026-09-13T12:05:20+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Joey Porter Jr. is unlikely to play today, trade is possible",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-joey-porter-jr-is-unlikely-to-play-today-trade-is-possible",
+      "description": "Porter, who is listed as questionable with a back injury, looks like he won't go today against the Falcons....",
+      "pubDate": "2026-09-13T11:59:10+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Ryan Day: Ohio State considered letting Texas score, but decided we'd play defense",
@@ -852,14 +1004,6 @@
       "pubDate": "2026-09-13T08:59:26+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Source: Jaguars, Parker Washington unlikely to agree to deal",
-      "link": "https://www.espn.com/nfl/story/_/id/49920927/source-jaguars-parker-washington-unlikely-agree-deal",
-      "description": "The Jaguars and Parker Washington are unlikely to agree to a contract extension before the start of the season, a source told NFL Network.",
-      "pubDate": "2026-09-13T08:11:42Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0909/r1713780_1296x729_16-9.jpg"
     },
     {
       "title": "Sources: Lamar Jackson won't have deal before start of season",
@@ -998,92 +1142,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Saints put RB Audric Estime on IR",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-put-rb-audric-estime-on-ir",
-      "description": "The Saints announced a few roster moves ahead of Sunday's opener against the Lions....",
-      "pubDate": "2026-09-12T19:52:43+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears sign QB Miller Moss to practice squad, elevate him for Sunday's game",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-sign-qb-miller-moss-to-practice-squad-elevate-him-for-sundays-game",
-      "description": "The Bears listed backup quarterback Tyson Bagent as questionable for Sunday's game against the Panthers with a back injury and it looks like they're expecting him to be inactive....",
-      "pubDate": "2026-09-12T19:34:47+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Josh Simmons is ruled out for the Chiefs on Monday night",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-simmon-is-ruled-out-for-the-chiefs-on-monday-night",
-      "description": "Undrafted rookie Kahlil Benson will start at left tackle vs. the Broncos....",
-      "pubDate": "2026-09-12T19:26:02+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers elevate WR Bo Melton, LB Kristian Welch",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-elevate-wr-bo-melton-lb-kristian-welch",
-      "description": "Wide receiver Bo Melton lost his spot on the Packers' 53-man roster this week, but he'll be available for Sunday's game against the Vikings....",
-      "pubDate": "2026-09-12T19:22:42+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Amon-Ra St. Brown needs only 33 catches for most ever through six NFL seasons",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/amon-ra-st-brown-needs-only-33-catches-for-most-ever-through-six-nfl-seasons",
-      "description": "Five years after entering the NFL as a fourth-round pick, Lions receiver Amon-Ra St....",
-      "pubDate": "2026-09-12T18:57:38+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys place RB Malik Davis on injured reserve",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-place-rb-malik-davis-on-injured-reserve",
-      "description": "As expected, Cowboys running back Malik Davis will miss some time with a hip injury suffered at practice on Friday....",
-      "pubDate": "2026-09-12T18:44:15+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "ESPN continues its not-so-subtle advocacy for the Protect College Sports Act",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/espn-continues-its-not-so-subtle-advocacy-for-the-protect-college-sports-act",
-      "description": "I said it this week on PFT Live....",
-      "pubDate": "2026-09-12T17:44:26+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Raiders TE Michael Mayer gets 3-year, $45M extension, sources say",
       "link": "https://www.espn.com/nfl/story/_/id/49914437/raiders-te-michael-mayer-gets-3-year-45m-extension-sources-say",
       "description": "Tight end Michael Mayer, who is stepping in for an injured Brock Bowers to start the regular season, has received a multiyear extension from the Raiders.",
       "pubDate": "2026-09-12T17:42:12Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2026/0909/r1714007_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Inside the Michael Mayer deal",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/inside-the-michael-mayer-deal",
-      "description": "Despite the presence of Brock Bowers, the Raiders have decided to keep tight end Michael Mayer — with an extension just before the first game of his contract year....",
-      "pubDate": "2026-09-12T16:54:08+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Colts downgrade LB Austin Ajiake to out, elevate one",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-downgrade-lb-austin-ajiake-to-out-elevate-one",
-      "description": "The Colts have made a couple of Saturday moves in advance of Sunday’s matchup against the Ravens....",
-      "pubDate": "2026-09-12T16:31:54+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jim Harbaugh: Justin Herbert will be remembered as the greatest quarterback ever",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-justin-herbert-will-be-remembered-as-the-greatest-quarterback-ever",
-      "description": "Chargers head coach Jim Harbaugh believes he has the best quarterback in NFL history on his roster, even if he hasn't proven it yet....",
-      "pubDate": "2026-09-12T16:09:57+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "Packers Reportedly Sign TE Tucker Kraft To Mammoth Extension",
@@ -1110,38 +1174,6 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/0910/r1714372_600x400_3-2.jpg"
     },
     {
-      "title": "Raiders, Michael Mayer agree to three-year extension",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-michael-mayer-agree-to-three-year-extension",
-      "description": "The Raiders are locking in tight end Michael Mayer....",
-      "pubDate": "2026-09-12T15:09:00+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers, Tucker Kraft agree to four-year extension",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-tucker-kraft-agree-to-four-year-extension",
-      "description": "The two sides have come to an agreement just before the start of the 2026 season....",
-      "pubDate": "2026-09-12T15:01:00+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Brian Burns: Giants are ready to exploit weakness at Cowboys' RT position",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-burns-giants-are-ready-to-exploit-weakness-at-cowboys-rt-position",
-      "description": "The John Harbaugh era begins in New York on Sunday night....",
-      "pubDate": "2026-09-12T14:17:30+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jahmyr Gibbs needs one TD on Sunday to join 50-in-50 club",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-needs-one-td-on-sunday-to-join-50-in-50-club",
-      "description": "In three seasons, Lions running back Jahmyr Gibbs has become a force of nature, despite sharing the load with David Montgomery....",
-      "pubDate": "2026-09-12T13:41:39+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "NFL Catchup: Who's In, Who's Out For Sunday; Kyle Shanahan Reportedly Gets Extension",
       "link": "https://www.foxsports.com/stories/nfl/nfl-catchup-friday-injury-news-kyle-shanahan-extension",
       "description": "Here's the latest NFL news from the Friday ahead of Week 1's Sunday slate, headlined by the latest injury news.",
@@ -1156,14 +1188,6 @@
       "pubDate": "2026-09-11T22:32:08Z",
       "source": "ESPN NFL",
       "thumbnail": "https://a.espncdn.com/photo/2026/0907/r1712668_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Bears Reportedly Extend Starting RB D'Andre Swift On 3-Year Deal",
-      "link": "https://www.foxsports.com/stories/nfl/dandre-swift-bears-extension-chicago-running-backs",
-      "description": "The Chicago Bears have reportedly signed starting running back D'Andre Swift to a three-year extension.",
-      "pubDate": "2026-09-11T20:09:54+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/swift3.jpg"
     },
     {
       "title": "Steelers' Joey Porter Jr. questionable for opener vs. Falcons",
