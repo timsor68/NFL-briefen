@@ -1,6 +1,358 @@
 {
-  "generatedAt": "2026-09-21T05:06:25.211034+00:00",
+  "generatedAt": "2026-09-21T10:47:03.921968+00:00",
   "nfl": [
+    {
+      "title": "Chiefs News: Travis Kelce sets all-time NFL record for yards after catch",
+      "link": "https://sports.yahoo.com/articles/chiefs-news-travis-kelce-sets-103000516.html",
+      "description": "The latest Chiefs news, brought fresh to you every morning!...",
+      "pubDate": "2026-09-21T10:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Zac Taylor applauds the Bengals in “hostile territory”",
+      "link": "https://sports.yahoo.com/articles/zac-taylor-applauds-bengals-hostile-103000835.html",
+      "description": "A statement win....",
+      "pubDate": "2026-09-21T10:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "New York Giants vs. Los Angeles Rams: How to watch Monday Night Football, start time, where to stream free and more",
+      "link": "https://sports.yahoo.com/nfl/article/new-york-giants-vs-los-angeles-rams-how-to-watch-monday-night-football-start-time-where-to-stream-free-and-more-101500212.html",
+      "description": "How to watch this week&#39;s Giants vs. Rams NFL game....",
+      "pubDate": "2026-09-21T10:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "From Daniels to Donald, what stood out in NFL Week 2: Monday Morning JB",
+      "link": "https://sports.yahoo.com/articles/daniels-donald-stood-nfl-week-101034979.html",
+      "description": "The Commanders have déjà vu in the worst way after Jayden Daniels&#39; injury, Brian Flores slowed the Bears and everything else to know about NFL Week 2....",
+      "pubDate": "2026-09-21T10:10:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Is Puka Nacua playing tonight? Latest injury updates on Rams WR",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-playing-tonight-latest-100830230.html",
+      "description": "Puka Nacua is officially questionable for the Rams&#39; &quot;Monday Night Football&quot; game against the Giants. Will he play? Here are the latest updates....",
+      "pubDate": "2026-09-21T10:08:30+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2027 NFL draft order projections for Round 1, top pick, more",
+      "link": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "description": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "pubDate": "2026-09-21T10:00:40Z",
+      "source": "ESPN NFL · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0601/r1666608_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
+      "link": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+      "description": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+      "pubDate": "2026-09-21T10:00:15Z",
+      "source": "ESPN NFL · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0806/nfl_probs_v1_1296x729.jpg"
+    },
+    {
+      "title": "Did Bengals' defense just make a Super Bowl-caliber statement?",
+      "link": "https://www.espn.com/nfl/story/_/id/49994473/did-bengals-defense-just-make-super-bowl-caliber-statement",
+      "description": "Through two games, the Bengals are no longer a loaded offense and a liability. This team looks like a contender.",
+      "pubDate": "2026-09-21T10:00:12Z",
+      "source": "ESPN NFL · Ben Baby",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719801_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Miami Dolphins end road trip with more lessons than wins",
+      "link": "https://www.espn.com/nfl/story/_/id/49995991/miami-dolphins-end-road-trip-more-lessons-wins",
+      "description": "Miami's players, coaches say takeaways from 49ers blowout will be building blocks for the rest of the season.",
+      "pubDate": "2026-09-21T10:00:11Z",
+      "source": "ESPN NFL · Marcel Louis-Jacques",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719892_608x342_16-9.jpg"
+    },
+    {
+      "title": "Van Ness' breakout game saves Packers in OT win vs. Jets",
+      "link": "https://www.espn.com/nfl/story/_/id/49993378/nfl-green-bay-packers-lukas-van-ness-micah-parsons-jets",
+      "description": "Packers hope it's a sign of things to come as Micah Parsons nears his return from a torn ACL.",
+      "pubDate": "2026-09-21T10:00:06Z",
+      "source": "ESPN NFL · Rob Demovsky",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719747_608x342_16-9.jpg"
+    },
+    {
+      "title": "Donald in, Garrett out: How will Rams defense look with huge addition (and subtraction)?",
+      "link": "https://www.espn.com/nfl/story/_/id/49991306/los-angeles-rams-aaron-donald-myles-garrett-defense-week-2",
+      "description": "Despite the defensive tackle returning from retirement, L.A. has never doubted that he could still make an impact.",
+      "pubDate": "2026-09-21T10:00:01Z",
+      "source": "ESPN NFL · Sarah Barshop",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0917/r1718038_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Giants news: John Harbaugh’s impact, Jameis Winston, Joey Porter, more",
+      "link": "https://sports.yahoo.com/articles/giants-news-john-harbaugh-impact-100000112.html",
+      "description": "New York Giants headlines for Monday....",
+      "pubDate": "2026-09-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills at forefront of efficiency-boosting personnel grouping through two games",
+      "link": "https://sports.yahoo.com/articles/bills-forefront-efficiency-boosting-personnel-100000804.html",
+      "description": "Buffalo is smartly deploying this personnel grouping quite frequently...",
+      "pubDate": "2026-09-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "&#39;You&#39;re a fool&#39; to panic: Rams confident they&#39;ll get back on track vs. Giants",
+      "link": "https://sports.yahoo.com/articles/youre-fool-panic-rams-confident-100000262.html",
+      "description": "With Aaron Donald set to make his return after two years in retirement, the Rams are anxious to put their ugly season opener in Australia behind them....",
+      "pubDate": "2026-09-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "10 things we learned from Patriots vs. Steelers",
+      "link": "https://sports.yahoo.com/articles/10-things-learned-patriots-vs-100000091.html",
+      "description": "What we learned from the Patriots’ Week 2 win over the Steelers....",
+      "pubDate": "2026-09-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rams vs. New York Giants: How to watch, start time, odds and prediction",
+      "link": "https://sports.yahoo.com/articles/rams-vs-york-giants-watch-100000353.html",
+      "description": "Everything you need to know about the Rams versus the New York Giants at SoFi Stadium on Monday, including start time, odds and a score prediction....",
+      "pubDate": "2026-09-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "5 takeaways from the Steelers’ 20-3 loss to the New England Patriots",
+      "link": "https://sports.yahoo.com/articles/5-takeaways-steelers-20-3-100000257.html",
+      "description": "Takeaways, overreactions and analysis from the Steelers’ Week 2 loss....",
+      "pubDate": "2026-09-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Victory in Broncos Country",
+      "link": "https://sports.yahoo.com/articles/victory-broncos-country-100000061.html",
+      "description": "You never forget your first of the season....",
+      "pubDate": "2026-09-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Did Chiefs beat Colts? &#39;Sunday Night Football&#39; OT winner, final score last night",
+      "link": "https://sports.yahoo.com/articles/did-chiefs-beat-colts-sunday-093114472.html",
+      "description": "Patrick Mahomes and the Kansas City Chiefs battled the Indianapolis Colts last night in &quot;Sunday Night Football&quot; in Week 2. Here&#39;s who won the game:...",
+      "pubDate": "2026-09-21T09:31:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Golden Nuggets: The first of hopefully many Victory Mondays this season",
+      "link": "https://sports.yahoo.com/articles/golden-nuggets-first-hopefully-many-090000233.html",
+      "description": "Your daily San Francisco 49ers news for Monday, September 21st, 2026...",
+      "pubDate": "2026-09-21T09:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "7 winners and losers from Patriots’ win over the Steelers",
+      "link": "https://sports.yahoo.com/articles/7-winners-losers-patriots-win-090000231.html",
+      "description": "Elijah Ponder, Christian Gonzalez, and other standout players from Week 2....",
+      "pubDate": "2026-09-21T09:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Shane Steichen defends decisions to kick off, kick field goal in overtime",
+      "link": "https://sports.yahoo.com/articles/shane-steichen-defends-decisions-kick-083832291.html",
+      "description": "The Colts lost 33-30 in overtime after giving the Chiefs the ball first, then settling for a field goal on their own possession....",
+      "pubDate": "2026-09-21T08:38:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Caleb Douglas does little in loss",
+      "link": "https://sports.yahoo.com/articles/caleb-douglas-does-little-loss-080514511.html",
+      "description": "After registering 94 yards in his NFL debut, Caleb Douglas was held to 19 yards on two catches by the 49ers in Week 2....",
+      "pubDate": "2026-09-21T08:05:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Commanders left Dallas beaten, bruised, and 0-2: All aTwitter",
+      "link": "https://sports.yahoo.com/articles/commanders-left-dallas-beaten-bruised-080033597.html",
+      "description": "We follow Twitter so you don’t have to...",
+      "pubDate": "2026-09-21T08:00:33+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets vs. Lions odds: Jets open as Week 3 underdogs vs Lions",
+      "link": "https://sports.yahoo.com/articles/jets-vs-lions-odds-jets-075349897.html",
+      "description": "The Jets try to rebound from a devastating loss...",
+      "pubDate": "2026-09-21T07:53:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy football buzz: Week 2's top 10 scorers through Sunday Night Football",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "description": "An updated list of the top 10 fantasy scoring leaders in Week 2 through Sunday Night Football.",
+      "pubDate": "2026-09-21T07:48:11Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719791_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Chiefs laud Kenneth Walker III's impact through 2-0 start",
+      "link": "https://www.espn.com/nfl/story/_/id/49996723/kenneth-walker-iii-helping-revitalize-chiefs-offense-2-0-start-ot-win-vs-colts",
+      "description": "For a second straight week, offseason acquisition Kenneth Walker III demonstrated how he has helped revitalize the Kansas City offense, tallying 178 all-purpose yards in the Chiefs' 33-30 overtime win against the Colts.",
+      "pubDate": "2026-09-21T07:39:39Z",
+      "source": "ESPN NFL · Nate Taylor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719912_600x400_3-2.jpg"
+    },
+    {
+      "title": "De&#39;Von Achane shoulders the load in Week 2",
+      "link": "https://sports.yahoo.com/articles/devon-achane-shoulders-load-week-073124512.html",
+      "description": "De&#39;Von Achane was heavily featured in Week 2, turning 23 combined touches into 93 yards in a loss to San Francisco....",
+      "pubDate": "2026-09-21T07:31:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts' Alec Pierce hurts heel vs. Chiefs; X-rays negative",
+      "link": "https://www.espn.com/nfl/story/_/id/49995377/colts-rule-alec-pierce-left-heel-injury-vs-chiefs",
+      "description": "Colts wide receiver Alec Pierce was ruled out of Sunday night's game against the Kansas City Chiefs after suffering a left heel injury with 1:45 left in the first quarter.",
+      "pubDate": "2026-09-21T07:23:31Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719846_600x600_1-1.jpg"
+    },
+    {
+      "title": "Colts' Shane Steichen defends OT playcalling in loss to Chiefs",
+      "link": "https://www.espn.com/nfl/story/_/id/49996583/colts-coach-shane-steichen-defends-playcalling-loss-chiefs",
+      "description": "Colts coach Shane Steichen defended his late-game strategy and playcalling in Sunday night's 33-30 overtime loss to the Chiefs, saying he would have gone for the win on fourth-and-8 had Kansas City showed a favorable defensive coverage.",
+      "pubDate": "2026-09-21T07:00:51Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719907_600x400_3-2.jpg"
+    },
+    {
+      "title": "Justin Herbert has been the quarterback of tomorrow his entire NFL career. Whose fault is that?",
+      "link": "https://sports.yahoo.com/articles/justin-herbert-quarterback-tomorrow-entire-070038075.html",
+      "description": "The Chargers star is huge, can run and has a golden right arm. But he has never quite reached the heights many expected for him...",
+      "pubDate": "2026-09-21T07:00:38+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles vs. Titans: 7 winners, 5 losers, 5 IDKs",
+      "link": "https://sports.yahoo.com/articles/eagles-vs-titans-7-winners-064950328.html",
+      "description": "The Birds are undefeated after Week 2....",
+      "pubDate": "2026-09-21T06:49:50+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lock, Smith-Njigba have Seahawks 2-0 with Darnold ahead of schedule",
+      "link": "https://www.espn.com/nfl/story/_/id/49995944/drew-lock-jaxon-smith-njigba-seahawks-2-0-sam-darnold-ahead-schedule",
+      "description": "Seahawks coach Mike Macdonald said QB Sam Darnold could return to practice this week and did not rule out the possibility of him playing next Sunday. In the meantime, backup Drew Lock has Seattle 2-0, with plenty of help from receiver Jaxon Smith-Njigba.",
+      "pubDate": "2026-09-21T06:39:17Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719886_600x400_3-2.jpg"
+    },
+    {
+      "title": "Why Replay Overturned Colts' Fumble Call vs. Chiefs In Overtime",
+      "link": "https://www.foxsports.com/stories/nfl/why-replay-overturned-colts-fumble-call-vs-chiefs-overtime",
+      "description": "A replay review kept the Indianapolis Colts' overtime possession alive against the Kansas City Chiefs on Sunday night when it overturned the call that Laquon Treadwell had fumbled.",
+      "pubDate": "2026-09-21T06:37:24+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/gettyimages-2296325566-1-scaled.jpg"
+    },
+    {
+      "title": "NFL Week 2 instant reactions: Chargers DISASTER, Brian Flores cages Bears, Bengals defense is legit?",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-week-2-instant-reactions-chargers-disaster-brian-flores-cages-bears-bengals-defense-is-legit-063356268.html",
+      "description": "Nate Tice and Hayden Winks dive into instant reactions from Week 2 of the NFL season....",
+      "pubDate": "2026-09-21T06:33:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chiefs back in business as star QBs go down - five things from NFL week two",
+      "link": "https://sports.yahoo.com/articles/chiefs-back-business-star-qbs-061115340.html",
+      "description": "Patrick Mahomes and the Kansas City Chiefs look back to their best but Caleb Williams and Jayden Daniels suffer serious injuries. Here&#39;s what you need to know from week two in ...",
+      "pubDate": "2026-09-21T06:11:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Another huge night for Kenneth Walker III",
+      "link": "https://sports.yahoo.com/articles/another-huge-night-kenneth-walker-060314386.html",
+      "description": "Although he didn&#39;t find the end zone in Week 2, Kenneth Walker III still logged 30 touches for 178 yards in the win....",
+      "pubDate": "2026-09-21T06:03:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts drop heartbreaker to Chiefs as overtime expires behind Butker’s game-winner",
+      "link": "https://sports.yahoo.com/articles/colts-drop-heartbreaker-chiefs-overtime-060021191.html",
+      "description": "The Indianapolis Colts walked into Arrowhead facing all the doubters and were almost too much to handle in an attempt to steal a road win. The Sunday Night Football primetime clash...",
+      "pubDate": "2026-09-21T06:00:21+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patrick Mahomes displays MVP form on SNF",
+      "link": "https://sports.yahoo.com/articles/patrick-mahomes-displays-mvp-form-054704374.html",
+      "description": "Coming off a shaky debut, Patrick Mahomes was locked in on Sunday night, passing for 382 yards and three scores....",
+      "pubDate": "2026-09-21T05:47:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Travis Kelce tells SVP how the Chiefs prevailed in OT",
+      "link": "https://www.espn.com/video/clip/_/id/49996431/travis-kelce-tells-svp-how-chiefs-prevailed-ot",
+      "description": "Travis Kelce tells SVP how the Chiefs prevailed in OT",
+      "pubDate": "2026-09-21T05:39:15Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/0921/431a75a8076549f29eec9e68ae7125c098/431a75a8076549f29eec9e68ae7125c098.jpg"
+    },
+    {
+      "title": "Words of Prey, Seahawks-Cardinals: Bullying, dastardly defense, and a ‘Jax trick’ in the desert",
+      "link": "https://sports.yahoo.com/articles/words-prey-seahawks-cardinals-bullying-052938446.html",
+      "description": "The Seahawks stay winning against the Cardinals, and just winning in general....",
+      "pubDate": "2026-09-21T05:29:38+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patrick Mahomes, Chiefs beat Colts in overtime thriller after bizarre sequence nearly cost them game",
+      "link": "https://sports.yahoo.com/articles/patrick-mahomes-chiefs-beat-colts-052246890.html",
+      "description": "The Kansas City Chiefs thought they had beaten the Indianapolis Colts on a bizarre fumble in overtime....",
+      "pubDate": "2026-09-21T05:22:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "6 Winners and 3 Losers from the Chiefs’ overtime win over the Colts",
+      "link": "https://sports.yahoo.com/articles/6-winners-3-losers-chiefs-051500291.html",
+      "description": "The most notable individuals from Kansas City’s Week 2 win over Indianapolis....",
+      "pubDate": "2026-09-21T05:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Week 2 winners and losers: Jaxon Smith-Njigba, CeeDee Lamb shine; Bijan Robinson struggles",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-49991137/nfl-week-2-fantasy-football-winners-losers-injuries-rankings-more",
+      "description": "Jaxon Smith-Njigba and CeeDee Lamb came up big in Week 2, while Bijan Robinson and Justin Jefferson had very quiet days.",
+      "pubDate": "2026-09-21T05:09:55Z",
+      "source": "ESPN NFL · Matt Bowen and Tristan H. Cockcroft",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719798_2_1296x729_16-9.jpg"
+    },
     {
       "title": "Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT",
       "link": "http://www.espn.com/nfl/recap?gameId=401872945",
@@ -26,14 +378,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Colts' Alec Pierce hurts heel vs. Chiefs; X-rays negative",
-      "link": "https://www.espn.com/nfl/story/_/id/49995377/colts-rule-alec-pierce-left-heel-injury-vs-chiefs",
-      "description": "Colts wide receiver Alec Pierce was ruled out of Sunday night's game against the Kansas City Chiefs after suffering a left heel injury with 1:45 left in the first quarter.",
-      "pubDate": "2026-09-21T04:57:41Z",
-      "source": "ESPN NFL · Stephen Holder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719846_600x600_1-1.jpg"
-    },
-    {
       "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
       "link": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026",
       "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
@@ -56,350 +400,6 @@
       "pubDate": "2026-09-21T04:46:17Z",
       "source": "ESPN NFL",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/1d7d3162-fef0-4d38-8ead-debe2c192ecf/1d7d3162-fef0-4d38-8ead-debe2c192ecf.jpg"
-    },
-    {
-      "title": "Andy Reid says Mansoor Delane was available as ‘an extra guy’",
-      "link": "https://sports.yahoo.com/articles/andy-reid-says-mansoor-delane-044500126.html",
-      "description": "Kansas City appears to have avoided further injuries in Sunday’s win....",
-      "pubDate": "2026-09-21T04:45:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Colts finally get TKO’d in OT during heavyweight SNF fight against Chiefs",
-      "link": "https://sports.yahoo.com/articles/colts-finally-tko-d-ot-044410483.html",
-      "description": "The Colts gave a spirited effort on the road, but it was the Chiefs that landed the final blows by making big plays in overtime....",
-      "pubDate": "2026-09-21T04:44:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Falcons WR Drake London regrets getting into verbal altercation with fan amid blowout loss to Panthers",
-      "link": "https://sports.yahoo.com/nfl/article/falcons-wr-drake-london-regrets-getting-into-verbal-altercation-with-fan-amid-blowout-loss-to-panthers-044131930.html",
-      "description": "Drake London had to be held back by a teammate in the third quarter while getting into it with a fan....",
-      "pubDate": "2026-09-21T04:41:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Is It Over For Chargers, Texans? Assessing Which 0-2 Teams Need To Panic The Most",
-      "link": "https://www.foxsports.com/stories/nfl/over-chargers-texans-assessing-which-0-2-teams-need-panic-most",
-      "description": "Which 0-2 teams need to start panicking and getting their season on track? We put those eight teams on the panic meter.",
-      "pubDate": "2026-09-21T04:39:18+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/16x9-14-1.jpg"
-    },
-    {
-      "title": "2026 Super Bowl Odds: Rams, Bills Favored; Bears, Commanders Slip",
-      "link": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "description": "While the Rams and Bills have held steady, two quarterback injuries have impacted a few thought-to-be contenders.",
-      "pubDate": "2026-09-21T04:35:23+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/c86527c6-artboard-12-1.jpg"
-    },
-    {
-      "title": "Week 2 winners and losers: Jaxon Smith-Njigba, CeeDee Lamb shine; Bijan Robinson struggles",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-49991137/nfl-week-2-fantasy-football-winners-losers-injuries-rankings-more",
-      "description": "Jaxon Smith-Njigba and CeeDee Lamb came up big in Week 2, while Bijan Robinson and Justin Jefferson had very quiet days.",
-      "pubDate": "2026-09-21T04:24:25Z",
-      "source": "ESPN NFL · Matt Bowen and Tristan H. Cockcroft",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719798_2_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "link": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "description": "Two talented AFC squads have yet to find their stride, and it is reflecting in their postseason odds. See the latest.",
-      "pubDate": "2026-09-21T04:21:17+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/47ed79d4-artboard-1.jpg"
-    },
-    {
-      "title": "NFL Week 2 Defining Stats: Records Fall, Stars Make History",
-      "link": "https://www.foxsports.com/stories/nfl/nfl-week-2-defining-stats-record-setting-scoring-historic-performances",
-      "description": "Dak Prescott etched his name into the Cowboys record books, while one rookie quarterback made some unfortunate history. See the stats that defined Week 2.",
-      "pubDate": "2026-09-21T04:17:24+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/stats-w2.jpg"
-    },
-    {
-      "title": "Fantasy football week 2 recap - rethink everything!",
-      "link": "https://sports.yahoo.com/article/fantasy-football-week-2-recap---rethink-everything-040830484.html",
-      "description": "Josh Norris and Hayden Winks are joined by Matt Harmon and Ray Garvin to break down all of the action from Week 1 of the NFL season....",
-      "pubDate": "2026-09-21T04:08:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
-      "link": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026",
-      "description": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "pubDate": "2026-09-21T04:04:09Z",
-      "source": "ESPN NFL · NFL Nation",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719826_1296x729_16-9.jpg"
-    },
-    {
-      "title": "2026 NFL Odds Week 3: Lines, Spreads, Results For All 16 Games",
-      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
-      "description": "Check out the odds for every NFL Week 3 contest.",
-      "pubDate": "2026-09-21T04:02:51+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/4a9836b7-artboard-1-1.jpg"
-    },
-    {
-      "title": "Sunday Night Football: Patrick Mahomes throws for 382 yards, 3 TDs in 33-30 OT win",
-      "link": "https://sports.yahoo.com/articles/sunday-night-football-patrick-mahomes-040248690.html",
-      "description": "The Chiefs are now 2-0 after the club used every second of regulation and OT to defeat the Colts....",
-      "pubDate": "2026-09-21T04:02:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Week 2 Stock Up, Stock Down: Youth served early at running back",
-      "link": "https://sports.yahoo.com/articles/week-2-stock-stock-down-040109825.html",
-      "description": "Rivers McCown provides four fantasy players who saw their stock rise in Week 2, and four who saw their stock fall...",
-      "pubDate": "2026-09-21T04:01:09+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rapid Reaction: 3 instant takeaways from Chiefs-Colts",
-      "link": "https://sports.yahoo.com/articles/rapid-reaction-3-instant-takeaways-040000022.html",
-      "description": "Instant analysis from Kansas City’s 33-30 overtime win over Indianapolis....",
-      "pubDate": "2026-09-21T04:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Who are the winningest NFL coaches of all time?",
-      "link": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-      "description": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "pubDate": "2026-09-21T03:57:51Z",
-      "source": "ESPN NFL · Alex Kennedy and Keith Jenkins",
-      "thumbnail": "https://a.espncdn.com/photo/2012/0128/bos_g_belichick_kraft_b1_800.jpg"
-    },
-    {
-      "title": "Lock, Smith-Njigba have Seahawks 2-0 with Darnold ahead of schedule",
-      "link": "https://www.espn.com/nfl/story/_/id/49995944/drew-lock-jaxon-smith-njigba-seahawks-2-0-sam-darnold-ahead-schedule",
-      "description": "Seahawks coach Mike Macdonald said QB Sam Darnold could return to practice this week and did not rule out the possibility of him playing next Sunday. In the meantime, backup Drew Lock has Seattle 2-0, with plenty of help from receiver Jaxon Smith-Njigba.",
-      "pubDate": "2026-09-21T03:57:03Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719886_600x400_3-2.jpg"
-    },
-    {
-      "title": "Chiefs-Colts refs rule Indy receiver down before overtime fumble in controversial call",
-      "link": "https://sports.yahoo.com/articles/chiefs-colts-refs-rule-indy-035454459.html",
-      "description": "Was Laquon Treadwell really down by contact?...",
-      "pubDate": "2026-09-21T03:54:54+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "J.K. Dobbins logs 10 carries",
-      "link": "https://sports.yahoo.com/articles/j-k-dobbins-logs-10-034615869.html",
-      "description": "Denver Broncos RB J.K. Dobbins ties for team lead in carries against Jacksonville...",
-      "pubDate": "2026-09-21T03:46:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nashville turf temp of 157 F melts cleats, sends Sirianni for IV",
-      "link": "https://www.espn.com/nfl/story/_/id/49995389/turf-temps-157-f-nashville-melts-cleats",
-      "description": "Players' cleats were melting and Eagles coach Nick Sirianni needed an IV as a result of extreme heat conditions at Nissan Stadium during Sunday's game between Philadelphia and the Tennessee Titans, a 24-20 win for the Eagles.",
-      "pubDate": "2026-09-21T03:39:32Z",
-      "source": "ESPN NFL · Tim McManus",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719850_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Ashton Jeanty totals 63 scrimmage yards",
-      "link": "https://sports.yahoo.com/articles/ashton-jeanty-totals-63-scrimmage-033511035.html",
-      "description": "Las Vegas Raiders running back Ashton Jeanty ran 21 times for just 48 yards in Week 2, while adding four receptions for 15 yards on seven targets....",
-      "pubDate": "2026-09-21T03:35:11+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Fallout Week 2: Justin Herbert Is Overrated, And Now He's Hurting The Chargers",
-      "link": "https://www.foxsports.com/stories/nfl/nfl-fallout-week-2-justin-herbert-overrated-now-hes-hurting-chargers",
-      "description": "Justin Herbert is no prototype. Dan Quinn's Commanders tenure is probably over. Here are Ralph Vacchiano's top takeaways from Week 2.",
-      "pubDate": "2026-09-21T03:19:12+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/16x9justin.jpg"
-    },
-    {
-      "title": "Commanders QB Jayden Daniels suffers dislocated elbow vs. Cowboys",
-      "link": "https://www.espn.com/nfl/story/_/id/49993422/commanders-qb-jayden-daniels-suffers-elbow-injury-cowboys",
-      "description": "Commanders quarterback Jayden Daniels was carted off the field in Sunday's game against the Cowboys after dislocating his left elbow on the final play of the first half.",
-      "pubDate": "2026-09-21T03:16:28Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719748_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Packers Week 2: Stats from Green Bay’s victory over the Jets",
-      "link": "https://sports.yahoo.com/articles/packers-week-2-stats-green-031229513.html",
-      "description": "Digging into some early numbers on the Packers Week 2 win over the Jets...",
-      "pubDate": "2026-09-21T03:12:29+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kirk Cousins' 'phenomenal' play has new-look Raiders at 2-0",
-      "link": "https://www.espn.com/nfl/story/_/id/49995676/kirk-cousins-phenomenal-play-new-look-raiders-2-0",
-      "description": "Kirk Cousins has done more than just help the Raiders transition through a rebuilding process after two games, leading Las Vegas to its first 2-0 record since 2021.",
-      "pubDate": "2026-09-21T03:12:03Z",
-      "source": "ESPN NFL · Ryan McFadden",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719777_600x400_3-2.jpg"
-    },
-    {
-      "title": "CeeDee Lamb crushes Washington again",
-      "link": "https://sports.yahoo.com/articles/ceedee-lamb-crushes-washington-again-030952859.html",
-      "description": "Dallas Cowboys wide receiver CeeDee Lamb registered eight receptions for 153 yards and two touchdowns on nine targets in Week 2...",
-      "pubDate": "2026-09-21T03:09:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bo Nix throws for 288 yards in win",
-      "link": "https://sports.yahoo.com/articles/bo-nix-throws-288-yards-030908102.html",
-      "description": "Denver Broncos QB Bo Nix has one touchdown, one turnover in win over Jacksonville...",
-      "pubDate": "2026-09-21T03:09:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles&#39; Cam Jurgens says &#39;radiating&#39; turf at Titans&#39; field damaged his cleats; Nick Sirianni needed an IV",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-cam-jurgens-says-radiating-turf-at-titans-field-damaged-his-cleats-nick-sirianni-needed-an-iv-030758054.html",
-      "description": "The conditions for Sunday&#39;s game raise some obvious concerns about the susceptibility of artificial turf to radiating heat and whether the NFL should be scheduling late summer ...",
-      "pubDate": "2026-09-21T03:07:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "QB Baker Mayfield says Bucs need to 'fight our way out' of 0-2 start",
-      "link": "https://www.espn.com/nfl/story/_/id/49995560/qb-baker-mayfield-says-bucs-need-fight-our-way-0-2-start",
-      "description": "Buccaneers quarterback Baker Mayfield admitted to being \"pretty shocked\" the Bucs are 0-2 for the first time since he has been their quarterback and the first time since 2014 after losing to his former team, the Browns, 23-19.",
-      "pubDate": "2026-09-21T03:05:25Z",
-      "source": "ESPN NFL · Jenna Laine",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0921/r1719853_600x400_3-2.jpg"
-    },
-    {
-      "title": "Vikings Set Another Unique NFL Record In Win Over Bears",
-      "link": "https://sports.yahoo.com/articles/vikings-set-another-unique-nfl-030144298.html",
-      "description": "But is it a good thing or a bad thing?...",
-      "pubDate": "2026-09-21T03:01:44+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ranking 10 crucial fantasy football winners and losers from Week 2",
-      "link": "https://sports.yahoo.com/articles/ranking-10-crucial-fantasy-football-030044687.html",
-      "description": "There are always winners and losers in fantasy football, and sorting through them is key. Who stood out in Week 2?...",
-      "pubDate": "2026-09-21T03:00:44+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seahawks vs. Cardinals post-game reaction: Biggest takeaways from Seattle’s 31-7 win",
-      "link": "https://sports.yahoo.com/articles/seahawks-vs-cardinals-post-game-025802819.html",
-      "description": "The Seahawks are 2-0. What stood out to you from their big win over the Arizona Cardinals?...",
-      "pubDate": "2026-09-21T02:58:02+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dak Prescott sets new franchise TD pass record",
-      "link": "https://sports.yahoo.com/articles/dak-prescott-sets-franchise-td-025157363.html",
-      "description": "Dallas Cowboys quarterback Dak Prescott completed 26 of 31 passes for 279 yards, four touchdowns and no interceptions in Week 2...",
-      "pubDate": "2026-09-21T02:51:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sirianni proud of Eagles for battling through Nashville heat",
-      "link": "https://www.espn.com/video/clip/_/id/49995729/sirianni-proud-eagles-battling-nashville-heat",
-      "description": "Sirianni proud of Eagles for battling through Nashville heat",
-      "pubDate": "2026-09-21T02:50:49Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/fc3798f4-d963-47ac-b8be-06072328de6b/fc3798f4-d963-47ac-b8be-06072328de6b.jpg"
-    },
-    {
-      "title": "Commanders report card: Grading Washington’s performance in a NFL Week 2 loss to Cowboys",
-      "link": "https://sports.yahoo.com/articles/commanders-report-card-grading-washington-024640881.html",
-      "description": "How the Commanders graded out in Washington’s 37-20 loss to the Dallas Cowboys in a devastating Week 2 result...",
-      "pubDate": "2026-09-21T02:46:40+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Carolina Panthers vs. Atlanta Falcons: Game Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/49995719/game-highlights",
-      "description": "Carolina Panthers vs. Atlanta Falcons: Game Highlights",
-      "pubDate": "2026-09-21T02:45:37Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/0921/7b9df6f4-6b43-4438-bdeb-806ba8f5eccc/7b9df6f4-6b43-4438-bdeb-806ba8f5eccc.jpg"
-    },
-    {
-      "title": "Jaguars vs. Patriots odds: Opening lines for Week 3 matchup",
-      "link": "https://sports.yahoo.com/articles/jaguars-vs-patriots-odds-opening-024133052.html",
-      "description": "Sportsbooks expect the Jaguars to bounce back in Week 3....",
-      "pubDate": "2026-09-21T02:41:33+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Josh Allen surges in MVP odds, and Caleb Williams is off the board",
-      "link": "https://sports.yahoo.com/articles/josh-allen-surges-mvp-odds-023916721.html",
-      "description": "After Week 1, Bills quarterback Josh Allen had his MVP odds move from +600 to +500....",
-      "pubDate": "2026-09-21T02:39:16+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos open home underdogs to the Rams on SNF in Week 3",
-      "link": "https://sports.yahoo.com/articles/broncos-open-home-underdogs-rams-023841089.html",
-      "description": "The Denver Broncos are 2.5-point home underdogs on Sunday Night Football against the Los Angeles Rams in Week 3....",
-      "pubDate": "2026-09-21T02:38:41+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "How Mike Tomlin motivated the Browns to turn things around against the Bucs",
-      "link": "https://sports.yahoo.com/articles/mike-tomlin-motivated-browns-turn-023452592.html",
-      "description": "Of all people, it was Mike Tomlin who gave the Browns that extra spark they needed to win....",
-      "pubDate": "2026-09-21T02:34:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dak Prescott breaks Tony Romo's Cowboys passing TDs record",
-      "link": "https://www.espn.com/nfl/story/_/id/49994493/dak-prescott-breaks-tony-romo-cowboys-passing-tds-record",
-      "description": "Dak Prescott became the Cowboys' all-time leader in touchdown passes in Sunday's win over the Commanders, surpassing Tony Romo with 249 in his career.",
-      "pubDate": "2026-09-21T02:34:49Z",
-      "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719765_600x400_3-2.jpg"
-    },
-    {
-      "title": "Brock Purdy keeps 49ers rolling with 'MVP' game vs. Dolphins",
-      "link": "https://www.espn.com/nfl/story/_/id/49995421/brock-purdy-keeps-49ers-rolling-mvp-game-vs-dolphins",
-      "description": "Brock Purdy authored a near-perfect game at quarterback in the 49ers' 35-13 win over the rebuilding Dolphins, ending the day with a 99.7 QBR.",
-      "pubDate": "2026-09-21T02:29:36Z",
-      "source": "ESPN NFL · Nick Wagoner",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719711_600x400_3-2.jpg"
-    },
-    {
-      "title": "NFL betting buzz: Most popular survivor pick loses for second week in a row with Bucs' defeat",
-      "link": "https://www.espn.com/espn/betting/story/_/id/49466506/nfl-betting-buzz-odds-updates-line-moves-spreads",
-      "description": "With 27% of ESPN survivor picks and 6,601 entries in Circa Survivor, the Bucs lost at home to the Browns.",
-      "pubDate": "2026-09-21T02:21:49Z",
-      "source": "ESPN NFL · ESPN",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719795_1296x729_16-9.jpg"
-    },
-    {
-      "title": "NFL Week 2 eye-popping stats from Eagles, Pats, Jets, Bears",
-      "link": "https://www.espn.com/nfl/story/_/id/49990404/week-2-five-key-stats-numbers-solak",
-      "description": "We found six of the coolest advanced stats to come out of Sunday's games -- from third-down completions to matchup route stats.",
-      "pubDate": "2026-09-21T02:20:50Z",
-      "source": "ESPN NFL · Ben Solak",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719688_608x342_16-9.jpg"
     }
   ],
   "ncaa": [
@@ -806,6 +806,38 @@
   ],
   "insider": [
     {
+      "title": "Patrick Mahomes: We showed we can do everything offensively",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-we-showed-we-can-do-everything-offensively",
+      "description": "The Chiefs cruised to a win in their season opener against the Broncos thanks in large part to running back Kenneth Walker's big night and they moved to 2-0 in a much closer game a...",
+      "pubDate": "2026-09-21T10:42:20+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Patrick Mahomes tried to take advantage when Colts' captain didn't know OT coin toss rule",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-tried-to-take-advantage-when-colts-captain-didnt-know-ot-coin-toss-rule",
+      "description": "The NFL is in its second year of its current overtime format, but some players still haven't learned the rules....",
+      "pubDate": "2026-09-21T10:07:33+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Shane Steichen defends decisions to kick off, kick field goal in overtime",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/shane-steichen-defends-decisions-to-kick-off-kick-field-goal-in-overtime",
+      "description": "The Colts lost 33-30 in overtime after giving the Chiefs the ball first, then settling for a field goal on their own possession....",
+      "pubDate": "2026-09-21T08:38:32+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy football buzz: Week 2's top 10 scorers through Sunday Night Football",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "description": "An updated list of the top 10 fantasy scoring leaders in Week 2 through Sunday Night Football.",
+      "pubDate": "2026-09-21T07:48:11Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719791_1296x729_16-9.jpg"
+    },
+    {
       "title": "Sunday Night Football: Patrick Mahomes throws for 382 yards, 3 TDs in 33-30 OT win",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-patrick-mahomes-throws-for-382-yards-3-tds-in-33-30-ot-win",
       "description": "The Chiefs are now 2-0 after the club used every second of regulation and OT to defeat the Colts....",
@@ -918,7 +950,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Mike Tomlin on his Browns bulleting board material: \"You're welcome\"",
+      "title": "Mike Tomlin on his Browns bulletin board material: \"You're welcome\"",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-on-his-browns-bulleting-board-material-youre-welcome",
       "description": "Last Sunday, former Steelers coach Mike Tomlin channeled former Steelers receiver JuJu Smith Schuster, during Tomlin's first Sunday with NBC....",
       "pubDate": "2026-09-21T00:43:17+00:00",
@@ -964,14 +996,6 @@
       "pubDate": "2026-09-20T23:44:05+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football buzz: Week 2's top 10 scorers through Sunday's late slate",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "description": "An updated list of the top 10 fantasy scoring leaders in Week 2 through Sunday's late slate.",
-      "pubDate": "2026-09-20T23:43:48Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0920/r1719791_1296x729_16-9.jpg"
     },
     {
       "title": "Kirk Cousins throws three TDs, Raiders start 2-0 with 26-14 victory over Chargers",
@@ -1026,30 +1050,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-london-exchanges-words-with-fan-during-sundays-game",
       "description": "Falcons wide receiver Drake London got into a verbal altercation with a fan during the team's 34-3 home loss to the Panthers....",
       "pubDate": "2026-09-20T23:10:06+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos rally for 20-13 win over Jaguars",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-rally-for-20-13-win-over-jaguars",
-      "description": "The Broncos wiped out a 10-point deficit on their way to their first win....",
-      "pubDate": "2026-09-20T23:01:48+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Vikings expect Kyler Murray to return in Week 3",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-expect-kyler-murray-to-return-in-week-3",
-      "description": "Carson Wentz has the Vikings off to a 2-0 start, but it appears he will be back on the bench in Week 3....",
-      "pubDate": "2026-09-20T22:49:47+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Report: Patriots G Mike Onwenu has a broken ankle",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-patriots-g-mike-onwenu-has-a-broken-ankle",
-      "description": "The Patriots got their first win of the season on Sunday, but they lost a starting offensive lineman....",
-      "pubDate": "2026-09-20T22:44:41+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     }
