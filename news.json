@@ -1,408 +1,480 @@
 {
-  "generatedAt": "2026-10-05T06:09:45.639134+00:00",
+  "generatedAt": "2026-10-05T14:47:34.624875+00:00",
   "nfl": [
+    {
+      "title": "How the Rams, Cowboys, Patriots pulled Week 4 comebacks to save their seasons",
+      "link": "https://www.espn.com/nfl/story/_/id/50100800/week-4-rams-cowboys-patriots-comeback-wins-save-season",
+      "description": "The Rams, Cowboys and Pats were all looking at 1-3 ... then everything changed. How did a trio of stunning rallies play out -- and are these teams all back on track at 2-2?",
+      "pubDate": "2026-10-05T14:43:57Z",
+      "source": "ESPN NFL · Bill Barnwell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726131_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Stephen A. not buying into Cowboys after win over Texans",
+      "link": "https://www.espn.com/video/clip/_/id/50109444/stephen-not-buying-cowboys-win-texans",
+      "description": "Stephen A. not buying into Cowboys after win over Texans",
+      "pubDate": "2026-10-05T14:37:20Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/ss_20261005_103033881_3686039/ss_20261005_103033881_3686039.jpg"
+    },
+    {
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "link": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "description": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "pubDate": "2026-10-05T14:35:00Z",
+      "source": "ESPN NFL · Sarah Barshop",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0828/nfl_data_viz_garrett_cr_16x9_608x342.jpg"
+    },
+    {
+      "title": "How former Cyclones performed in Week 4 of the NFL",
+      "link": "https://sports.yahoo.com/articles/former-cyclones-performed-week-4-143321919.html",
+      "description": "Ten former Cyclones made appearances in Week 4 of the NFL and played a combined 543 snaps on offense, defense and special teams. Breece Hall – New York Jets Hall did not play again...",
+      "pubDate": "2026-10-05T14:33:21+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "2026 NFL Week 5 odds, betting: Full list of Week 5 spreads",
+      "link": "https://sports.yahoo.com/nfl/betting/article/2026-nfl-week-5-odds-betting-full-list-of-week-5-spreads-143316022.html",
+      "description": "Here are the odds for every Week 5 NFL game....",
+      "pubDate": "2026-10-05T14:33:16+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy Football Stock Report: Malik Nabers shows up for managers while Josh Downs disappears in Week 4",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-stock-report-malik-nabers-shows-up-for-managers-while-josh-downs-disappears-in-week-4-143128755.html",
+      "description": "After a wild Week 4, Matt Okada takes you through which players are on the up and others who are trending down for fantasy football....",
+      "pubDate": "2026-10-05T14:31:28+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "5 key plays from Cowboys win over the Texans",
+      "link": "https://sports.yahoo.com/articles/5-key-plays-cowboys-win-143000902.html",
+      "description": "What was your favorite play from Sunday’s win?...",
+      "pubDate": "2026-10-05T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Who gets your game ball from the Chiefs’ win over the Raiders?",
+      "link": "https://sports.yahoo.com/articles/gets-game-ball-chiefs-win-143000782.html",
+      "description": "Who was Kansas City’s top performer from the victory in Las Vegas?...",
+      "pubDate": "2026-10-05T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Packers By The Numbers: Stats from the Week 4 win over the Bucs",
+      "link": "https://sports.yahoo.com/articles/packers-numbers-stats-week-4-143000540.html",
+      "description": "Digging into some numbers on the Packers’ Week 4 victory over the Bucs...",
+      "pubDate": "2026-10-05T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Snap counts: Back-7 still searching for answers vs. Panthers",
+      "link": "https://sports.yahoo.com/articles/snap-counts-back-7-still-143000075.html",
+      "description": "Exploring the Detroit Lions snap counts from Week 4 vs. Carolina Panthers....",
+      "pubDate": "2026-10-05T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Monday Night Football preview: Saints and Falcons renew one of NFL&#39;s best rivalries",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-monday-night-football-preview-saints-and-falcons-renew-one-of-nfls-best-rivalries-142410818.html",
+      "description": "The winner of Monday night&#39;s game will be tied for first place in the NFC South....",
+      "pubDate": "2026-10-05T14:24:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rex Ryan: Eagles O-line is 'hot garbage'",
+      "link": "https://www.espn.com/video/clip/_/id/50108900/eagles-o-line-hot-garbage",
+      "description": "Rex Ryan: Eagles O-line is 'hot garbage'",
+      "pubDate": "2026-10-05T14:17:44Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/ss_20261005_082522514_3685987/ss_20261005_082522514_3685987.jpg"
+    },
+    {
+      "title": "NFL Week 5 betting: Odds, lines and totals for every game",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals",
+      "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
+      "pubDate": "2026-10-05T14:11:40Z",
+      "source": "ESPN NFL · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1002/r1725004_608x342_16-9.jpg"
+    },
+    {
+      "title": "Tedy Bruschi: NFL officials need to show more self-control",
+      "link": "https://www.espn.com/video/clip/_/id/50109192/nfl-officials-need-show-more-self-control",
+      "description": "Tedy Bruschi: NFL officials need to show more self-control",
+      "pubDate": "2026-10-05T14:11:16Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/ss_20261005_094503945_3686019/ss_20261005_094503945_3686019.jpg"
+    },
+    {
+      "title": "Arizona Cardinals news: Cardinals earn ‘C’ grade in loss to Giants",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-news-cardinals-earn-141116630.html",
+      "description": "The Cardinals were given a “C” letter grade for their performance against the Giants on Sunday....",
+      "pubDate": "2026-10-05T14:11:16+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Vikings make history at 4-0 -- without a scoring offense",
+      "link": "https://www.espn.com/nfl/story/_/id/50108953/minnesota-vikings-kyler-murray-4-0-justin-jefferson",
+      "description": "Minnesota sits atop the NFC North despite its special teams outscoring its offense the past three weeks.",
+      "pubDate": "2026-10-05T14:09:38Z",
+      "source": "ESPN NFL · Kevin Seifert",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726287_608x342_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football 2026 offensive depth charts",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/47879613/fantasy-football-2026-offensive-depth-charts",
+      "description": "Your guide to each NFL team's most valuable offensive players from a fantasy standpoint for the 2026 season.",
+      "pubDate": "2026-10-05T14:04:29Z",
+      "source": "ESPN NFL · Mike Clay",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0121/r1603677_1296x729_16-9.jpg"
+    },
+    {
+      "title": "NFL draft order after Week 4: Browns, Rams wins keep picks low",
+      "link": "https://sports.yahoo.com/articles/nfl-draft-order-week-4-140303731.html",
+      "description": "Cleveland Browns head into Week 5 leading the AFC North with NFL playoff hopes. The NFL draft order is interesting too...",
+      "pubDate": "2026-10-05T14:03:03+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "The AFC road to L.A. may go through Duval",
+      "link": "https://sports.yahoo.com/articles/afc-road-l-may-duval-140124987.html",
+      "description": "As the stadium in Jacksonville undergoes renovations, the Jaguars will play only six games there in 2026....",
+      "pubDate": "2026-10-05T14:01:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints and Falcons Prediction: MNF Superdome Showdown",
+      "link": "https://sports.yahoo.com/articles/saints-falcons-prediction-mnf-superdome-140000497.html",
+      "description": "Week 4 finds these two rivals in primetime, 20 years after the unforgettable “Domecoming” game....",
+      "pubDate": "2026-10-05T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Week 4 AFC West roundup, former rival does Las Vegas a favor",
+      "link": "https://sports.yahoo.com/articles/week-4-afc-west-roundup-140000131.html",
+      "description": "Checking in on the rest of the division, as the Raiders still sit in 2nd place despite loss...",
+      "pubDate": "2026-10-05T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Seahawks Droppings: Uchenna Nwosu calls game vs old team",
+      "link": "https://sports.yahoo.com/articles/seahawks-droppings-uchenna-nwosu-calls-140000703.html",
+      "description": "Seattle tried seemingly every possible way to keep Los Angeles in the game and squeaked out a 30-23 win at home....",
+      "pubDate": "2026-10-05T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "How Steve Gleason's punt block unified New Orleans, Falcons-Saints rivalry",
+      "link": "https://www.espn.com/nfl/story/_/id/50103536/new-orleans-saints-falcons-gleason-20-years-mnf-rivalry",
+      "description": "Ahead of Monday's Falcons-Saints game, players and coaches reflect on the storm, the game and a play from 20 years ago.",
+      "pubDate": "2026-10-05T13:59:26Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1002/nfl_superdome_16x9.jpg"
+    },
+    {
+      "title": "Dre Greenlaw says Sean Payton&#39;s &quot;disrespect&quot; motivated him on Sunday",
+      "link": "https://sports.yahoo.com/articles/dre-greenlaw-says-sean-paytons-135152290.html",
+      "description": "After 49ers linebacker Dre Greenlaw made a tackle on the Denver sideline in the first quarter of Sunday&#39;s win over the Broncos, he could be seen gesturing toward Broncos head c...",
+      "pubDate": "2026-10-05T13:51:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Monday Morning NFL Top 10 Rankings: New No. 1 After Hectic Week 4 Sunday",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-rankings-week-4-monday-morning",
+      "description": "After a thrilling Sunday of football in NFL Week 4, here are Bucky Brooks' top 10 teams.",
+      "pubDate": "2026-10-05T13:51:23+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/monday-morning-16x91111-1.jpg"
+    },
+    {
+      "title": "C.J. Gardner-Johnson: Efton Chism III is a 'practice squad player' who 'made a hell of a catch'",
+      "link": "https://www.espn.com/nfl/story/_/id/50109126/cj-gardner-johnson-efton-chism-iii-practice-squad-player-made-helluva-catch",
+      "description": "C.J. Gardner-Johnson dismissed Efton Chism III as a \"practice squad player\" and said the Patriots WR's one-handed TD catch \"probably\" will never happen again.",
+      "pubDate": "2026-10-05T13:50:45Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726290_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Los Angeles Chargers news: A positive takeaway from the loss to the Seahawks",
+      "link": "https://sports.yahoo.com/articles/los-angeles-chargers-news-positive-135000389.html",
+      "description": "Justin Herbert looked more like his old self during the second half against the Seahawks....",
+      "pubDate": "2026-10-05T13:50:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Vrabel fires back at Bills safety after postgame rant",
+      "link": "https://sports.yahoo.com/articles/mike-vrabel-fires-back-bills-134950123.html",
+      "description": "C.J. Gardner-Johnson had some things to say about the Patriots....",
+      "pubDate": "2026-10-05T13:49:50+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Early bets for NFL Week 5: Three games we're jumping on before potential odds changes",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50085582/nfl-week-5-betting-odds-props-early-picks-predictions-first-bet",
+      "description": "Which Week 5 lines offered immediate value once odds came out? Here are four early bets we like.",
+      "pubDate": "2026-10-05T13:47:16Z",
+      "source": "ESPN NFL · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726180_608x342_16-9.jpg"
+    },
+    {
+      "title": "Edgerrin Cooper’s injury makes win over Bucs a pyrrhic victory",
+      "link": "https://sports.yahoo.com/articles/edgerrin-cooper-injury-makes-win-134500438.html",
+      "description": "The linebacker had been playing at an All-Pro level before his injury on Sunday....",
+      "pubDate": "2026-10-05T13:45:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles News: “The Nick Sirianni hot seat is real, or at least it should be”",
+      "link": "https://sports.yahoo.com/articles/eagles-news-nick-sirianni-hot-134340414.html",
+      "description": "Philadelphia Eagles news and links for 10/5/26....",
+      "pubDate": "2026-10-05T13:43:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Puka Nacua has a &quot;pre-hernia&quot;",
+      "link": "https://sports.yahoo.com/articles/puka-nacua-pre-hernia-133456416.html",
+      "description": "With Rams receiver Puka Nacua having &quot;core muscle&quot; issues during training camp and then a hip/groin problem that caused him to miss two games, it began to seem as if Nacu...",
+      "pubDate": "2026-10-05T13:34:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Browns vs. Jets odds: Opening lines for Week 5 matchup",
+      "link": "https://sports.yahoo.com/articles/browns-vs-jets-odds-opening-133224694.html",
+      "description": "Are the Browns favorites in a game yet?...",
+      "pubDate": "2026-10-05T13:32:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "3 things we learned from the Bengals’ wild loss to the Jaguars",
+      "link": "https://sports.yahoo.com/articles/3-things-learned-bengals-wild-133000470.html",
+      "description": "Cincinnati is making things hard on itself....",
+      "pubDate": "2026-10-05T13:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bears vs. Jets: Inside the Snap Counts, Stats, and Chasing Records",
+      "link": "https://sports.yahoo.com/articles/bears-vs-jets-inside-snap-133000612.html",
+      "description": "Here are the Bears&#39; snap counts, individual stats, and some team stats from the Bears&#39; 23 to 12 win over the Jets from @wiltfongjr....",
+      "pubDate": "2026-10-05T13:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFC West Recap: 49ers remain in first place, Rams and Seahawks win",
+      "link": "https://sports.yahoo.com/articles/nfc-west-recap-49ers-remain-133000261.html",
+      "description": "The 49ers manage to stay undefeated and a game ahead, but their rivals managed to win to. Oh, and the Cardinals lost....",
+      "pubDate": "2026-10-05T13:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "AFC playoff picture: Browns top AFC North, among the elite",
+      "link": "https://sports.yahoo.com/articles/afc-playoff-picture-browns-top-132924638.html",
+      "description": "Forget what the NFL power rankings, the Cleveland Browns lead the AFC North and among AFC elite in playoff seeding...",
+      "pubDate": "2026-10-05T13:29:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Real Drake Maye shines through in Patriots’ win over Bills",
+      "link": "https://sports.yahoo.com/articles/drake-maye-shows-true-colors-132527039.html",
+      "description": "The third-year quarterback played his best game of the season in Week 4....",
+      "pubDate": "2026-10-05T13:25:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL, CFB Weekend Betting Recap: Pats, Cowboys Give Books 'Sigh Of Relief'",
+      "link": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-betting-recap-patriots-cowboys-give-books-sigh-relief",
+      "description": "Two upset wins ended up saving the weekend for the sportsbooks. Patrick Everson has that and more.",
+      "pubDate": "2026-10-05T13:22:57+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/dak-105.jpg"
+    },
+    {
+      "title": "Detroit Lions grades: Defense is beyond embarrassing vs. Panthers",
+      "link": "https://sports.yahoo.com/articles/detroit-lions-grades-defense-beyond-132027880.html",
+      "description": "The Detroit Lions defense received plenty of F’s in their Week 4 report card vs. the Carolina Panthers....",
+      "pubDate": "2026-10-05T13:20:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "With injuries, Broncos need to quickly shift gears",
+      "link": "https://sports.yahoo.com/articles/injuries-broncos-quickly-shift-gears-131836049.html",
+      "description": "The offense now has to cover for the injury losses on defense....",
+      "pubDate": "2026-10-05T13:18:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Saints rookie WR Jordyn Tyson still weeks away from return from hamstring injury",
+      "link": "https://sports.yahoo.com/articles/report-saints-rookie-wr-jordyn-131810954.html",
+      "description": "The Saints will face the Falcons without first-round pick Jordyn Tyson on Monday night and it will reportedly be a little while longer before the wideout makes his NFL debut....",
+      "pubDate": "2026-10-05T13:18:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Saints rookie Jordyn Tyson weeks away from return",
+      "link": "https://www.espn.com/nfl/story/_/id/50108871/sources-saints-rookie-jordyn-tyson-weeks-away-return",
+      "description": "Saints rookie Jordyn Tyson, who has been on IR after suffering another hamstring injury, is making progress and feeling good but is still considered to be weeks away from returning to action, sources told ESPN.",
+      "pubDate": "2026-10-05T13:16:39Z",
+      "source": "ESPN NFL · Adam Schefter",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0522/r1661746_1296x729_16-9.jpg"
+    },
+    {
+      "title": "NFL fans believe Todd Bowles is on the hottest seat",
+      "link": "https://sports.yahoo.com/articles/nfl-fans-believe-todd-bowles-131329574.html",
+      "description": "Who will be the first NFL head coach fired this season?...",
+      "pubDate": "2026-10-05T13:13:29+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Tetairoa McMillan, Bryce Young star as Panthers defeat Lions",
       "link": "https://www.espn.com/nfl/story/_/id/50107710/tetairoa-mcmillan-bryce-young-star-panthers-defeat-lions",
       "description": "Carolina receiver Tetairoa McMillan was dominant in his team's 32-36 win over Detroit Lions Sunday night, catching 14 passes for 192 yards and two touchdowns from teammate Bryce Young, who threw for 329 yards to help the Panthers even their record at 2-2.",
-      "pubDate": "2026-10-05T05:59:45Z",
+      "pubDate": "2026-10-05T13:12:56Z",
       "source": "ESPN NFL · Mike Kaye",
       "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726219_600x600_1-1.jpg"
     },
     {
-      "title": "Overreaction Monday: Sound The Panic Alarm For The Eagles And Matthew Stafford?",
-      "link": "https://www.foxsports.com/stories/nfl/overreaction-monday-eagles-rams-patriots-raiders-buccaneers-chargers-matthew-stafford-bryce-young",
-      "description": "Matthew Stafford interceptions are troubling, even though Rams won. And are Drake Maye and the Patriots back?",
-      "pubDate": "2026-10-05T05:46:54+00:00",
+      "title": "The Chiefs Are Back In Dynasty Mode; Why Is Everything So Hard For The Rams?",
+      "link": "https://www.foxsports.com/stories/nfl/chiefs-dynasty-mode-why-everything-so-hard-rams-49ers-brock-purdy",
+      "description": "The Chiefs are back in the title hunt, Brock Purdy passes his first MVP test and the Rams continue to make life way too hard for Sean McVay.",
+      "pubDate": "2026-10-05T13:10:45+00:00",
       "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/16x9-21.jpg"
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/artboard-12-5.jpg"
     },
     {
-      "title": "2026 Super Bowl Odds: Rams Favored After Eagles Comeback; Bills Slide",
-      "link": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "description": "The Rams stand alone atop the Super Bowl odds board after a dramatic comeback, while the Bills slide. See the latest odds.",
-      "pubDate": "2026-10-05T05:42:48+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/09/superbowl-odds-16x9-1.jpg"
-    },
-    {
-      "title": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
-      "link": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
-      "description": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
-      "pubDate": "2026-10-05T05:31:59Z",
-      "source": "ESPN NFL · NFL Nation",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726176_608x342_16-9.jpg"
-    },
-    {
-      "title": "Big-time catches headline the top plays of Week 4",
-      "link": "https://www.espn.com/video/clip/_/id/50107156/big-catches-headline-top-plays-week-4",
-      "description": "Big-time catches headline the top plays of Week 4",
-      "pubDate": "2026-10-05T05:14:34Z",
+      "title": "Did Drake Maye prove doubters wrong with win over Bills?",
+      "link": "https://www.espn.com/video/clip/_/id/50109020/did-drake-maye-prove-doubters-wrong-win-bills",
+      "description": "Did Drake Maye prove doubters wrong with win over Bills?",
+      "pubDate": "2026-10-05T13:07:31Z",
       "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/d65d851c2bc6458bb8038240326e207172/d65d851c2bc6458bb8038240326e207172.jpg"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/ss_20261005_090206419_3686000/ss_20261005_090206419_3686000.jpg"
     },
     {
-      "title": "Dak Prescott throws for a season-high 355 in Week 4",
-      "link": "https://sports.yahoo.com/articles/dak-prescott-throws-season-high-050957325.html",
-      "description": "Dak Prescott relied heavily on CeeDee Lamb en route to a Week 4 win over Houston, throwing for 355 yards and the game-winning touchdown....",
-      "pubDate": "2026-10-05T05:09:57+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Week 4 winners and losers: Tetairoa McMillan, CeeDee Lamb dominate; Jaxon Smith-Njigba struggles",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50102250/nfl-week-4-fantasy-football-winners-losers-injuries-rankings-more",
-      "description": "CeeDee Lamb and Kyren Williams came up big in Week 4, while Jaxon Smith-Njigba and D'Andre Swift had disappointing days.",
-      "pubDate": "2026-10-05T05:04:18Z",
-      "source": "ESPN NFL · Matt Bowen and Tristan H. Cockcroft",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726200_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Young, McMillan connect for 2 TDs to lead Panthers past Lions 32-26",
-      "link": "http://www.espn.com/nfl/recap?gameId=401872978",
-      "description": "— Carolina Panthers coach Dave Canales was a little worried after Bryce Young and Tetairoa McMillan had some issues connecting on passes in practice.",
-      "pubDate": "2026-10-05T04:56:29Z",
+      "title": "Rex Ryan: Cowboys can win NFC East with just average D",
+      "link": "https://www.espn.com/video/clip/_/id/50108951/cowboys-win-nfc-east-just-average-d",
+      "description": "Rex Ryan: Cowboys can win NFC East with just average D",
+      "pubDate": "2026-10-05T13:05:41Z",
       "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872978.png?templateId=espn.applewatch.awayhome.1"
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/ss_20261005_084028780_3685994/ss_20261005_084028780_3685994.jpg"
     },
     {
-      "title": "Seahawks vs. Chargers was historically ugly, and there are stats to prove it",
-      "link": "https://sports.yahoo.com/articles/seahawks-vs-chargers-historically-ugly-045426139.html",
-      "description": "The Seahawks and Chargers combined for 53 points, but it felt like they also combined for 53 flags....",
-      "pubDate": "2026-10-05T04:54:26+00:00",
+      "title": "Packers vs. Bears odds: Opening lines for Week 5 matchup",
+      "link": "https://sports.yahoo.com/articles/packers-vs-bears-odds-opening-130541892.html",
+      "description": "Green Bay is a home underdog for the first time in nearly two years....",
+      "pubDate": "2026-10-05T13:05:41+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Week 4 NFL highlights: Best plays, moments, touchdowns, more",
-      "link": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
-      "description": "Check out the top plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
-      "pubDate": "2026-10-05T04:49:44Z",
-      "source": "ESPN NFL · NFL Nation",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726150_608x342_16-9.jpg"
-    },
-    {
-      "title": "Woody Marks scores for a second straight game in Week 4",
-      "link": "https://sports.yahoo.com/articles/woody-marks-scores-second-straight-044638433.html",
-      "description": "Woody Marks limited to 22 total yards in Week 4 loss to the Cowboys....",
-      "pubDate": "2026-10-05T04:46:38+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jim Harbaugh defends offensive coordinator Mike McDaniel after Justin Herbert&#39;s struggles, Chargers fall to 0-4",
-      "link": "https://sports.yahoo.com/nfl/article/jim-harbaugh-defends-offensive-coordinator-mike-mcdaniel-after-justin-herberts-struggles-chargers-fall-to-0-4-044349773.html",
-      "description": "&quot;His job is not in jeopardy.&quot;...",
-      "pubDate": "2026-10-05T04:43:49+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chargers' Jim Harbaugh says OC Mike McDaniel's job 'not in jeopardy'",
-      "link": "https://www.espn.com/nfl/story/_/id/50106946/chargers-jim-harbaugh-says-oc-mike-mcdaniel-job-not-jeopardy",
-      "description": "After another poor offensive performance Sunday, Chargers coach Jim Harbaugh is standing by offensive coordinator Mike McDaniel.",
-      "pubDate": "2026-10-05T04:37:52Z",
-      "source": "ESPN NFL · Kris Rhim",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0909/r1713815_600x400_3-2.jpg"
-    },
-    {
-      "title": "Fantasy Football: Tetairoa McMillan&#39;s triumph, Parker Washington&#39;s dud and more storylines that &#39;broke the Week 4 equation&#39;",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-tetairoa-mcmillans-triumph-parker-washingtons-dud-and-more-storylines-that-broke-the-week-4-equation-043748985.html",
-      "description": "Fantasy football analyst Chris Allen examines some noteworthy performances and results from Week 4&#39;s Sunday action....",
-      "pubDate": "2026-10-05T04:37:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "'His job is not in jeopardy': Harbaugh defends McDaniel after 0-4 start",
-      "link": "https://www.espn.com/video/clip/_/id/50107442/harbaugh-defends-mcdaniel-0-4-start",
-      "description": "'His job is not in jeopardy': Harbaugh defends McDaniel after 0-4 start",
-      "pubDate": "2026-10-05T04:37:25Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1005/ss_20261005_003515753_3685923/ss_20261005_003515753_3685923.jpg"
-    },
-    {
-      "title": "Chiefs WR Thornton has dislocated ankle injury, sources say",
-      "link": "https://www.espn.com/nfl/story/_/id/50104571/chiefs-rule-rashee-rice-doubtful-return-injury",
-      "description": "Kansas City Chiefs wide receiver Tyquan Thornton, injured in his team in Sunday's 30-27 victory over the Las Vegas Raiders, suffered a dislocated ankle that was put back into place by doctors, sources told NFL Network's Ian Rapoport.",
-      "pubDate": "2026-10-05T04:37:11Z",
-      "source": "ESPN NFL · Nate Taylor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1726104_600x600_1-1.jpg"
-    },
-    {
-      "title": "Macdonald laments 'unacceptable' penalties in Seahawks' win",
-      "link": "https://www.espn.com/nfl/story/_/id/50106983/macdonald-laments-unacceptable-penalties-seahawks-win",
-      "description": "Thea Seahawks set a club record with 150 penalty yards in Sunday's win over the Chargers, something coach Mike Macdonald said his team would need to clean up.",
-      "pubDate": "2026-10-05T04:35:36Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726184_600x400_3-2.jpg"
-    },
-    {
-      "title": "If Commanders beat NYG Sunday, only 1 game will separate all 4 NFC East teams - All aTwitter",
-      "link": "https://sports.yahoo.com/articles/commanders-beat-nyg-sunday-only-043336017.html",
-      "description": "Washington is favored by 3.5 points in a game where Jayden Daniels, Terry McLaurin & Sam Cosmi could return to play; Commanders 4-0 vs Giants since 2024...",
-      "pubDate": "2026-10-05T04:33:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "5 winners, 5 losers from Lions’ loss to the Panthers",
-      "link": "https://sports.yahoo.com/articles/5-winners-5-losers-lions-041538627.html",
-      "description": "The Detroit Lions fell flat against the Carolina Panthers and are now facing some serious questions about their team....",
-      "pubDate": "2026-10-05T04:15:38+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys' Texas-themed jabs at Houston tops Week 4 trolls",
-      "link": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls",
-      "description": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Dallas Cowboys.",
-      "pubDate": "2026-10-05T04:14:45Z",
-      "source": "ESPN NFL · Anthony Gharib",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1726097_2_608x342_16-9.jpg"
-    },
-    {
-      "title": "NFL Week 4 Defining Stats: Mahomes Chases Brady, Nacua Climbs Past Moss",
-      "link": "https://www.foxsports.com/stories/nfl/nfl-week-4-defining-stats",
-      "description": "Mahomes continues to chase Brady, while Kenneth Walker III is off to a historic start. Here are the numbers that defined NFL Week 4.",
-      "pubDate": "2026-10-05T04:12:44+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/statss.jpg"
-    },
-    {
-      "title": "Is Carolina For Real? 3 Takeaways From Panthers' High-Scoring Win Over Lions",
-      "link": "https://www.foxsports.com/stories/nfl/carolina-real-3-takeaways-from-panthers-high-scoring-win-over-lions",
-      "description": "The Panthers' offense was humming in their win over the Lions. Here are three takeaways from Sunday's game.",
-      "pubDate": "2026-10-05T04:10:02+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/panthers-lions-takeaways.jpg"
-    },
-    {
-      "title": "Pat Surtain II injury update: Broncos star CB has reportedly avoided a long-term injury",
-      "link": "https://sports.yahoo.com/articles/pat-surtain-ii-injury-broncos-040809436.html",
-      "description": "According to multiple reports, including NFL insider Tom Pelissero, Denver Broncos star cornerback Pat Surtain II reportedly avoided a long-term injury. Surtain II suffered a non-c...",
-      "pubDate": "2026-10-05T04:08:09+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "7 takeaways from the Lions’ loss to the Panthers",
-      "link": "https://sports.yahoo.com/articles/7-takeaways-lions-loss-panthers-040318949.html",
-      "description": "7 takeaways from the Detroit Lions’ 32-26 loss to the Carolina Panthers on Sunday Night Football...",
-      "pubDate": "2026-10-05T04:03:18+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football week 4 recap - winners only club",
-      "link": "https://sports.yahoo.com/article/fantasy-football-week-4-recap---winners-only-club-035922684.html",
-      "description": "Josh Norris and Hayden Winks are joined by Matt Harmon and Ray Garvin to break down all of the action from Week 1 of the NFL season....",
-      "pubDate": "2026-10-05T03:59:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jaxon Smith-Njigba good for 76 yards",
-      "link": "https://sports.yahoo.com/articles/jaxon-smith-njigba-good-76-035450646.html",
-      "description": "Seattle Seahawks wide receiver Jaxon Smith-Njigba posted five receptions for a game-high 76 yards on six targets in Week 4...",
-      "pubDate": "2026-10-05T03:54:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Panthers vs Lions: Final Score and Recap",
-      "link": "https://sports.yahoo.com/articles/panthers-vs-lions-final-score-035253895.html",
-      "description": "Bryce Young and Tetairoa McMillan dominated all game long as the Carolina Panthers marked their return to Sunday Night Football with an electrifying win over the Detroit Lions....",
-      "pubDate": "2026-10-05T03:52:53+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football: McMillan, Lamb, Walker III among leading scorers through Sunday Night Football",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "description": "Here are the leading fantasy scorers through Sunday Night Football.",
-      "pubDate": "2026-10-05T03:51:55Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1726102_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Sunday Night Football: Tetairoa McMillan&#39;s big night powers Panthers to 32-26 victory",
-      "link": "https://sports.yahoo.com/articles/sunday-night-football-tetairoa-mcmillans-035122158.html",
-      "description": "McMillan caught 14 passes for 192 yards with two touchdowns against Detroit, as Carolina moved to 2-2 in 2026....",
-      "pubDate": "2026-10-05T03:51:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Panthers hold off Lions in a SNF thriller",
-      "link": "https://www.espn.com/video/clip/_/id/50107279/panthers-hold-lions-snf-thriller",
-      "description": "Panthers hold off Lions in a SNF thriller ",
-      "pubDate": "2026-10-05T03:49:34Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1005/926eb419-9894-4cf2-a6cb-8582086d7253/926eb419-9894-4cf2-a6cb-8582086d7253.jpg"
-    },
-    {
-      "title": "Week 4 Stock Up, Stock Down: Xavier Worthy&#39;s clean runout",
-      "link": "https://sports.yahoo.com/articles/week-4-stock-stock-down-034654718.html",
-      "description": "Rivers McCown highlights four fantasy players whose fantasy football stock rose in Week 4 of the NFL season and four whose stock fell....",
-      "pubDate": "2026-10-05T03:46:54+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lions, Panthers recap: Detroit can’t overcome defensive disaster, lose 32-26",
-      "link": "https://sports.yahoo.com/articles/lions-vs-panthers-live-score-000500900.html",
-      "description": "The Detroit Lions defensive woes were too much, as they lost to the Carolina Panthers 32-26 on Sunday night....",
-      "pubDate": "2026-10-05T03:45:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Klint Kubiak laments decisions gone wrong in Raiders' loss",
-      "link": "https://www.espn.com/nfl/story/_/id/50107098/klint-kubiak-laments-decisions-gone-wrong-raiders-loss",
-      "description": "First-time coach Klint Kubiak might be up extra late Sunday night after a pair of his decisions backfired in the Las Vegas Raiders' 30-27 loss to the Chiefs.",
-      "pubDate": "2026-10-05T03:41:24Z",
-      "source": "ESPN NFL · Ryan McFadden",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726191_600x600_1-1.jpg"
-    },
-    {
-      "title": "Chiefs Reportedly Eyeing Reunion With WR Tyreek Hill After Latest Injuries",
-      "link": "https://www.foxsports.com/stories/nfl/chiefs-reportedly-eyeing-reunion-wr-tyreek-hill-after-latest-injuries",
-      "description": "The Kansas City Chiefs are very interested in bringing back free agent wide receiver Tyreek Hill, according to a report.",
-      "pubDate": "2026-10-05T03:27:40+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/gettyimages-1237519618-e1791167197957.jpg"
-    },
-    {
-      "title": "NFL looking into official apparently cursing at Cardinals' McBride",
-      "link": "https://www.espn.com/nfl/story/_/id/50105514/nfl-looking-official-apparently-cursing-cardinals-mcbride",
-      "description": "The NFL says it is reviewing an official's apparent use of profanity directed at Cardinals tight end Trey McBride in Sunday's game against the Giants.",
-      "pubDate": "2026-10-05T03:25:35Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1726103_2_1296x729_16-9.jpg"
-    },
-    {
-      "title": "NFL looking into exchange between Vikings' Wilson, ref Hill",
-      "link": "https://www.espn.com/nfl/story/_/id/50106743/nfl-looking-exchange-vikings-wilson-ref-hill",
-      "description": "The NFL is looking into an unusual exchange between referee Adrian Hill and Vikings linebacker Eric Wilson that took place in Minnesota's 15-10 victory over the Dolphins, ESPN's Adam Schefter reported Sunday night.",
-      "pubDate": "2026-10-05T03:23:38Z",
-      "source": "ESPN NFL · Kevin Seifert",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726168_600x600_1-1.jpg"
-    },
-    {
-      "title": "Broncos vs. Chargers Opening Odds: Bolts underdogs in Week 5",
-      "link": "https://sports.yahoo.com/articles/broncos-vs-chargers-opening-odds-031522916.html",
-      "description": "The Los Angeles Chargers are turning the page to their next game against the Denver Broncos....",
-      "pubDate": "2026-10-05T03:15:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "8 Winners, 3 losers, and 1 IDK from the 49ers win over the Broncos",
-      "link": "https://sports.yahoo.com/articles/8-winners-3-losers-1-031324481.html",
-      "description": "The 49ers won a game where things didn’t go their way until the second half. That’s the NFL....",
-      "pubDate": "2026-10-05T03:13:24+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ability to practice will determine Jayden Daniels&#39;s potential return next week",
-      "link": "https://sports.yahoo.com/articles/ability-practice-determine-jayden-danielss-030747805.html",
-      "description": "Commanders quarterback Marcus Mariota is believed to have an MCL sprain....",
-      "pubDate": "2026-10-05T03:07:47+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Atlanta Falcons at New Orleans Saints &#39;Monday Night Football&#39; betting odds, picks and predictions: Best bets, player props",
-      "link": "https://sports.yahoo.com/nfl/betting/article/atlanta-falcons-at-new-orleans-saints-monday-night-football-betting-odds-picks-and-predictions-best-bets-player-props-030417874.html",
-      "description": "Our NFL handicapper break downs his favorite bets in the Falcons-Saints Monday Night Football matchup....",
-      "pubDate": "2026-10-05T03:04:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants vs. Commanders odds: Opening lines for Week 5 matchup",
-      "link": "https://sports.yahoo.com/articles/giants-vs-commanders-odds-opening-030000265.html",
-      "description": "Does Vegas have faith in the 3-1 NY Giants on the road against the 1-3 Commanders?...",
-      "pubDate": "2026-10-05T03:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "8 Winners and 4 Losers from the Chiefs’ win over the Raiders",
-      "link": "https://sports.yahoo.com/articles/8-winners-4-losers-chiefs-030000848.html",
-      "description": "Here are the standout players from Kansas City’s win in Las Vegas....",
-      "pubDate": "2026-10-05T03:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sean Payton on struggling Broncos offense and play-calling after loss to 49ers: &#39;We gotta figure it out fast&#39;",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/sean-payton-on-struggling-broncos-offense-and-play-calling-after-loss-to-49ers-we-gotta-figure-it-out-fast-025006728.html",
-      "description": "For the fourth time in four games this season, the Denver Broncos got off to a slow start on offense. This time, they couldn&#39;t dig themselves out of a hole....",
-      "pubDate": "2026-10-05T02:50:06+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jim Harbaugh: Mike McDaniel&#39;s job &quot;is not in jeopardy&quot;",
-      "link": "https://sports.yahoo.com/articles/jim-harbaugh-mike-mcdaniels-job-024923566.html",
-      "description": "After the Chargers lost their third game of the season in three weeks, coach Jim Harbaugh gave offensive coordinator Mike McDaniel a vote of confidence....",
-      "pubDate": "2026-10-05T02:49:23+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dre Greenlaw had 'a little extra' vs. the Broncos, his ex-team",
-      "link": "https://www.espn.com/nfl/story/_/id/50106742/dre-greenlaw-had-little-extra-vs-broncos-ex-team",
-      "description": "Dre Greenlaw had 'a little extra' vs. the Broncos, his ex-team.",
-      "pubDate": "2026-10-05T02:47:28Z",
-      "source": "ESPN NFL · Nick Wagoner",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726167_600x400_3-2.jpg"
-    },
-    {
-      "title": "NFL Fallout Week 4: Rams Remind Why They're The Scariest Team In The NFL",
-      "link": "https://www.foxsports.com/stories/nfl/nfl-fallout-week-4-rams-remind-why-theyre-scariest-team-nfl",
-      "description": "Did the Rams save their season? Are the 49ers the best team in the NFL? Here are Ralph Vacchiano's top takeaways from Week 4.",
-      "pubDate": "2026-10-05T02:45:40+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/16x9justin-1.jpg"
-    },
-    {
-      "title": "Winners and Losers from Seahawks’ needlessly close win vs. Chargers",
-      "link": "https://sports.yahoo.com/articles/winners-losers-seahawks-needlessly-close-024413078.html",
-      "description": "The Seahawks won as expected against the Chargers, but it was far from pretty....",
-      "pubDate": "2026-10-05T02:44:13+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jacksonville Jaguars vs. Cincinnati Bengals Game Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/50106875/jacksonville-jaguars-vs-cincinnati-bengals-game-highlights",
-      "description": "Jacksonville Jaguars vs. Cincinnati Bengals Game Highlights",
-      "pubDate": "2026-10-05T02:38:51Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1005/0422f7d9-ed41-4be4-b67d-b30dc036eda5/0422f7d9-ed41-4be4-b67d-b30dc036eda5.jpg"
-    },
-    {
-      "title": "Chuba Hubbard&#39;s second TD gives Panthers 29-19 lead",
-      "link": "https://sports.yahoo.com/articles/chuba-hubbards-second-td-gives-023727227.html",
-      "description": "The Panthers punted on their first drive....",
-      "pubDate": "2026-10-05T02:37:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "New York Jets: Slip Sliding Away",
-      "link": "https://sports.yahoo.com/articles/york-jets-slip-sliding-away-023722252.html",
-      "description": "Aaron Glenn is at a crossroads. What happens next is critical for his, and the Jets’, future....",
-      "pubDate": "2026-10-05T02:37:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
+      "title": "How to bet Falcons-Saints on MNF: Analysis, tips and top prop plays",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50068590/nfl-week-4-odds-betting-tips-picks-atlanta-falcons-new-orleans-saints",
+      "description": "Odds and analysis to help you bet Falcons-Saints on \"Monday Night Football.\"",
+      "pubDate": "2026-10-05T13:02:49Z",
+      "source": "ESPN NFL · Seth Walder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0930/r1723982_608x342_16-9.jpg"
     }
   ],
   "ncaa": [
+    {
+      "title": "Despite deflating loss, Kamario Taylor remains Mississippi State's hometown hero",
+      "link": "https://www.espn.com/college-football/story/_/id/50106231/kamario-taylor-mississippi-state-hometown-alabama",
+      "description": "It was a deflating Saturday for Mississippi State and QB Kamario Taylor, who had energized his hometown of Macon, just 40 minutes from campus.",
+      "pubDate": "2026-10-05T14:26:49Z",
+      "source": "ESPN College Football · Chuck Culpepper",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0928/r1723138_608x342_16-9.jpg"
+    },
+    {
+      "title": "Where is 'College GameDay'? 2026 schedule, locations, recaps",
+      "link": "https://www.espn.com/college-football/story/_/id/49783645/where-college-gameday-2026-schedule-locations-recaps",
+      "description": "What is the \"College GameDay\" schedule? Find out more about where the program will be each week of the 2026 college football season.",
+      "pubDate": "2026-10-05T14:08:49Z",
+      "source": "ESPN College Football · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0901/r1709974_608x342_16-9.png"
+    },
+    {
+      "title": "2026-27 Week 5 College Football Playoff, bowl projections",
+      "link": "https://www.espn.com/college-football/story/_/id/50102185/2026-27-week-5-college-football-playoff-cfp-bowl-projections",
+      "description": "Following dominant victories and a few close calls in Week 5, here are our postseason projections.",
+      "pubDate": "2026-10-05T13:47:11Z",
+      "source": "ESPN College Football · Kyle Bonagura and Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1725987_608x342_16-9.jpg"
+    },
+    {
+      "title": "Joel Klatt Says Jeremiah Smith Is 'Entering The Chat' As Greatest Buckeye Ever",
+      "link": "https://www.foxsports.com/stories/college-football/ohio-state-buckeyes-jeremiah-smith-heisman-joel-klatt-show",
+      "description": "On the latest edition of \"The Joel Klatt Show,\" FOX Sports' Joel Klatt brought up the question: Is Smith the greatest Buckeye of all time?",
+      "pubDate": "2026-10-05T13:30:52+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/gettyimages-2297898230-scaled-e1791177532837.jpg"
+    },
+    {
+      "title": "2026 College Football Rankings: Georgia Stays Perfect, BYU Breaks Into Top 10",
+      "link": "https://www.foxsports.com/stories/college-football/joel-klatt-show-rankings-top-10-ohio-state-texas-georgia",
+      "description": "Now that five weeks of college football are in the books, here are Joel Klatt's 10 best teams in the country.",
+      "pubDate": "2026-10-05T13:22:17+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/gettyimages-2297889071-scaled-e1791175813667.jpg"
+    },
+    {
+      "title": "Top 25 betting lines: Bama slim favorites at home vs. UGA; Oregon faves vs. UCLA",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50106943/2026-college-football-week-6-top-25-betting-lines-odds",
+      "description": "This week's odds and FPI predictions for Alabama-Georgia, Oregon-UCLA and every top 25 matchup.",
+      "pubDate": "2026-10-05T13:02:31Z",
+      "source": "ESPN College Football · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726196_1296x729_16-9.jpg"
+    },
+    {
+      "title": "College football Power Rankings: What we've learned about top teams",
+      "link": "https://www.espn.com/college-football/story/_/id/50086951/2026-college-football-power-rankings-top-25-week-5",
+      "description": "After another week of big wins and surprising upsets, we break down the top 25 through Week 5.",
+      "pubDate": "2026-10-05T12:00:46Z",
+      "source": "ESPN College Football · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726116_608x342_16-9.jpg"
+    },
+    {
+      "title": "College football takeaways: Lasting impressions from Week 5",
+      "link": "https://www.espn.com/college-football/story/_/page/mondaytakeaways100526/2026-college-football-game-takeaways-week-5",
+      "description": "Our college football experts break down the most important things they saw in Week 5.",
+      "pubDate": "2026-10-05T11:40:11Z",
+      "source": "ESPN College Football · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1725786_608x342_16-9.jpg"
+    },
+    {
+      "title": "What challenges lie ahead for the Protect College Sports Act?",
+      "link": "https://www.espn.com/college-football/story/_/id/50086089/protect-college-sports-act-house-representatives-congress-obstacles",
+      "description": "What obstacles does the Protect College Sports Act face to become law? Time is a big one.",
+      "pubDate": "2026-10-05T11:39:27Z",
+      "source": "ESPN College Football · Dan Murphy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1002/r1725060_1296x729_16-9.jpg"
+    },
     {
       "title": "Betting buzz: Alabama quickly shifts from home underdog to favorite against Georgia",
       "link": "https://www.espn.com/espn/betting/story/_/id/49921234/college-football-betting-buzz-odds-updates-line-moves-spreads",
@@ -730,88 +802,136 @@
       "pubDate": "2026-10-04T19:44:32Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401861964.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Jacksonville State takes on Kennesaw State in CUSA play",
-      "link": "http://www.espn.com/ncf/preview?gameId=401871051",
-      "description": "Jacksonville State (3-2) at Kennesaw State (1-3), Oct. 7 at 7 p.m. EDT.",
-      "pubDate": "2026-10-04T19:44:28Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401871051.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Utah State hosts Washington State in Pac-12 action",
-      "link": "http://www.espn.com/ncf/preview?gameId=401860922",
-      "description": "Washington State (1-4) at Utah State (1-4), Oct. 9 at 9 p.m. EDT.",
-      "pubDate": "2026-10-04T19:44:25Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401860922.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Kansas State squares off against No. 22 Houston in Big 12 action",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856825",
-      "description": "No. 22 Houston (4-1) at Kansas State (3-1), Oct. 10 at 3:30 p.m. EDT.",
-      "pubDate": "2026-10-04T19:44:21Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856825.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 9 Ole Miss visits Vanderbilt in SEC play",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856718",
-      "description": "No. 9 Ole Miss (3-1) at Vanderbilt (3-2), Oct. 10 at 3:30 p.m. EDT.",
-      "pubDate": "2026-10-04T19:44:16Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856718.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Illinois visits Michigan State in Big Ten play",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858480",
-      "description": "Illinois (2-3) at Michigan State (2-3), Oct. 10 at 3:30 p.m. EDT.",
-      "pubDate": "2026-10-04T19:44:13Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858480.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 14 Missouri hosts Texas A&M in SEC play",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856716",
-      "description": "Texas A&M (3-2) at No. 14 Missouri (4-1), Oct. 10 at 12 p.m. EDT.",
-      "pubDate": "2026-10-04T19:44:09Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856716.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 2 Georgia visits No. 6 Alabama",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856712",
-      "description": "No. 2 Georgia (5-0) at No. 6 Alabama (5-0), Oct. 10 at 7:30 p.m. EDT.",
-      "pubDate": "2026-10-04T19:44:05Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856712.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "No. 13 Oregon hosts No. 21 UCLA",
-      "link": "http://www.espn.com/ncf/preview?gameId=401858484",
-      "description": "No. 21 UCLA (4-0) at No. 13 Oregon (3-1), Oct. 10 at 3:30 p.m. EDT.",
-      "pubDate": "2026-10-04T19:44:01Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858484.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Arizona State hosts Hawaii",
-      "link": "http://www.espn.com/ncf/preview?gameId=401856808",
-      "description": "Hawaii (1-4) at Arizona State (2-2), Oct. 10 at 10:30 p.m. EDT.",
-      "pubDate": "2026-10-04T19:43:57Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856808.png?templateId=espn.applewatch.awayhome.1"
     }
   ],
   "insider": [
     {
-      "title": "Chiefs WR Thornton has dislocated ankle injury, sources say",
-      "link": "https://www.espn.com/nfl/story/_/id/50104571/chiefs-rule-rashee-rice-doubtful-return-injury",
-      "description": "Kansas City Chiefs wide receiver Tyquan Thornton, injured in his team in Sunday's 30-27 victory over the Las Vegas Raiders, suffered a dislocated ankle that was put back into place by doctors, sources told NFL Network's Ian Rapoport.",
-      "pubDate": "2026-10-05T04:37:11Z",
-      "source": "ESPN NFL · Nate Taylor",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1726104_600x600_1-1.jpg"
+      "title": "Joey Porter Jr.: I feel like I showed why Cowboys brought me here",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joey-porter-jr-i-feel-like-i-showed-why-cowboys-brought-me-here",
+      "description": "Cornerback Joey Porter Jr. wasn't on the field a lot during Sunday's game against the Texans, but his Cowboys debut was a happy one....",
+      "pubDate": "2026-10-05T14:38:40+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "The AFC road to L.A. may go through Duval",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-afc-road-to-l-a-may-go-through-duval",
+      "description": "As the stadium in Jacksonville undergoes renovations, the Jaguars will play only six games there in 2026....",
+      "pubDate": "2026-10-05T14:01:24+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dre Greenlaw says Sean Payton's \"disrespect\" motivated him on Sunday",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dre-greenlaw-says-sean-paytons-disrespect-motivated-him-on-sunday",
+      "description": "After 49ers linebacker Dre Greenlaw made a tackle on the Denver sideline in the first quarter of Sunday's win over the Broncos, he could be seen gesturing toward Broncos head coach...",
+      "pubDate": "2026-10-05T13:51:52+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Puka Nacua has a \"pre-hernia\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/puka-nacua-has-a-pre-hernia",
+      "description": "With Rams receiver Puka Nacua having \"core muscle\" issues during training camp and then a hip/groin problem that caused him to miss two games, it began to seem as if Nacua might ha...",
+      "pubDate": "2026-10-05T13:34:56+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Saints rookie WR Jordyn Tyson still weeks away from return from hamstring injury",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-saints-rookie-wr-jordyn-tyson-still-weeks-away-from-return-from-hamstring-injury",
+      "description": "The Saints will face the Falcons without first-round pick Jordyn Tyson on Monday night and it will reportedly be a little while longer before the wideout makes his NFL debut....",
+      "pubDate": "2026-10-05T13:18:10+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Saints rookie Jordyn Tyson weeks away from return",
+      "link": "https://www.espn.com/nfl/story/_/id/50108871/sources-saints-rookie-jordyn-tyson-weeks-away-return",
+      "description": "Saints rookie Jordyn Tyson, who has been on IR after suffering another hamstring injury, is making progress and feeling good but is still considered to be weeks away from returning to action, sources told ESPN.",
+      "pubDate": "2026-10-05T13:16:39Z",
+      "source": "ESPN NFL · Adam Schefter",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0522/r1661746_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Mike Macdonald: Seven personal fouls \"unacceptable on any level\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-seven-personal-fouls-unacceptable-on-any-level",
+      "description": "The Seahawks had a 21-point lead over the Chargers in the third quarter on Sunday, but the Chargers had the ball with a chance to tie or win the game with less than two minutes to ...",
+      "pubDate": "2026-10-05T13:10:34+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "C.J. Gardner-Johnson on Efton Chism: Practice squad player made a helluva play",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/c-j-gardner-johnson-on-efton-chism-practice-squad-player-made-a-helluva-play",
+      "description": "The Patriots beat the Bills on Sunday, but Bills safety C.J....",
+      "pubDate": "2026-10-05T13:00:25+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jim Harbaugh: Justin Herbert had one of the grittiest performances I've seen on Sunday",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jim-harbaugh-justin-herbert-had-one-of-the-grittiest-performances-ive-seen-on-sunday",
+      "description": "The Chargers are 0-4, but the coach has not lost any confidence in his quarterback....",
+      "pubDate": "2026-10-05T11:14:17+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "CeeDee Lamb: What can I do next time to capitalize off Sunday's performance?",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-what-can-i-do-next-time-to-capitalize-off-sundays-performance",
+      "description": "Cowboys wide receiver CeeDee Lamb grew up outside of Houston and he made his first NFL game in the city one to remember....",
+      "pubDate": "2026-10-05T11:14:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Reports: Broncos believe Pat Surtain II avoided long-term injury",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-broncos-believe-pat-surtain-ii-avoided-long-term-injury",
+      "description": "Broncos cornerback Pat Surtain II had to leave Sunday's 24-14 loss after the kind of non-contact injury that gives rise to thoughts of long-term absences, but early word is positiv...",
+      "pubDate": "2026-10-05T11:01:34+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Drake Maye: We have to build off \"relieving\" performance against Bills",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-we-have-to-build-off-relieving-performance-against-bills",
+      "description": "Patriots quarterback Drake Maye's performance in the first three weeks of the season led to a lot of questions about what was wrong with a player who ended the 2025 season as the r...",
+      "pubDate": "2026-10-05T10:54:26+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dan Campbell: I'm not talking about firing Kelvin Sheppard",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-im-not-talking-about-firing-kelvin-sheppard",
+      "description": "The Lions defense was unimpressive in the first three weeks of the 2026 season and things didn't get any better in Sunday night's loss to the Panthers....",
+      "pubDate": "2026-10-05T10:39:30+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tetairoa McMillan: Everything just clicked on Sunday night",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tetairoa-mcmillan-everything-just-clicked-on-sunday-night",
+      "description": "Panthers wide receiver Tetairoa McMillan's first Sunday night game was one to remember....",
+      "pubDate": "2026-10-05T10:25:43+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Travis Hunter played every snap on defense, none on offense",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/travis-hunter-played-every-snap-on-defense-none-on-offense",
+      "description": "Jaguars coach Liam Coen said Hunter was too important to the defense to risk him getting hurt on offense....",
+      "pubDate": "2026-10-05T10:00:35+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL reviewing incident between Vikings' Eric Wilson and ref Adrian Hill",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-reviewing-incident-between-vikings-eric-wilson-and-ref-adrian-hill",
+      "description": "An odd incident took place during Sunday's Vikings-Dolphins game when referee Adrian Hill got knocked to the ground and then got in the face of Vikings linebacker Eric Wilson....",
+      "pubDate": "2026-10-05T09:13:02+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
     },
     {
       "title": "Sunday Night Football: Tetairoa McMillan's big night powers Panthers to 32-26 victory",
@@ -846,26 +966,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Chuba Hubbard's second TD gives Panthers 29-19 lead",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chuba-hubbards-second-td-gives-panthers-29-19-lead",
-      "description": "The Panthers punted on their first drive....",
-      "pubDate": "2026-10-05T02:37:27+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Report: Chiefs are \"very interested\" in a Tyreek Hill reunion",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-chiefs-are-interested-in-a-tyreek-hill-reunion",
       "description": "Last year, before then-Dolphins receiver Tyreek Hill suffered a serious knee injury, the Chiefs were interested in trading for him....",
       "pubDate": "2026-10-05T02:27:11+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tetairoa McMillan's second TD catch gives Panthers 22-16 lead over Lions",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tetairoa-mcmillans-second-td-catch-gives-panthers-22-16-lead-over-lions",
-      "description": "Panthers receiver Tetairoa McMillan was limited to just two catches for 17 yards in last week’s loss to Cleveland....",
-      "pubDate": "2026-10-05T02:22:08+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -878,66 +982,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Sunday Night Football: Jameson Williams' deep catch allows Lions to tie Panthers 16-16 at halftime",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-jameson-williams-deep-catch-allows-lions-to-tie-panthers-16-16-at-halftime",
-      "description": "Though Carolina's Bryce Young started hot, Detroit has been able to answer so far in Week 4....",
-      "pubDate": "2026-10-05T01:59:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ben Johnson's decision to start Case Keenum was a reaction to the media",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ben-johnsons-decision-to-start-case-keenum-was-a-reaction-to-the-media",
-      "description": "Bears coach Ben Johnson can't help himself....",
-      "pubDate": "2026-10-05T01:58:32+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cam Skattebo: It was \"dumb\" that we were underdogs to the Cardinals at home",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-it-was-dumb-that-we-were-underdogs-to-the-cardinals-at-home",
-      "description": "The Giants entered Sunday's game with a chip on their shoulder....",
-      "pubDate": "2026-10-05T01:37:32+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Officials continue to ignore the other ways to finish a catch, beyond taking a third step",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/officials-continue-to-ignore-the-other-ways-to-finish-a-catch-beyond-taking-a-third-step",
-      "description": "After years of uncertainty as to what is and isn't a catch, the NFL added a wrinkle that streamlines the process....",
-      "pubDate": "2026-10-05T01:35:22+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Panthers take 13-6 lead with Bryce Young's 32-yard TD pass",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-take-13-6-lead-with-bryce-youngs-32-yard-td-pass",
-      "description": "Bryce Young is hot and the Panthers are rolling....",
-      "pubDate": "2026-10-05T01:23:56+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Vikings are third team start 4-0 while not scoring a TD in multiple games",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-are-third-team-start-4-0-while-not-scoring-a-td-in-multiple-games",
       "description": "The Vikings have essentially co-opted the slogan of the team that beat Minnesota in its most recent Super Bowl appearance, 50 years ago....",
       "pubDate": "2026-10-05T01:15:24+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Chuba Hubbard's 15-yard TD gives Panthers 7-3 lead over Lions",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chuba-hubbards-15-yard-td-gives-panthers-7-3-lead-over-lions",
-      "description": "For the second time this season, Chuba Hubbard has reached the end zone on the ground....",
-      "pubDate": "2026-10-05T00:58:06+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "All five 0-3 teams fell to 0-4",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/all-five-0-3-teams-fell-to-0-4",
-      "description": "Sunday started with five 0-3 teams in the NFL....",
-      "pubDate": "2026-10-05T00:51:55+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -950,58 +998,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Report: DJ Moore shoulder injury not believed to be a long-term issue",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-dj-moore-shoulder-injury-not-believed-to-be-a-long-term-issue",
-      "description": "Bills wide receiver DJ Moore was forced to leave Sunday's loss to the Patriots due to a shoulder injury....",
-      "pubDate": "2026-10-05T00:40:23+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jameis Winston: I'm heating up and starting to get better",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jameis-winston-im-heating-up-and-starting-to-get-better",
-      "description": "The Giants made a trade to add quarterback J.J....",
-      "pubDate": "2026-10-05T00:29:34+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Joe Burrow on lack of offensive balance: My response is \"throw it more\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/joe-burrow-on-lack-of-offensive-balance-my-response-is-throw-it-more",
-      "description": "Bengals quarterback Joe Burrow dropped back to pass 58 times on unpenalized plays in Sunday's 22-17 loss to the Jaguars, but he isn't looking for more offensive balance in the comi...",
-      "pubDate": "2026-10-05T00:13:04+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seahawks escape Chargers 30-23",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/seahawks-escape-chargers-30-23",
-      "description": "The Chargers lost left tackle Rashawn Slater (ankle), right tackle Joe Alt (neck), left guard Trevor Penning (concussion), cornerback Donte Jackson (hamstring) and wide receiver La...",
-      "pubDate": "2026-10-05T00:03:00+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Kenneth Walker runs for 177, two TDs, Chiefs beat Raiders 30-27",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-runs-for-177-two-tds-chiefs-beat-raiders-30-27",
       "description": "Walker continued his terrific start to the 2026 season with another big performance to help Kansas City improve to 4-0....",
       "pubDate": "2026-10-04T23:59:05+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kyle Monangai has a thumb injury",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-monangai-has-a-thumb-injury",
-      "description": "Bears running back Kyle Monangai had a big day in Sunday's 23-12 win over the Jets, but he suffered an injury that the team will be monitoring as they head into Week 5....",
-      "pubDate": "2026-10-04T23:58:07+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFLPA issues statement on comments made by line judge Jeff Seeman to Cardinals tight end Trey McBride",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-issues-statement-on-comments-made-by-line-judge-jeff-seeman-to-cardinals-tight-end-trey-mcbride",
-      "description": "During Sunday's game between the Cardinals and the Giants, CBS camera caught an interaction between line judge Jeff Seeman and Arizona tight end Trey McBride....",
-      "pubDate": "2026-10-04T23:37:03+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -1014,58 +1014,50 @@
       "thumbnail": ""
     },
     {
-      "title": "Lamar Jackson is believed to be \"week to week,\" pending an MRI",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-is-believed-to-week-to-week-pending-an-mri",
-      "description": "Jackson...",
-      "pubDate": "2026-10-04T23:24:49+00:00",
+      "title": "Nick Sirianni on Lane Johnson: He's dealing with a personal matter, that's all I'll say",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nick-sirianni-on-lane-johnson-hes-dealing-with-a-personal-matter-thats-all-ill-say",
+      "description": "Eagles right tackle Lane Johnson was an unexpected scratch from the lineup on Sunday and head coach Nick Sirianni didn't shed any light about his outlook moving forward during a pr...",
+      "pubDate": "2026-10-04T22:06:06+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "Fantasy football Week 4 inactives: Coker ruled out for Sunday Night Football",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50077553/fantasy-football-injuries-nfl-week-4-inactive-active",
-      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "pubDate": "2026-10-04T23:20:36Z",
-      "source": "ESPN NFL · Michael F. Florio",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1002/r1724903_576x324_16-9.jpg"
-    },
-    {
-      "title": "Tyquan Thornton carted with lower-leg injury, Chiefs take 23-19 lead",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyquan-thornton-carted-with-lower-leg-injury-chiefs-take-23-19-lead",
-      "description": "Chiefs receiver Tyquan Thornton suffered an apparent serious lower-leg injury during the fourth quarter of Sunday's matchup with the Raiders....",
-      "pubDate": "2026-10-04T23:17:16+00:00",
+      "title": "Mike Vrabel: Ref flagged me because he was sensitive when I told him he made a bad call",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-vrabel-ref-flagged-me-because-he-was-sensitive-when-i-told-him-he-made-a-bad-call",
+      "description": "Referee Bill Vinovich said of Vrabel after the game, \"He was out of the box, came up to the official and said, 'That was a f-----g terrible call.\"...",
+      "pubDate": "2026-10-04T21:31:59+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "49ers lose FB Kyle Juszczyk to knee injury, lead Broncos 17-14",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-lose-fb-kyle-juszczyk-to-knee-injury-lead-broncos-17-14",
-      "description": "The 49ers are trying to close out a win over the Broncos on Sunday afternoon and they won't have the help of fullback Kyle Juszczyk the rest of the way....",
-      "pubDate": "2026-10-04T23:14:44+00:00",
+      "title": "Rams score 14 in fourth quarter, beat Eagles 24-20",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-score-14-in-fourth-quarter-beat-eagles-24-20",
+      "description": "Los Angeles was able to defeat Philadelphia with two long TD drives toward the end of the game....",
+      "pubDate": "2026-10-04T20:32:55+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "Five field goals enough for Vikings to beat Dolphins",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/five-field-goals-enough-for-vikings-to-beat-dolphins",
-      "description": "A big game from T.J. Hockenson helped the Vikings improve to 4-0. The Dolphins are 0-4....",
-      "pubDate": "2026-10-04T23:01:27+00:00",
+      "title": "Cowboys' touchdown with 40 seconds left beats Texans 34-30",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-touchdown-with-40-seconds-left-beats-texans-34-30",
+      "description": "CeeDee Lamb's 17th reception from Dak Prescott was the game-winner....",
+      "pubDate": "2026-10-04T20:19:11+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "Broncos WR Pat Bryant carted off in third quarter",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-wr-pat-bryant-carted-off-in-third-quarter",
-      "description": "Injuries are starting to mount for the Broncos in the second half of their game against the 49ers....",
-      "pubDate": "2026-10-04T22:47:36+00:00",
+      "title": "Drake Maye bounces back as Patriots upset Bills",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/drake-maye-bounces-back-as-patriots-upset-bills",
+      "description": "Maye turned in his best game of the year as the Patriots went to Buffalo and pulled off a hard-fought win....",
+      "pubDate": "2026-10-04T20:13:01+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "Kenneth Walker 76-yard run leads to TD, Chiefs lead 17-13",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kenneth-walker-76-yard-run-leads-to-td-chiefs-lead-17-13",
-      "description": "Kenneth Walker continues to make a big impact for his new team....",
-      "pubDate": "2026-10-04T22:45:08+00:00",
+      "title": "Packers hold on for 17-14 win over Bucs",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-hold-on-for-17-14-win-over-bucs",
+      "description": "It wasn't pretty, but a win is a win is a win, and the Packers will take it....",
+      "pubDate": "2026-10-04T20:04:22+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     }
