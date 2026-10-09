@@ -1,6 +1,334 @@
 {
-  "generatedAt": "2026-10-09T02:57:12.122634+00:00",
+  "generatedAt": "2026-10-09T10:06:52.625498+00:00",
   "nfl": [
+    {
+      "title": "Why the Raiders' running game has struggled, and what's next for Ashton Jeanty",
+      "link": "https://www.espn.com/nfl/story/_/id/50129469/las-vegas-raiders-struggling-running-game-ashton-jeanty",
+      "description": "The Raiders have made offensive strides ... except for the running game. What's next for Las Vegas and Ashton Jeanty?",
+      "pubDate": "2026-10-09T10:00:20Z",
+      "source": "ESPN NFL · Ryan McFadden",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728022_608x342_16-9.jpg"
+    },
+    {
+      "title": "How Saints can regroup, fix slow starts ahead of matchup with unbeaten Vikings",
+      "link": "https://www.espn.com/nfl/story/_/id/50126700/new-orleans-saints-sour-taste-week-5-minnesota-vikings",
+      "description": "New Orleans had a tough Week 4 loss to Atlanta, which also highlighted key deficiencies the Saints need to correct.",
+      "pubDate": "2026-10-09T10:00:13Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1727777_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Do the Broncos have a reliable No. 1 running back? Sorting Denver's backfield",
+      "link": "https://www.espn.com/nfl/story/_/id/50134206/broncos-rbs-struggling-jk-dobbins-harvey-coleman-badie",
+      "description": "The Broncos' running game has been stuck in neutral, as J.K. Dobbins, RJ Harvey and Tyler Badie have struggled in the early going.",
+      "pubDate": "2026-10-09T10:00:10Z",
+      "source": "ESPN NFL · Jeff Legwold",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728014_608x342_16-9.jpg"
+    },
+    {
+      "title": "The Bear’s Den: Green Bay Packers Sunday, let’s do this!",
+      "link": "https://sports.yahoo.com/articles/bear-den-green-bay-packers-100000449.html",
+      "description": "The Chicago Bears head north for a noon-time matchup at the Green Bay Packers. Can the good guys win?...",
+      "pubDate": "2026-10-09T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Giants news: Dennard Wilson on Tae Banks, Arvell Reese named Rookie of the Week",
+      "link": "https://sports.yahoo.com/articles/giants-news-dennard-wilson-tae-100000186.html",
+      "description": "New York Giants headlines for Friday....",
+      "pubDate": "2026-10-09T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sean Payton explains why he’s taking over Broncos play-calling",
+      "link": "https://sports.yahoo.com/articles/sean-payton-explains-why-taking-100000967.html",
+      "description": "Sean Payton is taking over play-calling duties for the Broncos, explaining the decision and what he hopes to accomplish....",
+      "pubDate": "2026-10-09T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cleveland Browns news: The defense never rests in Cleveland",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-defense-never-100000435.html",
+      "description": "The latest Cleveland Browns news and notes from around the NFL in the October 9 edition of the Daily Dawg Chow....",
+      "pubDate": "2026-10-09T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Drake Maye&#39;s trash-talking brothers prepared him to overcome slow start to season",
+      "link": "https://sports.yahoo.com/articles/drake-mayes-trash-talking-brothers-094633815.html",
+      "description": "New England Patriots QB Drake Maye is riding the rollercoaster of up-and-down play as he readies for the Las Vegas Raiders....",
+      "pubDate": "2026-10-09T09:46:33+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "After Jalon Daniels leads Bucs over Cowboys, NFL teams are 8-4 when starting a backup QB",
+      "link": "https://sports.yahoo.com/articles/jalon-daniels-leads-bucs-over-092745234.html",
+      "description": "Injuries to starting quarterbacks have not derailed teams this season....",
+      "pubDate": "2026-10-09T09:27:45+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Golden Nuggets: Connor Colby might be faster than the Blue Angels",
+      "link": "https://sports.yahoo.com/articles/golden-nuggets-connor-colby-might-090000522.html",
+      "description": "Your daily San Francisco 49ers news for Friday, October 9th, 2026...",
+      "pubDate": "2026-10-09T09:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys' Prescott irked by stadium worker's callout after loss",
+      "link": "https://www.espn.com/nfl/story/_/id/50138082/cowboys-prescott-irked-stadium-worker-call-loss",
+      "description": "Cowboys quarterback Dak Prescott took exception to a stadium worker who yelled \"embarrassing\" to him as he walked to the locker room after Thursday night's 24-16 loss to the Bucs.",
+      "pubDate": "2026-10-09T08:14:15Z",
+      "source": "ESPN NFL · Todd Archer",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728096_1296x1296_1-1.jpg"
+    },
+    {
+      "title": "NFL Week 5 betting: Odds, lines and totals for every game",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals",
+      "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
+      "pubDate": "2026-10-09T08:10:19Z",
+      "source": "ESPN NFL · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1002/r1725004_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
+      "link": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
+      "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
+      "pubDate": "2026-10-09T07:41:29Z",
+      "source": "ESPN NFL · Doug Greenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726378_608x342_16-9.jpg"
+    },
+    {
+      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
+      "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
+      "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
+      "pubDate": "2026-10-09T07:27:21Z",
+      "source": "ESPN NFL · Doug Greenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg"
+    },
+    {
+      "title": "Undrafted rookie QB Daniels savors Thursday night win vs. Cowboys",
+      "link": "https://www.espn.com/nfl/story/_/id/50138218/undrafted-rookie-qb-daniels-savors-thursday-night-win-vs-cowboys",
+      "description": "Jalon Daniels became the first undrafted rookie starting QB in the common draft era to win a game for a team that entered winless, leading the Bucs to a 24-16 win over the Cowboys.",
+      "pubDate": "2026-10-09T06:55:56Z",
+      "source": "ESPN NFL · Jenna Laine",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728095_600x400_3-2.jpg"
+    },
+    {
+      "title": "Dak addresses 'embarrassing' comment made in AT&T Stadium tunnel",
+      "link": "https://www.espn.com/video/clip/_/id/50138071/dak-addresses-embarrassing-comment-made-att-stadium-tunnel",
+      "description": "Dak addresses 'embarrassing' comment made in AT&T Stadium tunnel",
+      "pubDate": "2026-10-09T05:58:38Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Watchfolder_Dak_on_Embarrassing_Comment118/dm_261009_Watchfolder_Dak_on_Embarrassing_Comment118.jpg"
+    },
+    {
+      "title": "Sick Joey Porter Jr. sits out Cowboys' 'TNF' loss to Bucs",
+      "link": "https://www.espn.com/nfl/story/_/id/50135957/cowboys-say-sick-joey-porter-jr-face-bucs-tnf",
+      "description": "Joey Porter Jr. was ruled out of Thursday night's game against the Tampa Bay Buccaneers because of an illness.",
+      "pubDate": "2026-10-09T05:54:52Z",
+      "source": "ESPN NFL · Todd Archer",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1001/r1724652_600x600_1-1.jpg"
+    },
+    {
+      "title": "Buccaneers explode in third quarter against Cowboys to get first win",
+      "link": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf",
+      "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
+      "pubDate": "2026-10-09T05:23:16Z",
+      "source": "ESPN NFL · Jenna Laine and Todd Archer",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg"
+    },
+    {
+      "title": "Jerry Jones calls Cowboys&#39; TNF loss to Buccaneers &#39;extraordinarily disappointing&#39;",
+      "link": "https://sports.yahoo.com/articles/jerry-jones-calls-cowboys-tnf-051940860.html",
+      "description": "Jerry Jones said the Cowboys&#39; loss to the Buccaneers on &quot;Thursday Night Football&quot; was &quot;extraordinarily disappointing.&quot;...",
+      "pubDate": "2026-10-09T05:19:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jerry Jones expresses confidence in Christian Parker",
+      "link": "https://sports.yahoo.com/articles/jerry-jones-expresses-confidence-christian-045700716.html",
+      "description": "Dan Quinn left as the Cowboys&#39; defense coordinator after the 2023 season to become the Commanders&#39; head coach....",
+      "pubDate": "2026-10-09T04:57:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "&#39;Embarrassing&#39;: Worker heckles Cowboys QB Dak Prescott after loss",
+      "link": "https://sports.yahoo.com/articles/embarrassing-team-employee-heckles-cowboys-044714181.html",
+      "description": "A worker, according to reporters who witnessed the incident, uttered the word &quot;embarrassing&quot; as Cowboys QB Dak Prescott passed by....",
+      "pubDate": "2026-10-09T04:47:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "3 things we learned from the Cowboys vs Buccaneers",
+      "link": "https://sports.yahoo.com/articles/3-things-learned-cowboys-vs-043744350.html",
+      "description": "We learned a few things about the Cowboys in this loss...",
+      "pubDate": "2026-10-09T04:37:44+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "'That ain't me': Bears' D'Andre Swift laments early fumble issues",
+      "link": "https://www.espn.com/nfl/story/_/id/50135427/that-aint-bears-dandre-swift-laments-early-season-fumbles",
+      "description": "After fumbling twice in the Bears first four games, running back D'Andre Swift said Thursday that his turnover problem is \"over with now.\"",
+      "pubDate": "2026-10-09T04:33:14Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728000_600x400_3-2.jpg"
+    },
+    {
+      "title": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
+      "link": "http://www.espn.com/nfl/recap?gameId=401872980",
+      "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
+      "pubDate": "2026-10-09T04:32:27Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Jerry Jones, George Pickens go berserk after Cowboys suffer brutal home loss to Buccaneers",
+      "link": "https://sports.yahoo.com/articles/jerry-jones-george-pickens-berserk-043116250.html",
+      "description": "It proved to be a Texas two-step for a disaster....",
+      "pubDate": "2026-10-09T04:31:16+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy football buzz: Sean Payton not a cure-all for Broncos fantasy woes",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+      "description": "Sean Payton will call the plays for the Broncos' offense, but fantasy managers should temper their expectations.",
+      "pubDate": "2026-10-09T04:26:22Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728089_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Buccaneers Week 5 Top Performers at Dallas Cowboys",
+      "link": "https://sports.yahoo.com/articles/buccaneers-week-5-top-performers-041900467.html",
+      "description": "The Buccaneers came into Thursday Night Football facing long odds on the road and improbably secured their first victory of 2026 with a 24-16 win over the Dallas Cowboys. It almost...",
+      "pubDate": "2026-10-09T04:19:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Week 5 TNF highlights: Best plays, moments, touchdowns from Cowboys vs. Bucs",
+      "link": "https://www.espn.com/nfl/story/_/id/50134891/week-5-tnf-highlights-cowboys-buccaneers",
+      "description": "A look at the highlights from Dallas hosting Tampa Bay for \"Thursday Night Football\" to kick off Week 5.",
+      "pubDate": "2026-10-09T04:17:25Z",
+      "source": "ESPN NFL · Todd Archer and Jenna Laine",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728056_608x342_16-9.jpg"
+    },
+    {
+      "title": "Buccaneers stun Cowboys 24-16 to pick up first win of season",
+      "link": "https://www.espn.com/video/clip/_/id/50137470/buccaneers-stun-cowboys-24-16-pick-first-win-season",
+      "description": "Buccaneers stun Cowboys 24-16 to pick up first win of season",
+      "pubDate": "2026-10-09T04:08:56Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/03761ba3e59c4375ae9f35e4e21ec0658/03761ba3e59c4375ae9f35e4e21ec0658.jpg"
+    },
+    {
+      "title": "Mac & Read Talk Bears vs. Packers!",
+      "link": "https://sports.yahoo.com/articles/mac-read-talk-bears-vs-035809149.html",
+      "description": "The latest Mac & Read Show is available everywhere you get your podcasts @2ndCityGridiron!...",
+      "pubDate": "2026-10-09T03:58:09+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Week 5 Game Recap: Buccaneers shock Cowboys in upset",
+      "link": "https://sports.yahoo.com/articles/week-5-game-recap-buccaneers-035749146.html",
+      "description": "Bucs at Cowboys week five game recap....",
+      "pubDate": "2026-10-09T03:57:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bucky Irving shreds Dallas&#39; defense on Thursday night",
+      "link": "https://sports.yahoo.com/articles/bucky-irving-shreds-dallas-defense-035414672.html",
+      "description": "Bucky Irving had a dominant performance in Week 5, racking up 175 yards and scoring twice in an upset win over Dallas....",
+      "pubDate": "2026-10-09T03:54:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tyreek Hill testifies in assault and battery civil trial in Miami",
+      "link": "https://www.espn.com/nfl/story/_/id/50136790/tyreek-hill-denies-allegations-physically-abused-estranged-wife",
+      "description": "Tyreek Hill took the stand in his assault and battery civil trial Thursday. He denied allegations that he ever physically abused his estranged wife.",
+      "pubDate": "2026-10-09T03:54:05Z",
+      "source": "ESPN NFL · Xuan Thai",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728078_600x400_3-2.jpg"
+    },
+    {
+      "title": "Cowboys vs. Buccaneers: 2 winners and 3 losers",
+      "link": "https://sports.yahoo.com/articles/cowboys-vs-buccaneers-2-winners-034611402.html",
+      "description": "Here are our winners and losers from Thursday’s game...",
+      "pubDate": "2026-10-09T03:46:11+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "A Big Upset In The Big D: 3 Takeaways From Cowboys' Stunning Loss To Buccaneers",
+      "link": "https://www.foxsports.com/stories/nfl/big-upset-big-d-3-takeaways-from-cowboys-stunning-loss-buccaneers",
+      "description": "The Buccaneers delivered a stunner in Dallas. Here are our takeaways from the Cowboys' surprising loss.",
+      "pubDate": "2026-10-09T03:41:55+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/buccaneers-takeaways.jpg"
+    },
+    {
+      "title": "Fantasy football stock watch: Boston among players rising; Hurts falling",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts",
+      "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
+      "pubDate": "2026-10-09T03:40:26Z",
+      "source": "ESPN NFL · Matt Bowen",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Cowboys defense lays an egg again in bad loss to Buccaneers: TNF winners and losers",
+      "link": "https://sports.yahoo.com/articles/cowboys-defense-lays-egg-again-033852073.html",
+      "description": "The winners and losers of the Thursday Night Football game between the Cowboys and Buccaneers....",
+      "pubDate": "2026-10-09T03:38:52+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys vs Buccaneers recap: Dallas drops a game they had no business losing",
+      "link": "https://sports.yahoo.com/articles/cowboys-vs-buccaneers-recap-dallas-032634872.html",
+      "description": "The Cowboys gave it away when they had all the advantages...",
+      "pubDate": "2026-10-09T03:26:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Thursday Night Football: Bucs upset Cowboys 24-16",
+      "link": "https://sports.yahoo.com/articles/thursday-night-football-bucs-upset-032610534.html",
+      "description": "The Bucs ran for 241 yards, including 165 by Bucky Irving....",
+      "pubDate": "2026-10-09T03:26:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys close to within 24-16 on George Pickens&#39; TD as CeeDee Lamb is questionable to return",
+      "link": "https://sports.yahoo.com/articles/cowboys-close-within-24-16-030455395.html",
+      "description": "The Cowboys are without wide receiver CeeDee Lamb, who is questionable to return with a quad injury....",
+      "pubDate": "2026-10-09T03:04:55+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "CeeDee Lamb injury update as Cowboys star WR exits vs. Buccaneers",
+      "link": "https://sports.yahoo.com/articles/ceedee-lamb-injury-cowboys-star-030105183.html",
+      "description": "The Dallas Cowboys may have lost one of their top pass-catching weapons in their Week 5 game against the Tampa Bay Buccaneers....",
+      "pubDate": "2026-10-09T03:01:05+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Tom Brady Remembers The Saddest Moment Of Career: 'Worst Thing I Could've Ever Imagined'",
       "link": "https://www.foxsports.com/stories/nfl/tom-brady-remembers-saddest-moment-career-worst-thing-i-couldve-ever-imagined",
@@ -8,14 +336,6 @@
       "pubDate": "2026-10-09T02:37:58+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/26brady-ask-tom-week-4-c.jpg"
-    },
-    {
-      "title": "Fantasy football buzz: Sean Payton not a cure-all for Broncos fantasy woes",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "description": "Sean Payton will call the plays for the Broncos offense, but fantasy managers should temper their expectations.",
-      "pubDate": "2026-10-09T02:27:17Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728089_1296x729_16-9.jpg"
     },
     {
       "title": "Marvin Harrison Jr. says he is paying trade rumors &quot;no mind&quot;",
@@ -34,14 +354,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Week 5 TNF highlights: Best plays, moments, touchdowns, from Cowboys vs. Bucs",
-      "link": "https://www.espn.com/nfl/story/_/id/50134891/week-5-tnf-highlights-cowboys-buccaneers",
-      "description": "A look at the highlights from Dallas hosting Tampa Bay for \"Thursday Night Football\" to kick off Week 5.",
-      "pubDate": "2026-10-09T02:14:33Z",
-      "source": "ESPN NFL · Todd Archer and Jenna Laine",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728056_608x342_16-9.jpg"
-    },
-    {
       "title": "Browns vs. Jets Week 5 picks: A 50/50 split",
       "link": "https://sports.yahoo.com/articles/browns-vs-jets-week-5-021130138.html",
       "description": "The DBN staff predicts the Week 5 games, plus the national media make their predictions for Browns vs. Jets....",
@@ -58,20 +370,20 @@
       "thumbnail": ""
     },
     {
+      "title": "Giants already giving J.J. McCarthy an ‘A-plus’ in one area",
+      "link": "https://sports.yahoo.com/articles/giants-already-giving-j-j-020324376.html",
+      "description": "J.J. McCarthy’s crash course in the Giants playbook apparently comes complete with a report card....",
+      "pubDate": "2026-10-09T02:03:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Bucs need only two plays to take the second-half lead",
       "link": "https://sports.yahoo.com/articles/bucs-only-two-plays-second-020245193.html",
       "description": "The Bucs&#39; first possession of Thursday night&#39;s game was a 15-play, 73-yard touchdown drive that ate 10:58 off the clock....",
       "pubDate": "2026-10-09T02:02:45+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Tyreek Hill testifies in assault and battery civil trial in Miami",
-      "link": "https://www.espn.com/nfl/story/_/id/50136790/tyreek-hill-denies-allegations-physically-abused-estranged-wife",
-      "description": "Tyreek Hill took the stand in his assault and battery civil trial Thursday. He denied allegations that he ever physically abused his estranged wife.",
-      "pubDate": "2026-10-09T01:52:25Z",
-      "source": "ESPN NFL · Xuan Thai",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728078_600x400_3-2.jpg"
     },
     {
       "title": "Thursday Night Football: Cowboys lead Bucs 10-7 at halftime",
@@ -82,327 +394,55 @@
       "thumbnail": ""
     },
     {
-      "title": "NFL Week 5 uniforms: Packers debut Rivalries look, Patriots wearing throwbacks",
-      "link": "https://www.espn.com/nfl/story/_/id/50120618/nfl-week-5-uniforms",
-      "description": "Here's a look at what each NFL team is wearing in Week 5, led by the Green Bay Packers debuting their Rivalries look.",
-      "pubDate": "2026-10-09T01:36:14Z",
-      "source": "ESPN NFL · Anthony Gharib",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1007/nfl-week-5-uniforms-16x9.jpg"
-    },
-    {
-      "title": "&#39;Football 301&#39; on 49ers vs. Seahawks: Brock Purdy and his offensive machine face their biggest test",
-      "link": "https://sports.yahoo.com/nfl/article/football-301-on-49ers-vs-seahawks-brock-purdy-and-his-offensive-machine-face-their-biggest-test-012449853.html",
-      "description": "How will the chess match between Kyle Shanahan&#39;s 49ers offense and Mike Macdonald&#39;s Seahawks defense play out in this titanic early-season tilt?...",
-      "pubDate": "2026-10-09T01:24:49+00:00",
+      "title": "Commanders reveal Jayden Daniels’ status ahead of Week 5 matchup with Giants",
+      "link": "https://sports.yahoo.com/articles/commanders-reveal-jayden-daniels-status-013859587.html",
+      "description": "Commanders QB Jayden Daniels is cleared to return from an elbow injury and will play in Sunday&#39;s Week 5 matchup against the Giants....",
+      "pubDate": "2026-10-09T01:38:59+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Still waiting on Myles Garrett? Byron Young is giving the Rams an elite pass rush already",
-      "link": "https://sports.yahoo.com/articles/byron-young-elite-season-without-011542373.html",
-      "description": "Rams’ Byron Young is having his best career season even while Myles Garrett is out...",
-      "pubDate": "2026-10-09T01:15:42+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bucs score on first drive to tie Cowboys 7-7",
-      "link": "https://sports.yahoo.com/articles/bucs-score-first-drive-tie-005315786.html",
-      "description": "The Buccaneers&#39; opening drive was as impressive as the Cowboys&#39;....",
-      "pubDate": "2026-10-09T00:53:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cards' Marvin Harrison Jr. paying 'no mind' to trade rumors",
-      "link": "https://www.espn.com/nfl/story/_/id/50136259/cards-marvin-harrison-jr-paying-no-mind-trade-rumors",
-      "description": "Sources said the Cardinals are not shopping Marvin Harrison Jr. but other teams are still doing their due diligence on the receiver, including the Colts.",
-      "pubDate": "2026-10-09T00:51:53Z",
-      "source": "ESPN NFL · Josh Weinfuss and Stephen Holder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695394_600x600_1-1.jpg"
-    },
-    {
-      "title": "Cardinals work out four defensive backs",
-      "link": "https://sports.yahoo.com/articles/cardinals-four-defensive-backs-004435038.html",
-      "description": "Defensive safety group is having issues...",
-      "pubDate": "2026-10-09T00:44:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "What signing Mike Brown to the 53-man roster means for the Patriots",
-      "link": "https://sports.yahoo.com/articles/signing-mike-brown-53-man-004015173.html",
-      "description": "The Patriots promoted the safety and special teamer from the practice squad on Thursday....",
-      "pubDate": "2026-10-09T00:40:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills' 'one-of-a-kind' Josh Allen offers challenge for Rams' defensive progress on Monday night",
-      "link": "http://www.espn.com/nfl/preview?gameId=401872994",
-      "description": "— From his sideline, Matthew Stafford had a great vantage point on Josh Allen’s skills as the Los Angeles Rams held off the Buffalo Bills 44-42 on Dec. 8, 2024, when Allen became the ",
-      "pubDate": "2026-10-09T00:33:28Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872994.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Cowboys take 7-0 lead on opening drive",
-      "link": "https://sports.yahoo.com/articles/cowboys-7-0-lead-opening-003205233.html",
-      "description": "The Cowboys have been virtually unstoppable in the red zone this season....",
-      "pubDate": "2026-10-09T00:32:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Richard Sherman spreads wild Joey Porter Jr. illness theory on TNF",
-      "link": "https://sports.yahoo.com/articles/richard-sherman-spreads-wild-joey-001622809.html",
-      "description": "Former NFL star Richard Sherman questioned the reason Joey Porter Jr., who was ruled out with illness, would not play for the Cowboys....",
-      "pubDate": "2026-10-09T00:16:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Buccaneers at Cowboys Open Thread!",
-      "link": "https://sports.yahoo.com/articles/buccaneers-cowboys-open-thread-001100678.html",
-      "description": "Talk TNF with us here!...",
-      "pubDate": "2026-10-09T00:11:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills Thursday injury report: Christian Benford returns",
-      "link": "https://sports.yahoo.com/articles/bills-thursday-injury-report-christian-000952202.html",
-      "description": "Here’s the first injury report of Week 5...",
-      "pubDate": "2026-10-09T00:09:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys say sick Joey Porter Jr. won't face Bucs on 'TNF'",
-      "link": "https://www.espn.com/nfl/story/_/id/50135957/cowboys-say-sick-joey-porter-jr-face-bucs-tnf",
-      "description": "Joey Porter Jr. was ruled out of Thursday night's game against the Tampa Bay Buccaneers because of an illness.",
-      "pubDate": "2026-10-09T00:08:21Z",
-      "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1001/r1724652_600x600_1-1.jpg"
-    },
-    {
-      "title": "Cowboys-Bucs live discussion: An MVP candidate versus a rookie quarterback",
-      "link": "https://sports.yahoo.com/articles/cowboys-bucs-live-discussion-mvp-000500006.html",
-      "description": "The Cowboys take on the Bucs on Thursday night football...",
-      "pubDate": "2026-10-09T00:05:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "LIVE chat: Dallas Cowboys vs. Tampa Bay Buccaneers, ‘TNF’ Week 5",
-      "link": "https://sports.yahoo.com/articles/live-chat-dallas-cowboys-vs-000406986.html",
-      "description": "The Dallas Cowboys face the Tampa Bay Buccaneers under lights of Thursday Night Football in Week 5...",
-      "pubDate": "2026-10-09T00:04:06+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Thursday Night Football: Tampa Bay Buccaneers @ Dallas Cowboys",
-      "link": "https://sports.yahoo.com/articles/thursday-night-football-tampa-bay-000000187.html",
-      "description": "Thursday Night Football!...",
-      "pubDate": "2026-10-09T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Miami Dolphins Discussion: Week 5 Game Vs Cincinnati Bengals Predictions Edition",
-      "link": "https://sports.yahoo.com/articles/miami-dolphins-discussion-week-5-000000955.html",
-      "description": "Miami Dolphins fans share their predictions for tomorrows game versus the Cincinnati Bengals....",
-      "pubDate": "2026-10-09T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "BTSC Thursday Night Football game thread: Buccaneers at Cowboys",
-      "link": "https://sports.yahoo.com/articles/btsc-thursday-night-football-game-000000634.html",
-      "description": "Chat about the NFL’s Week 5 kickoff here at Behind the Steel Curtain....",
-      "pubDate": "2026-10-09T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Week 5 Yahoo Fantasy x Arena Club Slab Packs: Joe Burrow, CeeDee Lamb among chase cards",
-      "link": "https://sports.yahoo.com/fantasy/article/week-5-yahoo-fantasy-x-arena-club-slab-packs-joe-burrow-ceedee-lamb-among-chase-cards-235943825.html",
-      "description": "Loaded with top performers and fantasy stars, the Yahoo Fantasy x Arena Club Slab packs will be available each week during the regular season for collectors and fans to digitally r...",
-      "pubDate": "2026-10-08T23:59:43+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Buccaneers at Cowboys: Game chat for Thursday Night Football",
-      "link": "https://sports.yahoo.com/articles/buccaneers-cowboys-game-chat-thursday-235700017.html",
-      "description": "The Tampa Bay Buccaneers are in Dallas to take on the Cowboys for some Thursday Night Football action. The Bucs will have edge rusher Rueben Bain Jr. back in the lineup after missi...",
-      "pubDate": "2026-10-08T23:57:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Taking The L: What We've Been The Most Wrong About Through 1st Quarter Of NFL Season",
-      "link": "https://www.foxsports.com/stories/nfl/taking-l-what-weve-been-most-wrong-about-through-1st-quarter-nfl-season",
-      "description": "We're eating a slice of humble pie and sharing which of our preseason predictions were the most off-base.",
-      "pubDate": "2026-10-08T23:56:49+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/where-we-were-wrong-16x9-1.jpg"
-    },
-    {
-      "title": "Staley perplexed by Aikman's calls on Saints' D: 'They're not true'",
-      "link": "https://www.espn.com/nfl/story/_/id/50135736/staley-perplexed-aikman-saints-d",
-      "description": "New Orleans Saints defensive coordinator Brandon Staley took issue Thursday with comments made by ESPN analyst Troy Aikman during the Saints' 45-24 loss to the Atlanta Falcons.",
-      "pubDate": "2026-10-08T23:56:29Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728023_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Seahawks fan chat: Cowboys host winless Buccaneers on ‘Thursday Night Football’",
-      "link": "https://sports.yahoo.com/articles/seahawks-fan-chat-cowboys-host-234500995.html",
-      "description": "The Cowboys can get above .500 for the first time this season, while the Buccaneers are in desperate need of a win....",
-      "pubDate": "2026-10-08T23:45:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Join our Cowboys discussion",
-      "link": "https://sports.yahoo.com/articles/join-cowboys-discussion-234500778.html",
-      "description": "Our live thread for today’s Dallas Cowboys game is open....",
-      "pubDate": "2026-10-08T23:45:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Thursday Night Football: Cowboys vs. Buccaneers",
-      "link": "https://sports.yahoo.com/articles/thursday-night-football-cowboys-vs-234500854.html",
-      "description": "Watch this week’s TNF game here!...",
-      "pubDate": "2026-10-08T23:45:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-      "link": "http://www.espn.com/nfl/preview?gameId=401872982",
-      "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers dealing with injuries.",
-      "pubDate": "2026-10-08T23:42:28Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Chargers Injury Report: Starters galore litter Thursday’s report",
-      "link": "https://sports.yahoo.com/articles/chargers-injury-report-starters-galore-233958687.html",
-      "description": "Derwin James and Ladd McConkey were once again non-participants in Thursday’s practice....",
-      "pubDate": "2026-10-08T23:39:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Browns, Jets Week 5 injury report: New concerns for CLE on Thursday",
-      "link": "https://sports.yahoo.com/articles/browns-jets-week-5-injury-233153371.html",
-      "description": "On the second day of Week 5 practice, Browns added some injuries, while the Jets are without Breece Hall, AD Mitchell...",
-      "pubDate": "2026-10-08T23:31:53+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sean Payton takes over play-calling duties on offense for the Broncos",
-      "link": "https://sports.yahoo.com/articles/sean-payton-takes-over-play-233000886.html",
-      "description": "In the NFL, experience matters — especially at the coaching level. Few offensive minds have more experience calling plays in the NFL than Denver Broncos head coach Sean Payton. Whi...",
-      "pubDate": "2026-10-08T23:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Buccaneers at Cowboys: Inactives for Thursday Night Football",
-      "link": "https://sports.yahoo.com/articles/buccaneers-cowboys-inactives-thursday-night-232858511.html",
-      "description": "The Tampa Bay Buccaneers and Dallas Cowboys have released their inactive lists ahead of tonight’s Thursday Night Football matchup at AT&T Stadium. For Tampa Bay, there are no surpr...",
-      "pubDate": "2026-10-08T23:28:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Unbeaten, defense-led Vikings head south to face the struggling Saints and QB Tyler Shough",
-      "link": "http://www.espn.com/nfl/preview?gameId=401872987",
-      "description": "— Saints quarterback Tyler Shough's 14th career start will be among the toughest tests of his young career — and he knows it.",
-      "pubDate": "2026-10-08T23:25:28Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872987.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "TNF expert picks, predictions: Buccaneers at Cowboys",
-      "link": "https://sports.yahoo.com/articles/tnf-expert-picks-predictions-buccaneers-232508743.html",
-      "description": "Check out our NFL Week 5 expert picks for Buccaneers vs. Cowboys on “Thursday Night Football.”...",
-      "pubDate": "2026-10-08T23:25:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams fans want another trade. What does Les Snead have left to spend?",
-      "link": "https://sports.yahoo.com/articles/rams-fans-want-another-trade-232155781.html",
-      "description": "With cap space and draft picks running low, Les Snead may have little room to improve the Rams at the trade deadline....",
-      "pubDate": "2026-10-08T23:21:55+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Odds, winner picks for Bengals vs. Dolphins, full Week 5 schedule",
-      "link": "https://sports.yahoo.com/articles/odds-winner-picks-bengals-vs-232154065.html",
-      "description": "Our Week 5 predictions are here. Join our season-long picks pool....",
-      "pubDate": "2026-10-08T23:21:54+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos vs. Chargers practice report: Thursday",
-      "link": "https://sports.yahoo.com/articles/broncos-vs-chargers-practice-report-231618775.html",
-      "description": "The Denver Broncos are getting healthier while the Los Angeles Chargers seem to be getting a bit worse on theirs. Denver welcomed back both edge rusher Dondrea Tillman and tight en...",
-      "pubDate": "2026-10-08T23:16:18+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Week 5 arrivals: Cowboys show Dallas Stars love ahead of TNF",
-      "link": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
-      "description": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "pubDate": "2026-10-08T23:14:33Z",
-      "source": "ESPN NFL · ESPN Staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728026_608x342_16-9.png"
-    },
-    {
-      "title": "Cleveland Browns keep adjusting on defense and finding success",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-keep-adjusting-defense-231423108.html",
-      "description": "DC Mike Rutenberg is mixing up coverages and working to his players’ strengths after a disastrous Week 1 performance....",
-      "pubDate": "2026-10-08T23:14:23+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers WR Mike Evans did not practice Thursday",
-      "link": "https://sports.yahoo.com/articles/49ers-wr-mike-evans-did-231359860.html",
-      "description": "49ers wide receiver Mike Evans did not practice on Thursday after being a limited participant a day earlier....",
-      "pubDate": "2026-10-08T23:13:59+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Breaking: Joey Porter Jr. out for Thursday night",
-      "link": "https://sports.yahoo.com/articles/breaking-joey-porter-jr-thursday-231253710.html",
-      "description": "The Cowboys have a surprise player sitting out tonight...",
-      "pubDate": "2026-10-08T23:12:53+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sean Payton says he's taking over playcalling for Broncos' offense",
-      "link": "https://www.espn.com/nfl/story/_/id/50135033/sean-payton-says-taking-playcalling-broncos-offense",
-      "description": "Broncos coach Sean Payton said he is taking over the offensive playcalling beginning Sunday against the Chargers as the team looks to kick-start a sputtering offense.",
-      "pubDate": "2026-10-08T23:08:17Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1727994_1296x729_16-9.jpg"
     }
   ],
   "ncaa": [
+    {
+      "title": "College football Week 6 best bets: White Out game leads the card",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50126875/college-football-odds-best-bets-week-6-spreads-lines-2026",
+      "description": "Pamela Maldonado and Mark Zinno break down the best bets they see around college football for Week 6.",
+      "pubDate": "2026-10-09T04:43:53Z",
+      "source": "ESPN College Football · Pamela Maldonado and Mark Zinno",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1007/r1727489_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Six college football buyouts that will determine the coaching carousel",
+      "link": "https://www.espn.com/college-football/story/_/id/50136127/college-football-coaching-carousel-buyouts",
+      "description": "From Lincoln Riley to Deion Sanders, these hefty buyouts will dictate the market.",
+      "pubDate": "2026-10-09T04:07:46Z",
+      "source": "ESPN College Football · Pete Thamel",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1725620_1296x729_16-9.jpg"
+    },
+    {
+      "title": "South Florida Bulls vs. UTSA Roadrunners: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/50137739/full-highlights",
+      "description": "South Florida Bulls vs. UTSA Roadrunners: Full Highlights",
+      "pubDate": "2026-10-09T04:03:46Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/82a8bdbc-ef7e-43fc-a9c6-2b238e44f5f0/82a8bdbc-ef7e-43fc-a9c6-2b238e44f5f0.jpg"
+    },
+    {
+      "title": "South Alabama beats Arkansas State 56-49 in the highest scoring FBS game this season",
+      "link": "http://www.espn.com/ncf/recap?gameId=401869933",
+      "description": "— Keenan Phillips ran for 157 yards and three touchdowns, and he added a 100-yard kickoff return as South Alabama beat Arkansas State 56-49 on Thursday night for the most combined...",
+      "pubDate": "2026-10-09T03:51:27Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401869933.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "South Alabama Jaguars vs. Arkansas State Red Wolves: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/50137660/full-highlights",
+      "description": "South Alabama Jaguars vs. Arkansas State Red Wolves: Full Highlights",
+      "pubDate": "2026-10-09T03:49:32Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1009/417f3ac6-b05c-4dcf-8ae9-8155f4fee4b6/417f3ac6-b05c-4dcf-8ae9-8155f4fee4b6.jpg"
+    },
     {
       "title": "Ajay Allen rushes for 105 yards and 2 touchdowns as Western Kentucky beats Missouri State 34-13",
       "link": "http://www.espn.com/ncf/recap?gameId=401871052",
@@ -410,14 +450,6 @@
       "pubDate": "2026-10-09T02:49:27Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401871052.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Six college football buyouts that will determine the coaching carousel",
-      "link": "https://www.espn.com/college-football/story/_/id/50136127/college-football-coaching-carousel-buyouts",
-      "description": "From Lincoln Riley to Deion Sanders, these hefty buyouts will dictate the market.",
-      "pubDate": "2026-10-09T02:36:47Z",
-      "source": "ESPN College Football · Pete Thamel",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1725620_1296x729_16-9.jpg"
     },
     {
       "title": "Sam Houston Bearkats vs. Liberty Flames: Full Highlights",
@@ -570,14 +602,6 @@
       "pubDate": "2026-10-08T13:57:07Z",
       "source": "ESPN College Football · ESPN",
       "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726196_1296x729_16-9.jpg"
-    },
-    {
-      "title": "College football Week 6 best bets: 'White out' game leads the card",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50126875/college-football-odds-best-bets-week-6-spreads-lines-2026",
-      "description": "Pamela Maldonado and Mark Zinno break down the best bets they see around college football for Week 6.",
-      "pubDate": "2026-10-08T13:54:50Z",
-      "source": "ESPN College Football · Pamela Maldonado and Mark Zinno",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1007/r1727489_1296x729_16-9.jpg"
     },
     {
       "title": "Just Hand Jeremiah Smith The 2026 Heisman Trophy Already",
@@ -778,33 +802,73 @@
       "pubDate": "2026-10-07T23:26:06+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/football.jpg"
-    },
-    {
-      "title": "Vols RB DeSean Bishop looks forward to Hogs, thinks beyond football",
-      "link": "https://www.espn.com/video/clip/_/id/50128025/vols-rb-desean-bishop-looks-forward-hogs-thinks-football",
-      "description": "No. 15 Tennessee hasn't won at Razorback Stadium since 2001, and Bishop cherishes the opportunity to change that while keeping life after football in mind.",
-      "pubDate": "2026-10-07T22:27:17Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Interview_DeShean_Bishop_on_Arkansas_261007/dm_261007_SEC_NCF_Interview_DeShean_Bishop_on_Arkansas_261007.jpg"
-    },
-    {
-      "title": "Nebraska selling Memorial Stadium urinal troughs ahead of renovation",
-      "link": "https://www.espn.com/college-football/story/_/id/50127445/nebraska-cornhuskers-memorial-stadium-urinal-sales",
-      "description": "The University of Nebraska is selling off soon-to-be removed items from Memorial Stadium ahead of a $600 million renovation, including seats, signs, suite items -- and urinals.",
-      "pubDate": "2026-10-07T21:39:35Z",
-      "source": "ESPN College Football · J.J. Post",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1007/r1727520_608x342_16-9.jpg"
-    },
-    {
-      "title": "Looking back at Jackson's 'LaMarvelous' season 10 years ago",
-      "link": "https://www.espn.com/video/clip/_/id/50127228/looking-back-jackson-lamarvelous-season-10-years-ago",
-      "description": "Looking back at Jackson's 'LaMarvelous' season 10 years ago",
-      "pubDate": "2026-10-07T20:12:50Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_Lamar_Jackson_video_essay_10_year_anniversary/dm_261007_Lamar_Jackson_video_essay_10_year_anniversary.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "After Jalon Daniels leads Bucs over Cowboys, NFL teams are 8-4 when starting a backup QB",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-jalon-daniels-leads-bucs-over-cowboys-nfl-teams-are-8-4-when-starting-a-backup-qb",
+      "description": "Injuries to starting quarterbacks have not derailed teams this season....",
+      "pubDate": "2026-10-09T09:27:45+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bengals' Jordan Battle: Malik Willis taps the ball before he throws, we can key on that",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-jordan-battle-malik-willis-taps-the-ball-before-he-throws-we-can-key-on-that",
+      "description": "NFL players and coaches spend many hours studying film of their upcoming opponents to find tendencies that can give them an advantage on Sunday....",
+      "pubDate": "2026-10-09T08:28:24+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jerry Jones expresses confidence in Christian Parker",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-expresses-confidence-in-christian-parker",
+      "description": "Dan Quinn left as the Cowboys' defense coordinator after the 2023 season to become the Commanders' head coach....",
+      "pubDate": "2026-10-09T04:57:00+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tony Romo was disqualified from a golf tournament, on the same day CBS announced his exit",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tony-romo-was-disqualified-from-a-golf-tournament-on-the-same-day-cbs-announced-his-exit",
+      "description": "Last Friday was a very strange day for Tony Romo....",
+      "pubDate": "2026-10-09T03:31:56+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Thursday Night Football: Bucs upset Cowboys 24-16",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-bucs-upset-cowboys-24-16",
+      "description": "The Bucs ran for 241 yards, including 165 by Bucky Irving....",
+      "pubDate": "2026-10-09T03:26:10+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "As trade rumors intensify, Marvin Harrison Jr. hires agents",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-trade-rumors-intensify-marvin-harrison-jr-hires-agents",
+      "description": "Cardinals receiver Marvin Harrison Jr. says he's paying \"no mind\" to intensifying trade rumors....",
+      "pubDate": "2026-10-09T03:16:12+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys close to within 24-16 on George Pickens' TD as CeeDee Lamb is questionable to return",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-close-to-within-24-16-on-george-pickens-td-as-ceedee-lamb-is-questionable-to-return",
+      "description": "The Cowboys are without wide receiver CeeDee Lamb, who is questionable to return with a quad injury....",
+      "pubDate": "2026-10-09T03:04:55+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts-Commanders on Sunday morning had less than five million viewers",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-commanders-on-sunday-morning-had-less-than-five-million-viewers",
+      "description": "The European games have created a new NFL viewing window on Sunday mornings....",
+      "pubDate": "2026-10-09T02:59:39+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Lions-Panthers slips under 20 million viewers on Sunday night",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-panthers-slips-under-20-million-viewers-on-sunday-night",
@@ -1006,84 +1070,12 @@
       "thumbnail": ""
     },
     {
-      "title": "S Kyle Hamilton returns to full participation, while WR Zay Flowers remains limited",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/s-kyle-hamilton-returns-to-full-participation-while-wr-zay-flowers-remains-limited",
-      "description": "While Ravens quarterback Lamar Jackson remained out of practice again Thursday, safety Kyle Hamilton returned to full participation....",
-      "pubDate": "2026-10-08T20:24:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Commanders waive 2026 sixth-rounder Kaytron Allen",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-waive-2026-sixth-rounder-kaytron-allen",
-      "description": "The Commanders designated three players for return to active duty this week and they opened up a roster spot that could be used for one of them on Thursday....",
-      "pubDate": "2026-10-08T20:22:57+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Malik Nabers, Andrew Thomas limited in Thursday's Giants practice",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/malik-nabers-andrew-thomas-limited-in-thursdays-giants-practice",
-      "description": "Knee soreness kept Malik Nabers off the field on Wednesday, but the Giants wide receiver was back at work on Thursday....",
-      "pubDate": "2026-10-08T20:15:33+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "WR Ashton Dulin, DE Arden Key remain out of Colts' practice",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-ashton-dulin-de-arden-key-remain-out-of-colts-practice",
-      "description": "The Colts practiced without wide receiver Ashton Dulin (hamstring) and defensive end Arden Key (hamstring) on Thursday....",
-      "pubDate": "2026-10-08T20:09:44+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Falcons get Jake Matthews back at practice",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-get-jake-matthews-back-at-practice",
-      "description": "The Falcons had a positive change on their injury report Thursday....",
-      "pubDate": "2026-10-08T20:06:36+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Undersized offensive lineman Willie Lampkin set to start for the Eagles on Sunday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/undersized-offensive-lineman-willie-lampkin-set-to-start-for-the-eagles-on-sunday",
-      "description": "After the retirement of Lane Johnson and the trade of Cam Jurgens, the Eagles are making changes on their offensive line....",
-      "pubDate": "2026-10-08T20:06:25+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Derrick Henry on Bijan Robinson: He's the best in the game right now",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-on-bijan-robinson-hes-the-best-in-the-game-right-now",
-      "description": "Sunday night's matchup between the Ravens and the Falcons will see two of the league's best running backs on opposite sidelines....",
-      "pubDate": "2026-10-08T19:58:07+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "D'Andre Swift returns to practice, Kyle Monangai still out",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dandre-swift-returns-to-practice-kyle-monangai-still-out",
-      "description": "The Bears got one of their running backs back on the practice field Thursday....",
-      "pubDate": "2026-10-08T19:26:08+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "NFL Trade Deadline: League Execs Expect A Handful Of Standout WRs To Be Targets",
       "link": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-marvin-harrison-brian-thomas-chris-godwin-quentin-johnston-jerry-jeudy",
       "description": "Here's who we're hearing could be moved ahead of the NFL's trade deadline.",
       "pubDate": "2026-10-08T19:22:44+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/artboard-1-65.jpg"
-    },
-    {
-      "title": "Sources: Sean Payton to expand role in Broncos' playcalling process",
-      "link": "https://www.espn.com/nfl/story/_/id/50133567/sources-sean-payton-expand-role-broncos-playcalling-process",
-      "description": "The Broncos are taking a more collaborative playcalling approach this week with coach Sean Payton having an increased role in the process, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport and Mike Garafolo.",
-      "pubDate": "2026-10-08T18:12:41Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1727862_1296x729_16-9.jpg"
     },
     {
       "title": "Will Sam LaPorta return to Detroit?",
