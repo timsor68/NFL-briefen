@@ -1,408 +1,504 @@
 {
-  "generatedAt": "2026-10-09T10:06:52.625498+00:00",
+  "generatedAt": "2026-10-09T17:00:34.206041+00:00",
   "nfl": [
     {
-      "title": "Why the Raiders' running game has struggled, and what's next for Ashton Jeanty",
-      "link": "https://www.espn.com/nfl/story/_/id/50129469/las-vegas-raiders-struggling-running-game-ashton-jeanty",
-      "description": "The Raiders have made offensive strides ... except for the running game. What's next for Las Vegas and Ashton Jeanty?",
-      "pubDate": "2026-10-09T10:00:20Z",
-      "source": "ESPN NFL · Ryan McFadden",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728022_608x342_16-9.jpg"
-    },
-    {
-      "title": "How Saints can regroup, fix slow starts ahead of matchup with unbeaten Vikings",
-      "link": "https://www.espn.com/nfl/story/_/id/50126700/new-orleans-saints-sour-taste-week-5-minnesota-vikings",
-      "description": "New Orleans had a tough Week 4 loss to Atlanta, which also highlighted key deficiencies the Saints need to correct.",
-      "pubDate": "2026-10-09T10:00:13Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1727777_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Do the Broncos have a reliable No. 1 running back? Sorting Denver's backfield",
-      "link": "https://www.espn.com/nfl/story/_/id/50134206/broncos-rbs-struggling-jk-dobbins-harvey-coleman-badie",
-      "description": "The Broncos' running game has been stuck in neutral, as J.K. Dobbins, RJ Harvey and Tyler Badie have struggled in the early going.",
-      "pubDate": "2026-10-09T10:00:10Z",
-      "source": "ESPN NFL · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728014_608x342_16-9.jpg"
-    },
-    {
-      "title": "The Bear’s Den: Green Bay Packers Sunday, let’s do this!",
-      "link": "https://sports.yahoo.com/articles/bear-den-green-bay-packers-100000449.html",
-      "description": "The Chicago Bears head north for a noon-time matchup at the Green Bay Packers. Can the good guys win?...",
-      "pubDate": "2026-10-09T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants news: Dennard Wilson on Tae Banks, Arvell Reese named Rookie of the Week",
-      "link": "https://sports.yahoo.com/articles/giants-news-dennard-wilson-tae-100000186.html",
-      "description": "New York Giants headlines for Friday....",
-      "pubDate": "2026-10-09T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sean Payton explains why he’s taking over Broncos play-calling",
-      "link": "https://sports.yahoo.com/articles/sean-payton-explains-why-taking-100000967.html",
-      "description": "Sean Payton is taking over play-calling duties for the Broncos, explaining the decision and what he hopes to accomplish....",
-      "pubDate": "2026-10-09T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cleveland Browns news: The defense never rests in Cleveland",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-defense-never-100000435.html",
-      "description": "The latest Cleveland Browns news and notes from around the NFL in the October 9 edition of the Daily Dawg Chow....",
-      "pubDate": "2026-10-09T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Drake Maye&#39;s trash-talking brothers prepared him to overcome slow start to season",
-      "link": "https://sports.yahoo.com/articles/drake-mayes-trash-talking-brothers-094633815.html",
-      "description": "New England Patriots QB Drake Maye is riding the rollercoaster of up-and-down play as he readies for the Las Vegas Raiders....",
-      "pubDate": "2026-10-09T09:46:33+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "After Jalon Daniels leads Bucs over Cowboys, NFL teams are 8-4 when starting a backup QB",
-      "link": "https://sports.yahoo.com/articles/jalon-daniels-leads-bucs-over-092745234.html",
-      "description": "Injuries to starting quarterbacks have not derailed teams this season....",
-      "pubDate": "2026-10-09T09:27:45+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Golden Nuggets: Connor Colby might be faster than the Blue Angels",
-      "link": "https://sports.yahoo.com/articles/golden-nuggets-connor-colby-might-090000522.html",
-      "description": "Your daily San Francisco 49ers news for Friday, October 9th, 2026...",
-      "pubDate": "2026-10-09T09:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys' Prescott irked by stadium worker's callout after loss",
-      "link": "https://www.espn.com/nfl/story/_/id/50138082/cowboys-prescott-irked-stadium-worker-call-loss",
-      "description": "Cowboys quarterback Dak Prescott took exception to a stadium worker who yelled \"embarrassing\" to him as he walked to the locker room after Thursday night's 24-16 loss to the Bucs.",
-      "pubDate": "2026-10-09T08:14:15Z",
-      "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728096_1296x1296_1-1.jpg"
-    },
-    {
-      "title": "NFL Week 5 betting: Odds, lines and totals for every game",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50085464/2026-nfl-week-5-schedule-odds-betting-point-spreads-totals",
-      "description": "A look at the odds, spreads, totals and FPI predictions for every NFL game in Week 5.",
-      "pubDate": "2026-10-09T08:10:19Z",
-      "source": "ESPN NFL · ESPN",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1002/r1725004_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 NFL awards tracker: Odds for MVP, Rookie of the Year and more",
-      "link": "https://www.espn.com/espn/betting/story/_/id/48476156/2026-nfl-awards-betting-odds-mvp-rookie-year-offensive-defensive-player-coach",
-      "description": "Who are the favorites to win seasonlong honors? Here are the odds for MVP, Rookie of the Year and more.",
-      "pubDate": "2026-10-09T07:41:29Z",
-      "source": "ESPN NFL · Doug Greenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1005/r1726378_608x342_16-9.jpg"
-    },
-    {
-      "title": "Super Bowl LXI odds: All 32 teams' odds to win the championship",
-      "link": "https://www.espn.com/espn/betting/story/_/id/47809892/2026-super-bowl-lxi-odds-nfl-sports-betting-season-win-totals-playoffs",
-      "description": "Every NFL team's win total, as well as odds to win the division, the conference and Super Bowl LXI.",
-      "pubDate": "2026-10-09T07:27:21Z",
-      "source": "ESPN NFL · Doug Greenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0202/r1609489_608x342_16-9.jpg"
-    },
-    {
-      "title": "Undrafted rookie QB Daniels savors Thursday night win vs. Cowboys",
-      "link": "https://www.espn.com/nfl/story/_/id/50138218/undrafted-rookie-qb-daniels-savors-thursday-night-win-vs-cowboys",
-      "description": "Jalon Daniels became the first undrafted rookie starting QB in the common draft era to win a game for a team that entered winless, leading the Bucs to a 24-16 win over the Cowboys.",
-      "pubDate": "2026-10-09T06:55:56Z",
-      "source": "ESPN NFL · Jenna Laine",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728095_600x400_3-2.jpg"
-    },
-    {
-      "title": "Dak addresses 'embarrassing' comment made in AT&T Stadium tunnel",
-      "link": "https://www.espn.com/video/clip/_/id/50138071/dak-addresses-embarrassing-comment-made-att-stadium-tunnel",
-      "description": "Dak addresses 'embarrassing' comment made in AT&T Stadium tunnel",
-      "pubDate": "2026-10-09T05:58:38Z",
+      "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
+      "link": "https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86",
+      "description": "Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.",
+      "pubDate": "2026-10-09T16:46:19Z",
       "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Watchfolder_Dak_on_Embarrassing_Comment118/dm_261009_Watchfolder_Dak_on_Embarrassing_Comment118.jpg"
+      "thumbnail": "https://a.espncdn.com/photo/2016/0613/r92315_1296x729_16-9.jpg"
     },
     {
-      "title": "Sick Joey Porter Jr. sits out Cowboys' 'TNF' loss to Bucs",
-      "link": "https://www.espn.com/nfl/story/_/id/50135957/cowboys-say-sick-joey-porter-jr-face-bucs-tnf",
-      "description": "Joey Porter Jr. was ruled out of Thursday night's game against the Tampa Bay Buccaneers because of an illness.",
-      "pubDate": "2026-10-09T05:54:52Z",
-      "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1001/r1724652_600x600_1-1.jpg"
-    },
-    {
-      "title": "Buccaneers explode in third quarter against Cowboys to get first win",
-      "link": "https://www.espn.com/nfl/story/_/id/50136406/buccaneers-explode-first-win-cowboys-tnf",
-      "description": "Undrafted rookie Jalon Daniels and Tampa Bay held off Dallas on \"Thursday Night Football.\"",
-      "pubDate": "2026-10-09T05:23:16Z",
-      "source": "ESPN NFL · Jenna Laine and Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728095_608x342_16-9.jpg"
-    },
-    {
-      "title": "Jerry Jones calls Cowboys&#39; TNF loss to Buccaneers &#39;extraordinarily disappointing&#39;",
-      "link": "https://sports.yahoo.com/articles/jerry-jones-calls-cowboys-tnf-051940860.html",
-      "description": "Jerry Jones said the Cowboys&#39; loss to the Buccaneers on &quot;Thursday Night Football&quot; was &quot;extraordinarily disappointing.&quot;...",
-      "pubDate": "2026-10-09T05:19:40+00:00",
+      "title": "Super Bowl-winning player and coach Ditka dies aged 86",
+      "link": "https://sports.yahoo.com/articles/superbowl-winning-player-coach-ditka-163212041.html",
+      "description": "NFL icon Mike Ditka, who coached the Chicago Bears to the Super Bowl XX title in 1986, dies aged 86....",
+      "pubDate": "2026-10-09T16:44:08+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Jerry Jones expresses confidence in Christian Parker",
-      "link": "https://sports.yahoo.com/articles/jerry-jones-expresses-confidence-christian-045700716.html",
-      "description": "Dan Quinn left as the Cowboys&#39; defense coordinator after the 2023 season to become the Commanders&#39; head coach....",
-      "pubDate": "2026-10-09T04:57:00+00:00",
+      "title": "Week 5 Fantasy Football Bold Predictions",
+      "link": "https://sports.yahoo.com/fantasy/article/week-5-fantasy-football-bold-predictions-163843540.html",
+      "description": "Our Yahoo analysts give you their one bold call for fantasy football in Week 5....",
+      "pubDate": "2026-10-09T16:38:43+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "&#39;Embarrassing&#39;: Worker heckles Cowboys QB Dak Prescott after loss",
-      "link": "https://sports.yahoo.com/articles/embarrassing-team-employee-heckles-cowboys-044714181.html",
-      "description": "A worker, according to reporters who witnessed the incident, uttered the word &quot;embarrassing&quot; as Cowboys QB Dak Prescott passed by....",
-      "pubDate": "2026-10-09T04:47:14+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "3 things we learned from the Cowboys vs Buccaneers",
-      "link": "https://sports.yahoo.com/articles/3-things-learned-cowboys-vs-043744350.html",
-      "description": "We learned a few things about the Cowboys in this loss...",
-      "pubDate": "2026-10-09T04:37:44+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "'That ain't me': Bears' D'Andre Swift laments early fumble issues",
-      "link": "https://www.espn.com/nfl/story/_/id/50135427/that-aint-bears-dandre-swift-laments-early-season-fumbles",
-      "description": "After fumbling twice in the Bears first four games, running back D'Andre Swift said Thursday that his turnover problem is \"over with now.\"",
-      "pubDate": "2026-10-09T04:33:14Z",
-      "source": "ESPN NFL · Courtney Cronin",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728000_600x400_3-2.jpg"
-    },
-    {
-      "title": "Bucky Irving and rookie QB Jalon Daniels help Bucs beat sloppy Cowboys 24-16 for 1st win of season",
-      "link": "http://www.espn.com/nfl/recap?gameId=401872980",
-      "description": "— Bucky Irving already had his first 100-yard game since his rookie year in 2024 when the Tampa Bay running back finished off the Dallas Cowboys with a run that gave him a career high.",
-      "pubDate": "2026-10-09T04:32:27Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872980.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Jerry Jones, George Pickens go berserk after Cowboys suffer brutal home loss to Buccaneers",
-      "link": "https://sports.yahoo.com/articles/jerry-jones-george-pickens-berserk-043116250.html",
-      "description": "It proved to be a Texas two-step for a disaster....",
-      "pubDate": "2026-10-09T04:31:16+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football buzz: Sean Payton not a cure-all for Broncos fantasy woes",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-      "description": "Sean Payton will call the plays for the Broncos' offense, but fantasy managers should temper their expectations.",
-      "pubDate": "2026-10-09T04:26:22Z",
-      "source": "ESPN NFL · ESPN Fantasy",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728089_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Buccaneers Week 5 Top Performers at Dallas Cowboys",
-      "link": "https://sports.yahoo.com/articles/buccaneers-week-5-top-performers-041900467.html",
-      "description": "The Buccaneers came into Thursday Night Football facing long odds on the road and improbably secured their first victory of 2026 with a 24-16 win over the Dallas Cowboys. It almost...",
-      "pubDate": "2026-10-09T04:19:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Week 5 TNF highlights: Best plays, moments, touchdowns from Cowboys vs. Bucs",
-      "link": "https://www.espn.com/nfl/story/_/id/50134891/week-5-tnf-highlights-cowboys-buccaneers",
-      "description": "A look at the highlights from Dallas hosting Tampa Bay for \"Thursday Night Football\" to kick off Week 5.",
-      "pubDate": "2026-10-09T04:17:25Z",
-      "source": "ESPN NFL · Todd Archer and Jenna Laine",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728056_608x342_16-9.jpg"
-    },
-    {
-      "title": "Buccaneers stun Cowboys 24-16 to pick up first win of season",
-      "link": "https://www.espn.com/video/clip/_/id/50137470/buccaneers-stun-cowboys-24-16-pick-first-win-season",
-      "description": "Buccaneers stun Cowboys 24-16 to pick up first win of season",
-      "pubDate": "2026-10-09T04:08:56Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/03761ba3e59c4375ae9f35e4e21ec0658/03761ba3e59c4375ae9f35e4e21ec0658.jpg"
-    },
-    {
-      "title": "Mac & Read Talk Bears vs. Packers!",
-      "link": "https://sports.yahoo.com/articles/mac-read-talk-bears-vs-035809149.html",
-      "description": "The latest Mac & Read Show is available everywhere you get your podcasts @2ndCityGridiron!...",
-      "pubDate": "2026-10-09T03:58:09+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Week 5 Game Recap: Buccaneers shock Cowboys in upset",
-      "link": "https://sports.yahoo.com/articles/week-5-game-recap-buccaneers-035749146.html",
-      "description": "Bucs at Cowboys week five game recap....",
-      "pubDate": "2026-10-09T03:57:49+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bucky Irving shreds Dallas&#39; defense on Thursday night",
-      "link": "https://sports.yahoo.com/articles/bucky-irving-shreds-dallas-defense-035414672.html",
-      "description": "Bucky Irving had a dominant performance in Week 5, racking up 175 yards and scoring twice in an upset win over Dallas....",
-      "pubDate": "2026-10-09T03:54:14+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tyreek Hill testifies in assault and battery civil trial in Miami",
-      "link": "https://www.espn.com/nfl/story/_/id/50136790/tyreek-hill-denies-allegations-physically-abused-estranged-wife",
-      "description": "Tyreek Hill took the stand in his assault and battery civil trial Thursday. He denied allegations that he ever physically abused his estranged wife.",
-      "pubDate": "2026-10-09T03:54:05Z",
-      "source": "ESPN NFL · Xuan Thai",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728078_600x400_3-2.jpg"
-    },
-    {
-      "title": "Cowboys vs. Buccaneers: 2 winners and 3 losers",
-      "link": "https://sports.yahoo.com/articles/cowboys-vs-buccaneers-2-winners-034611402.html",
-      "description": "Here are our winners and losers from Thursday’s game...",
-      "pubDate": "2026-10-09T03:46:11+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "A Big Upset In The Big D: 3 Takeaways From Cowboys' Stunning Loss To Buccaneers",
-      "link": "https://www.foxsports.com/stories/nfl/big-upset-big-d-3-takeaways-from-cowboys-stunning-loss-buccaneers",
-      "description": "The Buccaneers delivered a stunner in Dallas. Here are our takeaways from the Cowboys' surprising loss.",
-      "pubDate": "2026-10-09T03:41:55+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/buccaneers-takeaways.jpg"
-    },
-    {
-      "title": "Fantasy football stock watch: Boston among players rising; Hurts falling",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/50125051/fantasy-football-trade-value-breakouts-busts",
-      "description": "Matt Bowen lists players who are ascending after one month of play and others trending in the wrong direction.",
-      "pubDate": "2026-10-09T03:40:26Z",
+      "title": "Fantasy football last-minute pickups: Stroud, Washington among top options",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/50126170/fantasy-football-streamers-last-minute-pickups-week-5",
+      "description": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
+      "pubDate": "2026-10-09T16:37:44Z",
       "source": "ESPN NFL · Matt Bowen",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg"
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1728009_1296x729_16-9.jpg"
     },
     {
-      "title": "Cowboys defense lays an egg again in bad loss to Buccaneers: TNF winners and losers",
-      "link": "https://sports.yahoo.com/articles/cowboys-defense-lays-egg-again-033852073.html",
-      "description": "The winners and losers of the Thursday Night Football game between the Cowboys and Buccaneers....",
-      "pubDate": "2026-10-09T03:38:52+00:00",
+      "title": "Falcons-Saints on Monday night draws 11.9 million viewers",
+      "link": "https://sports.yahoo.com/articles/falcons-saints-monday-night-draws-163301948.html",
+      "description": "The Week 3 Monday night game between the Eagles and Bears racked up 22.6 million viewers on the Disney family of networks....",
+      "pubDate": "2026-10-09T16:33:01+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Cowboys vs Buccaneers recap: Dallas drops a game they had no business losing",
-      "link": "https://sports.yahoo.com/articles/cowboys-vs-buccaneers-recap-dallas-032634872.html",
-      "description": "The Cowboys gave it away when they had all the advantages...",
-      "pubDate": "2026-10-09T03:26:34+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
+      "title": "How Jonathan Taylor can help the Colts' offense",
+      "link": "https://www.espn.com/video/clip/_/id/50141219/how-jonathan-taylor-help-colts-offense",
+      "description": "Stephen Holder covers the Colts' passing game without receiver Alec Pierce.",
+      "pubDate": "2026-10-09T16:31:34Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_Colts_Jonothan_Taylor_IA/dm_261009_Colts_Jonothan_Taylor_IA.jpg"
     },
     {
-      "title": "Thursday Night Football: Bucs upset Cowboys 24-16",
-      "link": "https://sports.yahoo.com/articles/thursday-night-football-bucs-upset-032610534.html",
-      "description": "The Bucs ran for 241 yards, including 165 by Bucky Irving....",
-      "pubDate": "2026-10-09T03:26:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys close to within 24-16 on George Pickens&#39; TD as CeeDee Lamb is questionable to return",
-      "link": "https://sports.yahoo.com/articles/cowboys-close-within-24-16-030455395.html",
-      "description": "The Cowboys are without wide receiver CeeDee Lamb, who is questionable to return with a quad injury....",
-      "pubDate": "2026-10-09T03:04:55+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "CeeDee Lamb injury update as Cowboys star WR exits vs. Buccaneers",
-      "link": "https://sports.yahoo.com/articles/ceedee-lamb-injury-cowboys-star-030105183.html",
-      "description": "The Dallas Cowboys may have lost one of their top pass-catching weapons in their Week 5 game against the Tampa Bay Buccaneers....",
-      "pubDate": "2026-10-09T03:01:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tom Brady Remembers The Saddest Moment Of Career: 'Worst Thing I Could've Ever Imagined'",
-      "link": "https://www.foxsports.com/stories/nfl/tom-brady-remembers-saddest-moment-career-worst-thing-i-couldve-ever-imagined",
-      "description": "Tom Brady took a painful walk down memory lane in the latest edition of #AskTom.",
-      "pubDate": "2026-10-09T02:37:58+00:00",
+      "title": "Lions DC Kelvin Sheppard Gives Passionate Message To Struggling Defense",
+      "link": "https://www.foxsports.com/stories/nfl/kelvin-sheppard-message-lions-defense-stats",
+      "description": "Detroit Lions defensive coordinator Kelvin Sheppard gave an emotional message to his struggling unit.",
+      "pubDate": "2026-10-09T16:31:29+00:00",
       "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/26brady-ask-tom-week-4-c.jpg"
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/kelvin.jpg"
     },
     {
-      "title": "Marvin Harrison Jr. says he is paying trade rumors &quot;no mind&quot;",
-      "link": "https://sports.yahoo.com/articles/marvin-harrison-jr-says-paying-022653540.html",
-      "description": "The NFL trade deadline is still a month away, but Cardinals wide receiver Marvin Harrison Jr. is one of the NFL players who could find a new home in the coming weeks....",
-      "pubDate": "2026-10-09T02:26:53+00:00",
+      "title": "Memories, tributes flood in following legendary Mike Ditka&#39;s passing",
+      "link": "https://sports.yahoo.com/articles/memories-tributes-flood-following-legendary-163008108.html",
+      "description": "After the announcement of Mike Ditka&#39;s passing, fans and teams across the country paid tribute on social media....",
+      "pubDate": "2026-10-09T16:30:08+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Jaxon Smith-Njigba back at practice",
-      "link": "https://sports.yahoo.com/articles/jaxon-smith-njigba-back-practice-021855445.html",
-      "description": "Seahawks WR Jaxon Smith-Njigba fully participates in practice...",
-      "pubDate": "2026-10-09T02:18:55+00:00",
+      "title": "NFL predictions: Can the Bears keep it up against a beat up Packers team?",
+      "link": "https://sports.yahoo.com/articles/nfl-predictions-bears-keep-against-163000521.html",
+      "description": "The Bears and Packers always keep things interesting. Can the Bears keep pace in the NFC North?...",
+      "pubDate": "2026-10-09T16:30:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Browns vs. Jets Week 5 picks: A 50/50 split",
-      "link": "https://sports.yahoo.com/articles/browns-vs-jets-week-5-021130138.html",
-      "description": "The DBN staff predicts the Week 5 games, plus the national media make their predictions for Browns vs. Jets....",
-      "pubDate": "2026-10-09T02:11:30+00:00",
+      "title": "Lions’ Brian Branch, Cade Mays unlikely to play vs. Cardinals",
+      "link": "https://sports.yahoo.com/articles/lions-brian-branch-cade-mays-162805868.html",
+      "description": "Detroit Lions’ Brian Branch and Cade Mays aren’t expected to play vs. the Cardinals, but look out Packers....",
+      "pubDate": "2026-10-09T16:28:05+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Falcons vs. Ravens injury report: Jake Matthews dealing with groin issue",
-      "link": "https://sports.yahoo.com/articles/falcons-vs-ravens-injury-report-020603094.html",
-      "description": "A new week is underway, as the Atlanta Falcons and Baltimore Ravens prepare to face off on Sunday evening. The Falcons have now won back-to-back primetime games, and they look to m...",
-      "pubDate": "2026-10-09T02:06:03+00:00",
+      "title": "Legendary Chicago Bears Coach, Hall Of Famer Mike Ditka Dies At 86",
+      "link": "https://www.foxsports.com/stories/nfl/legendary-chicago-bears-coach-hall-famer-mike-ditka-dies-86",
+      "description": "Mike Ditka, who won NFL titles as a player and coach with the Chicago Bears, has died at age 86.",
+      "pubDate": "2026-10-09T16:23:03+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/dikta.jpg"
+    },
+    {
+      "title": "Daniel Dopp's Week 5 DraftKings tournament lineup",
+      "link": "https://www.espn.com/video/clip/_/id/50140944/daniel-dopp-week-5-draftkings-tournament-lineup",
+      "description": "Daniel Dopp's Week 5 DraftKings tournament lineup",
+      "pubDate": "2026-10-09T16:19:56Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/dm_261009_ffp_dopp_draft_kings/dm_261009_ffp_dopp_draft_kings.jpg"
+    },
+    {
+      "title": "Jets rule out Breece Hall, Adonai Mitchell",
+      "link": "https://sports.yahoo.com/articles/jets-rule-breece-hall-adonai-161743371.html",
+      "description": "The Jets will remain shorthanded on offense for Sunday&#39;s game against the Browns....",
+      "pubDate": "2026-10-09T16:17:43+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Giants already giving J.J. McCarthy an ‘A-plus’ in one area",
-      "link": "https://sports.yahoo.com/articles/giants-already-giving-j-j-020324376.html",
-      "description": "J.J. McCarthy’s crash course in the Giants playbook apparently comes complete with a report card....",
-      "pubDate": "2026-10-09T02:03:24+00:00",
+      "title": "Week 4 Old Friend Update: How former Minnesota Vikings fared last week",
+      "link": "https://sports.yahoo.com/articles/week-4-old-friend-former-161625894.html",
+      "description": "How did former Minnesota Vikings fare in Week 4?...",
+      "pubDate": "2026-10-09T16:16:25+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Bucs need only two plays to take the second-half lead",
-      "link": "https://sports.yahoo.com/articles/bucs-only-two-plays-second-020245193.html",
-      "description": "The Bucs&#39; first possession of Thursday night&#39;s game was a 15-play, 73-yard touchdown drive that ate 10:58 off the clock....",
-      "pubDate": "2026-10-09T02:02:45+00:00",
+      "title": "Mike Ditka, legendary coach of 1985 Chicago Bears and first tight end inducted into Hall of Fame, dies",
+      "link": "https://sports.yahoo.com/articles/mike-ditka-legendary-coach-1985-160851164.html",
+      "description": "Mike Ditka, the first ever tight end to be inducted into the Pro Football Hall of Fame and coach of the legendary 1985 Chicago Bears, has died. He was 86....",
+      "pubDate": "2026-10-09T16:08:51+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Thursday Night Football: Cowboys lead Bucs 10-7 at halftime",
-      "link": "https://sports.yahoo.com/articles/thursday-night-football-cowboys-lead-014749371.html",
-      "description": "The Bucs have outgained the Cowboys 155 to 146 yards....",
-      "pubDate": "2026-10-09T01:47:49+00:00",
+      "title": "Who’s to blame for the Las Vegas Raiders’ woeful rushing attack?",
+      "link": "https://sports.yahoo.com/articles/blame-las-vegas-raiders-woeful-160700616.html",
+      "description": "The Las Vegas Raiders ran the ball 26 times for 72 yards and no touchdowns against the Kansas City Chiefs....",
+      "pubDate": "2026-10-09T16:07:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Commanders reveal Jayden Daniels’ status ahead of Week 5 matchup with Giants",
-      "link": "https://sports.yahoo.com/articles/commanders-reveal-jayden-daniels-status-013859587.html",
-      "description": "Commanders QB Jayden Daniels is cleared to return from an elbow injury and will play in Sunday&#39;s Week 5 matchup against the Giants....",
-      "pubDate": "2026-10-09T01:38:59+00:00",
+      "title": "Social media tributes pour in for former Bears head coach Mike Ditka, who dies at 86",
+      "link": "https://sports.yahoo.com/nfl/article/social-media-tributes-pour-in-for-former-bears-head-coach-mike-ditka-who-dies-at-86-161906037.html",
+      "description": "The Hall of Famer had become a beloved icon, thanks to his mustache and the memorable impressions of him, which added humor to his normally stoic demeanor....",
+      "pubDate": "2026-10-09T16:01:34+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Rams have mismanaged this special teams role for longer than a year",
+      "link": "https://sports.yahoo.com/articles/rams-mismanaged-special-teams-role-160000302.html",
+      "description": "Eagle’s Britain Covey reminded Rams how they have botched punt returner role for a long time...",
+      "pubDate": "2026-10-09T16:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Flashback Friday: The last time the Chiefs were undefeated at the bye",
+      "link": "https://sports.yahoo.com/articles/flashback-friday-last-time-chiefs-160000711.html",
+      "description": "How similar is Kansas City’s hot start to the season when compared to the 2024 campaign?...",
+      "pubDate": "2026-10-09T16:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "15 meetings, plenty of memories: A look back at Bills-Rams history",
+      "link": "https://sports.yahoo.com/articles/15-meetings-plenty-memories-look-160000809.html",
+      "description": "From Frank Reich&#39;s Monday night heroics to Josh Allen&#39;s six-TD loss, Bills-Rams history has delivered plenty of drama...",
+      "pubDate": "2026-10-09T16:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why the Seahawks signing Terrion Arnold for one year was never about 2026",
+      "link": "https://sports.yahoo.com/articles/why-seahawks-signing-terrion-arnold-160000554.html",
+      "description": "Arnold signed a one-year contract with Seattle, but because of the CBA the team can keep him around through at least 2027 should they so desire....",
+      "pubDate": "2026-10-09T16:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Legendary player, coach Mike Ditka dies at 86",
+      "link": "https://sports.yahoo.com/articles/legendary-player-coach-mike-ditka-155826315.html",
+      "description": "Ditka was a larger-than-life figure, in Chicago and beyond....",
+      "pubDate": "2026-10-09T15:58:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Dopp thinks Denzel Boston's fantasy upside is slightly higher than KC Concepcion's",
+      "link": "https://www.espn.com/video/clip/_/id/50140522/why-dopp-thinks-denzel-boston-fantasy-upside-slightly-higher-kc-concepcions",
+      "description": "Why Dopp thinks Denzel Boston's fantasy upside is slightly higher than KC Concepcion's",
+      "pubDate": "2026-10-09T15:58:02Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_103246918_3689698/ss_20261009_103246918_3689698.jpg"
+    },
+    {
+      "title": "How many Super Bowl rings does Mike Ditka have? Coaching record, playoff wins and more",
+      "link": "https://sports.yahoo.com/articles/many-super-bowl-rings-does-155612483.html",
+      "description": "Mike Ditka is one of the most iconic figures in football. Here&#39;s a recap of Ditka&#39;s illustrious career....",
+      "pubDate": "2026-10-09T15:56:12+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Stephen A. remembers how Mike Ditka 'elevated the NFL'",
+      "link": "https://www.espn.com/video/clip/_/id/50140978/stephen-remembers-how-mike-ditka-elevated-nfl",
+      "description": "Stephen A. remembers how Mike Ditka 'elevated the NFL'",
+      "pubDate": "2026-10-09T15:54:41Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_114945954_3689745714/ss_20261009_114945954_3689745714.jpg"
+    },
+    {
+      "title": "2026 NFL Odds Week 5: Lines, Spreads, Results For All 15 Games",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-5-lines-spreads-results-all-15-games",
+      "description": "Check out the odds for every Week 5 matchup in the NFL.",
+      "pubDate": "2026-10-09T15:53:52+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/5ef1966a-artboard-1.jpg"
+    },
+    {
+      "title": "Fantasy football: Why now is the ideal time to trade Derrick Henry",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/50140857/fantasy-football-trades-value-derrick-henry",
+      "description": "The ageless back is off to a strong start, which presents the opportunity to maximize the return in a deal.",
+      "pubDate": "2026-10-09T15:52:43Z",
+      "source": "ESPN NFL · Michael F. Florio",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728270_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Fantasy Football: Key matchups to exploit in Week 5",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-key-matchups-to-exploit-in-week-5-154704365.html",
+      "description": "Fantasy football analyst Ray Garvin highlights some key matchups to exploit in Week 5....",
+      "pubDate": "2026-10-09T15:47:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Ditka&#39;s defining coaching moments: Remembering the Bears legend",
+      "link": "https://sports.yahoo.com/articles/mike-ditkas-defining-coaching-moments-154532308.html",
+      "description": "Mike Ditka&#39;s football legacy includes an 11-year run as the Chicago Bears coach that was highlighted by winning the 1985 Super Bowl....",
+      "pubDate": "2026-10-09T15:45:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "'Extraordinarily Disappointed': Jerry Jones, Dak Prescott Talk Cowboys' TNF Loss",
+      "link": "https://www.foxsports.com/stories/nfl/jerry-jones-dak-prescott-video-comments-cowboys-buccaneers-thursday-night-game",
+      "description": "Jerry Jones, Dak Prescott and Brian Schottenheimer had strong reactions to the Cowboys' Thursday night loss to the previously winless Buccaneers.",
+      "pubDate": "2026-10-09T15:45:12+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/dak3.jpg"
+    },
+    {
+      "title": "The 49ers are running into the stingiest defense in the NFL",
+      "link": "https://sports.yahoo.com/articles/49ers-running-stingiest-defense-nfl-154500691.html",
+      "description": "Three numbers to watch heading into Week 5 between the 49ers and Seahawks...",
+      "pubDate": "2026-10-09T15:45:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Everything to know for betting NFL Week 5, odds: Sharp action, public betting splits and big bets",
+      "link": "https://sports.yahoo.com/nfl/betting/article/everything-to-know-for-betting-nfl-week-5-odds-sharp-action-public-betting-splits-and-big-bets-154331058.html",
+      "description": "Where is the public betting in Week 5 of the NFL season, and where is the sharp action? We&#39;ve got you covered in this comprehensive file....",
+      "pubDate": "2026-10-09T15:43:31+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sputtering Jets offense without RB Hall, WR Mitchell vs. Browns",
+      "link": "https://www.espn.com/nfl/story/_/id/50140789/sputtering-jets-offense-rb-hall-wr-mitchell-vs-browns",
+      "description": "The Jets, coming off a historically poor performance, will be without two of their top playmakers in RB Breece Hall and WR Adonai Mitchell vs. the Browns.",
+      "pubDate": "2026-10-09T15:42:07Z",
+      "source": "ESPN NFL · Rich Cimini",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1028/r1567324_2_600x400_3-2.jpg"
+    },
+    {
+      "title": "Former Saints, Bears Coach and NFL Legend Mike Ditka Dies at 86",
+      "link": "https://sports.yahoo.com/articles/former-saints-bears-coach-nfl-154158645.html",
+      "description": "The Hall of Famer leaves behind a lasting legacy as one of the NFL’s most recognizable players and coaches....",
+      "pubDate": "2026-10-09T15:41:58+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Ditka coaching tree includes Jim Harbaugh and Sean Payton",
+      "link": "https://sports.yahoo.com/articles/mike-ditka-coaching-tree-includes-154123637.html",
+      "description": "The Hall of Fame players spent more than a decade on NFL sidelines as a head coach. Here are some the biggest names in his coaching tree....",
+      "pubDate": "2026-10-09T15:41:23+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "What teams did Mike Ditka play for? Hall of Fame tight end&#39;s college, NFL stats",
+      "link": "https://sports.yahoo.com/articles/teams-did-mike-ditka-play-154103627.html",
+      "description": "Mike Ditka was the first tight end elected to the Pro Football Hall of Fame. Here&#39;s every team he played for, and his stats....",
+      "pubDate": "2026-10-09T15:41:03+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Field Yates: Daniel Jones is a 'nonfactor' in fantasy right now",
+      "link": "https://www.espn.com/video/clip/_/id/50140570/daniel-jones-nonfactor-fantasy-right-now",
+      "description": "Field Yates: Daniel Jones is a 'nonfactor' in fantasy right now",
+      "pubDate": "2026-10-09T15:39:52Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_104341873_3689703/ss_20261009_104341873_3689703.jpg"
+    },
+    {
+      "title": "NFL Icon Mike Ditka passes away at 86",
+      "link": "https://sports.yahoo.com/articles/nfl-icon-mike-ditka-passes-153900089.html",
+      "description": "The Chicago Bears and the NFL lost a true legend of the sport today with the passing of Mike Ditka at 86....",
+      "pubDate": "2026-10-09T15:39:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles News: It’s Willie Lampkin time",
+      "link": "https://sports.yahoo.com/articles/eagles-news-willie-lampkin-time-153322955.html",
+      "description": "Philadelphia Eagles news and links for 10/9/26....",
+      "pubDate": "2026-10-09T15:33:22+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Carolina Panthers 2026 fan mailbag: Bye week, injury returns, food stuff, Brenton Bersin life coach, and more!",
+      "link": "https://sports.yahoo.com/articles/carolina-panthers-2026-fan-mailbag-153000370.html",
+      "description": "Answering all your questions in this week’s fan mailbag!...",
+      "pubDate": "2026-10-09T15:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bengals News: Should Cincinnati claim Kaytron Allen",
+      "link": "https://sports.yahoo.com/articles/bengals-news-cincinnati-claim-kaytron-153000810.html",
+      "description": "An unexpected opportunity to add depth....",
+      "pubDate": "2026-10-09T15:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Ditka, legendary NFL coach and tight end with the Bears, passes away at age 86",
+      "link": "https://sports.yahoo.com/articles/mike-ditka-legendary-nfl-coach-152936585.html",
+      "description": "RIP Mike Ditka, 1939-2026....",
+      "pubDate": "2026-10-09T15:29:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "D&#39;Andre Swift should play",
+      "link": "https://sports.yahoo.com/articles/dandre-swift-play-152922268.html",
+      "description": "Chicago Bears RB D&#39;Andre Swift (hip, knee) should be able to play in Week 5....",
+      "pubDate": "2026-10-09T15:29:22+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Field Yates still likes Jaylen Warren's fantasy upside",
+      "link": "https://www.espn.com/video/clip/_/id/50140573/why-field-yates-likes-jaylen-warren-fantasy-upside",
+      "description": "Why Field Yates still likes Jaylen Warren's fantasy upside",
+      "pubDate": "2026-10-09T15:27:01Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_104434652_3689704/ss_20261009_104434652_3689704.jpg"
+    },
+    {
+      "title": "Mike Ditka, Hall of Famer and Chicago Bears legend, dies at 86",
+      "link": "https://sports.yahoo.com/articles/mike-ditka-hall-famer-chicago-152115076.html",
+      "description": "Mike Ditka, a three-time Super Bowl champion and two-time NFL Coach of the Year, died on Friday, Oct. 9, his family announced. He was 86....",
+      "pubDate": "2026-10-09T15:21:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Can fantasy managers even consider benching Brock Purdy in Week 5?",
+      "link": "https://www.espn.com/video/clip/_/id/50140693/can-fantasy-managers-even-consider-benching-brock-purdy-week-5",
+      "description": "Can fantasy managers even consider benching Brock Purdy in Week 5?",
+      "pubDate": "2026-10-09T15:17:00Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_110143930_3689720/ss_20261009_110143930_3689720.jpg"
+    },
+    {
+      "title": "Why Josh Downs' heavy volume makes him a Week 5 lineup lock for Mike Clay",
+      "link": "https://www.espn.com/video/clip/_/id/50140555/why-josh-downs-heavy-volume-makes-week-5-lineup-lock-mike-clay",
+      "description": "Why Josh Downs' heavy volume makes him a Week 5 lineup lock for Mike Clay",
+      "pubDate": "2026-10-09T15:14:17Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_104106586_3689701/ss_20261009_104106586_3689701.jpg"
+    },
+    {
+      "title": "Fantasy Football Start/Sit Advice: Omarion Hampton, Brock Purdy, more players in Week 5",
+      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-startsit-advice-omarion-hampton-brock-purdy-more-players-in-week-5-151133781.html",
+      "description": "Scott Pianowski plays traffic cop with some tough fantasy football calls for Week 5....",
+      "pubDate": "2026-10-09T15:11:33+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Giants-Commanders matchup: When the Giants have the football",
+      "link": "https://sports.yahoo.com/articles/giants-commanders-matchup-giants-football-151009467.html",
+      "description": "What the Giants’ offense must do to earn a divisional road victory....",
+      "pubDate": "2026-10-09T15:10:09+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike Ditka, Chicago Bears Hall of Fame legend, dies at 86",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/chicago-bears-legend-mike-ditka-dies-at-86-150831571.html",
+      "description": "Ditka was best known for leading the 1985 Chicago Bears to the only Super Bowl title in franchise history....",
+      "pubDate": "2026-10-09T15:08:31+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Connelly Week 6 preview: Things get real with SEC, Big Ten showdowns",
+      "link": "https://www.espn.com/college-football/story/_/id/50133135/connelly-week-6-preview-sec-big-ten-alabama-georgia",
+      "description": "With Georgia-Alabama, major challenges for Big Ten unbeatens and some Big 12 chaos, there's a lot to follow.",
+      "pubDate": "2026-10-09T16:05:51Z",
+      "source": "ESPN College Football · Bill Connelly",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1727854_608x342_16-9.jpg"
+    },
+    {
+      "title": "How to Watch Iowa vs. Washington: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-iowa-vs-washington-tv-channel-live-stream-time-oct-9-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 6 Iowa Hawkeyes and Washington Huskies game.",
+      "pubDate": "2026-10-09T13:57:10+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/2026-10-09-iowa-vs-wash-centerline-1920x1080-1.png"
+    },
+    {
+      "title": "How Bob Chesney has completely turned around UCLA",
+      "link": "https://www.espn.com/college-football/story/_/id/50125661/2026-bob-chesney-ucla-winning-turnaround",
+      "description": "The Bruins are off to a 4-0 start, and it doesn't seem as if Bob Chesney is stepping off the gas any time soon.",
+      "pubDate": "2026-10-09T13:55:47Z",
+      "source": "ESPN College Football · Paolo Uggetti",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1007/r1727374_608x342_16-9.jpg"
+    },
+    {
+      "title": "Alabama thinks it has found and fixed Ryan Coleman-Williams' drop issues",
+      "link": "https://www.espn.com/college-football/story/_/id/50133938/college-football-alabama-ryan-coleman-williams-drops",
+      "description": "Using VR technology, the staff discovered a depth perception issue, and the drops have disappeared.",
+      "pubDate": "2026-10-09T13:55:11Z",
+      "source": "ESPN College Football · Alex Scarborough",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0927/r1722270_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Oregon QB Dante Moore ruled out vs. UCLA; Dylan Raiola to start",
+      "link": "https://www.espn.com/college-football/story/_/id/50129251/oregon-qb-moore-ruled-ucla-game-raiola-start",
+      "description": "Quarterback Dante Moore is officially out for Saturday's matchup between No. 13 Oregon and No. 21 UCLA, according to Wednesday's official Big Ten injury report.",
+      "pubDate": "2026-10-09T13:50:39Z",
+      "source": "ESPN College Football · Paolo Uggetti",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0913/r1715952_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Oregon, Florida and more lead loaded CFB Week 6 uniform slate",
+      "link": "https://www.espn.com/college-football/story/_/id/50134026/college-football-best-uniforms-week-6-oregon-florida-notre-dame",
+      "description": "Of all the strong uniform weeks in college football this fall, you'll likely be hard-pressed to find another that stacks up to Week 6.",
+      "pubDate": "2026-10-09T13:38:23Z",
+      "source": "ESPN College Football · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0929/r1723617_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 College Football Week 6 Expert Picks: Back Hoosiers To Cover vs. Huskers",
+      "link": "https://www.foxsports.com/stories/college-football/2026-college-football-week-6-expert-picks-back-indiana-cover-vs-flawed-nebraska",
+      "description": "Geoff Schwartz has his eye on two games in college football Week 6. See why he favors Indiana and why he thinks Oklahoma will struggle to score.",
+      "pubDate": "2026-10-09T13:34:53+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/artboard-1-22.jpg"
+    },
+    {
+      "title": "Finebaum: Kirby Smart, Georgia have 'an Alabama problem'",
+      "link": "https://www.espn.com/video/clip/_/id/50139833/kirby-smart-georgia-alabama-problem",
+      "description": "Finebaum: Kirby Smart, Georgia have 'an Alabama problem'",
+      "pubDate": "2026-10-09T13:14:28Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1009/ss_20261009_085742045_3689654543/ss_20261009_085742045_3689654543.jpg"
+    },
+    {
+      "title": "First time at the State Fair of Texas? Here are our tips",
+      "link": "https://www.espn.com/college-football/story/_/id/50135168/texas-oklahoma-state-fair-red-river-guide",
+      "description": "We polled our staff for their best tips on making the most of one of the sport's most distinctive backdrops.",
+      "pubDate": "2026-10-09T13:03:43Z",
+      "source": "ESPN College Football · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1727989_608x342_16-9.jpg"
+    },
+    {
+      "title": "2027 NFL draft QB rankings: Arch Manning, Dante Moore, Drew Mestemaker in top 15",
+      "link": "https://www.espn.com/nfl/draft2027/story/_/id/50117790/2027-nfl-draft-quarterbacks-ranking-strengths-weaknesses",
+      "description": "Who are the best quarterbacks in the 2027 draft class? We sized up the top 15, including Arch Manning, Dante Moore, Trinidad Chambliss and Darian Mensah.",
+      "pubDate": "2026-10-09T12:14:09Z",
+      "source": "ESPN College Football · Jordan Reid",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/nfl_draft_qb_hot_board_608x342.png"
+    },
+    {
+      "title": "Washington vs. Iowa Prediction, Odds, Pick For College Football Week 6",
+      "link": "https://www.foxsports.com/stories/college-football/washington-vs-iowa-prediction-odds-pick-college-football-week-6",
+      "description": "Get the latest odds, prediction and pick for the Week 6 Washington vs. Iowa game, as well as information on how to watch.",
+      "pubDate": "2026-10-09T12:00:57+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/2026-10-09-iowa-vs-wash-prediction-1920x1080-1.png"
+    },
+    {
+      "title": "Hometown hero Gunner Stockton back in spotlight for Georgia",
+      "link": "https://www.espn.com/college-football/story/_/id/50126123/gunner-stockton-back-spotlight-georgia-faces-alabama",
+      "description": "The Bulldogs QB is a quiet leader, but those who have known him over the years eagerly sing his praises.",
+      "pubDate": "2026-10-09T10:25:09Z",
+      "source": "ESPN College Football · Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1007/r1727407_608x342_16-9.jpg"
+    },
     {
       "title": "College football Week 6 best bets: White Out game leads the card",
       "link": "https://www.espn.com/espn/betting/story/_/id/50126875/college-football-odds-best-bets-week-6-spreads-lines-2026",
@@ -612,14 +708,6 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/16x9-2026-10-08t130120.104.jpg"
     },
     {
-      "title": "How to bet Alabama-Georgia: Will UGA's vaunted defense be on display in Tuscaloosa?",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50118666/college-football-betting-how-bet-alabama-georgia",
-      "description": "Pamela Maldonado dives into the numbers to find the best way to bet the Alabama-Georgia game in Tuscaloosa.",
-      "pubDate": "2026-10-08T13:38:37Z",
-      "source": "ESPN College Football · Pamela Maldonado",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1006/r1726946_1296x729_16-9.jpg"
-    },
-    {
       "title": "Missouri's Johnnie 'DJ' Jones receives heart transplant",
       "link": "https://www.espn.com/college-football/story/_/id/50132416/missouri-johnnie-dj-jones-receives-heart-transplant",
       "description": "Missouri offensive lineman Johnnie \"DJ\" Jones received a heart transplant Wednesday night.",
@@ -628,7 +716,7 @@
       "thumbnail": "https://a.espncdn.com/photo/2022/0215/r974774_1296x729_16-9.jpg"
     },
     {
-      "title": "College Football Week 6 Betting Report: Hurricane Isaias Impactin UGA-Bama Lines",
+      "title": "College Football Week 6 Betting Report: Hurricane Isaias Impacting UGA-Bama Lines",
       "link": "https://www.foxsports.com/stories/college-football/college-football-week-6-betting-report-hurricane-isaias-impacting-uga-bama-lines",
       "description": "Potential weather is making things not-so-straightforward for bettors ahead of the huge Georgia-Alabama showdown. Patrick Everson has more.",
       "pubDate": "2026-10-08T13:24:57+00:00",
@@ -666,14 +754,6 @@
       "pubDate": "2026-10-08T12:00:48Z",
       "source": "ESPN College Football · Alex Scarborough",
       "thumbnail": "https://a.espncdn.com/photo/2026/0425/r1649112_600x400_3-2.jpg"
-    },
-    {
-      "title": "Oregon QB Dante Moore ruled out vs. UCLA; Dylan Raiola to start",
-      "link": "https://www.espn.com/college-football/story/_/id/50129251/oregon-qb-moore-ruled-ucla-game-raiola-start",
-      "description": "Quarterback Dante Moore is officially out for Saturday's matchup between No. 13 Oregon and No. 21 UCLA, according to Wednesday's official Big Ten injury report.",
-      "pubDate": "2026-10-08T12:00:30Z",
-      "source": "ESPN College Football · Paolo Uggetti",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0913/r1715952_1296x729_16-9.jpg"
     },
     {
       "title": "Georgia's Chauncey Bowens out vs. Alabama; Nate Frazier off injury report",
@@ -722,102 +802,182 @@
       "pubDate": "2026-10-08T03:47:43Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401871066.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Garrison Rippa makes field goal with 51 seconds left as Jacksonville State tops Kennesaw State 27-26",
-      "link": "http://www.espn.com/ncf/recap?gameId=401871051",
-      "description": "— Garrison Rippa made a go-ahead field goal in the final minute, and Rob Billings IV intercepted a pass seconds later as Jacksonville State beat Kennesaw State 27-26 on Wednesday night in a rematch of the 2025 Conference USA championship game.",
-      "pubDate": "2026-10-08T03:14:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401871051.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Gene Chizik: No. 9 Ole Miss needs to fix run defense",
-      "link": "https://www.espn.com/video/clip/_/id/50129446/no-9-ole-miss-needs-fix-run-defense",
-      "description": "After a tough 52-28 loss to Florida, Chizik advises the Rebels to make defensive improvements to respond positively in Week 6 against Vanderbilt.",
-      "pubDate": "2026-10-08T02:12:39Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Analysis_Chizik_on_Vandy_Ole_Miss_261007/dm_261007_SEC_NCF_Analysis_Chizik_on_Vandy_Ole_Miss_261007.jpg"
-    },
-    {
-      "title": "Sneak peek into ESPN's 'Saban' and the 2017-18 national championship",
-      "link": "https://www.espn.com/video/clip/_/id/50129015/sneak-peek-espn-saban-2017-18-national-championship",
-      "description": "Take an early look at the new documentary series for accounts of the iconic game from Nick Saban, Jalen Hurts, Tua Tagovailoa and more.",
-      "pubDate": "2026-10-08T02:00:40Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Feature_Saban_preview_261007/dm_261007_SEC_NCF_Feature_Saban_preview_261007.jpg"
-    },
-    {
-      "title": "Gene Chizik breaks down No. 2 Georgia's ferocious run defense",
-      "link": "https://www.espn.com/video/clip/_/id/50128869/gene-chizik-breaks-no-2-georgia-ferocious-run-defense",
-      "description": "SEC Network's Gene Chizik analyzes film of the Bulldogs' defensive front and explains how they are able to suffocate opposing rushing attacks.",
-      "pubDate": "2026-10-08T02:00:29Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Analysis_UGA_defense_breakdown_261007/dm_261007_SEC_NCF_Analysis_UGA_defense_breakdown_261007.jpg"
-    },
-    {
-      "title": "No. 1 Texas' Hero Kanu details experience in Red River Rivalry",
-      "link": "https://www.espn.com/video/clip/_/id/50128599/no-1-texas-hero-kanu-details-experience-red-river-rivalry",
-      "description": "Kanu joins SEC Now ahead of the Longhorns' matchup against Oklahoma to discuss the spectacle around one of college football's most historic rivalries and his interests outside of football.",
-      "pubDate": "2026-10-08T02:00:20Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Interview_Hero_Tex_261007/dm_261007_SEC_NCF_Interview_Hero_Tex_261007.jpg"
-    },
-    {
-      "title": "Willie Rodriguez breaks down game-winning catch in UK's win over SC",
-      "link": "https://www.espn.com/video/clip/_/id/50128738/willie-rodriguez-breaks-game-winning-catch-uk-win-sc",
-      "description": "Rodriguez joins SEC Now to relive the final moments of the Wildcats' comeback win over the Gamecocks and previews their matchup against No. 10 LSU in Lexington.",
-      "pubDate": "2026-10-08T02:00:09Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Interview_Willie_UK_SECN_261007/dm_261007_SEC_NCF_Interview_Willie_UK_SECN_261007.jpg"
-    },
-    {
-      "title": "Gene Chizik outlines No. 14 Mizzou, Texas A&M keys to winning",
-      "link": "https://www.espn.com/video/clip/_/id/50128739/gene-chizik-outlines-no-14-mizzou-texas-keys-winning",
-      "description": "Chizik says Missouri should maintain the dominance from its big Week 5 win over No. 16 Florida to protect home against the Aggies, while advising Texas A&M to lean on its QB run game.",
-      "pubDate": "2026-10-08T00:12:17Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Analysis_Chizik_on_TAMU_vs_Mizzou_261007/dm_261007_SEC_NCF_Analysis_Chizik_on_TAMU_vs_Mizzou_261007.jpg"
-    },
-    {
-      "title": "Gene Chizik says Week 6 game with UK is 'dangerous' for No. 10 LSU",
-      "link": "https://www.espn.com/video/clip/_/id/50128598/gene-chizik-says-week-6-game-uk-dangerous-no-10-lsu",
-      "description": "Will Stein is full of confidence and it's evident in Kentucky's energy and momentum, this mentality is enough to convince Chizik that LSU must execute cleanly to pick up a road win.",
-      "pubDate": "2026-10-07T23:51:46Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Analysis_Chizik_on_LSU_vs_Kentucky_261007/dm_261007_SEC_NCF_Analysis_Chizik_on_LSU_vs_Kentucky_261007.jpg"
-    },
-    {
-      "title": "McGee Essay: Football, Legends, History - 'Red River Rivalry'",
-      "link": "https://www.espn.com/video/clip/_/id/50128398/football-legends-history-red-river-rivalry",
-      "description": "Ryan McGee dives into the legendary moments, rich history and storied tradition that make the 126-year rivalry between No. 1 Texas and Oklahoma one of college football's must-see matchups.",
-      "pubDate": "2026-10-07T23:28:33Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1007/dm_261007_SEC_NCF_Feature_McGee_on_RRR_261007/dm_261007_SEC_NCF_Feature_McGee_on_RRR_261007.jpg"
-    },
-    {
-      "title": "Trend or Panic? Is College Football’s Play-Caller Carousel Spinning Out Of Control?",
-      "link": "https://www.foxsports.com/stories/college-football/trend-panic-college-footballs-play-caller-carousel-spinning-out-control",
-      "description": "Here is a breakdown of the latest mid-season coaching changes and play-caller switches through Week 5 of the college football season.",
-      "pubDate": "2026-10-07T23:26:06+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/football.jpg"
     }
   ],
   "insider": [
     {
-      "title": "After Jalon Daniels leads Bucs over Cowboys, NFL teams are 8-4 when starting a backup QB",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/after-jalon-daniels-leads-bucs-over-cowboys-nfl-teams-are-8-4-when-starting-a-backup-qb",
-      "description": "Injuries to starting quarterbacks have not derailed teams this season....",
-      "pubDate": "2026-10-09T09:27:45+00:00",
+      "title": "Bears rule Kyle Monangai out for Week 5",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-rule-kyle-monangai-out-for-week-5",
+      "description": "The Bears won't have running back Kyle Monangai for Sunday's game against the Packers....",
+      "pubDate": "2026-10-09T16:58:11+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
     {
-      "title": "Bengals' Jordan Battle: Malik Willis taps the ball before he throws, we can key on that",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-jordan-battle-malik-willis-taps-the-ball-before-he-throws-we-can-key-on-that",
-      "description": "NFL players and coaches spend many hours studying film of their upcoming opponents to find tendencies that can give them an advantage on Sunday....",
-      "pubDate": "2026-10-09T08:28:24+00:00",
+      "title": "Bears: Mike Ditka is an \"icon\" whose impact will last \"for generations\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-mike-ditka-is-an-icon-whose-impact-will-last-for-generations",
+      "description": "The man who led the 1985 Bears to a Super Bowl win died on Friday....",
+      "pubDate": "2026-10-09T16:52:22+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jayden Daniels will start Sunday, Stefon Diggs out",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-will-start-sunday-stefon-diggs-out",
+      "description": "Jayden Daniels is officially back....",
+      "pubDate": "2026-10-09T16:51:29+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Falcons-Saints on Monday night draws 11.9 million viewers",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-saints-on-monday-night-draws-11-9-million-viewers",
+      "description": "The Week 3 Monday night game between the Eagles and Bears racked up 22.6 million viewers on the Disney family of networks....",
+      "pubDate": "2026-10-09T16:33:01+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lamar Jackson is not practicing on Friday with ankle sprain",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-is-not-practicing-on-friday-with-ankle-sprain",
+      "description": "It looks like the Ravens are unlikely to have quarterback Lamar Jackson when they play the Falcons on Sunday night....",
+      "pubDate": "2026-10-09T16:31:32+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bengals to list Ja'Marr Chase, Tee Higgins as questionable",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-to-list-jamarr-chase-tee-higgins-as-questionable",
+      "description": "Bengals wide receivers Ja'Marr Chase and Tee Higgins both took part in practice on Friday, but the team isn't saying if either of them will play against the Dolphins this weekend....",
+      "pubDate": "2026-10-09T16:23:58+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets rule out Breece Hall, Adonai Mitchell",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-rule-out-breece-hall-adonai-mitchell",
+      "description": "The Jets will remain shorthanded on offense for Sunday's game against the Browns....",
+      "pubDate": "2026-10-09T16:17:43+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Legendary player, coach Mike Ditka dies at 86",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/legendary-player-coach-mike-ditka-dies-at-86",
+      "description": "Ditka was a larger-than-life figure, in Chicago and beyond....",
+      "pubDate": "2026-10-09T15:58:26+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Matt Burke on losing play-calling: Sometimes you have to try to spark a change",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-burke-on-losing-play-calling-sometimes-you-have-to-try-to-spark-a-change",
+      "description": "The Texans were one of two teams to change a play-caller this week, with head coach DeMeco Ryans taking the defensive play-calling duties back from coordinator Matt Burke....",
+      "pubDate": "2026-10-09T15:53:54+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy football: Why now is the ideal time to trade Derrick Henry",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/50140857/fantasy-football-trades-value-derrick-henry",
+      "description": "The ageless back is off to a strong start, which presents the opportunity to maximize the return in a deal.",
+      "pubDate": "2026-10-09T15:52:43Z",
+      "source": "ESPN NFL · Michael F. Florio",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1009/r1728270_1296x729_16-9.jpg"
+    },
+    {
+      "title": "NFLPA names Justin Jefferson their Community MVP for Week 5",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nflpa-names-justin-jefferson-their-community-mvp-for-week-5",
+      "description": "The NFL Players Association announced on Friday that Vikings wide receiver Justin Jefferson has been named their Community MVP for Week 5....",
+      "pubDate": "2026-10-09T15:21:03+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dianna Russini hires \"crisis publicist\" as comeback looms",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dianna-russini-hires-crisis-publicist-as-comeback-looms",
+      "description": "In the days before the 2026 regular season began, a report indicated that Dianna Russini \"absolutely\" plans to return to sports media, with her next move coming \"sooner than later....",
+      "pubDate": "2026-10-09T15:12:41+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jahmyr Gibbs’ next touchdown ties Barry Sanders’ record for most before age 25",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jahmyr-gibbs-next-touchdown-ties-barry-sanders-record-for-most-before-age-25",
+      "description": "Lions running back Jahmyr Gibbs has scored a touchdown in every game this season....",
+      "pubDate": "2026-10-09T15:04:42+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Tyreek Hill's current civil trial complicates his effort to return to NFL",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyreek-hills-current-civil-trial-complicates-his-effort-to-return-to-nfl",
+      "description": "On Thursday, Hill admitted to shoving his ex-wife into a wall....",
+      "pubDate": "2026-10-09T14:22:34+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Don't be surprised if: Unsung heroes rack up the stats, and one QB to trade away",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/50134415/fantasy-football-start-sit-sleepers-breakouts-week-5",
+      "description": "Don't be surprised if the trade market for a QB1 drops off after Week 5, and unsung heroes start to shine.",
+      "pubDate": "2026-10-09T14:08:33Z",
+      "source": "ESPN NFL · Eric Karabell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1008/r1727954_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Todd Bowles flirted with disaster by passing on fourth-quarter field goal",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-flirted-with-disaster-by-passing-on-fourth-quarter-field-goal",
+      "description": "With 8:36 remaining in Thursday night's game, the Buccaneers led the Cowboys, 24-10....",
+      "pubDate": "2026-10-09T13:54:30+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Liam Coen: Sunday about us, not who's missing for Eagles",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/liam-coen-sunday-about-us-not-whos-missing-for-eagles",
+      "description": "It's been a tumultuous week for the Eagles, but Jaguars head coach Liam Coen said that's not factoring into his team's preparation for Sunday's game in London....",
+      "pubDate": "2026-10-09T12:48:57+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sean McVay: I thought I'd have an update on Myles Garrett on Thursday, but I don't",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-mcvay-i-thought-id-have-an-update-on-myles-garrett-on-thursday-but-i-dont",
+      "description": "Rams coach Sean McVay is still not prepared to say how close Myles Garrett is to returning....",
+      "pubDate": "2026-10-09T12:33:48+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Todd Bowles took a knee on sideline late in Thursday's game after hit to stomach during celebration",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/todd-bowles-took-a-knee-on-sideline-late-in-thursdays-game-after-hit-to-stomach-during-celebration",
+      "description": "As the Buccaneers were running out the clock on Thursday night's win in Dallas, television cameras caught Bucs head coach Todd Bowles taking a knee on the sideline while grimacing ...",
+      "pubDate": "2026-10-09T12:26:11+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "D'Andre Swift on fumbles: That's not me",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dandre-swift-on-fumbles-thats-not-me",
+      "description": "Bears running back D'Andre Swift fumbled four times in his first 33 games with the team, but he's been a little less adept at holding onto the ball in the early stages of this seas...",
+      "pubDate": "2026-10-09T10:59:58+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jalon Daniels: Fast start gave us confidence we could win the game",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalon-daniels-fast-start-gave-us-confidence-we-could-win-the-game",
+      "description": "Quarterback Jalon Daniels and the Buccaneers came into Dallas as big underdogs on Thursday night and the first Cowboys possession of the night did little to suggest oddsmakers had ...",
+      "pubDate": "2026-10-09T10:49:29+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dak Prescott did not appreciate stadium worker calling Cowboys' loss \"embarrassing\"",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-did-not-appreciate-stadium-worker-calling-cowboys-loss-embarrassing",
+      "description": "\"Feel free to speak your mind. Just speak it. Don't coward away from the reaction that you're going to get,\" Prescott said of his exchange with the worker in the tunnel after the g...",
+      "pubDate": "2026-10-09T10:34:32+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -830,26 +990,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Tony Romo was disqualified from a golf tournament, on the same day CBS announced his exit",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tony-romo-was-disqualified-from-a-golf-tournament-on-the-same-day-cbs-announced-his-exit",
-      "description": "Last Friday was a very strange day for Tony Romo....",
-      "pubDate": "2026-10-09T03:31:56+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Thursday Night Football: Bucs upset Cowboys 24-16",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-bucs-upset-cowboys-24-16",
       "description": "The Bucs ran for 241 yards, including 165 by Bucky Irving....",
       "pubDate": "2026-10-09T03:26:10+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "As trade rumors intensify, Marvin Harrison Jr. hires agents",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-trade-rumors-intensify-marvin-harrison-jr-hires-agents",
-      "description": "Cardinals receiver Marvin Harrison Jr. says he's paying \"no mind\" to intensifying trade rumors....",
-      "pubDate": "2026-10-09T03:16:12+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -860,94 +1004,6 @@
       "pubDate": "2026-10-09T03:04:55+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Colts-Commanders on Sunday morning had less than five million viewers",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-commanders-on-sunday-morning-had-less-than-five-million-viewers",
-      "description": "The European games have created a new NFL viewing window on Sunday mornings....",
-      "pubDate": "2026-10-09T02:59:39+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lions-Panthers slips under 20 million viewers on Sunday night",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-panthers-slips-under-20-million-viewers-on-sunday-night",
-      "description": "The Lions don't seem to be the draw they've become in recent years....",
-      "pubDate": "2026-10-09T02:46:29+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Marvin Harrison Jr. says he is paying trade rumors \"no mind\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/marvin-harrison-jr-says-he-is-paying-trade-rumors-no-mind",
-      "description": "The NFL trade deadline is still a month away, but Cardinals wide receiver Marvin Harrison Jr. is one of the NFL players who could find a new home in the coming weeks....",
-      "pubDate": "2026-10-09T02:26:53+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bucky Irving gives Bucs 21-10 lead",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucky-irving-gives-bucs-21-10-lead",
-      "description": "Bucky Irving has 122 rushing yards, and his second touchdown of the night has given the Buccaneers a 21-10 lead....",
-      "pubDate": "2026-10-09T02:19:21+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bucs need only two plays to take the second-half lead",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-need-only-two-plays-to-take-the-second-half-lead",
-      "description": "The Bucs' first possession of Thursday night's game was a 15-play, 73-yard touchdown drive that ate 10:58 off the clock....",
-      "pubDate": "2026-10-09T02:02:45+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Thursday Night Football: Cowboys lead Bucs 10-7 at halftime",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-cowboys-lead-bucs-10-7-at-halftime",
-      "description": "The Bucs have outgained the Cowboys 155 to 146 yards....",
-      "pubDate": "2026-10-09T01:47:49+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Brandon Staley pushes back against Troy Aikman's criticism: It's not true",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-staley-pushes-back-against-troy-aikmans-criticism-its-not-true",
-      "description": "The ESPN analyst said Monday night: \"Brandon Staley, he just simply doesn't have any answers, and I think he knew it when we talked to him coming in.\"...",
-      "pubDate": "2026-10-09T01:10:24+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bucs score on first drive to tie Cowboys 7-7",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-score-on-first-drive-to-tie-cowboys-7-7",
-      "description": "The Buccaneers' opening drive was as impressive as the Cowboys'....",
-      "pubDate": "2026-10-09T00:53:15+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cards' Marvin Harrison Jr. paying 'no mind' to trade rumors",
-      "link": "https://www.espn.com/nfl/story/_/id/50136259/cards-marvin-harrison-jr-paying-no-mind-trade-rumors",
-      "description": "Sources said the Cardinals are not shopping Marvin Harrison Jr. but other teams are still doing their due diligence on the receiver, including the Colts.",
-      "pubDate": "2026-10-09T00:51:53Z",
-      "source": "ESPN NFL · Josh Weinfuss and Stephen Holder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0730/r1695394_600x600_1-1.jpg"
-    },
-    {
-      "title": "Cowboys take 7-0 lead on opening drive",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-take-7-0-lead-on-opening-drive",
-      "description": "The Cowboys have been virtually unstoppable in the red zone this season....",
-      "pubDate": "2026-10-09T00:32:05+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bengals look to end 2-game skid against Dolphins with Ja'Marr Chase and Tee Higgins status unclear",
-      "link": "http://www.espn.com/nfl/preview?gameId=401872982",
-      "description": "— Joe Burrow has thrown a lot of passes to Ja'Marr Chase and Tee Higgins, but the Cincinnati quarterback may need to find another top option when the Bengals visit the Dolphins on Sunday with both of his top receivers dealing with injuries.",
-      "pubDate": "2026-10-08T23:42:28Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872982.png?templateId=espn.applewatch.awayhome.1"
     },
     {
       "title": "49ers WR Mike Evans did not practice Thursday",
@@ -966,22 +1022,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Tyler Shough back to full participation, Alvin Kamara and Chris Olave limited",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tyler-shough-back-to-full-participation-alvin-kamara-and-chris-olave-limited",
-      "description": "Saints quarterback Tyler Shough downplayed his inclusion as a limited participant on Wednesday's injury report and Thursday's update on his participation supported that lack of con...",
-      "pubDate": "2026-10-08T22:52:36+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ashton Jeanty downgraded to limited practice on Thursday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ashton-jeanty-downgraded-to-limited-practice-on-thursday",
-      "description": "Raiders running back Ashton Jeanty took a step in the wrong direction on Thursday's injury report....",
-      "pubDate": "2026-10-08T22:44:40+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Thursday Night Football: Cowboys CB Joey Porter Jr. ruled out with an illness",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-cowboys-cb-joey-porter-jr-rule-out-with-an-illness",
       "description": "The Cowboys acquired Porter in a trade with the Steelers last week, and he played 25 snaps in his 2026 debut on Sunday....",
@@ -990,34 +1030,10 @@
       "thumbnail": ""
     },
     {
-      "title": "RB Chris Brooks out of practice, Packers sign Pierre Strong to 53-man roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rb-chris-brooks-out-of-practice-packers-sign-pierre-strong-to-53-man-roster",
-      "description": "The Packers were missing a running back at Thursday's practice and they signed another one to the active roster ahead of Sunday's game against the Bears....",
-      "pubDate": "2026-10-08T22:39:02+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Kirk Cousins and Raiders look to build on fast start against Patriots defense dealing with injuries",
-      "link": "http://www.espn.com/nfl/preview?gameId=401872986",
-      "description": "— Kirk Cousins' torrid start to the season has been one of the NFL's biggest surprises.",
-      "pubDate": "2026-10-08T22:30:28Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/nfl/events/401872986.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
       "title": "Saquon Barkley, Drew Kendall, DeVonta Smith remain out of Eagles practice",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkley-drew-kendall-devonta-smith-remain-out-of-eagles-practice",
       "description": "The Eagles remained without three offensive starters as they moved closer to this weekend's trip to London to face the Jaguars....",
       "pubDate": "2026-10-08T22:05:39+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "As Skydance keeps growing, the CBS-NFL deal still hasn't been renegotiated",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-skydance-keeps-growing-the-cbs-nfl-deal-still-hasnt-been-renegotiated",
-      "description": "Given the recent merger of Paramount and Warner Bros....",
-      "pubDate": "2026-10-08T22:02:17+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -1030,30 +1046,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Jordan Addison returns for limited practice Thursday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jordan-addison-returns-for-limited-practice-thursday",
-      "description": "The Vikings got wide receiver Jordan Addison on the field for Thursday's practice....",
-      "pubDate": "2026-10-08T21:33:08+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ernest Jones IV: Meeting of defensive players is needed \"just once\" per season",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ernest-jones-iv-meeting-of-defensive-players-is-needed-just-once-per-season",
-      "description": "The Seahawks' defensive players held a meeting this week, after a game on Sunday that included too many penalties....",
-      "pubDate": "2026-10-08T21:28:39+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bucs elevate QB Easton Stick, S J.J. Roberts from the practice squad",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bucs-elevate-qb-easton-stick-s-j-j-roberts-from-the-practice-squad",
-      "description": "The Buccaneers activated safety J.J....",
-      "pubDate": "2026-10-08T20:35:03+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Sean Payton confirms he'll call the Broncos' offensive plays",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sean-payton-confirms-hell-call-the-broncos-offensive-plays",
       "description": "Payton ceded the duties to offensive coordinator Davis Webb, but the results have been underwhelming....",
@@ -1062,10 +1054,10 @@
       "thumbnail": ""
     },
     {
-      "title": "Jayden Daniels officially a full participant on Thursday, Terry McLaurin DNP",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jayden-daniels-officially-a-full-participant-on-thursday-terry-mclaurin-dnp",
-      "description": "It continues to look like quarterback Jayden Daniels will return for Sunday's game against the Giants....",
-      "pubDate": "2026-10-08T20:25:05+00:00",
+      "title": "Derrick Henry on Bijan Robinson: He's the best in the game right now",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/derrick-henry-on-bijan-robinson-hes-the-best-in-the-game-right-now",
+      "description": "Sunday night's matchup between the Ravens and the Falcons will see two of the league's best running backs on opposite sidelines....",
+      "pubDate": "2026-10-08T19:58:07+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
@@ -1076,14 +1068,6 @@
       "pubDate": "2026-10-08T19:22:44+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/artboard-1-65.jpg"
-    },
-    {
-      "title": "Will Sam LaPorta return to Detroit?",
-      "link": "https://www.espn.com/video/clip/_/id/50133634/will-sam-laporta-return-detroit",
-      "description": "Eric Woodyard reports on LaPorta's future as talks about a contract extension with the the Lions are at a \"stalemate.\"",
-      "pubDate": "2026-10-08T16:25:51Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1008/dm_261008_Sam_Laporta_Lions_IA/dm_261008_Sam_Laporta_Lions_IA.jpg"
     }
   ]
 }
