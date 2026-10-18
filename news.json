@@ -1,45 +1,365 @@
 {
-  "generatedAt": "2026-10-18T10:33:04.567463+00:00",
+  "generatedAt": "2026-10-18T14:08:14.740576+00:00",
   "nfl": [
+    {
+      "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "link": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+      "description": "Here's a look at the best plays from Sunday in Week 6's action.",
+      "pubDate": "2026-10-18T14:04:25Z",
+      "source": "ESPN NFL · NFL Nation",
+      "thumbnail": "https://a.espncdn.com/photo/2025/0929/r1552931_608x342_16-9.jpg"
+    },
+    {
+      "title": "Texans-Jaguars umpire Larry Smith injured, carted off in London",
+      "link": "https://sports.yahoo.com/articles/texans-jaguars-umpire-larry-smith-135510274.html",
+      "description": "The officiating crew is down to six members at Wembley Stadium....",
+      "pubDate": "2026-10-18T13:55:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL umpire Larry Smith carted off early after slipping on wet field in London",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-umpire-larry-smith-carted-off-early-after-slipping-on-wet-field-in-london-135414468.html",
+      "description": "Larry Smith appeared to sustain a lower-leg injury early Sunday....",
+      "pubDate": "2026-10-18T13:54:14+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
+      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+      "pubDate": "2026-10-18T13:49:26Z",
+      "source": "ESPN NFL · Michael F. Florio",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Pre-Snap Reads: Seahawks searching for answers on a Sunday afternoon",
+      "link": "https://sports.yahoo.com/articles/pre-snap-reads-seahawks-searching-134423475.html",
+      "description": "Get it together, guys!...",
+      "pubDate": "2026-10-18T13:44:23+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Starkly split opinions on Bills entering Week 6’s game at Raiders",
+      "link": "https://sports.yahoo.com/articles/starkly-split-opinions-bills-entering-134246906.html",
+      "description": "What do you think of this team right now?...",
+      "pubDate": "2026-10-18T13:42:46+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bears-Falcons features NFL&#39;s top two rushing attacks",
+      "link": "https://sports.yahoo.com/articles/bears-falcons-features-nfls-top-134035584.html",
+      "description": "When the Bears and Falcons square off at 1:00 p.m....",
+      "pubDate": "2026-10-18T13:40:35+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Najee Harris is expected to take larger role in Giants backfield",
+      "link": "https://sports.yahoo.com/articles/report-najee-harris-expected-larger-133425974.html",
+      "description": "Cam Skattebo has been the Giants&#39; top running back through the first five weeks of the regular season, but a report on Sunday morning indicates that could change against the Sa...",
+      "pubDate": "2026-10-18T13:34:25+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Week 6 live chat, game discussion",
+      "link": "https://sports.yahoo.com/articles/nfl-week-6-live-chat-133000917.html",
+      "description": "Join our live discussion for all of NFL’s Week 6 games....",
+      "pubDate": "2026-10-18T13:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets great Mark Gastineau wants rookie David Bailey to celebrate after sacks",
+      "link": "https://www.espn.com/nfl/story/_/id/50197835/jets-david-bailey-sacks-mark-gastineau",
+      "description": "Gastineau's sack dances led to the NFL penalizing excessive celebrations for over 30 years.",
+      "pubDate": "2026-10-18T13:29:38Z",
+      "source": "ESPN NFL · Rich Cimini",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1016/r1731809_608x342_16-9.jpg"
+    },
+    {
+      "title": "Report: Tyler Shough has two broken bones in his left hand",
+      "link": "https://sports.yahoo.com/articles/report-tyler-shough-two-broken-132848070.html",
+      "description": "Saints quarterback Tyler Shough has been on the team&#39;s injury report in recent weeks because of his left hand and the issue will reportedly stretch into future weeks as well....",
+      "pubDate": "2026-10-18T13:28:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Week 6 game thread: The calm before Monday",
+      "link": "https://sports.yahoo.com/articles/week-6-game-thread-calm-132432958.html",
+      "description": "We’ve got a Sunday game thread while the 49ers rest up for Monday Night Football....",
+      "pubDate": "2026-10-18T13:24:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand",
+      "link": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
+      "description": "Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
+      "pubDate": "2026-10-18T13:15:42Z",
+      "source": "ESPN NFL · Adam Schefter",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1731913_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Seahawks fan chat: NFL Week 6 Sunday games, Cowboys vs. Packers live discussion",
+      "link": "https://sports.yahoo.com/articles/seahawks-fan-chat-nfl-week-131500518.html",
+      "description": "No Seahawks on Sunday this time. Let’s talk about all the NFL Week 6 action right here!...",
+      "pubDate": "2026-10-18T13:15:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Gayle Benson endorses Kellen Moore, coaches after comments about state of Saints",
+      "link": "https://www.espn.com/nfl/story/_/id/50207241/gayle-benson-endorses-kellen-moore-saints-coaches",
+      "description": "Saints owner Gayle Benson endorsed Kellen Moore and the coaching staff Friday, three days after her pointed comments about the state of the team.",
+      "pubDate": "2026-10-18T13:10:56Z",
+      "source": "ESPN NFL · Ian Rapoport",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732292_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Jags unlikely to play 3 international games in 2027 during EverBank renovations",
+      "link": "https://www.espn.com/nfl/story/_/id/50200792/jaguars-unlikely-play-3-international-home-games-2027",
+      "description": "The Jaguars are unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue, team president Mark Lamping said.",
+      "pubDate": "2026-10-18T13:05:21Z",
+      "source": "ESPN NFL · Michael Dirocco",
+      "thumbnail": "https://a.espncdn.com/photo/2023/1211/r1265144_600x400_3-2.jpg"
+    },
+    {
+      "title": "Are the Vikings playing today? NFL Week 6 schedule, next game, NFC North standings",
+      "link": "https://sports.yahoo.com/articles/vikings-playing-today-nfl-week-130049496.html",
+      "description": "The Minnesota Vikings are undefeated through five weeks of the 2026 NFL season. Here&#39;s what&#39;s on deck for them in Week 6 and beyond....",
+      "pubDate": "2026-10-18T13:00:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Week 6 NFL schedule, scores, live updates: Caleb Williams returns from hamstring injury, A.J. Brown activated from IR, will play vs. Jets",
+      "link": "https://sports.yahoo.com/nfl/live/nfl-week-6-scores-news-live-updates-schedule-highlights-stats-where-to-watch-130000137.html",
+      "description": "Follow along with all of Sunday&#39;s action in Week 6....",
+      "pubDate": "2026-10-18T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Week 6 Discussion",
+      "link": "https://sports.yahoo.com/articles/nfl-week-6-discussion-130000321.html",
+      "description": "Plenty of action today...",
+      "pubDate": "2026-10-18T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "5 things to watch when the Cowboys play the Packers",
+      "link": "https://sports.yahoo.com/articles/5-things-watch-cowboys-play-130000107.html",
+      "description": "What are you going to be paying the most attention to on Sunday night?...",
+      "pubDate": "2026-10-18T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ravens discussion: predictions for Week 6 vs. Browns",
+      "link": "https://sports.yahoo.com/articles/ravens-discussion-predictions-week-6-130000436.html",
+      "description": "Baltimore Beatdown’s staff offers their predictions for the Ravens’ Week 6 matchup with the Browns....",
+      "pubDate": "2026-10-18T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "BTSC Sunday games thread: NFL Week 6",
+      "link": "https://sports.yahoo.com/articles/btsc-sunday-games-thread-nfl-130000571.html",
+      "description": "Enjoy the Sunday NFL slate, starting in London, here at Behind the Steel Curtain....",
+      "pubDate": "2026-10-18T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Ranking the top 10 rookie performances in Super Bowl history",
       "link": "https://www.espn.com/nfl/story/_/id/50197687/top-10-super-bowl-rookie-performances-history",
-      "description": "Which rookies made a name from themselves in the Super Bowl? We list 10 standout performances, plus honorable mentions.",
-      "pubDate": "2026-10-18T10:25:54Z",
+      "description": "Which rookies made a name from themselves in the Super Bowl over the years? We listed 10 standout performances, plus honorable mentions.",
+      "pubDate": "2026-10-18T12:55:51Z",
       "source": "ESPN NFL · Michael DiRocco",
       "thumbnail": "https://a.espncdn.com/photo/2024/1224/r1431509_608x342_16-9.jpg"
     },
     {
-      "title": "Panthers fans optimistic, in spite of short term concerns",
-      "link": "https://sports.yahoo.com/articles/panthers-fans-optimistic-spite-short-101317771.html",
-      "description": "What happens when an injured team meets a hopeful fanbase?...",
-      "pubDate": "2026-10-18T10:13:17+00:00",
+      "title": "How to Watch Cowboys vs. Packers: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-packers-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Cowboys and Packers game.",
+      "pubDate": "2026-10-18T12:37:59+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/1ddf0a3421c24c19ff77e201c756fb4662a6736aa466a60931d542ee94ed6dd3.png"
+    },
+    {
+      "title": "How to Watch Bills vs. Raiders: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-bills-vs-raiders-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Bills and Raiders game.",
+      "pubDate": "2026-10-18T12:37:05+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/a890ecb505c3295d0a5407e079d630e25806edcea61d3add7431d90e0ed830fb.png"
+    },
+    {
+      "title": "How to Watch Chargers vs. Chiefs: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-chargers-vs-chiefs-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Chargers and Chiefs game.",
+      "pubDate": "2026-10-18T12:36:50+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/f1013bcd8682fe2e17e90d18dc45d4c1754a40268f5c0818e6d4c8b32be0b537.png"
+    },
+    {
+      "title": "How to Watch Jets vs. Patriots: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-jets-vs-patriots-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Jets and Patriots game.",
+      "pubDate": "2026-10-18T12:36:22+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/d9253e197476d37e1e17b279b247fd0c6eda52aecfa2e32f76816f1e22a7dc8f.png"
+    },
+    {
+      "title": "How to Watch Steelers vs. Buccaneers: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-buccaneers-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Pittsburgh Steelers and Tampa Bay Buccaneers game.",
+      "pubDate": "2026-10-18T12:34:52+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/e4d3a7864031b52214fd48daeeb93af7fc9e51a46d17f7891fcf9d9226a20574.png"
+    },
+    {
+      "title": "How to Watch Panthers vs. Eagles: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-panthers-vs-eagles-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Panthers and Eagles game.",
+      "pubDate": "2026-10-18T12:34:17+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/8fe0f108ab581bb187825c7d27141cc8828e166772c63c6ef53a5fedbdcbebe5.png"
+    },
+    {
+      "title": "How to Watch Cardinals vs. Rams: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-cardinals-vs-rams-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Cardinals and Rams game.",
+      "pubDate": "2026-10-18T12:31:53+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/how-to-watch-arizona-cardinals-vs-los-angeles-rams-horizontal.png"
+    },
+    {
+      "title": "How to Watch Bears vs. Falcons: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-bears-vs-falcons-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Chicago Bears and Atlanta Falcons game.",
+      "pubDate": "2026-10-18T12:31:28+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/22b695ef53f2e944d82f07afea911a915ff09d44f6bf5c61ba0eb753138d248a.png"
+    },
+    {
+      "title": "How to Watch Saints vs. Giants: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-saints-vs-giants-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Saints and Giants game.",
+      "pubDate": "2026-10-18T12:30:04+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/10812a4750a99f0768364496255de0cbf5b2ead6becf5c5dffa9ef54719317b4.png"
+    },
+    {
+      "title": "How to Watch Ravens vs. Browns: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-ravens-vs-browns-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Ravens and Browns game.",
+      "pubDate": "2026-10-18T12:28:53+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/9ded3948517149141420f6e0433872c5189404b9e055f63400251ab6929b9484.png"
+    },
+    {
+      "title": "How to Watch Titans vs. Colts: TV Channel, Live Stream, Time",
+      "link": "https://www.foxsports.com/stories/nfl/how-to-watch-titans-vs-colts-tv-channel-live-stream-time-oct-18-2026",
+      "description": "Learn which TV channel or how to live stream the NFL Week 6 Titans and Colts game.",
+      "pubDate": "2026-10-18T12:25:38+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/120b55412a3bcf74d9b33f3f9eacf9263c5ba9c83d3a0b38fef509f3aea40179.png"
+    },
+    {
+      "title": "Texans vs. Jaguars live updates, inactives, where to watch: Jacksonville looks to stay among AFC&#39;s best at familiar home in London",
+      "link": "https://sports.yahoo.com/nfl/live/texans-jaguars-score-live-updates-london-game-inactives-highlights-stats-where-to-watch-week-6-120000000.html",
+      "description": "Jacksonville will attempt to keep pace with the Chiefs, Bills and Ravens at its second home in the United Kingdom....",
+      "pubDate": "2026-10-18T12:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
     {
-      "title": "Sunday Night Football: How to watch the Dallas Cowboys vs. Green Bay Packers game tonight",
-      "link": "https://sports.yahoo.com/nfl/article/sunday-night-football-how-to-watch-the-dallas-cowboys-vs-green-bay-packers-game-tonight-101100802.html",
-      "description": "Here&#39;s how to tune into Sunday Night Football tonight without cable....",
-      "pubDate": "2026-10-18T10:11:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
+      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "link": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "pubDate": "2026-10-18T11:16:20Z",
+      "source": "ESPN NFL · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg"
     },
     {
-      "title": "NFL Week 6 betting advice: Giants-Saints picks and props",
-      "link": "https://sports.yahoo.com/articles/nfl-week-6-betting-advice-100906285.html",
-      "description": "Giants-Saints wagers to consider as you fill out your tickets....",
-      "pubDate": "2026-10-18T10:09:06+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
+      "title": "Fantasy football rankings for Week 6: Running back",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "pubDate": "2026-10-18T11:12:15Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0922/r1720547_1296x729_16-9.jpg"
     },
     {
-      "title": "What NFL games are on today? Week 6 TV channels, Sunday schedule, results",
-      "link": "https://sports.yahoo.com/articles/nfl-games-today-week-6-100327230.html",
-      "description": "The 2026 NFL season is starting to take shape and the games are getting more important. Here&#39;s how you can watch all of the Sunday action in Week 6....",
-      "pubDate": "2026-10-18T10:03:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
+      "title": "Fantasy football flex and superflex rankings for Week 6",
+      "link": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
+      "description": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
+      "pubDate": "2026-10-18T11:11:33Z",
+      "source": "ESPN NFL · Eric Karabell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0928/r1723051_2_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football rankings Week 6: PPR and superflex",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
+      "description": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
+      "pubDate": "2026-10-18T11:09:00Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1725951_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football rankings for Week 6: Wide receiver",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "pubDate": "2026-10-18T11:08:39Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0903/r1711058_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football rankings for Week 6: D/ST",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "pubDate": "2026-10-18T11:08:01Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0903/r1711074_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football rankings for Week 6: Quarterback",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "pubDate": "2026-10-18T11:07:40Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0903/r1711049_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football rankings for Week 6: Tight end",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "pubDate": "2026-10-18T11:07:17Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0929/r1723237_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football rankings for Week 6: IDP",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
+      "description": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
+      "pubDate": "2026-10-18T11:06:54Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0922/r1720597_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Fantasy football rankings for Week 6: Kicker",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
+      "description": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
+      "pubDate": "2026-10-18T11:06:26Z",
+      "source": "ESPN NFL · ESPN Fantasy",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0722/r1692509_1296x729_16-9.jpg"
     },
     {
       "title": "NFL DFS Week 6: Best Picks, Lineup Advice and Value Plays",
@@ -50,116 +370,12 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/dfs.jpg"
     },
     {
-      "title": "Here’s how to watch Bills at Raiders in Week 6",
-      "link": "https://sports.yahoo.com/articles/watch-bills-raiders-week-6-100031835.html",
-      "description": "All the ways to catch the action live when the Buffalo Bills take on the New England Patriots in Week 4...",
-      "pubDate": "2026-10-18T10:00:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
       "title": "Patriots' 2026 rookies: Who has made an impact through five weeks?",
       "link": "https://www.espn.com/nfl/story/_/id/50198740/new-england-patriots-notebook-rookies-jets-lomu-jacas",
       "description": "With two rookies assuming starting roles, let's take a look at how this year's draft class has panned out.",
       "pubDate": "2026-10-18T10:00:04Z",
       "source": "ESPN NFL · Mike Reiss",
       "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1731890_608x342_16-9.jpg"
-    },
-    {
-      "title": "Jets great Mark Gastineau wants rookie David Bailey to celebrate after sacks",
-      "link": "https://www.espn.com/nfl/story/_/id/50197835/jets-david-bailey-sacks-mark-gastineau",
-      "description": "Gastineau's sack dances led to the NFL penalizing excessive celebrations for over 30 years.",
-      "pubDate": "2026-10-18T10:00:01Z",
-      "source": "ESPN NFL · Rich Cimini",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1016/r1731809_608x342_16-9.jpg"
-    },
-    {
-      "title": "Falcons vs. Bears 2026: How to watch, start time, TV, and odds for Week 6",
-      "link": "https://sports.yahoo.com/articles/falcons-vs-bears-2026-watch-100000451.html",
-      "description": "Here’s what you need to tune in for Falcons-Bears this afternoon....",
-      "pubDate": "2026-10-18T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "We asked, you answered: Ravens get B- for Cam Jurgens trade",
-      "link": "https://sports.yahoo.com/articles/asked-answered-ravens-b-cam-100000537.html",
-      "description": "Ravens fans approved of the team’s aggressive trade for Eagles center Cam Jurgens, but noted the move’s potential risks....",
-      "pubDate": "2026-10-18T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers vs. Cowboys, Week 6: Game time, how to watch, odds, & more",
-      "link": "https://sports.yahoo.com/articles/packers-vs-cowboys-week-6-100000336.html",
-      "description": "Here’s a refresher on how to tune in for the Packers’ first Sunday Night Football game of 2026....",
-      "pubDate": "2026-10-18T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bengals News: Early look at Cincinnati’s 2027 free agents",
-      "link": "https://sports.yahoo.com/articles/bengals-news-early-look-cincinnati-100000379.html",
-      "description": "Who would you keep out of the upcoming free agents for the Bengals?...",
-      "pubDate": "2026-10-18T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers-Cowboys preview: How Dallas schemes up shot plays",
-      "link": "https://sports.yahoo.com/articles/packers-cowboys-preview-dallas-schemes-100000904.html",
-      "description": "A look at how the Dallas Cowboys use their 989 passing concept to get explosive plays...",
-      "pubDate": "2026-10-18T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos keep finding ways to win, no matter the challenge",
-      "link": "https://sports.yahoo.com/articles/broncos-keep-finding-ways-win-100000250.html",
-      "description": "Whether facing adversity or battling through a gauntlet to start the season, the Broncos show resilience to get wins....",
-      "pubDate": "2026-10-18T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Enough with the fights and tantrums. NFL must fix sportsmanship problem | Opinion",
-      "link": "https://sports.yahoo.com/articles/enough-fights-tantrums-nfl-must-094603841.html",
-      "description": "A punch after a game. A brawl during kickoff. An official cussing a player. The NFL has a sportsmanship issue, writes columnist Jarrett Bell, and it matters....",
-      "pubDate": "2026-10-18T09:46:03+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Which NFL games are Fox, CBS broadcasting? Week 6 coverage maps",
-      "link": "https://sports.yahoo.com/articles/nfl-games-fox-cbs-broadcasting-093039998.html",
-      "description": "Which NFL games will be broadcast in your region in Week 6? Here are the coverage maps for Sunday&#39;s action....",
-      "pubDate": "2026-10-18T09:30:39+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers News: Go… Cardinals?",
-      "link": "https://sports.yahoo.com/articles/49ers-news-cardinals-090000865.html",
-      "description": "Your daily San Francisco 49ers news for Sunday, October 18, 2026...",
-      "pubDate": "2026-10-18T09:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "New York Jets vs New England Patriots Game Day Forecast",
-      "link": "https://sports.yahoo.com/articles/york-jets-vs-england-patriots-090000029.html",
-      "description": "Beautiful cool weather and sunny skies are on tap Sunday at Gillette Stadium...",
-      "pubDate": "2026-10-18T09:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots vs. Jets: How to watch the Week 6 game on Sunday",
-      "link": "https://sports.yahoo.com/articles/patriots-vs-jets-watch-week-090000389.html",
-      "description": "Everything you need to know about watching the Patriots game on Sunday....",
-      "pubDate": "2026-10-18T09:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     },
     {
       "title": "Rams vs. Cardinals Prediction, Odds, Pick For NFL Week 6",
@@ -184,225 +400,105 @@
       "pubDate": "2026-10-18T05:00:34+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/2026-10-18-no-vs-nyg-prediction-1920x1080-1.png"
-    },
-    {
-      "title": "Falcons vs. Bears Prediction, Odds, Pick For NFL Week 6",
-      "link": "https://www.foxsports.com/stories/nfl/falcons-vs-bears-prediction-odds-pick-nfl-week-6",
-      "description": "Get the latest odds, prediction and pick for the Week 6 Falcons vs. Bears game, as well as information on how to watch.",
-      "pubDate": "2026-10-18T05:00:14+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/2026-10-18-chi-vs-atl-prediction-1920x1080-1.png"
-    },
-    {
-      "title": "Colts vs. Titans Prediction, Odds, Pick For NFL Week 6",
-      "link": "https://www.foxsports.com/stories/nfl/colts-vs-titans-prediction-odds-pick-nfl-week-6",
-      "description": "Get the latest odds, prediction and pick for the Week 6 Colts vs. Titans game, as well as information on how to watch.",
-      "pubDate": "2026-10-18T05:00:08+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/2026-10-18-ten-vs-ind-prediction-1920x1080-1.png"
-    },
-    {
-      "title": "Browns vs. Ravens Prediction, Odds, Pick For NFL Week 6",
-      "link": "https://www.foxsports.com/stories/nfl/browns-vs-ravens-prediction-odds-pick-nfl-week-6",
-      "description": "Get the latest odds, prediction and pick for the Week 6 Browns vs. Ravens game, as well as information on how to watch.",
-      "pubDate": "2026-10-18T05:00:07+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/2026-10-18-bal-vs-cle-prediction-1920x1080-1.png"
-    },
-    {
-      "title": "Bill Belichick beats Duke for first time to match 2025 win total in six games",
-      "link": "https://sports.yahoo.com/articles/bill-belichick-beats-duke-first-040604967.html",
-      "description": "The Belichicks can finally breathe a sigh of relief....",
-      "pubDate": "2026-10-18T04:06:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears vs. Falcons: How to watch and listen, previews, odds, and more",
-      "link": "https://sports.yahoo.com/articles/bears-vs-falcons-watch-listen-040100750.html",
-      "description": "Here’s everything you need to know about the Bears-Falcons game....",
-      "pubDate": "2026-10-18T04:01:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL insider provides injury update on Colts wideout Alec Pierce’s recovery status",
-      "link": "https://sports.yahoo.com/articles/nfl-insider-provides-injury-colts-035517327.html",
-      "description": "Colts wideout Alec Pierce is making progress, but the expectation is that he won’t return to the football field imminently....",
-      "pubDate": "2026-10-18T03:55:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "WSU’s second half comeback falls short, drop to 1-6 on the season",
-      "link": "https://sports.yahoo.com/articles/wsu-second-half-comeback-falls-034643824.html",
-      "description": "Washington State and Oregon State came into a classic Pac-12 matchup in opposite spots in the standings. Oregon State came in undefeated in Pac-12 play, while WSU was looking to pi...",
-      "pubDate": "2026-10-18T03:46:43+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Louisville 34, Syracuse 26: Turnovers lead to Orange loss",
-      "link": "https://sports.yahoo.com/articles/louisville-34-syracuse-26-turnovers-031003152.html",
-      "description": "224 receiving yards from Umari Hatcher wasn’t enough for an Orange victory...",
-      "pubDate": "2026-10-18T03:10:03+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ex-Broncos exec John Beake, who helped land John Elway, dies at 87",
-      "link": "https://www.espn.com/nfl/story/_/id/50206700/ex-broncos-exec-john-beake-helped-land-john-elway-dies-87",
-      "description": "John Beake, who was instrumental in the trade for John Elway and helped guide the Denver Broncos to back-to-back Super Bowl titles in the late 1990s, has died at age 87, the team said Saturday.",
-      "pubDate": "2026-10-18T02:58:11Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2022/0608/r1022916_600x400_3-2.jpg"
-    },
-    {
-      "title": "Giants determined to fix issues plaguing dormant running game",
-      "link": "https://sports.yahoo.com/articles/giants-determined-fix-issues-plaguing-025341224.html",
-      "description": "Just because they wanted to do it and were determined to establish that this would be their identity did not make it so....",
-      "pubDate": "2026-10-18T02:53:41+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Recap: Badgers can’t take advantage of opportunities in loss to UCLA",
-      "link": "https://sports.yahoo.com/articles/recap-badgers-t-advantage-opportunities-024947419.html",
-      "description": "The Badgers made too many mistakes and were outcoached in a rough loss to UCLA....",
-      "pubDate": "2026-10-18T02:49:47+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys downgrade LB Demarvion Overshown to out; Joey Porter Jr. makes trip to Green Bay",
-      "link": "https://sports.yahoo.com/articles/cowboys-downgrade-lb-demarvion-overshown-020915703.html",
-      "description": "As expected, Cowboys linebacker DeMarvion Overshown will miss Sunday night&#39;s game against the Packers at Lambeau Field....",
-      "pubDate": "2026-10-18T02:09:15+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "As NFL prepares to stage Steelers-Saints in Paris, local unrest intensifies",
-      "link": "https://sports.yahoo.com/articles/nfl-prepares-stage-steelers-saints-014247793.html",
-      "description": "First-ever game in France is scheduled for October 25....",
-      "pubDate": "2026-10-18T01:42:47+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aqib Talib tees off on Ryan Fitzpatrick for his comments about Bo Nix",
-      "link": "https://sports.yahoo.com/articles/aqib-talib-tees-off-ryan-010458924.html",
-      "description": "Four years ago, Aqib Talib and Ryan Fitzpatrick were scheduled to become colleagues on Prime Video&#39;s coverage of Thursday Night Football....",
-      "pubDate": "2026-10-18T01:04:58+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ousmane Kromah injury update: FSU RB carted off after leg injury vs Miami",
-      "link": "https://sports.yahoo.com/articles/ousmane-kromah-injury-fsu-rb-005408126.html",
-      "description": "Florida State running back Ousmane Kromah was injured in the rivalry game vs. Miami, and needed to have an air cast placed on him. Injury updates:...",
-      "pubDate": "2026-10-18T00:54:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles Film Preview: The Panthers’ defense can be exploited",
-      "link": "https://sports.yahoo.com/articles/eagles-film-preview-panthers-defense-004400786.html",
-      "description": "All-22 analysis of Philadelphia’s Week 6 opponent....",
-      "pubDate": "2026-10-18T00:44:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "North Carolina 24, Duke 20: Five Key Plays",
-      "link": "https://sports.yahoo.com/articles/north-carolina-24-duke-20-002519292.html",
-      "description": "Tough loss, but onwards...",
-      "pubDate": "2026-10-18T00:25:19+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "5 quick hitters with Baltimore Beatdown: How Jesse Minter has changed the Ravens, and can the Browns stop them?",
-      "link": "https://sports.yahoo.com/articles/5-quick-hitters-baltimore-beatdown-000159094.html",
-      "description": "A look at how the Ravens differ under Jesse Minter, where some defensive strengths and weaknesses are, and more....",
-      "pubDate": "2026-10-18T00:01:59+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Miami Dolphins Fans: What You Want Addressed During The Bye",
-      "link": "https://sports.yahoo.com/articles/miami-dolphins-fans-want-addressed-000000873.html",
-      "description": "Miami Dolphins fans sound off on what adjuments and changes need to be made by the team during their bye week....",
-      "pubDate": "2026-10-18T00:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants happy to play the underdog role and keep on defying the odds",
-      "link": "https://sports.yahoo.com/articles/giants-happy-play-underdog-role-235855588.html",
-      "description": "Even though the Giants hired John Harbaugh, there were not many great expectations for how they would fare this season from outside the building....",
-      "pubDate": "2026-10-17T23:58:55+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL predictions: Which running game excels in Browns-Ravens matchup to take over the AFC North?",
-      "link": "https://sports.yahoo.com/articles/nfl-predictions-running-game-excels-233906892.html",
-      "description": "Can the Browns beat their rivals to get back in first place?...",
-      "pubDate": "2026-10-17T23:39:06+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aqib Talib unloads on Ryan Fitzpatrick’s rant about Bo Nix: ‘You suck, bro!’",
-      "link": "https://sports.yahoo.com/articles/aqib-talib-unloads-ryan-fitzpatrick-233856724.html",
-      "description": "Aqib Talib has taken all of Ryan Fitzpatrick’s aura....",
-      "pubDate": "2026-10-17T23:38:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bill Belichick beats Duke for the first time, as North Carolina wins in Durham",
-      "link": "https://sports.yahoo.com/articles/bill-belichick-beats-duke-first-232047585.html",
-      "description": "Bill Belichick has claimed that the first words he ever spoke were &quot;Beat Duke,&quot; because his father was an assistant coach at North Carolina....",
-      "pubDate": "2026-10-17T23:20:47+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk",
-      "link": "https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night",
-      "description": "The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
-      "pubDate": "2026-10-17T23:11:15Z",
-      "source": "ESPN NFL · Nick Wagoner",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1732188_600x600_1-1.jpg"
-    },
-    {
-      "title": "Georgia Tech falls 34-24 to Virginia Tech",
-      "link": "https://sports.yahoo.com/articles/georgia-tech-falls-34-24-225109480.html",
-      "description": "Jackets not able to pull off a miracle comeback...",
-      "pubDate": "2026-10-17T22:51:09+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles QB Jalen Hurts on IR due to blood clot, expected to be out indefinitely",
-      "link": "https://www.espn.com/nfl/story/_/id/50202417/sources-eagles-place-jalen-hurts-ir-due-blood-clot",
-      "description": "The Eagles have placed Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
-      "pubDate": "2026-10-17T22:48:14Z",
-      "source": "ESPN NFL · Adam Schefter and Ian Rapoport",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1726004_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Buffalo Rumblings had 5 good questions for Silver And Black Pride",
-      "link": "https://sports.yahoo.com/articles/buffalo-rumblings-had-5-good-224517761.html",
-      "description": "Matt Holder helps get Bills Mafia and Buffalo Rumblings caught up on the Las Vegas Raiders ahead of Week 6 matchup...",
-      "pubDate": "2026-10-17T22:45:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Air Force: Service member died from fall before Navy-UTSA game",
+      "link": "https://www.espn.com/college-football/story/_/id/50209514/air-force-service-member-died-fall-navy-utsa-game",
+      "description": "A member of the Air Force has died from his injuries after he fell while attempting to rappel from the rafters of the Alamodome during a pregame demonstration before UTSA's football game against Navy, the Air Force said.",
+      "pubDate": "2026-10-18T14:03:54Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732305_600x400_3-2.jpg"
+    },
+    {
+      "title": "Bachmeier leads winning drive, No. 8 BYU outlasts No. 2 Notre Dame 28-24 but Big 12 admits mistake",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856809",
+      "description": "— Bear Bachmeier threw a go-ahead touchdown pass with 1:47 left and No. 8 BYU stopped No. 2 Notre Dame at the goal line to preserve a riveting 28-24 victory Saturday night.",
+      "pubDate": "2026-10-18T14:02:27Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856809.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "2026 college football SP+ rankings for all 138 FBS teams",
+      "link": "https://www.espn.com/college-football/story/_/id/49868647/2026-college-football-sp+-rankings-all-138-fbs-teams",
+      "description": "The updated SP+ rankings, plus strength of schedule and résumé SP+, after this weekend's results.",
+      "pubDate": "2026-10-18T13:42:08Z",
+      "source": "ESPN College Football · Bill Connelly",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732386_608x342_16-9.jpg"
+    },
+    {
+      "title": "Projecting the College Football Playoff top 12 at midseason",
+      "link": "https://www.espn.com/college-football/story/_/id/50204253/projecting-2026-playoff-top-12-week-7-cfp",
+      "description": "We assess how the selection committee could stack the top teams in the country at midseason.",
+      "pubDate": "2026-10-18T13:30:38Z",
+      "source": "ESPN College Football · Heather Dinich",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1732189_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Dylan Raiola, one week after benching, rallies Oregon past former team Nebraska",
+      "link": "https://www.espn.com/college-football/story/_/id/50208879/dylan-raiola-comes-bench-rally-oregon-nebraska",
+      "description": "Dylan Raiola came off the bench against his former team and led Oregon to a fourth-quarter comeback victory over Nebraska.",
+      "pubDate": "2026-10-18T13:28:43Z",
+      "source": "ESPN College Football · Paolo Uggetti",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732342_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Big 12 admits error in Notre Dame-BYU, says Irish had time for one more play",
+      "link": "https://www.espn.com/college-football/story/_/id/50208529/big-12-admits-error-says-notre-dame-had-one-more-play",
+      "description": "The Big 12 said officials incorrectly ended Saturday night's game between BYU and Notre Dame and that the Irish should have had another second on the clock to run a final play.",
+      "pubDate": "2026-10-18T13:27:52Z",
+      "source": "ESPN College Football · Adam Rittenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732327_600x400_3-2.jpg"
+    },
+    {
+      "title": "Lanning: Raiola 'was ready for his moment' in gritty Oregon win",
+      "link": "https://www.espn.com/video/clip/_/id/50209618/raiola-was-ready-moment-gritty-oregon-win",
+      "description": "Lanning: Raiola 'was ready for his moment' in gritty Oregon win",
+      "pubDate": "2026-10-18T13:00:02Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/dm_261018_oregon_presser/dm_261018_oregon_presser.jpg"
+    },
+    {
+      "title": "No. 15 Kentucky rallies to beat Oklahoma 21-13 and move into a tie for the SEC lead",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856722",
+      "description": "— Kenny Minchey threw two touchdown passes, Jordan Castell returned an interception 41 yards for a score and No. 15 Kentucky rallied in the second half to beat Oklahoma 21-13 on Saturday night and move into a tie for the Southeastern Conference lead.",
+      "pubDate": "2026-10-18T12:34:17Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856722.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "No. 3 Miami hangs on to beat Florida State, 43-35 in a double-overtime thriller",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858263",
+      "description": "— Darian Mensah threw for 326 yards and three touchdowns, the last of them a 3-yarder to Malachi Toney in the second overtime, and No. 3 Miami held on to beat archrival Florida State 43-35 in a back-and-forth classic on Saturday night.",
+      "pubDate": "2026-10-18T12:32:58Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858263.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Which college football team had the most damaging loss in Week 7?",
+      "link": "https://www.espn.com/video/clip/_/id/50209438/which-college-football-team-had-most-damaging-loss-week-7",
+      "description": "Which college football team had the most damaging loss in Week 7?",
+      "pubDate": "2026-10-18T12:25:19Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1018/ss_20261018_082107167_3701611/ss_20261018_082107167_3701611.jpg"
+    },
+    {
+      "title": "Miami survives two Hail Marys, leaving FSU without answers in 2OT thriller",
+      "link": "https://www.espn.com/college-football/story/_/id/50207351/miami-holds-florida-state-double-thriller",
+      "description": "Miami withstood a pair of Hail Mary attempts from Florida State to come away with a 43-35, double-overtime win and a likely move to No. 1 in the AP Top 25.",
+      "pubDate": "2026-10-18T12:01:19Z",
+      "source": "ESPN College Football · Andrea Adelson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732319_600x400_3-2.jpg"
+    },
+    {
+      "title": "Kalani Sitake, 'a BYU fan first,' emotional after Cougars' upset of Notre Dame",
+      "link": "https://www.espn.com/college-football/story/_/id/50207876/no-8-byu-rallies-outlasts-no-2-notre-dame-move-6-0",
+      "description": "With a defensive stop that concluded in the end zone on the game's final play, No. 8 BYU outlasted No. 2 Notre Dame to preserve a riveting 28-24 victory Saturday, the Fighting Irish's first loss of the season and a win that moved to Cougars to 6-0.",
+      "pubDate": "2026-10-18T11:23:04Z",
+      "source": "ESPN College Football · Adam Rittenberg",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732322_600x600_1-1.jpg"
+    },
     {
       "title": "College Football Rankings: Historic Upset-Filled Week 7 Flips Top 25 Upside Down",
       "link": "https://www.foxsports.com/stories/college-football/rankings-top-25-upsets-georgia-alabama-texas-ohio-state",
@@ -410,14 +506,6 @@
       "pubDate": "2026-10-18T10:02:43+00:00",
       "source": "FOX Sports",
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/rj-25-10.17.png"
-    },
-    {
-      "title": "Dylan Raiola, one week after benching, rallies Oregon past former team Nebraska",
-      "link": "https://www.espn.com/college-football/story/_/id/50208879/dylan-raiola-comes-bench-rally-oregon-nebraska",
-      "description": "Dylan Raiola came off the bench against his former team and led Oregon to a fourth-quarter comeback victory over Nebraska.",
-      "pubDate": "2026-10-18T10:00:28Z",
-      "source": "ESPN College Football · Paolo Uggetti",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732342_1296x729_16-9.jpg"
     },
     {
       "title": "Dampier throws 3 TD passes as No. 11 Utah withstands Colorado rally for 27-24 win, improves to 6-0",
@@ -428,36 +516,12 @@
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856833.png?templateId=espn.applewatch.awayhome.1"
     },
     {
-      "title": "Projecting the College Football Playoff top 12 at midseason",
-      "link": "https://www.espn.com/college-football/story/_/id/50204253/projecting-2026-playoff-top-12-week-7-cfp",
-      "description": "We assess how the selection committee could stack the top teams in the country at midseason.",
-      "pubDate": "2026-10-18T08:32:29Z",
-      "source": "ESPN College Football · Heather Dinich",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1732189_1296x729_16-9.jpg"
-    },
-    {
       "title": "Raiola's 4-yard touchdown pass with 28 seconds left gives Oregon a 17-14 win over Nebraska",
       "link": "http://www.espn.com/ncf/recap?gameId=401858492",
       "description": "— Dylan Raiola came off the bench and threw a 4-yard touchdown pass to Jamari Johnson with 28 seconds left to give Oregon a come-from-behind 17-14 victory over Nebraska on Saturday night.",
       "pubDate": "2026-10-18T08:14:27Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858492.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Big 12 admits error in Notre Dame-BYU, says Irish had time for one more play",
-      "link": "https://www.espn.com/college-football/story/_/id/50208529/big-12-admits-error-says-notre-dame-had-one-more-play",
-      "description": "The Big 12 said it incorrectly ended Saturday night's game between BYU and Notre Dame and that the Irish should have had another second on the clock to run a final play.",
-      "pubDate": "2026-10-18T07:47:31Z",
-      "source": "ESPN College Football · Adam Rittenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732327_600x400_3-2.jpg"
-    },
-    {
-      "title": "Kalani Sitake, 'a BYU fan first,' emotional after Cougars' upset of Notre Dame",
-      "link": "https://www.espn.com/college-football/story/_/id/50207876/no-8-byu-rallies-outlasts-no-2-notre-dame-move-6-0",
-      "description": "With a defensive stop that concluded in the end zone on the game's final play, No. 8 BYU outlasted No. 2 Notre Dame to preserve a riveting 28-24 victory Saturday, the Fighting Irish's first loss of the season and a win that moved to Cougars to 6-0.",
-      "pubDate": "2026-10-18T07:21:14Z",
-      "source": "ESPN College Football · Adam Rittenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732322_600x600_1-1.jpg"
     },
     {
       "title": "Predicting the College Football Playoff: Who's most likely to make the field?",
@@ -482,14 +546,6 @@
       "pubDate": "2026-10-18T06:25:27Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401864521.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Miami survives two Hail Marys, leaving FSU without answers in 2OT thriller",
-      "link": "https://www.espn.com/college-football/story/_/id/50207351/miami-holds-florida-state-double-thriller",
-      "description": "Darian Mensah threw for 326 yards and three touchdowns, and No. 3 Miami held on to beat archrival Florida State 43-35 in double overtime Saturday night.",
-      "pubDate": "2026-10-18T06:23:48Z",
-      "source": "ESPN College Football · Andrea Adelson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732319_600x400_3-2.jpg"
     },
     {
       "title": "Week 7's best game? Impossible to choose on a wild Saturday",
@@ -538,14 +594,6 @@
       "pubDate": "2026-10-18T05:30:19Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/bdd9783b-56b9-4ee1-9922-faf4144f13dc/bdd9783b-56b9-4ee1-9922-faf4144f13dc.jpg"
-    },
-    {
-      "title": "Bachmeier leads winning drive, No. 8 BYU outlasts No. 2 Notre Dame 28-24",
-      "link": "http://www.espn.com/ncf/recap?gameId=401856809",
-      "description": "— Bear Bachmeier threw a go-ahead touchdown pass with 1:47 left and No. 8 BYU stopped No. 2 Notre Dame at the goal line to preserve a riveting 28-24 victory Saturday night.",
-      "pubDate": "2026-10-18T05:26:27Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856809.png?templateId=espn.applewatch.awayhome.1"
     },
     {
       "title": "Duncan Brune has 2 rushing touchdowns, Ohio beats Sacramento State 48-7",
@@ -754,57 +802,97 @@
       "pubDate": "2026-10-18T03:12:13Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/73d6a40c-af94-4327-8e06-33b097f8b7d3/73d6a40c-af94-4327-8e06-33b097f8b7d3.jpg"
-    },
-    {
-      "title": "Elon Phoenix vs. Stanford Cardinal: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/50207300/full-highlights",
-      "description": "Elon Phoenix vs. Stanford Cardinal: Full Highlights",
-      "pubDate": "2026-10-18T03:02:31Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/1c914237-eb6a-4a33-82be-5db5d2d9b3b5/1c914237-eb6a-4a33-82be-5db5d2d9b3b5.jpg"
-    },
-    {
-      "title": "QB Pickles accounts for 194 total yards and 3TDs in Mercer's 31-21 win over Samford",
-      "link": "http://www.espn.com/ncf/recap?gameId=401868383",
-      "description": "— Quarterback JP Pickles ran for three touchdowns and Mercer won with relative ease over Samford 31-21 on Saturday.",
-      "pubDate": "2026-10-18T02:54:27Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401868383.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "North Dakota State’s special teams help Bison beat Nevada 31-17",
-      "link": "http://www.espn.com/ncf/recap?gameId=401864520",
-      "description": "— Nathan Hayes accounted for three touchdowns and Jackson Williams returned a missed field-goal attempt 100 yards for a touchdown to help North Dakota State beat Nevada 31-17 on...",
-      "pubDate": "2026-10-18T02:48:30Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401864520.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Nevada Wolf Pack vs. North Dakota State Bison: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/50207078/full-highlights",
-      "description": "Nevada Wolf Pack vs. North Dakota State Bison: Full Highlights",
-      "pubDate": "2026-10-18T02:46:43Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/803c198e-3a94-488c-b5d8-0700caa6046c/803c198e-3a94-488c-b5d8-0700caa6046c.jpg"
-    },
-    {
-      "title": "East Texas A&M Lions vs. Houston Baptist Huskies: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/50207127/full-highlights",
-      "description": "East Texas A&M Lions vs. Houston Baptist Huskies: Full Highlights",
-      "pubDate": "2026-10-18T02:42:24Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/5f2736de-9455-47b6-bb5b-c8c67dc893a8/5f2736de-9455-47b6-bb5b-c8c67dc893a8.jpg"
-    },
-    {
-      "title": "Central Arkansas Bears vs. Tarleton Texans: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/50207056/full-highlights",
-      "description": "Central Arkansas Bears vs. Tarleton Texans: Full Highlights",
-      "pubDate": "2026-10-18T02:37:50Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1018/6b05136d-acfe-4793-8473-30b17f5969c7/6b05136d-acfe-4793-8473-30b17f5969c7.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "NFL: Preparations continue for Steelers-Saints in Paris",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-preparations-continue-for-steelers-saints-in-paris",
+      "description": "Saturday's escalation in local protests has subsided, for now....",
+      "pubDate": "2026-10-18T13:58:42+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Texans-Jaguars umpire Larry Smith injured, carted off in London",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/texans-jaguars-umpire-larry-smith-injured-carted-off-in-london",
+      "description": "The officiating crew is down to six members at Wembley Stadium....",
+      "pubDate": "2026-10-18T13:55:10+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
+      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
+      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
+      "pubDate": "2026-10-18T13:49:26Z",
+      "source": "ESPN NFL · Michael F. Florio",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Bears-Falcons features NFL's top two rushing attacks",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-falcons-features-nfls-top-two-rushing-attacks",
+      "description": "When the Bears and Falcons square off at 1:00 p.m....",
+      "pubDate": "2026-10-18T13:40:35+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Najee Harris is expected to take larger role in Giants backfield",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-najee-harris-is-expected-to-take-larger-role-in-giants-backfield",
+      "description": "Cam Skattebo has been the Giants' top running back through the first five weeks of the regular season, but a report on Sunday morning indicates that could change against the Saints...",
+      "pubDate": "2026-10-18T13:34:25+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Air Force service member died from fall before Navy-UTSA game in San Antonio",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/air-force-service-member-died-from-fall-before-navy-utsa-game-in-san-antonio",
+      "description": "A pregame ceremony at the Alamodome on Saturday ended in tragedy....",
+      "pubDate": "2026-10-18T13:28:49+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Tyler Shough has two broken bones in his left hand",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-tyler-shough-has-two-broken-bones-in-his-left-hand",
+      "description": "Saints quarterback Tyler Shough has been on the team's injury report in recent weeks because of his left hand and the issue will reportedly stretch into future weeks as well....",
+      "pubDate": "2026-10-18T13:28:48+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sources: Saints QB Tyler Shough playing with 2 broken bones in non-throwing hand",
+      "link": "https://www.espn.com/nfl/story/_/id/50200514/sources-saints-tyler-shough-broken-bones-left-hand",
+      "description": "Saints quarterback Tyler Shough has been playing with two broken bones in his left hand, sources told ESPN.",
+      "pubDate": "2026-10-18T13:15:42Z",
+      "source": "ESPN NFL · Adam Schefter",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1731913_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Eagles' sudden about-face on IR for Jalen Hurts seems odd, to say the least",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-sudden-about-face-on-ir-for-jalen-hurts-seems-odd-to-say-the-least",
+      "description": "Saturday morning arrived with an ESPN report from its top two insiders regarding the Eagles having no intent to place quarterback Jalen Hurts on IR....",
+      "pubDate": "2026-10-18T13:14:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Gayle Benson endorses Kellen Moore, coaches after comments about state of Saints",
+      "link": "https://www.espn.com/nfl/story/_/id/50207241/gayle-benson-endorses-kellen-moore-saints-coaches",
+      "description": "Saints owner Gayle Benson endorsed Kellen Moore and the coaching staff Friday, three days after her pointed comments about the state of the team.",
+      "pubDate": "2026-10-18T13:10:56Z",
+      "source": "ESPN NFL · Ian Rapoport",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732292_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Big 12 admits clock error at end of Notre Dame-BYU game",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/big-12-admits-clock-error-at-end-of-notre-dame-byu-game",
+      "description": "Conference pins blame on replay process....",
+      "pubDate": "2026-10-18T12:33:57+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Jaguars want to play all their home games in Jacksonville when stadium re-opens in 2028",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-want-to-play-all-their-home-games-in-jacksonville-when-stadium-re-opens-in-2028",
@@ -908,14 +996,6 @@
       "pubDate": "2026-10-17T21:56:22+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Fantasy football Week 6 inactives: Williams to play; Hurts, Jackson ruled out",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50188691/fantasy-football-injuries-nfl-week-6-inactive-active",
-      "description": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "pubDate": "2026-10-17T21:14:58Z",
-      "source": "ESPN NFL · Michael F. Florio",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1017/r1732147_2_1296x729_16-9.jpg"
     },
     {
       "title": "Bears Reportedly Get Breakthrough Caleb Williams Week 6 Injury Update",
@@ -1030,76 +1110,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Jaguars look to match best six-game start in team history",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-look-to-match-best-six-game-start-in-team-history",
-      "description": "As the Jaguars prepare to play their second straight game in London, they have an opportunity to do something they haven't done in 27 years — start the year 5-1....",
-      "pubDate": "2026-10-17T18:07:23+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Panthers activate Taylor Moton, Turk Wharton, Trevor Etienne",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/panthers-activate-taylor-moton-turk-wharton-trevor-etienne",
-      "description": "Panthers offensive tackle Taylor Moton is set to make his 2026 debut....",
-      "pubDate": "2026-10-17T17:55:30+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears activate Kyler Gordon, sign Nick McCloud to active roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-activate-kyler-gordon-sign-nick-mccloud-to-active-roster",
-      "description": "Bears General Manager Ryan Poles said in September that he didn't know if cornerback Kyler Gordon would play for the Bears again, but it looks like he'll be back in their lineup ag...",
-      "pubDate": "2026-10-17T17:40:20+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Commanders won't have Jacory Croskey-Merritt Monday night",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-wont-have-jacory-croskey-merritt-monday-night",
-      "description": "The Commanders will be without their top running back for Monday night's game against the 49ers....",
-      "pubDate": "2026-10-17T17:31:18+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers say DK Metcalf will play, Pat Freiermuth is questionable with calf injury",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-say-dk-metcalf-will-play-pat-freiermuth-is-questionable-with-calf-injury",
-      "description": "Steelers wide receiver DK Metcalf is no longer on the injury report for Sunday's game against the Buccaneers, but tight end Pat Freiermuth now is....",
-      "pubDate": "2026-10-17T16:32:19+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Sources: Eagles' Jalen Hurts, out indefinitely with blood clot, not planned for IR",
       "link": "https://www.espn.com/nfl/story/_/id/50200331/sources-no-ir-plans-hurts-indefinitely-clot",
       "description": "The Eagles are not planning to put Jalen Hurts on injured reserve, sources told ESPN, even as he remains sidelined indefinitely with a superficial blood clot.",
       "pubDate": "2026-10-17T16:08:46Z",
       "source": "ESPN NFL · Ian Rapoport and Adam Schefter",
       "thumbnail": "https://a.espncdn.com/photo/2026/1016/r1731826_600x400_3-2.jpg"
-    },
-    {
-      "title": "College football player Tyler Ulrich dies five days after suffering traumatic injury during a game",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/college-football-player-tyler-ulrich-dies-five-days-after-suffering-traumatic-injury-during-a-game",
-      "description": "Tyler Ulrich, a 21-year-old football player at Southern Nazarene University, died Thursday....",
-      "pubDate": "2026-10-17T14:29:30+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles don't plan to put QB Jalen Hurts on injured reserve",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-dont-plan-to-put-qb-jalen-hurts-on-injured-reserve",
-      "description": "Eagles quarterback Jalen Hurts is out indefinitely with a blood clot in his leg....",
-      "pubDate": "2026-10-17T13:54:04+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "All AFC, NFC North teams could emerge from Week 6 above .500",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/all-afc-nfc-north-teams-could-emerge-from-week-6-above-500",
-      "description": "One of the basic realities of life in the NFL is that each team is assigned to a division with three other teams, permanently....",
-      "pubDate": "2026-10-17T13:18:31+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "What Cowboys-Packers' Micah Parsons trade means a year later",
