@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-10-21T05:14:53.247883+00:00",
+  "generatedAt": "2026-10-21T10:14:28.568787+00:00",
   "nfl": [
+    {
+      "title": "Cowboys' season looks bleak but schedule offers some hope",
+      "link": "https://www.espn.com/nfl/story/_/id/50229188/dallas-cowboys-dak-prescott-season-looks-bleak",
+      "description": "Cowboys players and coaches are focused on a stretch of games versus teams that are struggling just like them.",
+      "pubDate": "2026-10-21T10:00:05Z",
+      "source": "ESPN NFL · Todd Archer",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1020/r1733668_608x342_16-9.jpg"
+    },
+    {
+      "title": "The case for (and against) the Colts keeping Shane Steichen",
+      "link": "https://www.espn.com/nfl/story/_/id/50229437/colts-shane-steichen-daniel-jones-anthony-richardson",
+      "description": "With GM Chris Ballard gone, can Steichen avoid following him out the door?",
+      "pubDate": "2026-10-21T10:00:00Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1020/r1733458_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Giants news: Najee Harris, Jihad Ward cut, QB1 decision day, more",
+      "link": "https://sports.yahoo.com/articles/giants-news-najee-harris-jihad-100000732.html",
+      "description": "New York Giants headlines for Wednesday....",
+      "pubDate": "2026-10-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Survey: Will the Lions beat the Packers in Week 7?",
+      "link": "https://sports.yahoo.com/articles/survey-lions-beat-packers-week-100000732.html",
+      "description": "Checking in with Detroit Lions fans in our latest SB Nation Reacts surveys....",
+      "pubDate": "2026-10-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Bear’s Den: Some good injury news for Bears ahead of New England Patriots game",
+      "link": "https://sports.yahoo.com/articles/bear-den-good-injury-news-100000473.html",
+      "description": "If the Bears had practiced, Jonah Jackson would have been limited today. That’s a lot better than many feared about him....",
+      "pubDate": "2026-10-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Steelers’ Mike McCarthy named one of best new coaches",
+      "link": "https://sports.yahoo.com/articles/steelers-mike-mccarthy-named-one-100000340.html",
+      "description": "Despite a strong start, McCarthy still ranked the lowest of the three new head coaching hires in the AFC North....",
+      "pubDate": "2026-10-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cleveland Browns news: Muni Lot tours, QB chatter, and a Kelce weighs in",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-news-muni-lot-100000626.html",
+      "description": "The latest Cleveland Browns news and notes from around the NFL in the October 21 edition of the Daily Dawg Chow....",
+      "pubDate": "2026-10-21T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Reports: Titans released DT Jordan Elliott after he went to car to get gun",
+      "link": "https://sports.yahoo.com/articles/reports-titans-released-dt-jordan-095756069.html",
+      "description": "Multiple reports detail a situation that could have turned into a tragedy....",
+      "pubDate": "2026-10-21T09:57:56+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Troy Aikman and Joe Buck: what next for the NFL’s $165m TV power couple as they head for a split?",
+      "link": "https://sports.yahoo.com/articles/troy-aikman-joe-buck-next-090001021.html",
+      "description": "The duo have carved out lucrative and successful careers as TV audiences elsewhere are falling. It seems they won’t be together for much longer...",
+      "pubDate": "2026-10-21T09:00:01+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jordan Love’s interception against the Cowboys wasn’t his fault",
+      "link": "https://sports.yahoo.com/articles/jordan-love-interception-against-cowboys-090000405.html",
+      "description": "Matthew Golden had 100 yards against the Cowboys, but he’s also responsible for the interception...",
+      "pubDate": "2026-10-21T09:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers are the heaviest division favorites in the NFL",
+      "link": "https://sports.yahoo.com/articles/49ers-heaviest-division-favorites-nfl-084827669.html",
+      "description": "San Francisco&#39;s odds to win the NFC West are at -650...",
+      "pubDate": "2026-10-21T08:48:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chicago Bears fans, do you think the team is back on the right track?",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-fans-think-team-051540429.html",
+      "description": "The Bears enter a tough stretch of games, but they look to be ready for the challenge....",
+      "pubDate": "2026-10-21T05:15:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "&#39;Football 301&#39;: Arch Manning&#39;s NFL Draft stock isn&#39;t cooked and here&#39;s why",
       "link": "https://sports.yahoo.com/nfl/article/football-301-arch-mannings-nfl-draft-stock-isnt-cooked-and-heres-why-042321041.html",
@@ -34,6 +130,14 @@
       "thumbnail": ""
     },
     {
+      "title": "NFLPA calls for ‘full investigation’ in latest twist to Jalen Hurts blood clot saga",
+      "link": "https://sports.yahoo.com/articles/nflpa-calls-full-investigation-latest-030742548.html",
+      "description": "Earlier Tuesday, reports indicated the NFL was not punishing the Eagles for how it handled the process of clearing Hurts to play Week 5....",
+      "pubDate": "2026-10-21T03:07:42+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Report: Rams TE Terrance Ferguson not ready to come off IR",
       "link": "https://sports.yahoo.com/articles/report-rams-te-terrance-ferguson-021022146.html",
       "description": "The Rams placed tight end Terrance Ferguson on injured reserve with an ankle injury on Oct. 2....",
@@ -62,6 +166,14 @@
       "link": "https://sports.yahoo.com/articles/report-jay-z-selects-jay-013632444.html",
       "description": "For each of the past two Super Bowls, the NFL announced the halftime performer in September....",
       "pubDate": "2026-10-21T01:36:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL execs — including chief medical officer — blast ‘uninformed speculation’ on Jalen Hurts blood clot drama",
+      "link": "https://sports.yahoo.com/articles/nfl-execs-including-chief-medical-012126287.html",
+      "description": "Hurts originally was revealed to have played through a superficial blood clot. The diagnosis was modified this week to deep vein thrombosis in his left leg and bilateral pulmonary ...",
+      "pubDate": "2026-10-21T01:21:26+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
     },
@@ -288,118 +400,6 @@
       "pubDate": "2026-10-20T22:42:01+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "NFL referee done for season after nasty slip during London game",
-      "link": "https://sports.yahoo.com/articles/nfl-referee-done-season-nasty-223135676.html",
-      "description": "Referees aren&#39;t immune from the NFL injury bug....",
-      "pubDate": "2026-10-20T22:31:35+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams put Davante Adams, Poona Ford on IR",
-      "link": "https://sports.yahoo.com/articles/rams-put-davante-adams-poona-222912374.html",
-      "description": "Wide receiver Davante Adams is expected to miss the next 6-10 weeks after rupturing his hamstring in last Sunday&#39;s loss to the Cardinals and the Rams moved him off of the activ...",
-      "pubDate": "2026-10-20T22:29:12+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots vs. Bears Tuesday injury report: Carlton Davis III returns, leaving three non-participants",
-      "link": "https://sports.yahoo.com/articles/patriots-vs-bears-tuesday-injury-222804740.html",
-      "description": "The second injury report entering Week 7 at Soldier Field....",
-      "pubDate": "2026-10-20T22:28:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Eagles sign RB Elijah Mitchell to active roster, waive Jaydon Blue and Carson Steele",
-      "link": "https://sports.yahoo.com/articles/eagles-sign-rb-elijah-mitchell-221852749.html",
-      "description": "The Eagles made changes to the running back room on their 53-man roster on Tuesday....",
-      "pubDate": "2026-10-20T22:18:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Silver and Black Pride Reacts Survey Week 6",
-      "link": "https://sports.yahoo.com/articles/silver-black-pride-reacts-survey-221323097.html",
-      "description": "Checking the pulse of Raider Nation...",
-      "pubDate": "2026-10-20T22:13:23+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
-      "link": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play",
-      "description": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
-      "pubDate": "2026-10-20T22:12:12Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1020/r1733592_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Patriots CB Carlton Davis upgraded to limited practice participation on Tuesday",
-      "link": "https://sports.yahoo.com/articles/patriots-cb-carlton-davis-upgraded-220152460.html",
-      "description": "The Patriots got cornerback Carlton Davis back at practice on Tuesday....",
-      "pubDate": "2026-10-20T22:01:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Washington Commanders Whiteboard: Notes and observations from Week 6",
-      "link": "https://sports.yahoo.com/articles/washington-commanders-whiteboard-notes-observations-220000150.html",
-      "description": "Jayden Daniels, Sonny Styles, and Terry McLaurin are all covered in our Week 6 review of the Commanders on MNF....",
-      "pubDate": "2026-10-20T22:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys rookie report: Packers game exposed some deficiencies",
-      "link": "https://sports.yahoo.com/articles/cowboys-rookie-report-packers-game-220000268.html",
-      "description": "Cowboys rookies did not have a good game in Green Bay....",
-      "pubDate": "2026-10-20T22:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams’ kicking nightmare continues as Sean McVay turns to yet another veteran",
-      "link": "https://sports.yahoo.com/articles/rams-kicking-nightmare-continues-sean-215748579.html",
-      "description": "The Los Angeles Rams sign veteran Brandon McManus after Blake Grupe&#39;s season-ending injury, continuing a troubling kicker carousel under Sean McVay....",
-      "pubDate": "2026-10-20T21:57:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cleveland Browns: Quarterback D-Day is looming on the horizon",
-      "link": "https://sports.yahoo.com/articles/cleveland-browns-quarterback-d-day-215510090.html",
-      "description": "One week from today the Browns need to decide the fate of Dillon Gabriel and the rest of the QB room for 2026....",
-      "pubDate": "2026-10-20T21:55:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Commanders WR Terry McLaurin has torn patellar tendon, ending his season",
-      "link": "https://www.espn.com/nfl/story/_/id/50230371/commanders-wr-terry-mclaurin-torn-patellar-tendon",
-      "description": "Commanders wide receiver Terry McLaurin suffered a torn patellar tendon, an injury that will end his season, coach Dan Quinn announced Tuesday.",
-      "pubDate": "2026-10-20T21:50:58Z",
-      "source": "ESPN NFL · John Keim",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1020/r1733197_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Patriots waive wide receiver Jeremiah Webb from injured reserve",
-      "link": "https://sports.yahoo.com/articles/patriots-waive-wide-receiver-jeremiah-214848673.html",
-      "description": "The 2025 undrafted free agent landed on injured reserve in July....",
-      "pubDate": "2026-10-20T21:48:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-      "link": "https://www.espn.com/video/clip/_/id/50232141/get-ready-cowboys-vs-eagles-monday-night-football",
-      "description": "Get ready for Cowboys vs. Eagles on Monday Night Football",
-      "pubDate": "2026-10-20T21:45:43Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1020/dm_261020_nfl_mnf_promo/dm_261020_nfl_mnf_promo.jpg"
     }
   ],
   "ncaa": [
@@ -806,6 +806,30 @@
   ],
   "insider": [
     {
+      "title": "Reports: Titans released DT Jordan Elliott after he went to car to get gun",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/reports-titans-released-dt-jordan-elliott-after-he-went-to-car-to-get-gun",
+      "description": "Multiple reports detail a situation that could have turned into a tragedy....",
+      "pubDate": "2026-10-21T09:57:56+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Dan Quinn tells Jayden Daniels to \"take your shot\" even then there's a penalty flag on the field",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-quinn-tells-jayden-daniels-to-take-your-shot-even-then-theres-a-penalty-flag-on-the-field",
+      "description": "One of the lingering questions from this week's Monday Night Football relates to the perception that Commanders coach Dan Quinn didn't know his team was facing a fourth-and-two pla...",
+      "pubDate": "2026-10-21T09:31:53+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers are the heaviest division favorites in the NFL",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-are-the-heaviest-division-favorites-in-the-nfl",
+      "description": "San Francisco's odds to win the NFC West are at -650...",
+      "pubDate": "2026-10-21T08:48:27+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
       "title": "Report: Rams TE Terrance Ferguson not ready to come off IR",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-rams-te-terrance-ferguson-not-ready-to-come-off-ir",
       "description": "The Rams placed tight end Terrance Ferguson on injured reserve with an ankle injury on Oct. 2....",
@@ -1046,36 +1070,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Patriots don't expect Ben Brown, Alijah Vera-Tucker to play on Thursday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-dont-expect-ben-brown-alijah-vera-tucker-to-play-on-thursday",
-      "description": "The Patriots saw three of their starting offensive linemen go down with injuries during last Sunday's win over the Jets and it looks like they'll be without at least two of them wh...",
-      "pubDate": "2026-10-20T18:26:19+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dan Campbell: I expect Kerby Joseph to play this year, but no timetable",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-i-expect-kerby-joseph-to-play-this-year-but-no-timetable",
-      "description": "The Lions are set to have Brian Branch in the lineup for the first time this season when they face the Packers on Sunday, but they're still waiting for another one of their safetie...",
-      "pubDate": "2026-10-20T18:15:07+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Dolphins release Riley Patterson after Week 5 problems defending kickoffs",
       "link": "https://www.espn.com/nfl/story/_/id/50229491/sources-dolphins-release-riley-patterson-amid-kickoff-woes",
       "description": "The Dolphins released kicker Riley Patterson in a move aimed to improve one of the NFL's worst special teams units.",
       "pubDate": "2026-10-20T18:11:46Z",
       "source": "ESPN NFL · Marcel Louis-Jacques",
       "thumbnail": "https://a.espncdn.com/photo/2026/1020/r1733454_2_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Dolphins sign Rodney McGraw to 53-man roster",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dolphins-sign-rodney-mcgraw-to-53-man-roster",
-      "description": "The Dolphins have announced a few roster moves on Tuesday....",
-      "pubDate": "2026-10-20T17:55:07+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     },
     {
       "title": "5 Colts Players Contenders Could Trade For Following Chris Ballard’s Firing",
