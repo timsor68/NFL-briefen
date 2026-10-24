@@ -1,6 +1,342 @@
 {
-  "generatedAt": "2026-10-24T11:47:20.074682+00:00",
+  "generatedAt": "2026-10-24T15:13:13.768734+00:00",
   "nfl": [
+    {
+      "title": "Patriots must improve turnover differential if they want to win, other notes",
+      "link": "https://www.espn.com/nfl/story/_/id/50262387/new-england-patriots-week-7-loss-notebook",
+      "description": "It's one of Mike Vrabel's four pillars of the team identity -- and New England is struggling with it after losing to the Bears on Thursday.",
+      "pubDate": "2026-10-24T15:04:40Z",
+      "source": "ESPN NFL · Mike Reiss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1024/r1735295_608x342_16-9.jpg"
+    },
+    {
+      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
+      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
+      "description": "Check out the lines for every Week 7 matchup in the NFL.",
+      "pubDate": "2026-10-24T15:00:40+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/66e516a6-artboard-1.jpg"
+    },
+    {
+      "title": "Why the Seahawks trading for a running back could mean having to give one up",
+      "link": "https://sports.yahoo.com/articles/why-seahawks-trading-running-back-150000972.html",
+      "description": "Why the Seahawks trading for a running back could mean having to give one up....",
+      "pubDate": "2026-10-24T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Draft prospects to watch for the NY Giants in Week 8",
+      "link": "https://sports.yahoo.com/articles/draft-prospects-watch-ny-giants-150000177.html",
+      "description": "Which 2027 draft prospects should you be watching for the NY Giants in Week 8?...",
+      "pubDate": "2026-10-24T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "If Josh Jacobs performs only as expected, the Packers’ rushing game will improve",
+      "link": "https://sports.yahoo.com/articles/josh-jacobs-performs-only-expected-150000018.html",
+      "description": "Josh Jacobs can get the Packers’ rushing game back to neutral....",
+      "pubDate": "2026-10-24T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Future Broncos: Thoughts on Denver being trade deadline buyers",
+      "link": "https://sports.yahoo.com/articles/future-broncos-thoughts-denver-being-150000494.html",
+      "description": "Should the Denver Broncos consider being major players prior to this year’s trade deadline?...",
+      "pubDate": "2026-10-24T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cowboys draft: College football targets for Week 8",
+      "link": "https://sports.yahoo.com/articles/cowboys-draft-college-football-targets-150000964.html",
+      "description": "What CFB game are you most looking forward to?...",
+      "pubDate": "2026-10-24T15:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Falcons Draft 2027: Way-Too-Early 2027 NFL Mock Draft 2.0",
+      "link": "https://sports.yahoo.com/articles/falcons-draft-2027-way-too-145727564.html",
+      "description": "Where the Falcons stand today, they have a shot at a great haul in the 2027 NFL Draft....",
+      "pubDate": "2026-10-24T14:57:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Green Bay Packers vs. Detroit Lions preview: 5 key stats",
+      "link": "https://sports.yahoo.com/articles/green-bay-packers-vs-detroit-143000361.html",
+      "description": "A data-driven preview of Packers at Lions, focusing on key stats and matchups....",
+      "pubDate": "2026-10-24T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Amarius Mims is absolutely dominating 1-on-1 situations",
+      "link": "https://sports.yahoo.com/articles/amarius-mims-absolutely-dominating-1-143000742.html",
+      "description": "Pass rushers need to look elsewhere....",
+      "pubDate": "2026-10-24T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Kenneth Walker treating Seattle return ‘like any other week’",
+      "link": "https://sports.yahoo.com/articles/kenneth-walker-treating-seattle-return-143000384.html",
+      "description": "Kansas City’s star running back returns to his original NFL city on Sunday....",
+      "pubDate": "2026-10-24T14:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cleveland Browns: Is the 2027 QB plan going up in flames?",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-2027-qb-plan-141704276.html",
+      "description": "GM Andrew Berry had a strategy to fix the QB position. But is Deshaun Watson now taking a victory torch to the plan?...",
+      "pubDate": "2026-10-24T14:17:04+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bears Discussion: Patriots recap, 2027 NFL Draft TE prospects, DFS, and more",
+      "link": "https://sports.yahoo.com/articles/bears-discussion-patriots-recap-2027-140000814.html",
+      "description": "Tune in to the latest edition of Bears for Breakfast as the guys recap Bears-Patriots!...",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Key matchups: Saints vs. Steelers",
+      "link": "https://sports.yahoo.com/articles/key-matchups-saints-vs-steelers-140000180.html",
+      "description": "The Saints need to capitalize off these key matchups to leave Paris with a win....",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "How the Cardinals can defeat the Broncos",
+      "link": "https://sports.yahoo.com/articles/cardinals-defeat-broncos-140000653.html",
+      "description": "Yes, it can actually happen...",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Broncos vs. Cardinals: 3 Players to Watch in Week 7",
+      "link": "https://sports.yahoo.com/articles/broncos-vs-cardinals-3-players-140000182.html",
+      "description": "These three players need to perform well for the Denver Broncos to beat the Arizona Cardinals on Sunday....",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why the Seahawks may not trade for Jonathan Taylor",
+      "link": "https://sports.yahoo.com/articles/why-seahawks-may-not-trade-140000862.html",
+      "description": "Is the possibility of making a move for a stud ball-carrier too good to be true for the Seahawks?...",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Previewing the New York Jets’ opposition: Miami Dolphins",
+      "link": "https://sports.yahoo.com/articles/previewing-york-jets-opposition-miami-140000565.html",
+      "description": "The Jets look to get back on track against the winless Dolphins on Sunday...",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Steelers keys to victory vs. Saints: Get Jaylen Warren the ball",
+      "link": "https://sports.yahoo.com/articles/steelers-keys-victory-vs-saints-140000375.html",
+      "description": "Steelers keys to victory vs. Saints....",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Giving Props: Vikings Prop Bets Vs the Saints",
+      "link": "https://sports.yahoo.com/articles/giving-props-vikings-prop-bets-140000859.html",
+      "description": "Maybe we can start fresh...",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Week 7 betting advice: Giants-Texans picks and props",
+      "link": "https://sports.yahoo.com/articles/nfl-week-7-betting-advice-140000473.html",
+      "description": "Giants-Texans wagers to consider as you fill out your tickets...",
+      "pubDate": "2026-10-24T14:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "With Troy Aikman possibly exiting broadcasting, he extends an olive branch to Jerry Jones",
+      "link": "https://sports.yahoo.com/articles/troy-aikman-possibly-exiting-broadcasting-135426855.html",
+      "description": "Hall of Fame quarterback Troy Aikman has talked openly for years about wanting to work in an NFL front office....",
+      "pubDate": "2026-10-24T13:54:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints elevate WR Cedric Tillman, OT Easton Kilty",
+      "link": "https://sports.yahoo.com/articles/saints-elevate-wr-cedric-tillman-134310508.html",
+      "description": "The Saints announced that they have elevated a pair of players from the practice squad for Sunday&#39;s game against the Steelers....",
+      "pubDate": "2026-10-24T13:43:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles Film Preview: Cowboys offense surprisingly difficult to project",
+      "link": "https://sports.yahoo.com/articles/eagles-film-preview-cowboys-offense-133740264.html",
+      "description": "Analyzing Philadelphia’s Week 7 opponent from an All-22 perspective....",
+      "pubDate": "2026-10-24T13:37:40+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "CeeDee Lamb: We feel we have best roster in NFC East, so why not us?",
+      "link": "https://sports.yahoo.com/articles/ceedee-lamb-feel-best-roster-133310507.html",
+      "description": "The first six weeks of the season have not gone as hoped for the Cowboys, but they head into Week 7 with the NFC East well within their grasp....",
+      "pubDate": "2026-10-24T13:33:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chiefs News: The Seahawks sorely miss Kenneth Walker",
+      "link": "https://sports.yahoo.com/articles/chiefs-news-seahawks-sorely-miss-133000088.html",
+      "description": "The latest Chiefs news, brought fresh to you every morning!...",
+      "pubDate": "2026-10-24T13:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions vs. Packers Week 7 preview: Madden 27 simulation",
+      "link": "https://sports.yahoo.com/articles/lions-vs-cardinals-week-4-132048183.html",
+      "description": "We preview Detroit Lions vs. Green Bay Packers with a simulated game of Madden 27....",
+      "pubDate": "2026-10-24T13:20:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "The NFL should relocate the Steelers-Saints game in Paris to London",
+      "link": "https://sports.yahoo.com/articles/nfl-relocate-steelers-saints-game-130151833.html",
+      "description": "NFL scraps multiple Saturday events due to ongoing protests....",
+      "pubDate": "2026-10-24T13:01:51+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Broncos vs. Cardinals score predictions for Week 7",
+      "link": "https://sports.yahoo.com/articles/broncos-vs-cardinals-score-predictions-130000837.html",
+      "description": "The Denver Broncos have what we all would have marked down as an “easy” type game in May, but after they slogged through the first six weeks against some of the NFL’s best teams it...",
+      "pubDate": "2026-10-24T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Fleur-de-Links: How could Sunday’s game impact the Saints’ season?",
+      "link": "https://sports.yahoo.com/articles/fleur-links-could-sunday-game-130000952.html",
+      "description": "Here are today&#39;s Saints news links...",
+      "pubDate": "2026-10-24T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "To survive Detroit shootout, Packers should look to Thanksgiving win",
+      "link": "https://sports.yahoo.com/articles/survive-detroit-shootout-packers-look-130000527.html",
+      "description": "The Packers are likely to face a high-scoring matchup on Sunday. Here are three ways they can survive....",
+      "pubDate": "2026-10-24T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Breaking down the numbers: Cowboys at Eagles preview",
+      "link": "https://sports.yahoo.com/articles/breaking-down-numbers-cowboys-eagles-130000569.html",
+      "description": "Who do you think is going to win on Monday night?...",
+      "pubDate": "2026-10-24T13:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Nate Landman out for Rams vs. Raiders",
+      "link": "https://sports.yahoo.com/articles/nate-landman-rams-vs-raiders-125400855.html",
+      "description": "Nate Landman is out and some other NFL news on a Saturday...",
+      "pubDate": "2026-10-24T12:54:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Giving Browns DT Mike Hall Jr. even more retroactive respect for Week 4’s sack",
+      "link": "https://sports.yahoo.com/articles/giving-browns-dt-mike-hall-125049789.html",
+      "description": "Cleveland Browns DT Mike Hall Jr. will miss his 3rd straight game with an injury, putting his Week 4 return into context...",
+      "pubDate": "2026-10-24T12:50:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills news: Previewing potential trade targets and positional needs",
+      "link": "https://sports.yahoo.com/articles/bills-news-previewing-potential-trade-123436065.html",
+      "description": "Brandon Beane has a few holes to shore up at the trade deadline, including safety, cornerback and inside linebacker....",
+      "pubDate": "2026-10-24T12:34:36+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL commissioner Roger Goodell on potential Tokyo game: &#39;It&#39;s coming at some point in the near future&#39;",
+      "link": "https://sports.yahoo.com/nfl/article/nfl-commissioner-roger-goodell-on-potential-tokyo-game-its-coming-at-some-point-in-the-near-future-123100001.html",
+      "description": "The NFL previously hosted 14 preseason games in Japan from 1976 to 2005....",
+      "pubDate": "2026-10-24T12:31:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions vs. Packers 5 Qs preview: Unpacking Jordan Love’s volatile numbers",
+      "link": "https://sports.yahoo.com/articles/lions-vs-packers-5-qs-123000016.html",
+      "description": "Here’s our preview with Acme Packing Company about this Week 7 matchup between the Detroit Lions and Green Bay Packers....",
+      "pubDate": "2026-10-24T12:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL House in Paris closes ahead of street protests in French capital",
+      "link": "https://www.espn.com/nfl/story/_/id/50264705/nfl-house-paris-closes-ahead-street-protests",
+      "description": "The NFL closed its \"NFL House\" in Paris as the city braced for street protests with a heavy police presence and storefronts boarded up.",
+      "pubDate": "2026-10-24T12:21:04Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1024/r1735362_600x400_3-2.jpg"
+    },
+    {
+      "title": "Cardinals vs. Broncos Week 7 TV Map",
+      "link": "https://sports.yahoo.com/articles/cardinals-vs-broncos-week-7-120000080.html",
+      "description": "Do you have the ability to view the game?...",
+      "pubDate": "2026-10-24T12:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chicago Bears Week 7 Flashbacks: A GW Drive, NFL History, and More!",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-week-7-flashbacks-120000330.html",
+      "description": "Hop aboard the Gridiron Time Machine with @iamcogs and take a trip down Week 7 Bears memory lane!...",
+      "pubDate": "2026-10-24T12:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Predictions: Will Steelers get back to feeding Jaylen Warren vs. Saints?",
+      "link": "https://sports.yahoo.com/articles/nfl-predictions-steelers-back-feeding-120000622.html",
+      "description": "Will Steelers get Jaylen Warren going vs. Saints?...",
+      "pubDate": "2026-10-24T12:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Week 7: 3 other games for Browns fans to keep an eye on",
+      "link": "https://sports.yahoo.com/articles/nfl-week-7-3-other-115817679.html",
+      "description": "Week 7 has a few important games for Cleveland Browns fans, including AFC North action, and the Rams struggles...",
+      "pubDate": "2026-10-24T11:58:17+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
     {
       "title": "Detroit fans pick winner of Lions vs. Packers in Week 7",
       "link": "https://sports.yahoo.com/articles/detroit-fans-pick-winner-lions-113000537.html",
@@ -24,14 +360,6 @@
       "pubDate": "2026-10-24T11:15:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "NFL House in Paris closes ahead of street protests in French capital",
-      "link": "https://www.espn.com/nfl/story/_/id/50264705/nfl-house-paris-closes-ahead-street-protests",
-      "description": "PARIS -- The NFL closed its \"NFL House\" in Paris on Saturday as the city braced for street protests with a heavy police presence and storefronts boarded up.",
-      "pubDate": "2026-10-24T11:06:31Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1024/r1735362_600x400_3-2.jpg"
     },
     {
       "title": "Rams vs. Las Vegas Raiders: How to watch, start time, prediction and odds",
@@ -72,337 +400,193 @@
       "pubDate": "2026-10-24T11:00:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Cowboys news: Dak Prescott explains why establishing the run is so important",
-      "link": "https://sports.yahoo.com/articles/cowboys-news-dak-prescott-explains-110000598.html",
-      "description": "Here is today&#39;s Dallas Cowboys news....",
-      "pubDate": "2026-10-24T11:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rhamondre Stevenson says Bears&#39; defensive alignment helped with 48-yard TD",
-      "link": "https://sports.yahoo.com/articles/rhamondre-stevenson-says-bears-defensive-105304161.html",
-      "description": "Patriots running back Rhamondre Stevenson made one of the most stunning plays of this NFL season when he turned a short pass at the end of the first half and ran for a 48-yard touc...",
-      "pubDate": "2026-10-24T10:53:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tee Higgins is in a league of his own vs. man coverage",
-      "link": "https://sports.yahoo.com/articles/tee-higgins-league-own-vs-104000091.html",
-      "description": "The Bengals wideout is thriving vs. man coverage....",
-      "pubDate": "2026-10-24T10:40:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "College Players to Watch: Week 7",
-      "link": "https://sports.yahoo.com/articles/college-players-watch-week-7-101129981.html",
-      "description": "Here are some players to keep an eye on in Week 7 and why they would matter to the Saints....",
-      "pubDate": "2026-10-24T10:11:29+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Will Niners have edge with ex-Falcons coach facing Penix?",
-      "link": "https://www.espn.com/nfl/story/_/id/50253343/atlanta-falcons-san-francisco-49er-raheem-morris",
-      "description": "With all of the familiarity between Morris and the Falcons, Sunday's game should come down to execution.",
-      "pubDate": "2026-10-24T10:00:21Z",
-      "source": "ESPN NFL · Marc Raimondi",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0716/r1519899_608x342_16-9.jpg"
-    },
-    {
-      "title": "Fernando Mendoza is embracing being Raiders' latest Hispanic QB",
-      "link": "https://www.espn.com/nfl/story/_/id/50253768/raiders-qb-fernando-mendoza-hispanic-plunkett-flores",
-      "description": "The rookie's next chapter is inspired by the legacies of a Hispanic coach, QB and a Raiders' fan base embracing the culture.",
-      "pubDate": "2026-10-24T10:00:13Z",
-      "source": "ESPN NFL · Ryan McFadden",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1019/fernando-machado-fc-16x9_608x342.jpg"
-    },
-    {
-      "title": "Inside the silent messages Boye Mafe sends every game day",
-      "link": "https://www.espn.com/nfl/story/_/id/50258881/cincinnati-bengals-boye-mafe-sign-language",
-      "description": "The Bengals defensive end uses sign language to say \"I love you\" to his mother, Bola, who died of pancreatic cancer in 2018.",
-      "pubDate": "2026-10-24T10:00:12Z",
-      "source": "ESPN NFL · Ben Baby",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1023/r1735047_1238x697_16-9.jpg"
-    },
-    {
-      "title": "NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-      "link": "https://www.espn.com/nfl/story/_/id/50249972/week-7-predictions-upsets-fantasy-sleepers-stats-2026",
-      "description": "Touchdowns for Tucker Kraft and Germie Bernard? Cardinals pull another upset? Revenge game for Trey Hendrickson? Let's predict 15 things for Week 7.",
-      "pubDate": "2026-10-24T10:00:03Z",
-      "source": "ESPN NFL · Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1022/r1734631_608x342_16-9.jpg"
-    },
-    {
-      "title": "Giants news: Tremaine Edmunds reportedly headed to IR, special teams issues, more",
-      "link": "https://sports.yahoo.com/articles/giants-news-tremaine-edmunds-reportedly-100000941.html",
-      "description": "New York Giants headlines for Saturday....",
-      "pubDate": "2026-10-24T10:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears lead NFL in time of possession, but Ben Johnson would prefer one-play TD drives",
-      "link": "https://sports.yahoo.com/articles/bears-lead-nfl-time-possession-093348163.html",
-      "description": "&quot;&quot;I&#39;ve never been one for the time of possession stat. I don&#39;t know that that really equates to winning and losing,&quot; Johnson said....",
-      "pubDate": "2026-10-24T09:33:48+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jalyx Hunt explains relief of knowing his season didn&#39;t end in London",
-      "link": "https://sports.yahoo.com/articles/jalyx-hunt-explains-relief-knowing-070000551.html",
-      "description": "Jalyx Hunt avoided major injury in London and is looking forward to getting back to game action....",
-      "pubDate": "2026-10-24T07:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Makai Lemon facing big opportunity in huge game vs. Cowboys",
-      "link": "https://sports.yahoo.com/articles/makai-lemon-facing-big-opportunity-070000141.html",
-      "description": "Eagles rookie Makai Lemon will have a big opportunity on Monday night against the Cowboys....",
-      "pubDate": "2026-10-24T07:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "You&#39;re not the only one wondering why the Eagles haven&#39;t used Hollywood Brown",
-      "link": "https://sports.yahoo.com/articles/youre-not-only-one-wondering-070000790.html",
-      "description": "Brown has no targets through Week 6....",
-      "pubDate": "2026-10-24T07:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "UConn tops UMass, 35-16",
-      "link": "https://sports.yahoo.com/articles/uconn-tops-umass-35-16-053146202.html",
-      "description": "The Huskies were in complete control after scoring two TDs late in the second quarter....",
-      "pubDate": "2026-10-24T05:31:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Seahawks sent mixed signals about whether Zach Charbonnet would play on Sunday",
-      "link": "https://sports.yahoo.com/articles/seahawks-sent-mixed-signals-whether-034154308.html",
-      "description": "The Seahawks sent plenty of mixed signals this week regarding the question of whether running back Zach Charbonnet would play on Sunday....",
-      "pubDate": "2026-10-24T03:41:54+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL predictions: Jets, Aaron Glenn face a must win game against winless Dolphins",
-      "link": "https://sports.yahoo.com/articles/nfl-predictions-jets-aaron-glenn-031654913.html",
-      "description": "Let’s make some predictions!...",
-      "pubDate": "2026-10-24T03:16:54+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "President Trump on Sunday&#39;s game in Paris: &quot;The NFL probably could have postponed&quot;",
-      "link": "https://sports.yahoo.com/articles/president-trump-sundays-game-paris-025106353.html",
-      "description": "The NFL plans to press forward with Sunday&#39;s game between the Steelers and Saints in Paris....",
-      "pubDate": "2026-10-24T02:51:06+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Buccaneers vs. Panthers: Baker Mayfield expected back as three Bucs ruled out",
-      "link": "https://sports.yahoo.com/articles/buccaneers-vs-panthers-baker-mayfield-023752532.html",
-      "description": "The Tampa Bay Buccaneers received encouraging news regarding quarterback Baker Mayfield Friday, but will be without several key players for Sunday’s NFC South matchup against the C...",
-      "pubDate": "2026-10-24T02:37:52+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76",
-      "link": "https://www.espn.com/nfl/story/_/id/50261735/lawrence-mccutcheon-dies-76",
-      "description": "Lawrence McCutcheon, a five-time Pro Bowl running back for the Los Angeles Rams who went on to a long career in the team's front office, died Friday. He was 76.",
-      "pubDate": "2026-10-24T02:03:23Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1024/r1735280_600x400_3-2.jpg"
-    },
-    {
-      "title": "49ers injury report for Week 7 vs. Falcons: Nick Bosa, Mike Evans, Deebo Samuel all out",
-      "link": "https://sports.yahoo.com/articles/49ers-injury-report-week-7-015056201.html",
-      "description": "The San Francisco 49ers have ruled out several stars for the Week 7 game against the Atlanta Falcons....",
-      "pubDate": "2026-10-24T01:50:56+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "John Harbaugh makes Tom Brady reference for J.J. McCarthy — but it’s not what you think",
-      "link": "https://sports.yahoo.com/articles/john-harbaugh-makes-tom-brady-014444816.html",
-      "description": "Brady, 49, threw his final pass in 2022. And if he wanted to unretire?...",
-      "pubDate": "2026-10-24T01:44:44+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dallas Cowboys cheerleaders unionize, will begin collective bargaining",
-      "link": "https://www.espn.com/nfl/story/_/id/50261267/dallas-cowboys-cheerleaders-announce-unionizing",
-      "description": "The Dallas Cowboys have agreed to recognize the Dallas Cowboys Cheerleaders Association as the collective bargaining representative for the team's cheer squad.",
-      "pubDate": "2026-10-24T01:24:21Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2024/1213/r1427623_600x400_3-2.jpg"
-    },
-    {
-      "title": "Adonai Mitchell’s long-awaited Jets return from mystery finger injury gives offense the boost it needs",
-      "link": "https://sports.yahoo.com/articles/adonai-mitchell-long-awaited-jets-012408210.html",
-      "description": "Adonai Mitchell may have been dealing with more than a finger injury. It appears he also has a case of amnesia — at least when it comes to the finger on his right hand that has kep...",
-      "pubDate": "2026-10-24T01:24:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Three teams could be undefeated through seven weeks, which is a rarity",
-      "link": "https://sports.yahoo.com/articles/three-teams-could-undefeated-seven-012013402.html",
-      "description": "Entering Week 7, three teams are undefeated....",
-      "pubDate": "2026-10-24T01:20:13+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL predictions: Can Falcons take advantage of 49ers injuries?",
-      "link": "https://sports.yahoo.com/articles/nfl-predictions-falcons-advantage-49ers-011707301.html",
-      "description": "The Falcons enter the unenviable situation of needing a win against an undefeated 49ers team that has pretty consistently looked like one of the NFL’s best units....",
-      "pubDate": "2026-10-24T01:17:07+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return",
-      "link": "https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return",
-      "description": "49ers receivers Mike Evans and Deebo Samuel Sr., and defensive end Nick Bosa are among a half dozen players who have been ruled out for Sunday's game against the Falcons.",
-      "pubDate": "2026-10-24T01:07:00Z",
-      "source": "ESPN NFL · Nick Wagoner",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1020/r1733220_600x400_3-2.jpg"
-    },
-    {
-      "title": "Bengals players weigh in on facing Trey Hendrickson for the first time with the Ravens",
-      "link": "https://sports.yahoo.com/articles/bengals-players-weigh-facing-trey-004051184.html",
-      "description": "The Bengals have respect and love for Trey Hendrickson after he helped this team win a lot of games since 2021....",
-      "pubDate": "2026-10-24T00:40:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dallas Cowboys Cheerleaders unionize, will collectively bargain with team",
-      "link": "https://sports.yahoo.com/articles/dallas-cowboys-cheerleaders-unionize-collectively-003246286.html",
-      "description": "The Dallas Cowboys Cheerleaders Association, the union formed by the team&#39;s entertainment crew, will collectively bargain with the franchise....",
-      "pubDate": "2026-10-24T00:32:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills’ Sam Franklin gets spitting suspension overturned after winning appeal",
-      "link": "https://sports.yahoo.com/articles/bills-sam-franklin-gets-spitting-002508732.html",
-      "description": "The Bills’ spitting scandal has come to a close....",
-      "pubDate": "2026-10-24T00:25:08+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears vs. Patriots Game Balls: A Signature Victory",
-      "link": "https://sports.yahoo.com/articles/bears-vs-patriots-game-balls-001612099.html",
-      "description": "After an exciting win over the Patriots, @ryandroste hands out his Chicago #Bears Week 7 game balls....",
-      "pubDate": "2026-10-24T00:16:12+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aaron Glenn faces $250K fine for conduct toward NFL officials",
-      "link": "https://sports.yahoo.com/articles/aaron-glenn-faces-250k-fine-001545708.html",
-      "description": "Aaron Glenn was one of three head coaches fined $250,000 by the league for conduct toward game officials, a source confirmed....",
-      "pubDate": "2026-10-24T00:15:45+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL predictions: With the defense cooking, will the Browns-Titans matchup be put to bed early?",
-      "link": "https://sports.yahoo.com/articles/nfl-predictions-defense-cooking-browns-001451480.html",
-      "description": "Can the Browns finally win a game by double digits?...",
-      "pubDate": "2026-10-24T00:14:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy playbook: NFL Week 7 Shadow Reports, lineup locks and projected scores",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/50228155/fantasy-playbook-projections-lineup-locks-week-7-shadow",
-      "description": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-      "pubDate": "2026-10-24T00:11:30Z",
-      "source": "ESPN NFL · Mike Clay",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1022/r1734466_576x324_16-9.jpg"
-    },
-    {
-      "title": "Cowboys say still time to turn things around after 2-4 start",
-      "link": "https://www.espn.com/nfl/story/_/id/50260535/cowboys-say-turn-things-2-4-start",
-      "description": "Cowboys stars Dak Prescott and CeeDee Lamb express belief that there's still time for the team to turn things around despite a 2-4 start.",
-      "pubDate": "2026-10-24T00:10:08Z",
-      "source": "ESPN NFL · Todd Archer",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0105/r1434865_1296x729_16-9.jpg"
-    },
-    {
-      "title": "CeeDee Lamb has ‘why not us’ attitude for Cowboys’ NFC East chances despite worrying skid",
-      "link": "https://sports.yahoo.com/articles/ceedee-lamb-why-not-us-000304625.html",
-      "description": "He isn&#39;t phased by the Cowboys’ two-game losing streak....",
-      "pubDate": "2026-10-24T00:03:04+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants LB Tremaine Edmunds (chest) out for year, source says",
-      "link": "https://www.espn.com/nfl/story/_/id/50260899/giants-lb-tremaine-edmunds-chest-year-source-says",
-      "description": "Giants linebacker Tremaine Edmunds will miss the rest of the season with a torn chest muscle, a source told ESPN's Jordan Raanan. Edmunds leads the team with 50 tackles and wears the green dot to make the calls on defense.",
-      "pubDate": "2026-10-23T23:55:25Z",
-      "source": "ESPN NFL · Jordan Raanan",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1023/r1735221_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Boye Mafe's proud of his culture",
-      "link": "https://www.espn.com/video/clip/_/id/50261478/boye-mafe-proud-culture",
-      "description": "Ben Baby details how Boye Mafe honors his culture when he's on the field.",
-      "pubDate": "2026-10-23T23:33:53Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_Boye_Mafes_proud_of_his_culture/dm_261023_Boye_Mafes_proud_of_his_culture.jpg"
-    },
-    {
-      "title": "Raiders’ Dont’e Thornton running out of time as roster deadline looms",
-      "link": "https://sports.yahoo.com/articles/raiders-dont-e-thornton-running-232149696.html",
-      "description": "Time is running out on Dont’e Thornton. And with each passing week, it becomes harder to point to his health as the reason the Raiders wide receiver remains on injured......",
-      "pubDate": "2026-10-23T23:21:49+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Las Vegas Raiders-Los Angeles Rams FEED Topic: Which team will win special teams battle?",
-      "link": "https://sports.yahoo.com/articles/las-vegas-raiders-los-angeles-231500915.html",
-      "description": "The 3rd phase of the game has been the Rams’ Achilles heel and bitten the Raiders at times, making it a key to the game....",
-      "pubDate": "2026-10-23T23:15:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants linebacker Tremaine Edmunds out for remainder of 2026 season with shoulder injury",
-      "link": "https://sports.yahoo.com/nfl/article/giants-linebacker-tremaine-edmunds-out-for-remainder-of-2026-season-with-shoulder-injury-231211112.html",
-      "description": "Edmunds suffered the injury attempting to make a tackle late in Week 6&#39;s loss to the Saints. He was the Giants&#39; leading tackler in their first six games....",
-      "pubDate": "2026-10-23T23:12:11+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cowboys recognize cheerleaders union after years of fighting for higher pay",
-      "link": "https://sports.yahoo.com/articles/cowboys-recognize-cheerleaders-union-years-230537477.html",
-      "description": "The Dallas Cowboys cheerleaders are unionizing....",
-      "pubDate": "2026-10-23T23:05:37+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Utah student duffs kick twice, missing out on $1 million",
+      "link": "https://www.espn.com/video/clip/_/id/50265987/utah-student-duffs-kick-twice-missing-1-million",
+      "description": "Utah student duffs kick twice, missing out on $1 million",
+      "pubDate": "2026-10-24T15:08:26Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1024/ss_20261024_110516632_3708157667/ss_20261024_110516632_3708157667.jpg"
+    },
+    {
+      "title": "Texas RB Hollywood Smothers ruled out vs. Ole Miss",
+      "link": "https://www.espn.com/college-football/story/_/id/50265566/texas-rb-hollywood-smothers-ruled-vs-ole-miss",
+      "description": "Texas will be without top tailback Hollywood Smothers for Saturday's showdown vs. No. 7 Ole Miss as the No. 19 Longhorns try to avoid a third straight loss.",
+      "pubDate": "2026-10-24T14:53:42Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0922/r1720517_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Sources: Indiana RB Khobie Martin to return vs. Michigan",
+      "link": "https://www.espn.com/college-football/story/_/id/50265857/sources-indiana-rb-khobie-martin-return-vs-michigan",
+      "description": "Indiana RB Khobie Martin, who suffered a broken forearm in the Hoosiers' season opener, is available and will play vs. Michigan on Saturday, sources told ESPN.",
+      "pubDate": "2026-10-24T14:41:50Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0824/r1706306_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida",
+      "link": "https://www.espn.com/college-football/story/_/id/50262750/texas-ad-clarifies-use-ai-key-play-loss-florida",
+      "description": "Texas athletic director Chris Del Conte sought to clarify a report that the Longhorns used a new AI-driven platform on a crucial play that failed in last week's loss to Florida.",
+      "pubDate": "2026-10-24T13:53:48Z",
+      "source": "ESPN College Football · Dave Wilson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1021/r1734125_600x400_3-2.jpg"
+    },
+    {
+      "title": "Sources: Mississippi State eyes return for QB Taylor, RB Bothwell",
+      "link": "https://www.espn.com/college-football/story/_/id/50265129/sources-mississippi-state-eyes-return-taylor-bothwell",
+      "description": "Mississippi State QB Kamario Taylor is expected to attempt to play while RB Fluff Bothwell will be available vs. Oklahoma, sources told ESPN.",
+      "pubDate": "2026-10-24T12:27:36Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/0928/r1723138_1296x729_16-9.jpg"
+    },
+    {
+      "title": "The 2001 Miami Hurricanes are one of college football's greatest teams ever",
+      "link": "https://www.espn.com/college-football/story/_/id/32644138/2001-miami-greatest-teams-ever",
+      "description": "The Canes became one of CFB's greatest teams 25 years ago. Here is the story of the 2001 season, told in their own words.",
+      "pubDate": "2026-10-24T12:15:49Z",
+      "source": "ESPN College Football · Andrea Adelson and David M. Hale",
+      "thumbnail": "https://a.espncdn.com/photo/2021/1116/ncf_miami-2001_16x9.jpg"
+    },
+    {
+      "title": "How to Watch Boise State vs. Washington State: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-boise-state-vs-washington-state-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Boise State Broncos and Washington State Cougars game.",
+      "pubDate": "2026-10-24T12:00:54+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/ee60e1556b26277bc3181ba88a4427548f3396a5ed04ba9390124781ec54ae2a.png"
+    },
+    {
+      "title": "How to Watch Iowa vs. Minnesota: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-iowa-vs-minnesota-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Iowa Hawkeyes and Minnesota Golden Gophers game.",
+      "pubDate": "2026-10-24T12:00:49+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/78455f1a36d82c9d770c1d6a30f1f173526b4be7b0af0ad67da8c7149f2652ea.png"
+    },
+    {
+      "title": "How to Watch California vs. SMU: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-california-vs-smu-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 California Golden Bears and SMU Mustangs game.",
+      "pubDate": "2026-10-24T12:00:42+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/cae399b836e12f5308ab239564bd1f20128018f428c139bc922d184ffd6ec08c.png"
+    },
+    {
+      "title": "How to Watch Ole Miss vs. Texas: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-ole-miss-vs-texas-tv-channel-live-stream-time-saturday-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Ole Miss and Texas game.",
+      "pubDate": "2026-10-24T12:00:42+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/a7b7dbbae2c992dd78b5507e426d1979e64a387b42edaac1955aa5d18a74d627.png"
+    },
+    {
+      "title": "How to Watch Colorado vs. Oklahoma State: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-colorado-vs-oklahoma-state-tv-channel-live-stream-time-october-24-2026",
+      "description": "This matchup brings a clear contrast into the weekend as Oklahoma State looks to protect its home edge and Colorado tries to stop a slide.",
+      "pubDate": "2026-10-24T12:00:40+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/c93kba6gs2wjqb6v-scaled.jpg"
+    },
+    {
+      "title": "How to Watch Indiana vs. Michigan: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-indiana-vs-michigan-tv-channel-live-stream-time",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Indiana Hoosiers and Michigan Wolverines game.",
+      "pubDate": "2026-10-24T12:00:38+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/331f590dd76decc3748b2b926894233c598ca3cc8babd8388b811355bbb69b1a.png"
+    },
+    {
+      "title": "How to Watch Texas A&M vs. Alabama: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-texas-am-vs-alabama-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Texas A&M Aggies and Alabama Crimson Tide game.",
+      "pubDate": "2026-10-24T12:00:37+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/398b36c5401cbda9696bd09849bfd426aa22894417eef8adc168901bf1e20d02.png"
+    },
+    {
+      "title": "How to Watch Oregon vs. Illinois: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-oregon-vs-illinois-tv-channel-live-stream-time-october-24-2026",
+      "description": "This matchup brings a solid Big Ten measuring stick into focus as the Illinois Fighting Illini host the Oregon Ducks in the 2026 regular season on Saturday,...",
+      "pubDate": "2026-10-24T12:00:28+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/f3da98daa1929130e626188fb0457c739648d6a198a172c32e5b30d10a7f31eb.png"
+    },
+    {
+      "title": "How to Watch Texas Tech vs. Cincinnati: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-texas-tech-vs-cincinnati-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Texas Tech Red Raiders and Cincinnati Bearcats game.",
+      "pubDate": "2026-10-24T12:00:24+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/c1b6dd072a803ca035eddb4c5f8fd1b8a8d2a6122ea5548c9e0c9d8b3860eae4.png"
+    },
+    {
+      "title": "How to Watch USC vs. Wisconsin: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-usc-vs-wisconsin-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 USC Trojans and Wisconsin Badgers game.",
+      "pubDate": "2026-10-24T12:00:17+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/4da09716d277b0697bbe7fd273d93d607b9bd9c2525309fed3d025be195e65cf.png"
+    },
+    {
+      "title": "How to Watch Vanderbilt vs. Kentucky: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-vanderbilt-vs-kentucky-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Vanderbilt Commodores and Kentucky Wildcats game.",
+      "pubDate": "2026-10-24T12:00:15+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/56f7d1efc0e60e776f79bfac2c49fb312eacc11ab82eac43f1a34f9a6b39a49f.png"
+    },
+    {
+      "title": "How to Watch Houston vs. Utah: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-houston-vs-utah-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Houston Cougars and Utah Utes game.",
+      "pubDate": "2026-10-24T12:00:12+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/70479e15003c218ceb5f1fce02a54cc3a534c3e23a1098eed6793010f4672493.png"
+    },
+    {
+      "title": "How to Watch Oklahoma vs. Mississippi State: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-oklahoma-vs-mississippi-state-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Oklahoma Sooners and Mississippi State Bulldogs game.",
+      "pubDate": "2026-10-24T12:00:11+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/08024e21a0d84fcd96e316f75a8d3ee345c645b421fd33edc35043c391192955.png"
+    },
+    {
+      "title": "How to Watch Rutgers vs. Northwestern: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-rutgers-vs-northwestern-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Rutgers Scarlet Knights and Northwestern Wildcats game.",
+      "pubDate": "2026-10-24T12:00:08+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/6c1b17de42514f12d88e102c1768fecefc25fb68ed7a622137e43f35b478db3d.png"
+    },
+    {
+      "title": "How to Watch LSU vs. Auburn: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-lsu-vs-auburn-tv-channel-live-stream-time",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 LSU and Auburn game.",
+      "pubDate": "2026-10-24T12:00:07+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/e9f509983c7b72b060f2e6ceb61e5c62eaf5a2cd27ca535711c80d4541f96b6d.png"
+    },
+    {
+      "title": "How to Watch Michigan State vs. UCLA: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-michigan-state-vs-ucla-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 Michigan State Spartans and UCLA Bruins game.",
+      "pubDate": "2026-10-24T12:00:02+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/cc6271613d71c96fa25262b44a9cb0a426583a417366da60b3df8a86205b2700.png"
+    },
+    {
+      "title": "How to Watch BYU vs. UCF: TV Channel, Live Stream, Time - October 24, 2026",
+      "link": "https://www.foxsports.com/stories/college-football/how-to-watch-byu-vs-ucf-tv-channel-live-stream-time-october-24-2026",
+      "description": "Learn which TV channel or how to live stream the CFB Week 8 BYU and UCF game.",
+      "pubDate": "2026-10-24T12:00:00+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/8017f47edeeeed8c258764a1069d015dfee22c2d656c77fdbfeb614019f1e53b.png"
+    },
     {
       "title": "Colorado vs. Oklahoma State Prediction, Odds, Picks For College Football Week 8",
       "link": "https://www.foxsports.com/stories/college-football/colorado-vs-oklahoma-state-prediction-odds-picks-college-football-week-8",
@@ -450,14 +634,6 @@
       "pubDate": "2026-10-24T06:11:46Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1024/58044af1-97ba-4aab-b39c-29a2f531d6e3/58044af1-97ba-4aab-b39c-29a2f531d6e3.jpg"
-    },
-    {
-      "title": "Texas AD Del Conte clarifies AI use on key play that failed in loss to Florida",
-      "link": "https://www.espn.com/college-football/story/_/id/50262750/texas-ad-clarifies-use-ai-key-play-loss-florida",
-      "description": "Texas AD Chris Del Conte on Friday sought to clarify a report that the team used a new AI-driven platform on a crucial play that failed in last week's loss to Florida.",
-      "pubDate": "2026-10-24T05:36:09Z",
-      "source": "ESPN College Football · Dave Wilson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1021/r1734125_600x400_3-2.jpg"
     },
     {
       "title": "Tyler Hughes throws 2 TD passes, runs for score in Wyoming's 28-14 victory over Air Force",
@@ -626,185 +802,49 @@
       "pubDate": "2026-10-23T23:25:14Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Analysis_Doering_Week_8_261023/dm_261023_SEC_NCF_Analysis_Doering_Week_8_261023.jpg"
-    },
-    {
-      "title": "2026 NFL, College Football Odds: Best Bets For Indiana-Michigan, Colts-Vikings",
-      "link": "https://www.foxsports.com/stories/college-football/2026-nfl-college-football-odds-best-bets-indiana-michigan-colts-vikings",
-      "description": "Sammy P is back with his best bets for the weekend, including his wagers for Indiana-Michigan and Colts-Vikings.",
-      "pubDate": "2026-10-23T23:11:37+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/cignetti_sammy-p_horizontal_odds.jpg"
-    },
-    {
-      "title": "ESPN's Taylor Davis previews UK vs. Vandy, analyzes Ole Miss upset",
-      "link": "https://www.espn.com/video/clip/_/id/50260991/espn-taylor-davis-previews-uk-vs-vandy-analyzes-ole-miss-upset",
-      "description": "Davis dives into Vanderbilt's journey to find its rhythm while discussing No. 15 Kentucky's confidence going into Week 8, and dissects Ole Miss' dominant upset over Mizzou.",
-      "pubDate": "2026-10-23T22:38:09Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Interview_ESPNs_Taylor_Davis_261023/dm_261023_SEC_NCF_Interview_ESPNs_Taylor_Davis_261023.jpg"
-    },
-    {
-      "title": "Roman Harper stresses need for Bama to have fresh mentality vs. Texas A&M",
-      "link": "https://www.espn.com/video/clip/_/id/50261123/roman-harper-stresses-need-bama-fresh-mentality-vs-texas-am",
-      "description": "Harper reflects on the No. 13 Crimson Tide's performance in Week 7 as he emphasizes the importance of putting the loss behind them and focusing on their matchup vs. the Aggies.",
-      "pubDate": "2026-10-23T22:32:26Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Analysis_Roman_pfs_analysis_261023/dm_261023_SEC_NCF_Analysis_Roman_pfs_analysis_261023.jpg"
-    },
-    {
-      "title": "Tebow analyzes impact of star quarterbacks Manning and Chambliss",
-      "link": "https://www.espn.com/video/clip/_/id/50261126/tebow-analyzes-impact-star-quarterbacks-manning-chambliss",
-      "description": "SEC Network's Tim Tebow joins The Paul Finebaum Show to discuss how Arch Manning and the Texas offense can get back on track and Trinidad Chambliss' ability to raise Ole Miss' ceiling.",
-      "pubDate": "2026-10-23T22:32:03Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Analysis_Tebow_Manning_Chambliss_261023/dm_261023_SEC_NCF_Analysis_Tebow_Manning_Chambliss_261023.jpg"
-    },
-    {
-      "title": "Kris Budden eases Alabama panic ahead of matchup vs. Texas A&M",
-      "link": "https://www.espn.com/video/clip/_/id/50261090/kris-budden-eases-alabama-panic-ahead-matchup-vs-texas-am",
-      "description": "Budden joins The Paul Finebaum Show to preview the showdown between the Crimson Tide and Aggies while explaining how Alabama is staying calm through rough stretch.",
-      "pubDate": "2026-10-23T22:31:44Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Interview_Kris_Bama_AnM_261023/dm_261023_SEC_NCF_Interview_Kris_Bama_AnM_261023.jpg"
-    },
-    {
-      "title": "Matt Barrie on college football's best team: 'We don't know'",
-      "link": "https://www.espn.com/video/clip/_/id/50260477/know",
-      "description": "With upsets reshaping the season, SEC Nation's Matt Barrie joins The Paul Finebaum Show to explain why so many questions remain unanswered at the midway point.",
-      "pubDate": "2026-10-23T21:09:53Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Analysis_Barrie_PFS_261023/dm_261023_SEC_NCF_Analysis_Barrie_PFS_261023.jpg"
-    },
-    {
-      "title": "Oregon State standout WR Jesse Legree re-signs with Beavers for '27",
-      "link": "https://www.espn.com/college-football/story/_/id/50259547/oregon-state-standout-wr-jesse-legree-re-signs-beavers-27",
-      "description": "Oregon State freshman receiver Jesse Legree, one of the country's breakout stars in 2026, has re-signed with the Beavers for next season, he announced Friday.",
-      "pubDate": "2026-10-23T20:50:14Z",
-      "source": "ESPN College Football · Pete Thamel",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1023/r1735097_600x400_3-2.jpg"
-    },
-    {
-      "title": "Michigan QB Tommy Carr, grandson of ex-coach, to get first start, source confirms",
-      "link": "https://www.espn.com/college-football/story/_/id/50260251/michigan-qb-tommy-carr-start-indiana-source-confirms",
-      "description": "Michigan freshman quarterback Tommy Carr will make his first start Saturday against No. 6 Indiana, a source confirmed to ESPN.",
-      "pubDate": "2026-10-23T20:49:28Z",
-      "source": "ESPN College Football · Jake Trotter",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0831/r1709480_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Fowler describes Manning's urgency ahead of Texas vs. Ole Miss",
-      "link": "https://www.espn.com/video/clip/_/id/50260387/fowler-describes-manning-urgency-ahead-texas-vs-ole-miss",
-      "description": "ESPN's Chris Fowler joins The Paul Finebaum Show to discuss Arch Manning's added sense of urgency as the No. 19 Longhorns prepare to face the No. 7 Rebels.",
-      "pubDate": "2026-10-23T20:48:05Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Interview_Fowler_PFS_261023/dm_261023_SEC_NCF_Interview_Fowler_PFS_261023.jpg"
-    },
-    {
-      "title": "2010s SEC was different 💀(beastkoby/IG) #2010s #CFB #espnedits",
-      "link": "https://www.espn.com/video/clip/_/id/50260182/2010s-sec-was-different-beastkoby-ig-2010s-cfb-espnedits",
-      "description": "2010s SEC was different 💀(beastkoby/IG) #2010s #CFB #espnedits",
-      "pubDate": "2026-10-23T20:39:21Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/986ec03143484304936a9860e8b6aff7997/986ec03143484304936a9860e8b6aff7997.jpg"
-    },
-    {
-      "title": "Peter Burns' Week 8 Power Rankings carry added urgency",
-      "link": "https://www.espn.com/video/clip/_/id/50260300/peter-burns-week-8-power-rankings-carry-added-urgency",
-      "description": "SEC This Morning's Burns lists the five teams in the conference that need a Week 8 win to keep their seasons on track.",
-      "pubDate": "2026-10-23T20:26:31Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Analysis_Week_8_Power_Rankings_261023/dm_261023_SEC_NCF_Analysis_Week_8_Power_Rankings_261023.jpg"
-    },
-    {
-      "title": "Chris 'The Bear' Fallica's College Football Week 8 Expert Picks, Best Bets",
-      "link": "https://www.foxsports.com/stories/college-football/chris-the-bear-fallicas-college-football-week-8-expert-picks-best-bets",
-      "description": "\"The Bear\" is back with his expert picks and best bets for college football Week 8. Here's how he's wagering on this weekend's action.",
-      "pubDate": "2026-10-23T20:03:37+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/week-8-best-betsartboard-1.png"
-    },
-    {
-      "title": "Taylor Zarzour analyzes struggles for No. 19 Texas, No. 13 Alabama",
-      "link": "https://www.espn.com/video/clip/_/id/50259991/taylor-zarzour-analyzes-struggles-no-19-texas-no-13-alabama",
-      "description": "With offensive problems plaguing both the Longhorns and the Crimson Tide, ESPN's Taylor Zarzour explains on SEC This Morning what each team must improve to avoid those issues.",
-      "pubDate": "2026-10-23T19:32:37Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Interview_Zarzour_SECTM_261023/dm_261023_SEC_NCF_Interview_Zarzour_SECTM_261023.jpg"
-    },
-    {
-      "title": "Jason Campbell discusses Auburn's growing chemistry",
-      "link": "https://www.espn.com/video/clip/_/id/50259948/jason-campbell-discusses-auburn-growing-chemistry",
-      "description": "Auburn great Jason Campbell joins SEC This Morning to discuss how Tigers alumni support Alex Golesh and how Auburn can carry its momentum into a matchup with No. 18 LSU.",
-      "pubDate": "2026-10-23T19:27:37Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Interview_Campbell_AUB_261023/dm_261023_SEC_NCF_Interview_Campbell_AUB_261023.jpg"
-    },
-    {
-      "title": "Taylor McGregor previews No. 11 Tennessee vs. South Carolina",
-      "link": "https://www.espn.com/video/clip/_/id/50259903/taylor-mcgregor-previews-no-11-tennessee-vs-south-carolina",
-      "description": "After Auburn upset then-No. 1 Georgia, ESPN's Taylor McGregor joins SEC This Morning to discuss how Tennessee-South Carolina could carry similar implications this week.",
-      "pubDate": "2026-10-23T19:17:40Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/dm_261023_SEC_NCF_Interview_McGregor_SECTM_261023/dm_261023_SEC_NCF_Interview_McGregor_SECTM_261023.jpg"
-    },
-    {
-      "title": "Utah Utes first-year coach Morgan Scalley leading with love",
-      "link": "https://www.espn.com/college-football/story/_/id/50253345/utah-utes-morgan-scalley-leading-love",
-      "description": "In his first year in charge of the Utes, Scalley has embraced fun and efficiency.",
-      "pubDate": "2026-10-23T19:07:28Z",
-      "source": "ESPN College Football · Pete Thamel",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1023/r1734819_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Top 25 betting lines: Texas favored vs. Ole Miss, Utah the fave vs. Houston",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50216670/2026-college-football-week-8-top-25-betting-lines-odds",
-      "description": "This week's odds and FPI predictions for Texas-Ole Miss, Utah-Houston and every top 25 matchup.",
-      "pubDate": "2026-10-23T18:50:37Z",
-      "source": "ESPN College Football · ESPN",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1019/r1732818_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Arizona State makes switch to Mikey Keene as quarterback",
-      "link": "https://www.espn.com/college-football/story/_/id/50259224/arizona-state-makes-switch-mikey-keene-quarterback",
-      "description": "Arizona State coach Kenny Dillingham has made a change at quarterback, going with Mikey Keene over Cutter Boley for Saturday's game against Kansas State.",
-      "pubDate": "2026-10-23T18:14:00Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2020/0716/r719891_1296x729_16-9.jpg"
-    },
-    {
-      "title": "'Prove it on the field': Morgan Scalley vouches for multibid Big 12 in CFP",
-      "link": "https://www.espn.com/video/clip/_/id/50259262/morgan-scalley-vouches-multibid-big-12-cfp",
-      "description": "'Prove it on the field': Morgan Scalley vouches for multibid Big 12 in CFP",
-      "pubDate": "2026-10-23T18:05:39Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_135722190_3706881/ss_20261023_135722190_3706881.jpg"
-    },
-    {
-      "title": "CFB Pick 'Em: Top Week 8 Games, Including Michigan-Indiana, Texas-Ole Miss",
-      "link": "https://www.foxsports.com/stories/college-football/pick-em-week-8-michigan-indiana-texas-ole-miss-utah-houston",
-      "description": "FOX Sports' college football pick 'em breakdown for Week 8's top games.",
-      "pubDate": "2026-10-23T16:24:00+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/10/cfb-w8-pickem-16x9_1024.jpg"
-    },
-    {
-      "title": "Connelly previews Week 8: SEC elimination games, tests for top 2 and more",
-      "link": "https://www.espn.com/college-football/story/_/id/50249679/connelly-week-8-preview-ole-miss-texas",
-      "description": "Ole Miss, Tennessee and LSU face road challenges, while Miami and BYU try to avoid the upset bug.",
-      "pubDate": "2026-10-23T16:07:28Z",
-      "source": "ESPN College Football · Bill Connelly",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1023/r1734644_608x342_16-9.jpg"
-    },
-    {
-      "title": "Why Stephen A. believes Sarkisian has been 'pacifying' Arch Manning",
-      "link": "https://www.espn.com/video/clip/_/id/50258231/why-stephen-believes-sarkisian-pacifying-arch-manning",
-      "description": "Why Stephen A. believes Sarkisian has been 'pacifying' Arch Manning",
-      "pubDate": "2026-10-23T15:12:07Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1023/ss_20261023_110321385_3706754/ss_20261023_110321385_3706754.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "The PFT 25th anniversary is coming next weekend",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-pft-25th-anniversary-is-coming-next-weekend",
+      "description": "Twenty-five years ago this month, I had a decision to make....",
+      "pubDate": "2026-10-24T14:52:29+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "With Troy Aikman possibly exiting broadcasting, he extends an olive branch to Jerry Jones",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/with-troy-aikman-possibly-exiting-broadcasting-he-extends-an-olive-branch-to-jerry-jones",
+      "description": "Hall of Fame quarterback Troy Aikman has talked openly for years about wanting to work in an NFL front office....",
+      "pubDate": "2026-10-24T13:54:26+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints elevate WR Cedric Tillman, OT Easton Kilty",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-elevate-wr-cedric-tillman-ot-easton-kilty",
+      "description": "The Saints announced that they have elevated a pair of players from the practice squad for Sunday's game against the Steelers....",
+      "pubDate": "2026-10-24T13:43:10+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "CeeDee Lamb: We feel we have best roster in NFC East, so why not us?",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ceedee-lamb-we-feel-we-have-best-roster-in-nfc-east-so-why-not-us",
+      "description": "The first six weeks of the season have not gone as hoped for the Cowboys, but they head into Week 7 with the NFC East well within their grasp....",
+      "pubDate": "2026-10-24T13:33:10+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "The NFL should relocate the Steelers-Saints game in Paris to London",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-nfl-should-relocate-the-steelers-saints-game-in-paris-to-london",
+      "description": "NFL scraps multiple Saturday events due to ongoing protests....",
+      "pubDate": "2026-10-24T13:01:51+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Rhamondre Stevenson says Bears' defensive alignment helped with 48-yard TD",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rhamondre-stevenson-says-bears-defensive-alignment-helped-with-48-yard-td",
@@ -998,38 +1038,6 @@
       "thumbnail": ""
     },
     {
-      "title": "WR Calvin Ridley, RB Tyjae Spears questionable for Sunday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/wr-calvin-ridley-rb-tyjae-spears-questionable-for-sunday",
-      "description": "Titans wide receiver Calvin Ridley (hip) is questionable with another rehab day Friday....",
-      "pubDate": "2026-10-23T19:58:26+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cam Skattebo is expected to return to the running back mix on Sunday",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cam-skattebo-is-expected-to-return-to-the-running-back-mix-on-sunday",
-      "description": "Giants running back Cam Skattebo, after having a key overtime fumble in Week 5, played only six snaps and had no touches in Week 6....",
-      "pubDate": "2026-10-23T19:51:43+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Browns list Denzel Ward as questionable with a hand injury",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/browns-list-denzel-ward-as-questionable-with-a-hand-injury",
-      "description": "The Browns took a number of players off their injury report on Friday, but they also made one significant addition....",
-      "pubDate": "2026-10-23T19:50:53+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dan Campbell: Sam LaPorta's contract comments aren't a distraction for us",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-sam-laportas-contract-comments-arent-a-distraction-for-us",
-      "description": "Lions tight end Sam LaPorta is in the market for a new contract and he said this week that \"it sucks\" that one hasn't come together with the team as he plays out the final year of ...",
-      "pubDate": "2026-10-23T19:41:57+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Injuries could increase Aaron Donald's playing time",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injuries-could-increase-aaron-donalds-playing-time",
       "description": "Aaron Donald may be privately thinking, \"I'm too old for this shit.\"...",
@@ -1042,14 +1050,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/a-j-brown-ive-got-to-put-my-best-foot-forward-try-to-make-plays-and-keep-going",
       "description": "Patriots wide receiver A.J....",
       "pubDate": "2026-10-23T19:20:40+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rashee Rice again ruled out for Week 7",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rashee-rice-again-ruled-out-for-week-7",
-      "description": "The Chiefs will not have three players for Sunday's matchup against the Seahawks....",
-      "pubDate": "2026-10-23T19:16:10+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
