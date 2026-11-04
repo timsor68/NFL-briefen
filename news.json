@@ -1,6 +1,358 @@
 {
-  "generatedAt": "2026-11-03T22:19:47.582777+00:00",
+  "generatedAt": "2026-11-04T02:26:29.056859+00:00",
   "nfl": [
+    {
+      "title": "Panthers defenders: We're in 'great hands' after DC switch-up",
+      "link": "https://www.espn.com/nfl/story/_/id/50374068/carolina-panthers-defense-good-hands-coordinator-switch",
+      "description": "Promoted from defensive line coach to coordinator, Todd Wash already has the support of the unit's leaders.",
+      "pubDate": "2026-11-04T02:12:11Z",
+      "source": "ESPN NFL · Mike Kaye",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1104/r1740822_608x342_16-9.jpg"
+    },
+    {
+      "title": "Ex-NFL QB Russell Wilson interviews with NC State for head coaching job",
+      "link": "https://www.espn.com/college-football/story/_/id/50373951/russell-wilson-interviews-nc-state-head-coaching-job",
+      "description": "Russell Wilson interviewed for the head coaching job at NC State on Tuesday, joining Philip Rivers as prominent candidates, sources told ESPN.",
+      "pubDate": "2026-11-04T02:02:02Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1021/r1563708_600x400_3-2.jpg"
+    },
+    {
+      "title": "The Day After the Day After: The Houston Texans resume their season after the bye",
+      "link": "https://sports.yahoo.com/articles/day-day-houston-texans-resume-020000049.html",
+      "description": "Houston didn’t lose in heartbreaking fashion this past week, nor did they win. Let’s consider what lies ahead....",
+      "pubDate": "2026-11-04T02:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Stat dump: Key numbers and observations from the Seahawks Week 8 loss to the Bears",
+      "link": "https://sports.yahoo.com/articles/stat-dump-key-numbers-observations-012251346.html",
+      "description": "A stat dump of major advanced metrics and other tidbits from the Seahawks’ 34-17 loss to the Bears....",
+      "pubDate": "2026-11-04T01:22:51+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Herd Hierarchy: Are The Bears The NFL’s Best Team? Seahawks, Chiefs Slide",
+      "link": "https://www.foxsports.com/stories/nfl/herd-hierarchy-bears-nfls-best-team-seahawks-chiefs-slide",
+      "description": "Cowherd revealed his latest Herd Hierarchy, featuring a new team at No. 1 after the defending champion Seahawks, last week’s top team, fell to 4-4.",
+      "pubDate": "2026-11-04T01:09:08+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/herd-hierarchy-1.jpg"
+    },
+    {
+      "title": "Former Seahawks quarterback Russell Wilson interviews for NC State head coaching job",
+      "link": "https://sports.yahoo.com/articles/former-seahawks-quarterback-russell-wilson-010147178.html",
+      "description": "The long-time Seahawks quarterback’s stay at the CBS desk could be short-lived....",
+      "pubDate": "2026-11-04T01:01:47+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Miami Dolphins Discussion: Week 9 Game Vs Detroit Lions Predictions Edition",
+      "link": "https://sports.yahoo.com/articles/miami-dolphins-discussion-week-9-010000867.html",
+      "description": "We ask Miami Dolphins fans for their takes and predictions for the upcoming game against the Detroit Lions....",
+      "pubDate": "2026-11-04T01:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "How Brian Schottenheimer is failing the Cowboys",
+      "link": "https://sports.yahoo.com/articles/brian-schottenheimer-failing-cowboys-010000405.html",
+      "description": "The Cowboys have a coaching disadvantage...",
+      "pubDate": "2026-11-04T01:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "What position should the Buffalo Bills target at NFL trade deadline?",
+      "link": "https://sports.yahoo.com/articles/position-buffalo-bills-target-nfl-005726351.html",
+      "description": "Currently in first place in the AFC, should the Buffalo Bills target a specific position with the NFL trade deadline looming?...",
+      "pubDate": "2026-11-04T00:57:26+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why This Might Be The Year That Joe Burrow, Bengals Get Over The Hump",
+      "link": "https://www.foxsports.com/stories/nfl/why-might-year-joe-burrow-bengals-get-over-hump",
+      "description": "Our weekly look back on the league asks if Cincinnati is poised to end its playoff drought, ponders Drake London's prolific tackling and the rarity of kickoff return touchdowns.",
+      "pubDate": "2026-11-04T00:53:41+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/upon-further-review-burrow-16x9-1.jpg"
+    },
+    {
+      "title": "Bengals Film Room: Chase Brown starting to heat up?",
+      "link": "https://sports.yahoo.com/articles/bengals-film-room-chase-brown-004302249.html",
+      "description": "Chase Brown had over 100 all-purpose yards against the Titans....",
+      "pubDate": "2026-11-04T00:43:02+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cardinals Place No. 3 Pick Jeremiyah Love On IR With High Ankle Sprain",
+      "link": "https://www.foxsports.com/stories/nfl/cardinals-rb-jeremiyah-love-goes-to-ir-with-high-ankle-sprain-in-another-setback",
+      "description": "The Arizona Cardinals placed running back Jeremiyah Love on injured reserve with a high ankle sprain in another setback during his rookie season, the team announced on Tuesday.",
+      "pubDate": "2026-11-04T00:23:14+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/gettyimages-2300893059-scaled-e1793751743234.jpg"
+    },
+    {
+      "title": "Chiefs-Broncos racks up 28.175 million for CBS",
+      "link": "https://sports.yahoo.com/articles/chiefs-broncos-racks-28-175-001345900.html",
+      "description": "To no surprise, the top late-afternoon game from Week 8 of the 2026 NFL season generated very big numbers....",
+      "pubDate": "2026-11-04T00:13:45+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Broncos had toughest schedule Weeks 1-8; now face one of the easiest",
+      "link": "https://sports.yahoo.com/articles/broncos-had-toughest-schedule-weeks-000448920.html",
+      "description": "The analytics nerds are back at this week with some live tracking of strength of schedule. As for the Denver Broncos, no team has faced a tougher schedule through the first eight w...",
+      "pubDate": "2026-11-04T00:04:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Cleveland Browns: Run defense is scary. And not in a good way.",
+      "link": "https://sports.yahoo.com/articles/cleveland-browns-run-defense-scary-000053811.html",
+      "description": "Cleveland’s defense has carried the team so far. But the run defense is starting to spring some big leaks....",
+      "pubDate": "2026-11-04T00:00:53+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jaguars Reacts Survey: Who is Jacksonville’s Top Threat in the AFC?",
+      "link": "https://sports.yahoo.com/articles/jaguars-reacts-survey-jacksonville-top-000011856.html",
+      "description": "Which contender are you hoping to avoid in January?...",
+      "pubDate": "2026-11-04T00:00:11+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rashan Gary’s inexcusable penalty opened the door to final collapse",
+      "link": "https://sports.yahoo.com/articles/rashan-gary-inexcusable-penalty-opened-000000715.html",
+      "description": "Rashan Gary had one of the worst moments from last week’s loss....",
+      "pubDate": "2026-11-04T00:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rookie Joe Fagnano to start Thursday night vs. Jaguars, Jesse Minter says",
+      "link": "https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars",
+      "description": "Ravens rookie quarterback Joe Fagnano will start Thursday night's game against the Jaguars, coach Jesse Minter announced Tuesday.",
+      "pubDate": "2026-11-03T23:33:00Z",
+      "source": "ESPN NFL · Jamison Hensley",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740681_1296x729_16-9.jpg"
+    },
+    {
+      "title": "This time is different for the Chicago Bears",
+      "link": "https://sports.yahoo.com/articles/time-different-chicago-bears-233000069.html",
+      "description": "Our cooled-down, day-after review of the Chicago Bears&#39; win over the Seattle Seahawks from @gridironborn and @wiltfongjr is right here!...",
+      "pubDate": "2026-11-03T23:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Colts reportedly extend promising DT Adetomiwa Adebawore amid roster purge",
+      "link": "https://sports.yahoo.com/nfl/breaking-news/article/colts-reportedly-extend-promising-dt-adetomiwa-adebawore-amid-roster-purge-232731725.html",
+      "description": "The Indianapolis Colts aren&#39;t purging their entire roster....",
+      "pubDate": "2026-11-03T23:27:31+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Silver and Black Pride Reacts Survey Week 9",
+      "link": "https://sports.yahoo.com/articles/silver-black-pride-reacts-survey-231818777.html",
+      "description": "Checking the pulse of Raider Nation...",
+      "pubDate": "2026-11-03T23:18:18+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jaguars Place 2 Key Defensive Players on Injured Reserve",
+      "link": "https://sports.yahoo.com/articles/jaguars-place-2-key-defensive-231523385.html",
+      "description": "Eric Murray and DaVon Hamilton were officially placed on IR today....",
+      "pubDate": "2026-11-03T23:15:23+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "49ers trade targets: 4 players San Francisco could pursue at NFL trade deadline",
+      "link": "https://sports.yahoo.com/articles/49ers-trade-targets-4-players-231503742.html",
+      "description": "Will the 49ers be buyers at the 2026 NFL trade deadline? If they are, they will likely try to upgrade these positions....",
+      "pubDate": "2026-11-03T23:15:03+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Snap Count Reactions: Jadarian Price & Zach Charbonnet return, can’t wake Seahawks offense",
+      "link": "https://sports.yahoo.com/articles/snap-count-reactions-jadarian-price-231449528.html",
+      "description": "Seattle had a top three offense in 2025, but the group struggled once again in Week 8 against the Bears....",
+      "pubDate": "2026-11-03T23:14:49+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets sign OL Blake Freeland off Bengals&#39; practice squad",
+      "link": "https://sports.yahoo.com/articles/jets-sign-ol-blake-freeland-231141125.html",
+      "description": "The Jets signed offensive tackle Blake Freeland off the Bengals&#39; practice squad, the team announced Tuesday....",
+      "pubDate": "2026-11-03T23:11:41+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "What activating Marcus Bryant, releasing Kindle Vildor means for the Patriots",
+      "link": "https://sports.yahoo.com/articles/activating-marcus-bryant-releasing-kindle-230611744.html",
+      "description": "Instant analysis of the Patriots’ roster moves on Tuesday....",
+      "pubDate": "2026-11-03T23:06:11+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions put LB Jimmy Rolder on IR, waive DB Bishop Fitzgerald",
+      "link": "https://sports.yahoo.com/articles/lions-put-lb-jimmy-rolder-230432821.html",
+      "description": "The Lions announced that linebacker Jimmy Rolder suffered a season-ending hamstring injury during Sunday&#39;s win over the Vikings and they moved him to the injured reserve list....",
+      "pubDate": "2026-11-03T23:04:32+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chicago Bears week 9 power rankings roundup: Among the best",
+      "link": "https://sports.yahoo.com/articles/chicago-bears-week-9-power-230000740.html",
+      "description": "The Bears have entered the chat for Super Bowl contenders. @SamHouseholder has this week’s power rankings roundup....",
+      "pubDate": "2026-11-03T23:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills release player suspended for spitting on Raiders tight end",
+      "link": "https://sports.yahoo.com/articles/bills-release-player-suspended-spitting-225947008.html",
+      "description": "The Bills have released CJ Gardner-Johnson after he served his suspension for spitting at Raiders TE Brock Bowers....",
+      "pubDate": "2026-11-03T22:59:47+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles waive CB Jakorian Bennett off of injured reserve",
+      "link": "https://sports.yahoo.com/articles/eagles-waive-cb-jakorian-bennett-225748060.html",
+      "description": "Cornerback Jakorian Bennett returned to practice a few weeks ago, but he won&#39;t be returning to the Eagles lineup....",
+      "pubDate": "2026-11-03T22:57:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Will Jonathan Taylor, Brian Thomas Jr. get traded? How will Raiders decide on future with Maxx Crosby? What league sources are saying",
+      "link": "https://sports.yahoo.com/nfl/article/will-jonathan-taylor-brian-thomas-jr-get-traded-how-will-raiders-decide-on-future-with-maxx-crosby-what-league-sources-are-saying-225533583.html",
+      "description": "Yahoo Sports spoke with GMs, salary-cap executives, personnel evaluators and more to take a pulse of the trade deadline landscape. The summary: Expect more moves during the next we...",
+      "pubDate": "2026-11-03T22:55:33+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints release veteran kicker Daniel Carlson after he posted 2nd-worst FG% in NFL",
+      "link": "https://www.espn.com/nfl/story/_/id/50372284/saints-release-veteran-kicker-daniel-carlson-7-games",
+      "description": "Veteran kicker Daniel Carlson, whose 66.7% accuracy on field goals was tied for second worst in the NFL this season, was released by the Saints on Tuesday.",
+      "pubDate": "2026-11-03T22:52:56Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740295_600x400_3-2.jpg"
+    },
+    {
+      "title": "Why Cockcroft is targeting Granderson, Young in IDP leagues",
+      "link": "https://www.espn.com/video/clip/_/id/50372079/why-cockcroft-targeting-granderson-young-idp-leagues",
+      "description": "Why Cockcroft is targeting Granderson, Young in IDP leagues",
+      "pubDate": "2026-11-03T22:51:54Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_163153444_3723975/ss_20261103_163153444_3723975.jpg"
+    },
+    {
+      "title": "Giants, CB Greg Newsome II agree to 3-year, $46M extension",
+      "link": "https://www.espn.com/nfl/story/_/id/50372281/giants-cb-greg-newsome-ii-agree-3-year-46m-extension",
+      "description": "The Giants have reached agreement with cornerback Greg Newsome II on a three-year, $46 million extension, his agents told ESPN's Adam Schefter.",
+      "pubDate": "2026-11-03T22:50:15Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740719_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Bo Nix has 15 game-winning drives, most ever for a QB in his first three seasons",
+      "link": "https://sports.yahoo.com/articles/bo-nix-15-game-winning-224635377.html",
+      "description": "The Broncos trailed the Chiefs 24-13 with 10 minutes left on Sunday, but anyone who thought the Broncos were out of it hasn&#39;t been watching Nix....",
+      "pubDate": "2026-11-03T22:46:35+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
+      "link": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
+      "description": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
+      "pubDate": "2026-11-03T22:45:59Z",
+      "source": "ESPN NFL · Nick Suss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732647_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Raiders make some changes and take down the Jets",
+      "link": "https://sports.yahoo.com/articles/raiders-changes-down-jets-223900397.html",
+      "description": "Kirk Cousins got the Raiders back on track with a rookie at right guard and starting at running back....",
+      "pubDate": "2026-11-03T22:39:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Arizona Cardinals make roster moves after Dallas Cowboys win",
+      "link": "https://sports.yahoo.com/articles/arizona-cardinals-roster-moves-dallas-223324199.html",
+      "description": "Arizona Cardinals make number of roster moves after win over Cowboys....",
+      "pubDate": "2026-11-03T22:33:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "The Cowboys and the cruel art of collapse",
+      "link": "https://sports.yahoo.com/articles/cowboys-cruel-art-collapse-223000570.html",
+      "description": "Nobody knows how to fall apart like the Dallas Cowboys...",
+      "pubDate": "2026-11-03T22:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bears vs. Seahawks Game Balls: The Nation Takes Notice",
+      "link": "https://sports.yahoo.com/articles/bears-vs-seahawks-game-balls-223000968.html",
+      "description": "After a statement win over the Seahawks, @ryandroste hands out his Chicago #Bears Week 8 game balls....",
+      "pubDate": "2026-11-03T22:30:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints make a set of important roster moves on Tuesday",
+      "link": "https://sports.yahoo.com/articles/saints-set-important-roster-moves-222527901.html",
+      "description": "Fresh off of the bye week, the Saints made a set of roster moves...",
+      "pubDate": "2026-11-03T22:25:27+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ravens QB Joe Fagnano has full participation in Tuesday&#39;s practice",
+      "link": "https://sports.yahoo.com/articles/ravens-qb-joe-fagnano-full-222410992.html",
+      "description": "Lamar Jackson (right thumb) and Tyler Huntley (toe) are expected to land on injured reserve this week....",
+      "pubDate": "2026-11-03T22:24:10+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Source: Colts, Adetomiwa Adebawore agree to 2-year, $35M extension",
+      "link": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal",
+      "description": "The Colts and defensive tackle Adetomiwa Adebawore have agreed to terms on a two-year, $35 million extension, a source told NFL Network's Mike Garafolo.",
+      "pubDate": "2026-11-03T22:23:25Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740698_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Tom Brady Says Caleb Williams Is ‘Perfect’ Quarterback For Ben Johnson’s Offense",
+      "link": "https://www.foxsports.com/stories/nfl/tom-brady-says-caleb-williams-perfect-quarterback-ben-johnsons-offense",
+      "description": "Caleb Williams is perfect for the Ben Johnson's offense, according to FOX Sports' Tom Brady, and it showed on Monday.",
+      "pubDate": "2026-11-03T22:17:02+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/caleb-perfect-fit-1.jpg"
+    },
     {
       "title": "Josh Allen-produced short doc on Buffalo storm gets release date, trailer",
       "link": "https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen",
@@ -10,20 +362,28 @@
       "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740741_608x342_16-9.jpg"
     },
     {
+      "title": "Eagles waive player they traded for last year",
+      "link": "https://sports.yahoo.com/articles/eagles-waive-player-traded-last-221324387.html",
+      "description": "Didn’t work out....",
+      "pubDate": "2026-11-03T22:13:24+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Why ESPN will have trouble landing Peyton Manning to replace Troy Aikman on ‘MNF’",
+      "link": "https://sports.yahoo.com/articles/why-espn-trouble-landing-peyton-221030309.html",
+      "description": "ESPN might have to bend their own rules to get their top pick to replace NFL analyst Troy Aikman in the &quot;Monday Night Football&quot; booth....",
+      "pubDate": "2026-11-03T22:10:30+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
       "title": "Yahoo Fantasy Football Expert League Recap: JSN&#39;s quiet second half sinks Winks while Harmon gets right in Week 8",
       "link": "https://sports.yahoo.com/fantasy/article/yahoo-fantasy-football-expert-league-recap-jsns-quiet-second-half-sinks-winks-while-harmon-gets-right-in-week-8-220926732.html",
       "description": "It was a week filled with close matchups in the Yahoo Expert League. Let&#39;s recap all the action from Week 8....",
       "pubDate": "2026-11-03T22:09:26+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
-      "link": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
-      "description": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
-      "pubDate": "2026-11-03T22:03:38Z",
-      "source": "ESPN NFL · Nick Suss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732647_1296x729_16-9.jpg"
     },
     {
       "title": "Falcons place DE Samson Ebukam on IR",
@@ -40,369 +400,97 @@
       "pubDate": "2026-11-03T22:01:00+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "link": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "description": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "pubDate": "2026-11-03T22:00:54Z",
-      "source": "ESPN NFL · ESPN staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1006/r1726988_608x342_16-9.jpg"
-    },
-    {
-      "title": "Bhayshul Tuten remains out of practice for the Jaguars",
-      "link": "https://sports.yahoo.com/articles/bhayshul-tuten-remains-practice-jaguars-220038716.html",
-      "description": "The Jaguars listed a key offensive player as out of practice for the second straight day on Tuesday....",
-      "pubDate": "2026-11-03T22:00:38+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Source: Colts, Adetomiwa Adebawore agree to 2-year, $35M extension",
-      "link": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal",
-      "description": "The Colts and defensive tackle Adetomiwa Adebawore have agreed to terms on a two-year, $35 million extension, a source told NFL Network's Mike Garafolo.",
-      "pubDate": "2026-11-03T21:57:34Z",
-      "source": "ESPN NFL · Stephen Holder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740698_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Commanders roster moves: Washington claims Robert Henry off waivers",
-      "link": "https://sports.yahoo.com/articles/commanders-roster-moves-washington-claims-215545087.html",
-      "description": "The Washington Commanders claimed Robert Henry off waivers from the Seattle Seahawks...",
-      "pubDate": "2026-11-03T21:55:45+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Commanders place Daron Payne, Javon Kinlaw, Jeremy McNichols on IR",
-      "link": "https://sports.yahoo.com/articles/commanders-place-daron-payne-javon-215344681.html",
-      "description": "The Commanders have placed defensive lineman Daron Payne, defensive lineman Javon Kinlaw and running back Jeremy McNichols on injured reserve, the team announced Tuesday....",
-      "pubDate": "2026-11-03T21:53:44+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Week 9 betting odds: Lines and totals for every game",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals",
-      "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 9.",
-      "pubDate": "2026-11-03T21:53:13Z",
-      "source": "ESPN NFL · ESPN",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1102/r1740078_1296x729_16-9.jpg"
-    },
-    {
-      "title": "49ers sign Robert Beal to the practice squad",
-      "link": "https://sports.yahoo.com/articles/49ers-rookie-defensive-tackle-off-191156375.html",
-      "description": "The 49ers worked out Dominic Bailey, who spent the preseason with the Texans, on Tuesday....",
-      "pubDate": "2026-11-03T21:47:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Saints release veteran kicker Daniel Carlson after posting 2nd-worst FG% in NFL",
-      "link": "https://www.espn.com/nfl/story/_/id/50372284/saints-release-veteran-kicker-daniel-carlson-7-games",
-      "description": "Veteran kicker Daniel Carlson, whose 66.7% accuracy on field goals was tied for second-worst in the NFL this season, was released by the Saints on Tuesday.",
-      "pubDate": "2026-11-03T21:47:39Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740295_600x400_3-2.jpg"
-    },
-    {
-      "title": "Detroit Lions create 2 roster spots, place Jimmy Rolder on IR",
-      "link": "https://sports.yahoo.com/articles/detroit-lions-create-2-roster-214521014.html",
-      "description": "The Detroit Lions now have two open roster spots after placing LB Jimmy Rolder on injured reserve....",
-      "pubDate": "2026-11-03T21:45:21+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patriots up-to-date depth chart: Who is on the roster right now?",
-      "link": "https://sports.yahoo.com/articles/patriots-date-depth-chart-roster-202222083.html",
-      "description": "An updated look at the Patriots’ roster in 2026....",
-      "pubDate": "2026-11-03T21:44:27+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants, CB Greg Newsome II agree to 3-year, $46M extension",
-      "link": "https://www.espn.com/nfl/story/_/id/50372281/giants-cb-greg-newsome-ii-agree-3-year-46m-extension",
-      "description": "The Giants have reached agreement with cornerback Greg Newsome II on a three-year, $46 million extension, his agents told ESPN's Adam Schefter.",
-      "pubDate": "2026-11-03T21:44:01Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740719_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Bills release S C.J. Gardner-Johnson, who just served 1-game suspension for spitting at Brock Bowers",
-      "link": "https://sports.yahoo.com/nfl/article/bills-release-s-cj-gardner-johnson-who-just-served-1-game-suspension-for-spitting-at-brock-bowers-214355877.html",
-      "description": "Gardner-Johnson played in 6 games for the Bills this season, recording 26 tackles and 1 interception....",
-      "pubDate": "2026-11-03T21:43:55+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Don't miss Bills vs. Vikings on MNF",
-      "link": "https://www.espn.com/video/clip/_/id/50369981/miss-bills-vs-vikings-mnf",
-      "description": "Don't miss Bills vs. Vikings on MNF",
-      "pubDate": "2026-11-03T21:42:34Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/dm_261103_BILLS_VIKINGS_PROMO739/dm_261103_BILLS_VIKINGS_PROMO739.jpg"
-    },
-    {
-      "title": "C.J. Gardner-Johnson released by Bills",
-      "link": "https://sports.yahoo.com/articles/c-j-gardner-johnson-released-214147758.html",
-      "description": "CJGJ continues to struggle to find stability in the NFL....",
-      "pubDate": "2026-11-03T21:41:47+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Why the Giants are a good defense to pick up in Week 9",
-      "link": "https://www.espn.com/video/clip/_/id/50372105/why-giants-good-defense-pick-week-9",
-      "description": "Why the Giants are a good defense to pick up in Week 9",
-      "pubDate": "2026-11-03T21:40:02Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_163421583_3723976/ss_20261103_163421583_3723976.jpg"
-    },
-    {
-      "title": "Patriots activate offensive tackle Marcus Bryant from injured reserve amid series of moves",
-      "link": "https://sports.yahoo.com/articles/patriots-activate-offensive-tackle-marcus-213928080.html",
-      "description": "New England released veteran cornerback Kindle Vildor from the 53-man roster....",
-      "pubDate": "2026-11-03T21:39:28+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Giants give veteran cornerback 3-year contract extension",
-      "link": "https://sports.yahoo.com/articles/giants-veteran-cornerback-3-contract-213831651.html",
-      "description": "Greg Newsome’s play convinced the Giants to sign him long-term....",
-      "pubDate": "2026-11-03T21:38:31+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tristan H. Cockcroft: Don't sleep on Malik Washington in Week 9",
-      "link": "https://www.espn.com/video/clip/_/id/50371980/sleep-malik-washington-week-9",
-      "description": "Tristan H. Cockcroft: Don't sleep on Malik Washington in Week 9",
-      "pubDate": "2026-11-03T21:37:44Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_162616616_3723968995/ss_20261103_162616616_3723968995.jpg"
-    },
-    {
-      "title": "Why Cockcroft is targeting Granderson, Young in IDP leagues",
-      "link": "https://www.espn.com/video/clip/_/id/50372079/why-cockcroft-targeting-granderson-young-idp-leagues",
-      "description": "Why Cockcroft is targeting Granderson, Young in IDP leagues",
-      "pubDate": "2026-11-03T21:35:04Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_163153444_3723975/ss_20261103_163153444_3723975.jpg"
-    },
-    {
-      "title": "Giants, CB Greg Newsome II agree to three-year contract extension worth $46 million",
-      "link": "https://sports.yahoo.com/articles/giants-cb-greg-newsome-ii-213317304.html",
-      "description": "CB Greg Newsome II has agreed o a three-year contract extension worth $46 million with the Giants, including $32 million guaranteed....",
-      "pubDate": "2026-11-03T21:33:17+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jeffery Simmons’ biggest contribution to Bears might be reactivating Montez Sweat",
-      "link": "https://sports.yahoo.com/articles/jeffery-simmons-biggest-contribution-bears-213000823.html",
-      "description": "Montez Sweat is playing like a new man for the Bears after the Jeffery Simmons trade. @kdthompson5 explores here....",
-      "pubDate": "2026-11-03T21:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bills release safety C.J. Gardner-Johnson",
-      "link": "https://sports.yahoo.com/articles/bills-release-safety-c-j-212929124.html",
-      "description": "The CJGJ experiment is over...",
-      "pubDate": "2026-11-03T21:29:29+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Saints release former All-Pro kicker Daniel Carlson after another missed FG in loss to Steelers",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/saints-release-former-all-pro-k-daniel-carlson-after-another-missed-fg-in-loss-to-steelers-212754560.html",
-      "description": "Carlson is a nine-year NFL veteran who was named All-Pro twice with the Raiders in 2021 and 2022....",
-      "pubDate": "2026-11-03T21:27:54+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cardinals officially place Jeremiyah Love, Kendrick Bourne on IR",
-      "link": "https://sports.yahoo.com/articles/cardinals-officially-place-jeremiyah-love-212650506.html",
-      "description": "The Cardinals made the move of running back Jeremiyah Love to injured reserve official on Tuesday....",
-      "pubDate": "2026-11-03T21:26:50+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Saints release Daniel Carlson, claim Audric Estime off waivers",
-      "link": "https://sports.yahoo.com/articles/saints-release-daniel-carlson-claim-212610960.html",
-      "description": "An offensive player is returning to New Orleans....",
-      "pubDate": "2026-11-03T21:26:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Greg Newsome, Giants agree on three-year extension",
-      "link": "https://sports.yahoo.com/articles/greg-newsome-giants-agree-three-212543024.html",
-      "description": "Cornerback Greg Newsome signed a one-year deal with the Giants as a free agent this offseason, but his stay with the team won&#39;t be done once the 2026 season comes to an end....",
-      "pubDate": "2026-11-03T21:25:43+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Colts reportedly re-sign breakout young defensive tackle to contract extension",
-      "link": "https://sports.yahoo.com/articles/colts-reportedly-sign-breakout-young-212205720.html",
-      "description": "The Colts quickly inked young defensive tackle Ade Adebawore to a 2-year contract extension before he hits free agency....",
-      "pubDate": "2026-11-03T21:22:05+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Adetomiwa Adebawore gets an extension from the Colts",
-      "link": "https://sports.yahoo.com/articles/adetomiwa-adebawore-gets-extension-colts-212146590.html",
-      "description": "Adetomiwa Adebawore gets a new contract after a strong start to the 2026 season....",
-      "pubDate": "2026-11-03T21:21:46+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rookie Joe Fagnano to start Thursday night vs. Jaguars, Jesse Minter says",
-      "link": "https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars",
-      "description": "Ravens rookie quarterback Joe Fagnano will start Thursday night's game against the Jaguars, coach Jesse Minter announced Tuesday.",
-      "pubDate": "2026-11-03T21:20:13Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740681_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Joe Fagnano to put his best foot forward in first NFL start",
-      "link": "https://www.espn.com/video/clip/_/id/50371918/joe-fagnano-put-best-foot-forward-first-nfl-start",
-      "description": "Joe Fagnano to put his best foot forward in first NFL start",
-      "pubDate": "2026-11-03T21:19:53Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_161633159_3723959/ss_20261103_161633159_3723959.jpg"
-    },
-    {
-      "title": "Cardinals RB Jeremiyah Love placed on IR, out 4-5 weeks with high ankle sprain",
-      "link": "https://www.espn.com/nfl/story/_/id/50370763/sources-cards-jeremiyah-love-headed-ir-4-5-weeks",
-      "description": "Cardinals running back Jeremiyah Love was placed on injured reserve because of a high ankle sprain that will sideline the rookie for four to five weeks.",
-      "pubDate": "2026-11-03T21:17:22Z",
-      "source": "ESPN NFL · Josh Weinfuss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1102/r1740255_1296x729_16-9.jpg"
-    },
-    {
-      "title": "CSC Reacts Survey: What should the Saints do at the trade deadline?",
-      "link": "https://sports.yahoo.com/articles/csc-reacts-survey-saints-trade-211449445.html",
-      "description": "Vote in this week’s Saints reacts poll and let us know your thoughts!...",
-      "pubDate": "2026-11-03T21:14:49+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Packers QB Kedon Slovis poached; team shuffles practice squad",
-      "link": "https://sports.yahoo.com/articles/packers-qb-kedon-slovis-poached-211319335.html",
-      "description": "Green Bay has one open roster spot on the practice squad after a poach, a release and three signings...",
-      "pubDate": "2026-11-03T21:13:19+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Rams best trade option at WR is to promote from within",
-      "link": "https://sports.yahoo.com/articles/no-trade-cj-daniels-more-210700454.html",
-      "description": "McVay says the Rams don’t need to trade for a wide receiver because of Daniels...",
-      "pubDate": "2026-11-03T21:07:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Adam Schefter shuts down Garrett Wilson to Steelers trade rumor",
-      "link": "https://sports.yahoo.com/articles/adam-schefter-shuts-down-garrett-210000260.html",
-      "description": "Steelers trade rumor shut down by Adam Schefter....",
-      "pubDate": "2026-11-03T21:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL Week 9 Power Rankings: Cowboys proving no bottom exists",
-      "link": "https://sports.yahoo.com/articles/2026-nfl-week-9-power-210000091.html",
-      "description": "Most people agree that the Cowboys are a bad football team...",
-      "pubDate": "2026-11-03T21:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Fantasy Football Film Room: Buy low on the forgotten Bear; Justin Jefferson is now a boom-or-bust WR2",
-      "link": "https://sports.yahoo.com/fantasy/article/fantasy-football-film-room-buy-low-on-the-forgotten-bear-justin-jefferson-is-now-a-boom-or-bust-wr2-205722828.html",
-      "description": "Hayden Winks goes to the film to break down five situations, giving fantasy managers a better idea of what&#39;s happening and why....",
-      "pubDate": "2026-11-03T20:57:22+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "With Lamar Jackson on IR, Ravens name undrafted rookie Joe Fagnano starting QB vs. Jaguars",
-      "link": "https://sports.yahoo.com/nfl/article/with-lamar-jackson-on-ir-ravens-name-undrafted-rookie-joe-fagnano-starting-qb-vs-jaguars-211229467.html",
-      "description": "This will be Joe Fagnano&#39;s first career start....",
-      "pubDate": "2026-11-03T20:47:38+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Joe Fagnano will be the Ravens QB on Thursday night",
-      "link": "https://sports.yahoo.com/articles/joe-fagnano-ravens-qb-thursday-204441557.html",
-      "description": "Lamar Jackson and Tyler Huntley are both injured, so the rookie is the next man up....",
-      "pubDate": "2026-11-03T20:44:41+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers Week 8 grades in win over Browns",
-      "link": "https://sports.yahoo.com/articles/steelers-week-8-grades-win-203825421.html",
-      "description": "Steelers grades in win over Browns....",
-      "pubDate": "2026-11-03T20:38:25+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Strength of schedule (SOS) cheat sheet: Every team's year-to-date and rest-of-season ratings",
-      "link": "https://www.espn.com/fantasy/football/story/_/id/50117108/fantasy-football-2026-strength-schedule-rest-season",
-      "description": "Ranking each team's remaining schedule and how it might impact every position's fantasy performance.",
-      "pubDate": "2026-11-03T20:35:46Z",
-      "source": "ESPN NFL · Mike Clay",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1006/r1726834_576x324_16-9.jpg"
-    },
-    {
-      "title": "The Best Team in the NFL is the Chicago Bears",
-      "link": "https://sports.yahoo.com/articles/best-team-nfl-chicago-bears-203000109.html",
-      "description": "The Chicago Bears beat the Seattle Seahawks and made a statement to the rest of the NFL: the best team in the league resides in Chicago....",
-      "pubDate": "2026-11-03T20:30:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sione Vaki emerges as Lions&#39; change-of-pace back to pair with Jahmyr Gibbs",
-      "link": "https://sports.yahoo.com/articles/sione-vaki-emerges-lions-change-202407973.html",
-      "description": "Even though the Lions have only played seven games and most teams have played eight, Lions running back Jahmyr Gibbs is leading the NFL with 191 touches — a huge workload that rais...",
-      "pubDate": "2026-11-03T20:24:07+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Sam Darnold’s cratering play is a big picture problem for the Seahawks",
-      "link": "https://sports.yahoo.com/articles/sam-darnold-cratering-play-big-202036989.html",
-      "description": "The Seahawks have won a Super Bowl with Sam Darnold, but this version of Darnold may slam Seattle’s window to contend shut....",
-      "pubDate": "2026-11-03T20:20:36+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "NFL Week 9 Injury Report: Jeremiyah Love hits IR, Lamar Jackson likely done for season, and more",
-      "link": "https://sports.yahoo.com/articles/nfl-week-9-injury-report-201510607.html",
-      "description": "Track the injuries to know around the NFL, all in one place....",
-      "pubDate": "2026-11-03T20:15:10+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Week 10 Anger Index: Welcome to the sequel, Notre Dame",
+      "link": "https://www.espn.com/college-football/story/_/id/50372396/cfp-2026-anger-index-week-10",
+      "description": "Ranking the five teams who should be most upset with the committee's first CFP rankings.",
+      "pubDate": "2026-11-04T02:24:24Z",
+      "source": "ESPN College Football · David Hale",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740787_608x342_16-9.jpg"
+    },
+    {
+      "title": "College Football Playoff Bubble Watch after first ranking",
+      "link": "https://www.espn.com/college-football/story/_/id/50360739/cfp-playoff-2026-bubble-watch-week-9",
+      "description": "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out.",
+      "pubDate": "2026-11-04T02:23:21Z",
+      "source": "ESPN College Football · Heather Dinich",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/Week10_CFP_16x9_1296x729.png"
+    },
+    {
+      "title": "Breaking down the Heisman race: How Week 10 could change everything",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50360375/college-football-heisman-2026-odds-favorites-picks-week-10",
+      "description": "Pamela Maldonado breaks down where things stand on the Heisman odds board with a new favorite taking over.",
+      "pubDate": "2026-11-04T02:23:18Z",
+      "source": "ESPN College Football · Pamela Maldonado",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1102/r1740215_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Ex-NFL QB Russell Wilson interviews with NC State for head coaching job",
+      "link": "https://www.espn.com/college-football/story/_/id/50373951/russell-wilson-interviews-nc-state-head-coaching-job",
+      "description": "Russell Wilson interviewed for the head coaching job at NC State on Tuesday, joining Philip Rivers as prominent candidates, sources told ESPN.",
+      "pubDate": "2026-11-04T02:02:02Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1021/r1563708_600x400_3-2.jpg"
+    },
+    {
+      "title": "Miami, Georgia, Utah, Indiana headline CFP's first rankings release",
+      "link": "https://www.espn.com/college-football/story/_/id/50373576/miami-georgia-utah-indiana-headline-first-cfp-rankings",
+      "description": "The 8-0 Miami Hurricanes, equipped with two Heisman Trophy contenders in quarterback Darian Mensah and wide receiver Malachi Toney, took the No. 1 spot in the College Football Playoff's first rankings release Tuesday night, followed by Georgia at No. 2.",
+      "pubDate": "2026-11-04T02:01:05Z",
+      "source": "ESPN College Football · Mark Schlabach",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740785_600x600_1-1.jpg"
+    },
+    {
+      "title": "Everything's on table for Oklahoma after Venables hands offense to Witten",
+      "link": "https://www.espn.com/college-football/story/_/id/50374329/everything-table-venables-witten-aim-fix-sooners",
+      "description": "Oklahoma coach Brent Venables, who has turned the offense over to interim coordinator Jason Witten, wants the struggling Sooners to score as many points as possible, any way they can, as they prepare for an SEC date against the Florida Gators on Saturday.",
+      "pubDate": "2026-11-04T01:47:01Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1104/r1740823_600x600_1-1.jpg"
+    },
+    {
+      "title": "TCU's Sonny Dykes says boos, calls for him to be fired 'bad part' of job",
+      "link": "https://www.espn.com/college-football/story/_/id/50373888/tcu-sonny-dykes-says-boos-calls-fired-bad-part-job",
+      "description": "TCU coach Sonny Dykes says the boos and calls for him to be fired are the kinds of things happening everywhere in college football.",
+      "pubDate": "2026-11-04T01:17:38Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1029/r1738353_600x400_3-2.jpg"
+    },
+    {
+      "title": "Who's No. 1? CFP committee's first top 25 and bracket of 2026",
+      "link": "https://www.espn.com/college-football/story/_/id/50290390/cfp-2026-first-committee-top-25-bracket",
+      "description": "A look at the new bracket based on the College Football Playoff committee's first set of rankings.",
+      "pubDate": "2026-11-04T00:46:54Z",
+      "source": "ESPN College Football · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/Week10_CFP_16x9_1296x729.png"
+    },
+    {
+      "title": "Unbeaten Utah Hosts BYU In A Holy War That Could Shape The Big 12 Title Race",
+      "link": "https://www.foxsports.com/stories/college-football/the-holy-war-between-no-7-byu-and-no-3-utah-kicks-off-final-stretch-in-big-12-title-chase",
+      "description": "The final month of the college football season in the Big 12 will shake loose a tight race and determine the teams that will play in the championship game.",
+      "pubDate": "2026-11-04T00:45:04+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/gettyimages-2302398771-1-scaled-e1793752938783.jpg"
+    },
+    {
+      "title": "2026 College Football Playoff Rankings: Miami No. 1, Notre Dame Outside Top 10",
+      "link": "https://www.foxsports.com/stories/college-football/2026-college-football-playoff-rankings",
+      "description": "The first set of College Football Playoff rankings were revealed on Tuesday, with the Miami Hurricanes sitting at No. 1.",
+      "pubDate": "2026-11-04T00:25:00+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/bracket-cfp-16x9-1.jpg"
+    },
+    {
+      "title": "Deion Sanders: Colorado 'not giving up' hope on year after snapping skid",
+      "link": "https://www.espn.com/college-football/story/_/id/50372454/deion-says-colorado-not-giving-hope-year-snapping-skid",
+      "description": "Deion Sanders called Tuesday one of the best practices of the season for Colorado. Breaking a five-game losing streak can boost morale.",
+      "pubDate": "2026-11-03T22:51:36Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1004/r1725620_600x400_3-2.jpg"
+    },
     {
       "title": "Iowa starting center Cael Winter expected to miss game vs. Northwestern",
       "link": "https://www.espn.com/college-football/story/_/id/50371600/iowa-center-cael-winter-expected-miss-northwestern-game",
@@ -524,28 +612,12 @@
       "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/demondh1.jpg"
     },
     {
-      "title": "College Football Playoff Bubble Watch after Week 9",
-      "link": "https://www.espn.com/college-football/story/_/id/50360739/cfp-playoff-2026-bubble-watch-week-9",
-      "description": "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out.",
-      "pubDate": "2026-11-03T15:26:46Z",
-      "source": "ESPN College Football · Heather Dinich",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1101/r1739187_1296x729_16-9.jpg"
-    },
-    {
       "title": "Finebaum: Ohio State has ‘no room for error’ to make CFP",
       "link": "https://www.espn.com/video/clip/_/id/50369131/ohio-state-no-room-error-make-cfp",
       "description": "Finebaum: Ohio State has ‘no room for error’ to make CFP",
       "pubDate": "2026-11-03T15:14:39Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1103/ss_20261103_100634486_3723712610/ss_20261103_100634486_3723712610.jpg"
-    },
-    {
-      "title": "Breaking down the Heisman race: How Week 10 could change everything",
-      "link": "https://www.espn.com/espn/betting/story/_/id/50360375/college-football-heisman-2026-odds-favorites-picks-week-10",
-      "description": "Pamela Maldonado breaks down where things stand on the Heisman odds board with a new favorite taking over.",
-      "pubDate": "2026-11-03T15:03:48Z",
-      "source": "ESPN College Football · Pamela Maldonado",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1102/r1740215_1296x729_16-9.jpg"
     },
     {
       "title": "Why there's so much on the line for Notre Dame vs. Miami",
@@ -730,81 +802,121 @@
       "pubDate": "2026-11-02T22:14:12Z",
       "source": "ESPN College Football · Max Olson",
       "thumbnail": "https://a.espncdn.com/photo/2025/0811/r1530474_600x400_3-2.jpg"
-    },
-    {
-      "title": "Oklahoma fires OC Ben Arbuckle, tabs Jason Witten as play caller",
-      "link": "https://www.espn.com/college-football/story/_/id/50359646/oklahoma-fires-second-year-oc-ben-arbuckle-jason-witten-call-plays",
-      "description": "Oklahoma has fired offensive coordinator Ben Arbuckle after less than two seasons, the school announced on Monday.",
-      "pubDate": "2026-11-02T22:07:35Z",
-      "source": "ESPN College Football · Alex Scarborough",
-      "thumbnail": "https://a.espncdn.com/photo/2025/0606/r1503409_600x400_3-2.jpg"
-    },
-    {
-      "title": "Who Will Replace FSU's Mike Norvell? 5 Coaching Candidates To Watch",
-      "link": "https://www.foxsports.com/stories/college-football/who-will-replace-fsus-mike-norvell-5-coaching-candidates-watch",
-      "description": "After Florida State fired Mike Norvell, who could take his place as head coach? Here are five coaching candidates to watch.",
-      "pubDate": "2026-11-02T20:44:46+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/nfl-16x9-2.jpg"
-    },
-    {
-      "title": "Kiffin 'sad' annual LSU-Alabama game to take hiatus in 2027",
-      "link": "https://www.espn.com/college-football/story/_/id/50360298/kiffin-sad-annual-lsu-alabama-game-take-hiatus-2027",
-      "description": "LSU coach Lane Kiffin on Monday lamented the end of his program's rivalry game vs. Alabama being played annually.",
-      "pubDate": "2026-11-02T20:28:50Z",
-      "source": "ESPN College Football · Alex Scarborough",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0906/r1712168_600x400_3-2.jpg"
-    },
-    {
-      "title": "Lane Kiffin calls the hiatus of LSU-Alabama game 'sad'",
-      "link": "https://www.espn.com/video/clip/_/id/50360523/lane-kiffin-calls-hiatus-lsu-alabama-game-sad",
-      "description": "Lane Kiffin calls the hiatus of LSU-Alabama game 'sad'",
-      "pubDate": "2026-11-02T20:10:04Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/ss_20261102_150515086_3722204/ss_20261102_150515086_3722204.jpg"
-    },
-    {
-      "title": "No. 4 Notre Dame Rules Out Leading Tackler For Showdown Against No. 1 Miami",
-      "link": "https://www.foxsports.com/stories/college-football/notre-dame-fighting-irish-miami-hurricanes-drayk-bowen-injury",
-      "description": "An injured right ankle will keep Notre Dame starting linebacker Drayk Bowen out of Saturday’s big showdown between the fourth-ranked Fighting Irish and No. 1 Miami",
-      "pubDate": "2026-11-02T19:24:23+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/irishh1.jpg"
-    },
-    {
-      "title": "What is selection committee looking for in first CFP rankings?",
-      "link": "https://www.espn.com/video/clip/_/id/50360025/what-selection-committee-looking-first-cfp-rankings",
-      "description": "Ahead of the first CFP rankings on Tuesday, Nov. 3 at 7 p.m. ET, ESPN's Heather Dinich breaks down what the selection committee will prioritize and what it could mean for SEC teams.",
-      "pubDate": "2026-11-02T19:10:08Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1102/dm_261102_SEC_NCF_Analysis_Heather_Dinich_SECTM_261102/dm_261102_SEC_NCF_Analysis_Heather_Dinich_SECTM_261102.jpg"
-    },
-    {
-      "title": "No. 4 Notre Dame rules out LB Drayk Bowen (ankle) vs. No. 1 Miami",
-      "link": "https://www.espn.com/college-football/story/_/id/50359851/no-4-notre-dame-rules-lb-drayk-bowen-vs-no-1-miami",
-      "description": "Notre Dame captain and starting linebacker Drayk Bowen will miss Saturday's big showdown against top-ranked Miami with a right ankle injury.",
-      "pubDate": "2026-11-02T19:00:04Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1102/r1740135_600x400_3-2.jpg"
-    },
-    {
-      "title": "FSU interim Rick Stockstill says Seminoles program is close",
-      "link": "https://www.espn.com/college-football/story/_/id/50359717/fsu-interim-rick-stockstill-says-seminoles-program-close",
-      "description": "Florida State interim coach Rick Stockstill, who played for the school under Bobby Bowden, says that while the Seminoles program has \"got some dents,\" it's \"not broke.\"",
-      "pubDate": "2026-11-02T18:41:13Z",
-      "source": "ESPN College Football · Andrea Adelson",
-      "thumbnail": "https://a.espncdn.com/photo/2016/0502/r79366_1296x729_16-9.jpg"
-    },
-    {
-      "title": "Michigan names Carr starting QB for 'foreseeable future'",
-      "link": "https://www.espn.com/college-football/story/_/id/50358755/michigan-names-carr-starting-qb-foreseeable-future",
-      "description": "Michigan quarterback Tommy Carr has been named the team's starter for the \"foreseeable future,\" coach Kyle Whittingham said Monday.",
-      "pubDate": "2026-11-02T18:37:28Z",
-      "source": "ESPN College Football · Adam Rittenberg",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1024/r1735475_600x400_3-2.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "Josh Jacobs needs to display more (or any) contrition",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-jacobs-needs-to-display-more-or-any-contrition",
+      "description": "In May 2026, Packers running back Josh Jacobs crossed a line that should never be crossed....",
+      "pubDate": "2026-11-04T02:19:41+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ex-NFL QB Russell Wilson interviews with NC State for head coaching job",
+      "link": "https://www.espn.com/college-football/story/_/id/50373951/russell-wilson-interviews-nc-state-head-coaching-job",
+      "description": "Russell Wilson interviewed for the head coaching job at NC State on Tuesday, joining Philip Rivers as prominent candidates, sources told ESPN.",
+      "pubDate": "2026-11-04T02:02:02Z",
+      "source": "ESPN NFL",
+      "thumbnail": "https://a.espncdn.com/photo/2025/1021/r1563708_600x400_3-2.jpg"
+    },
+    {
+      "title": "Bills reverse course on \"high-maintenance\" C.J. Gardner-Johnson",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-reverse-course-on-high-maintenance-c-j-gardner-johnson",
+      "description": "The Bills said they'd be keeping safety C.J....",
+      "pubDate": "2026-11-04T01:40:06+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Report: Russell Wilson interviews for NC State head-coaching job",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-russell-wilson-interviews-for-nc-state-head-coaching-job",
+      "description": "\"Let Russ coach.\"...",
+      "pubDate": "2026-11-04T00:55:40+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Iowa coach Kirk Ferentz expresses support for former Hawkeyes LB Jack Campbell",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/iowa-coach-kirk-ferentz-expresses-support-for-former-hawkeyes-lb-jack-campbell",
+      "description": "Anyone who follows football and who cares about the men who play the game remains deeply concerned about the health and well-being of Lions linebacker Jack Campbell, who remains ho...",
+      "pubDate": "2026-11-04T00:31:22+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Chiefs-Broncos racks up 28.175 million for CBS",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-broncos-racks-up-28-175-million-for-cbs",
+      "description": "To no surprise, the top late-afternoon game from Week 8 of the 2026 NFL season generated very big numbers....",
+      "pubDate": "2026-11-04T00:13:45+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets sign OL Blake Freeland off Bengals' practice squad",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jets-sign-ol-blake-freeland-off-bengals-practice-squad",
+      "description": "The Jets signed offensive tackle Blake Freeland off the Bengals' practice squad, the team announced Tuesday....",
+      "pubDate": "2026-11-03T23:11:41+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lions put LB Jimmy Rolder on IR, waive DB Bishop Fitzgerald",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lions-put-lb-jimmy-rolder-on-ir-waive-db-bishop-fitzgerald",
+      "description": "The Lions announced that linebacker Jimmy Rolder suffered a season-ending hamstring injury during Sunday's win over the Vikings and they moved him to the injured reserve list....",
+      "pubDate": "2026-11-03T23:04:32+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Eagles waive CB Jakorian Bennett off of injured reserve",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-waive-cb-jakorian-bennett-off-of-injured-reserve",
+      "description": "Cornerback Jakorian Bennett returned to practice a few weeks ago, but he won't be returning to the Eagles lineup....",
+      "pubDate": "2026-11-03T22:57:48+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Saints release veteran kicker Daniel Carlson after he posted 2nd-worst FG% in NFL",
+      "link": "https://www.espn.com/nfl/story/_/id/50372284/saints-release-veteran-kicker-daniel-carlson-7-games",
+      "description": "Veteran kicker Daniel Carlson, whose 66.7% accuracy on field goals was tied for second worst in the NFL this season, was released by the Saints on Tuesday.",
+      "pubDate": "2026-11-03T22:52:56Z",
+      "source": "ESPN NFL · Katherine Terrell",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740295_600x400_3-2.jpg"
+    },
+    {
+      "title": "Bo Nix has 15 game-winning drives, most ever for a QB in his first three seasons",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bo-nix-has-15-game-winning-drives-most-ever-for-a-qb-in-his-first-three-seasons",
+      "description": "The Broncos trailed the Chiefs 24-13 with 10 minutes left on Sunday, but anyone who thought the Broncos were out of it hasn't been watching Nix....",
+      "pubDate": "2026-11-03T22:46:35+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
+      "link": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
+      "description": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
+      "pubDate": "2026-11-03T22:45:59Z",
+      "source": "ESPN NFL · Nick Suss",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732647_1296x729_16-9.jpg"
+    },
+    {
+      "title": "Ravens QB Joe Fagnano has full participation in Tuesday's practice",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-qb-joe-fagnano-has-full-participation-in-tuesdays-practice",
+      "description": "Lamar Jackson (right thumb) and Tyler Huntley (toe) are expected to land on injured reserve this week....",
+      "pubDate": "2026-11-03T22:24:10+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Source: Colts, Adetomiwa Adebawore agree to 2-year, $35M extension",
+      "link": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal",
+      "description": "The Colts and defensive tackle Adetomiwa Adebawore have agreed to terms on a two-year, $35 million extension, a source told NFL Network's Mike Garafolo.",
+      "pubDate": "2026-11-03T22:23:25Z",
+      "source": "ESPN NFL · Stephen Holder",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740698_1296x729_16-9.jpg"
+    },
     {
       "title": "Josh Allen-produced short doc on Buffalo storm gets release date, trailer",
       "link": "https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen",
@@ -820,14 +932,6 @@
       "pubDate": "2026-11-03T22:03:58+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
-      "link": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
-      "description": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
-      "pubDate": "2026-11-03T22:03:38Z",
-      "source": "ESPN NFL · Nick Suss",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1018/r1732647_1296x729_16-9.jpg"
     },
     {
       "title": "Falcons place DE Samson Ebukam on IR",
@@ -846,28 +950,12 @@
       "thumbnail": ""
     },
     {
-      "title": "Source: Colts, Adetomiwa Adebawore agree to 2-year, $35M extension",
-      "link": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal",
-      "description": "The Colts and defensive tackle Adetomiwa Adebawore have agreed to terms on a two-year, $35 million extension, a source told NFL Network's Mike Garafolo.",
-      "pubDate": "2026-11-03T21:57:34Z",
-      "source": "ESPN NFL · Stephen Holder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740698_1296x729_16-9.jpg"
-    },
-    {
       "title": "Commanders place Daron Payne, Javon Kinlaw, Jeremy McNichols on IR",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-place-daron-payne-javon-kinlaw-jeremy-mcnichols-on-ir",
       "description": "The Commanders have placed defensive lineman Daron Payne, defensive lineman Javon Kinlaw and running back Jeremy McNichols on injured reserve, the team announced Tuesday....",
       "pubDate": "2026-11-03T21:53:44+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
-    },
-    {
-      "title": "Saints release veteran kicker Daniel Carlson after posting 2nd-worst FG% in NFL",
-      "link": "https://www.espn.com/nfl/story/_/id/50372284/saints-release-veteran-kicker-daniel-carlson-7-games",
-      "description": "Veteran kicker Daniel Carlson, whose 66.7% accuracy on field goals was tied for second-worst in the NFL this season, was released by the Saints on Tuesday.",
-      "pubDate": "2026-11-03T21:47:39Z",
-      "source": "ESPN NFL · Katherine Terrell",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1103/r1740295_600x400_3-2.jpg"
     },
     {
       "title": "Bills release S C.J. Gardner-Johnson after one-game suspension",
@@ -998,46 +1086,6 @@
       "thumbnail": ""
     },
     {
-      "title": "The Christmas Day schedule is shaping up to be massive",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-christmas-day-schedule-is-shaping-up-to-be-massive",
-      "description": "When the schedule is released every May, plenty of standalone games that look good at the time morph into something not quite as appetizing as the season unfolds....",
-      "pubDate": "2026-11-03T17:52:10+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Andy Reid: Chris Jones is giving his all, doing everything he can do",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-chris-jones-is-giving-his-all-doing-everything-he-can-do",
-      "description": "The Chiefs have lost their last two games....",
-      "pubDate": "2026-11-03T17:51:17+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Mike LaFleur: I know Carson Beck is prepared to go in if need be",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-lafleur-i-know-carson-beck-is-prepared-to-go-in-if-need-be",
-      "description": "Cardinals rookie quarterback Carson Beck has earned a promotion....",
-      "pubDate": "2026-11-03T16:48:11+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dan Campbell credits Mike Kafka for big play to Amon-Ra St. Brown",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-credits-mike-kafka-for-big-play-to-amon-ra-st-brown",
-      "description": "The Lions ran what may have been the most inventive play of the week in the NFL when wide receiver Amon-Ra St....",
-      "pubDate": "2026-11-03T16:47:00+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Dan Campbell: Jack Campbell is \"improving\"",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-jack-campbell-is-improving",
-      "description": "Lions coach provides update on Jack Campbell's health following neck injury....",
-      "pubDate": "2026-11-03T16:30:52+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
       "title": "Jerry Jones wants to see more targets for George Pickens",
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jerry-jones-wants-to-see-more-targets-for-george-pickens",
       "description": "The 3-5 Cowboys have plenty of problems....",
@@ -1052,46 +1100,6 @@
       "pubDate": "2026-11-03T15:23:09Z",
       "source": "ESPN NFL · ESPN staff",
       "thumbnail": "https://a.espncdn.com/photo/2025/1215/r1589666_608x342_16-9.jpg"
-    },
-    {
-      "title": "PFT's Week 9 2026 NFL power rankings",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-9-2026-nfl-power-rankings",
-      "description": "The Bills strengthen their grip on the top spot....",
-      "pubDate": "2026-11-03T14:07:35+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Bears answer Seahawks, up lead to 27-17",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-answer-seahawks-up-lead-to-27-17",
-      "description": "The Bears have had an answer for the Seahawks all night....",
-      "pubDate": "2026-11-03T04:01:30+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jacoby Brissett becomes an obvious trade candidate",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jacoby-brissett-becomes-an-obvious-trade-candidate",
-      "description": "By sending eight-game starting quarterback Jacoby Brissett all the way to No. 3 on the depth chart, the Cardinals have sent a clear message to the rest of the league, eight days fr...",
-      "pubDate": "2026-11-03T03:51:09+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "John Harbaugh admits calling Amy Adams Strunk about Jeffery Simmons trade",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaugh-admits-calling-amy-adams-strunk-about-jeffery-simmons-trade",
-      "description": "Giants coach John Harbaugh apparently ruffled some feathers in Nashville by making a phone call to Titans owner Amy Adams Strunk in an effort to spark trade discussions for defensi...",
-      "pubDate": "2026-11-02T23:06:32+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Matt LaFleur: I anticipate Josh Jacobs being part of the team moving forward",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-lafleur-i-anticipate-josh-jacobs-being-part-of-the-team-moving-forward",
-      "description": "More allegations of domestic violence against Packers running back Josh Jacobs surfaced late last week and head coach Matt LaFleur addressed them at the start of his press conferen...",
-      "pubDate": "2026-11-02T19:57:07+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
     }
   ]
 }
