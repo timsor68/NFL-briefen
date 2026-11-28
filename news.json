@@ -1,13 +1,189 @@
 {
-  "generatedAt": "2026-11-28T02:47:03.219326+00:00",
+  "generatedAt": "2026-11-28T11:15:16.159263+00:00",
   "nfl": [
+    {
+      "title": "3-Point Stance: It’s time for Mike Vrabel’s culture to deliver",
+      "link": "https://sports.yahoo.com/nfl/articles/3-point-stance-time-mike-110059915.html",
+      "description": "New England’s 2025 fundamentals have faltered...",
+      "pubDate": "2026-11-28T11:00:59+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Five unsung heroes of the Bears' 6-game win streak",
+      "link": "https://www.espn.com/nfl/story/_/id/50616158/bears-win-streak-tj-edwards-dillon-thieneman",
+      "description": "The Bears' stars get the headlines, but these five players have been just as important for the NFC North leaders.",
+      "pubDate": "2026-11-28T11:00:11Z",
+      "source": "ESPN NFL · Courtney Cronin",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1127/r1752270_1296x729_16-9.jpg"
+    },
+    {
+      "title": "How has Fernando Mendoza played in his first two starts?",
+      "link": "https://www.espn.com/nfl/story/_/id/50596874/las-vegas-raiders-quarterback-fernando-mendoza-first-two-starts",
+      "description": "We took a look at what Raiders' Fernando Mendoza did well -- and not so well -- in his first two starts.",
+      "pubDate": "2026-11-28T11:00:10Z",
+      "source": "ESPN NFL · Ryan McFadden",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1125/r1751326_608x342_16-9.jpg"
+    },
+    {
+      "title": "A must-listen: KC Concepcion's powerful message on stuttering",
+      "link": "https://www.espn.com/nfl/story/_/id/50608001/cleveland-browns-kc-concepcion-message-stuttering",
+      "description": "There's more to the story for this Browns rookie receiver: \"Me being able to inspire people all over the world, it just means everything.\"",
+      "pubDate": "2026-11-28T11:00:04Z",
+      "source": "ESPN NFL · Daniel Oyefusi",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1128/r1752323_608x342_16-9.jpg"
+    },
+    {
+      "title": "'Give him the ball': Falcons focus on feeding Bijan Robinson",
+      "link": "https://www.espn.com/nfl/story/_/id/50614599/falcons-focus-bijan-robinson",
+      "description": "The Falcons know how getting away from feeding Bijan reflects in the win-loss column, and they vow changes.",
+      "pubDate": "2026-11-28T11:00:01Z",
+      "source": "ESPN NFL · Marc Raimondi",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1015/r1731346_2_608x342_16-9.jpg"
+    },
+    {
+      "title": "Giants news: J.J. McCarthy’s deep ball issues, playoff picture, more",
+      "link": "https://sports.yahoo.com/nfl/articles/giants-news-j-j-mccarthy-110000734.html",
+      "description": "New York Giants headlines for Saturday....",
+      "pubDate": "2026-11-28T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "5 takeaways from the Steelers’ 27-5 win over the Denver Broncos",
+      "link": "https://sports.yahoo.com/nfl/articles/5-takeaways-steelers-27-5-110000846.html",
+      "description": "Takeaways, overreactions and analysis from the Steelers’ Week 12 win....",
+      "pubDate": "2026-11-28T11:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Golden Nuggets: Immaculate time to not trade your back up QB",
+      "link": "https://sports.yahoo.com/nfl/articles/golden-nuggets-immaculate-time-not-100000968.html",
+      "description": "Your daily San Francisco 49ers news for Saturday, November 28th, 2026...",
+      "pubDate": "2026-11-28T10:00:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rams guard Bill Murray out for season after torn Achilles in first career start",
+      "link": "https://sports.yahoo.com/nfl/articles/rams-guard-bill-murray-season-084133862.html",
+      "description": "A former undrafted rookie defensive lineman, Murray worked for years to reach the point where he could start on the offensive line....",
+      "pubDate": "2026-11-28T08:41:33+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL predictions: Jets look for first AFC East victory under Aaron Glenn against tanking Dolphins",
+      "link": "https://sports.yahoo.com/betting/articles/nfl-predictions-jets-look-first-064531770.html",
+      "description": "The Jets look for payback against the Dolphins on Sunday...",
+      "pubDate": "2026-11-28T06:45:31+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "The telling Jaxon-Smith Njigba stat that makes 49ers-Seahawks showdown even more interesting",
+      "link": "https://sports.yahoo.com/nfl/articles/telling-jaxon-smith-njigba-stat-064121814.html",
+      "description": "The 49ers&#39; chances of beating the Seahawks Sunday don&#39;t bode well because of a key statistic....",
+      "pubDate": "2026-11-28T06:41:21+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Malik Nabers a top Giants receiver without knowing ‘what’s a catch nowadays’",
+      "link": "https://sports.yahoo.com/nfl/articles/malik-nabers-top-giants-receiver-055103197.html",
+      "description": "Malik Nabers knows he makes a lot of big receptions for the Giants, but he is just as confused as every NFL fan once replay review gets involved....",
+      "pubDate": "2026-11-28T05:51:03+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rams sign tight end away NFC West rival’s practice squad",
+      "link": "https://sports.yahoo.com/nfl/articles/rams-sign-tight-end-away-054500672.html",
+      "description": "With injuries affecting the tight end room, the Rams poach from 49ers practice squad...",
+      "pubDate": "2026-11-28T05:45:00+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jets getting much-needed defensive reinforcement with David Onyemata’s return",
+      "link": "https://sports.yahoo.com/nfl/articles/jets-getting-much-needed-defensive-052048067.html",
+      "description": "Jets defensive tackle David Onyemata will return Sunday against Miami after missing nearly 10 weeks following core-muscle surgery....",
+      "pubDate": "2026-11-28T05:20:48+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sam Darnold 'ready to roll' vs. 49ers as Seahawks fight to stay in NFC West race",
+      "link": "https://www.espn.com/nfl/story/_/id/50616624/seahawks-sam-darnold-return-vs-49ers-2-game-absence",
+      "description": "Seahawks QB Sam Darnold, who missed the past two games with a quad injury, will return to start against the Niners in a pivotal NFC West showdown.",
+      "pubDate": "2026-11-28T05:08:22Z",
+      "source": "ESPN NFL · Brady Henderson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1016/r1731410_600x400_3-2.jpg"
+    },
+    {
+      "title": "Mike McCarthy admits he hasn&#39;t spent enough time with the defense",
+      "link": "https://sports.yahoo.com/nfl/articles/mike-mccarthy-admits-hasnt-spent-044615309.html",
+      "description": "McCarthy vows to take a closer look at the situation in the offseason....",
+      "pubDate": "2026-11-28T04:46:15+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Singled out in NFL officiating video, Bears' Simmons draws false-start ire from Lions",
+      "link": "https://www.espn.com/nfl/story/_/id/50618212/singled-nfl-officiating-video-bears-simmons-draws-false-start-ire-lions",
+      "description": "Bears DT Jeffery Simmons was the subject of controversy during Chicago's win at Detroit on Thanksgiving Day.",
+      "pubDate": "2026-11-28T04:38:06Z",
+      "source": "ESPN NFL · Kalyn Kahler",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1128/r1752336_600x400_3-2.jpg"
+    },
     {
       "title": "Bo Nix, after one of his worst games for Broncos, says 'I let the team down'",
       "link": "https://www.espn.com/nfl/story/_/id/50617060/qb-bo-nix-says-let-team-broncos-routed-steelers",
       "description": "After one of the most difficult starts of his NFL career, Broncos quarterback Bo Nix said \"I let the team down'' in a 27-5 loss to the Steelers on Friday.",
-      "pubDate": "2026-11-28T02:28:59Z",
+      "pubDate": "2026-11-28T04:27:42Z",
       "source": "ESPN NFL · Jeff Legwold",
       "thumbnail": "https://a.espncdn.com/photo/2026/1128/r1752299_600x400_3-2.jpg"
+    },
+    {
+      "title": "Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos",
+      "link": "https://www.espn.com/nfl/story/_/id/50618077/steelers-fueled-jabs-aaron-rodgers-drama-rout-broncos",
+      "description": "Turned into a national punchline following Aaron Rodgers' release, the Steelers played with a sense of \"urgency\" and \"anger\" Friday night in a 27-5 win over Denver.",
+      "pubDate": "2026-11-28T04:19:37Z",
+      "source": "ESPN NFL · Brooke Pryor",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1127/r1752193_1296x1296_1-1.jpg"
+    },
+    {
+      "title": "No. 3 Texas at Texas A&M final score: Longhorns defense holds late in 16-6 win",
+      "link": "https://sports.yahoo.com/college-football/articles/no-7-texas-texas-m-011805122.html",
+      "description": "Will Muschamp’s defense forced two turnovers on downs in the fourth quarter....",
+      "pubDate": "2026-11-28T04:01:37+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "NFL Week 12 betting odds: Lines and totals for every game",
+      "link": "https://www.espn.com/espn/betting/story/_/id/50570870/2026-nfl-week-12-schedule-odds-point-spreads-totals",
+      "description": "Odds, spreads, totals and FPI predictions for every NFL game in Week 12.",
+      "pubDate": "2026-11-28T03:51:36Z",
+      "source": "ESPN NFL · ESPN",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1123/r1750061_608x342_16-9.jpg"
+    },
+    {
+      "title": "5 quick hitters with Silver and Black Pride: Browns’ offense can take advantage of Raiders’ interior",
+      "link": "https://sports.yahoo.com/nfl/articles/5-quick-hitters-silver-black-034138925.html",
+      "description": "We ask about the Raiders’ weakness on defense, how rookie QB Fernando Mendoza has been, and more....",
+      "pubDate": "2026-11-28T03:41:38+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
+    },
+    {
+      "title": "Raiders vs. Browns Week 12 picks: Cleveland’s chances still being viewed as a toss-up",
+      "link": "https://sports.yahoo.com/nfl/articles/raiders-vs-browns-week-12-023505046.html",
+      "description": "The Browns are favored on Sunday Night Football, but some are picking the Raiders to squeak out a road victory....",
+      "pubDate": "2026-11-28T02:35:05+00:00",
+      "source": "Yahoo NFL",
+      "thumbnail": ""
     },
     {
       "title": "Fantasy football Week 12 inactives: Who's in and who's out?",
@@ -50,28 +226,12 @@
       "thumbnail": ""
     },
     {
-      "title": "NFL Week 12 preview: Picks, predictions, schedule, betting odds, fantasy tips",
-      "link": "https://www.espn.com/nfl/story/_/id/50587851/week-12-picks-predictions-schedule-fantasy-odds-2026",
-      "description": "Seahawks vs. 49ers? Kirk Cousins against Atlanta? There are 12 more games in Week 12, and we have picks, predictions and more for all of them.",
-      "pubDate": "2026-11-28T01:43:38Z",
-      "source": "ESPN NFL · NFL Nation, Pamela Maldonado, Eric Moody and Seth Walder",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1125/r1751058_608x342_16-9.jpg"
-    },
-    {
       "title": "49ers rule QB Brock Purdy (ankle) out; Mac Jones to start vs. Seahawks",
       "link": "https://www.espn.com/nfl/story/_/id/50615653/49ers-rule-qb-purdy-ankle-start-jones-vs-seahawks",
       "description": "49ers quarterback Brock Purdy (ankle) will not play Sunday against the Seahawks, according to coach Kyle Shanahan, paving the way for Mac Jones to start.",
       "pubDate": "2026-11-28T01:40:50Z",
       "source": "ESPN NFL · Nick Wagoner",
       "thumbnail": "https://a.espncdn.com/photo/2025/0913/r1545067_600x400_3-2.jpg"
-    },
-    {
-      "title": "Sam Darnold 'ready to roll' vs. 49ers as Seahawks fight to stay in NFC West race",
-      "link": "https://www.espn.com/nfl/story/_/id/50616624/seahawks-sam-darnold-return-vs-49ers-2-game-absence",
-      "description": "Seahawks QB Sam Darnold, who missed the past two games with a quad injury, will return to start against the Niners in a pivotal NFC West showdown.",
-      "pubDate": "2026-11-28T01:37:28Z",
-      "source": "ESPN NFL · Brady Henderson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1016/r1731410_600x400_3-2.jpg"
     },
     {
       "title": "Steelers credit T.J. Watt, Cam Heyward for leadership amidst adverse week",
@@ -240,169 +400,169 @@
       "pubDate": "2026-11-27T23:39:21+00:00",
       "source": "Yahoo NFL",
       "thumbnail": ""
-    },
-    {
-      "title": "AFC playoff standings after 5 Thanksgiving Week 12 games: Browns fall for now",
-      "link": "https://sports.yahoo.com/nfl/articles/afc-playoff-standings-5-thanksgiving-233909417.html",
-      "description": "The AFC playoff standings have already seen a change in Week 12, with the Cleveland Browns sliding down a spot for now...",
-      "pubDate": "2026-11-27T23:39:09+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "DJ Uiagalelei trying to not overthink first NFL start",
-      "link": "https://www.espn.com/video/clip/_/id/50615753/dj-uiagalelei-trying-not-overthink-first-nfl-start",
-      "description": "DJ Uiagalelei trying to not overthink first NFL start",
-      "pubDate": "2026-11-27T23:34:51Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1127/a380a9a5-b60b-4ad1-bbb7-2df5fb8208b8/a380a9a5-b60b-4ad1-bbb7-2df5fb8208b8.jpg"
-    },
-    {
-      "title": "Indianapolis Colts Injury Report: Week 12 Who’s In and Who’s Out",
-      "link": "https://sports.yahoo.com/nfl/articles/indianapolis-colts-injury-report-week-233300753.html",
-      "description": "Who’s in and who’s out...",
-      "pubDate": "2026-11-27T23:33:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Raiders TE Brock Bowers (ankle) doesn't practice Friday, questionable vs. Browns",
-      "link": "https://www.espn.com/nfl/story/_/id/50615482/raiders-brock-bowers-questionable-snf-vs-browns-ankle-injury",
-      "description": "Raiders tight end Brock Bowers is questionable for Sunday night's game at Cleveland because of an ankle injury he suffered in Week 10. Las Vegas will also be missing two of its starting defensive tackles and a backup.",
-      "pubDate": "2026-11-27T23:27:19Z",
-      "source": "ESPN NFL · Ryan McFadden",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1127/r1752247_600x400_3-2.jpg"
-    },
-    {
-      "title": "Three turnovers for Bo Nix in Week 12",
-      "link": "https://sports.yahoo.com/nfl/articles/three-turnovers-bo-nix-week-232537115.html",
-      "description": "Broncos QB Bo Nix threw two interceptions and lost a fumble in the Week 12 game against Pittsburgh...",
-      "pubDate": "2026-11-27T23:25:37+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "2026 NFL Odds Week 12: Lines, Spreads, Results For All 16 Games",
-      "link": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-12-lines-spreads-results-all-16-games",
-      "description": "Check out the lines for every NFL Week 12 game, including a tantalizing Thanksgiving Day slate.",
-      "pubDate": "2026-11-27T23:22:22+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/01848b57-artboard-1.jpg"
-    },
-    {
-      "title": "Brock Purdy receives major injury update ahead of 49ers-Seahawks game",
-      "link": "https://sports.yahoo.com/nfl/articles/brock-purdy-receives-major-injury-231934520.html",
-      "description": "The 49ers will be without Brock Purdy on Sunday against the Seahawks due to an ankle injury....",
-      "pubDate": "2026-11-27T23:19:34+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Brock Purdy Out, Sam Darnold Back As 49ers And Seahawks Head Into Pivotal Matchup",
-      "link": "https://www.foxsports.com/stories/nfl/injuries-quarterback-impacting-49ers-seahawks-matchup",
-      "description": "Quarterback injuries are impacting Sunday's matchup between the San Francisco 49ers and Seattle Seahawks.",
-      "pubDate": "2026-11-27T23:16:23+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/gettyimages-2305822824.jpg"
-    },
-    {
-      "title": "Here’s where the Steelers sit in the AFC playoff standings after Black Friday",
-      "link": "https://sports.yahoo.com/nfl/articles/where-steelers-sit-afc-playoff-231351741.html",
-      "description": "Where do the Pittsburgh Steelers fit in the AFC playoffs and AFC North divisional standings?...",
-      "pubDate": "2026-11-27T23:13:51+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aaron Rodgers-less Steelers end chaotic week with resounding win over Broncos",
-      "link": "https://sports.yahoo.com/nfl/articles/aaron-rodgers-less-steelers-end-231142242.html",
-      "description": "Less than 24 hours after their former head coach called the Steelers’ present a “dumpster fire,” Mason Rudolph and Mike McCarthy proved they might survive the chaos after all....",
-      "pubDate": "2026-11-27T23:11:42+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Winners and Losers from the Denver Broncos 27-5 loss to the Pittsburgh Steelers",
-      "link": "https://sports.yahoo.com/nfl/articles/winners-losers-denver-broncos-27-230700434.html",
-      "description": "That was ugly. The Broncos were dominated by the Steelers. The offense had its worst overall effort in a long time; Nix had three turnovers, with two of them leading to Steelers to...",
-      "pubDate": "2026-11-27T23:07:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Denver Broncos vs. Pittsburgh Steelers: Game Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/50615648/game-highlights",
-      "description": "Denver Broncos vs. Pittsburgh Steelers: Game Highlights",
-      "pubDate": "2026-11-27T23:06:39Z",
-      "source": "ESPN NFL",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1127/9e2209f2-1d50-469c-a1ac-6a5cf587a5c1/9e2209f2-1d50-469c-a1ac-6a5cf587a5c1.jpg"
-    },
-    {
-      "title": "T.J. Watt, Steelers defense make statement in first game without Aaron Rodgers",
-      "link": "https://sports.yahoo.com/nfl/articles/t-j-watt-steelers-defense-230630754.html",
-      "description": "Pittsburgh&#39;s running game remains a bit of a concern, but the defense scoring a pair of touchdowns helped a lot as the Steelers got back in the win column....",
-      "pubDate": "2026-11-27T23:06:30+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers defense scores two touchdowns in dominant win over Broncos",
-      "link": "https://sports.yahoo.com/nfl/articles/steelers-defense-scores-two-touchdowns-230525107.html",
-      "description": "Steelers overcome drama-filled week, defeat Broncos 27-5....",
-      "pubDate": "2026-11-27T23:05:25+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Justin Herbert injury update: Chargers QB out vs Patriots, Uiagalelei to start",
-      "link": "https://sports.yahoo.com/nfl/articles/justin-herbert-injury-chargers-qb-230126654.html",
-      "description": "Los Angeles Chargers quarterback Justin Herbert has officially been ruled out for the home game against the New England Patriots on Nov. 29....",
-      "pubDate": "2026-11-27T23:01:26+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Aaron Rodgers releases new statement via Al Michaels, says he went on &#39;Pat McAfee Show&#39; after Steelers barred him from team facility",
-      "link": "https://sports.yahoo.com/nfl/breaking-news/article/aaron-rodgers-releases-new-statement-via-al-michaels-says-he-went-on-pat-mcafee-show-after-steelers-barred-him-from-team-facility-230044535.html",
-      "description": "Aaron Rodgers still has something to say....",
-      "pubDate": "2026-11-27T23:00:44+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Instant reaction: Broncos bamboozled by Steelers on Black Friday",
-      "link": "https://sports.yahoo.com/nfl/articles/instant-reaction-broncos-bamboozled-steelers-230000300.html",
-      "description": "The Denver Broncos were absolutely embarrassed by the Pittsburgh Steelers on Black Friday....",
-      "pubDate": "2026-11-27T23:00:00+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Al Michaels shares text from Aaron Rodgers during &#39;Black Friday&#39; Steelers game",
-      "link": "https://sports.yahoo.com/nfl/articles/al-michaels-shares-text-aaron-225612721.html",
-      "description": "Al Michaels shared a text from Aaron Rodgers about his Steelers release during Amazon Prime&#39;s &quot;Black Friday&quot; broadcast of the Steelers-Broncos game....",
-      "pubDate": "2026-11-27T22:56:12+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
-    },
-    {
-      "title": "Steelers Overwhelm Broncos In Post-Aaron Rodgers Era: 3 Takeaways From Pittsburgh's Win",
-      "link": "https://www.foxsports.com/stories/nfl/steelers-overwhelm-broncos-post-aaron-rodgers-era-3-takeaways-from-pittsburgh-win",
-      "description": "The Steelers defense stole the show and got the team its first win without Aaron Rodgers. Here are Ben Arthur's takeaways.",
-      "pubDate": "2026-11-27T22:55:16+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/6591fe2c-nfl-16x9-1.jpg"
-    },
-    {
-      "title": "Here’s where the Broncos stand right now in the division and the AFC playoff picture",
-      "link": "https://sports.yahoo.com/nfl/articles/where-broncos-stand-now-division-225455184.html",
-      "description": "A look at the AFC Playoff picture after the Black Friday Game...",
-      "pubDate": "2026-11-27T22:54:55+00:00",
-      "source": "Yahoo NFL",
-      "thumbnail": ""
     }
   ],
   "ncaa": [
+    {
+      "title": "Wisconsin trounces Minnesota 28-5 to regain possession of Paul Bunyan's Axe",
+      "link": "http://www.espn.com/ncf/recap?gameId=401858544",
+      "description": "— Wisconsin coach Luke Fickell didn’t want to speculate on how the Badgers’ strong finish to the regular season might impact his own job security.",
+      "pubDate": "2026-11-28T09:54:33Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401858544.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Michigan State vs. Rutgers Prediction, Odds, Picks For College Football Week 13",
+      "link": "https://www.foxsports.com/stories/college-football/michigan-state-vs-rutgers-prediction-odds-picks-college-football-week-13",
+      "description": "Get the latest Michigan State vs. Rutgers odds, prediction and pick for College Football Week 13, plus kickoff time, TV channel and streaming information.",
+      "pubDate": "2026-11-28T09:15:08+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/2026-11-28-msu-vs-rutg-prediction-1920x1080-1.png"
+    },
+    {
+      "title": "Penn State vs. Maryland Prediction, Odds, Picks For College Football Week 13",
+      "link": "https://www.foxsports.com/stories/college-football/penn-state-vs-maryland-prediction-odds-picks-college-football-week-13",
+      "description": "Get the latest Penn State vs. Maryland odds, prediction and pick for College Football Week 13, plus kickoff time, TV channel and streaming information.",
+      "pubDate": "2026-11-28T08:30:46+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/2026-11-28-psu-vs-md-prediction-1920x1080-1.png"
+    },
+    {
+      "title": "BYU vs. Cincinnati Prediction, Odds, Picks For College Football Week 13",
+      "link": "https://www.foxsports.com/stories/college-football/byu-vs-cincinnati-prediction-odds-picks-college-football-week-13",
+      "description": "Get the latest BYU vs. Cincinnati odds, prediction and pick for College Football Week 13, plus kickoff time, TV channel and streaming information.",
+      "pubDate": "2026-11-28T08:30:28+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/2026-11-28-cin-vs-byu-prediction-1920x1080-1.png"
+    },
+    {
+      "title": "Texas Longhorns vs. Texas A&M Aggies: Full Highlights",
+      "link": "https://www.espn.com/video/clip/_/id/50618515/full-highlights",
+      "description": "Texas Longhorns vs. Texas A&M Aggies: Full Highlights",
+      "pubDate": "2026-11-28T07:24:04Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1128/0156a10a905646f8a9c905c6e440be49143/0156a10a905646f8a9c905c6e440be49143.jpg"
+    },
+    {
+      "title": "Dampier throws for 5 TDs, 393 yards as No. 2 Utah routs West Virginia to reach 12-0",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856880",
+      "description": "— Devon Dampier threw for five touchdowns and a career-high 393 yards and No. 2 Utah finished undefeated in the regular season, dominating West Virginia 52-28 on Friday night.",
+      "pubDate": "2026-11-28T07:05:32Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856880.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Texas 'not perfect' but finds way again at Texas A&M, earns SEC title shot",
+      "link": "https://www.espn.com/college-football/story/_/id/50619461/texas-not-perfect-finds-way-again-win-texas-am",
+      "description": "Flaws and all, Texas grinded out its fifth win this season by 10 points or fewer, beating Texas A&M 16-6 on Friday night to reach the SEC title game against Georgia.",
+      "pubDate": "2026-11-28T06:56:47Z",
+      "source": "ESPN College Football · Dave Wilson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1128/r1752331_1296x1296_1-1.jpg"
+    },
+    {
+      "title": "Florida QB Aaron Philo injured, exits in third quarter of win over Florida State",
+      "link": "https://www.espn.com/college-football/story/_/id/50616023/injured-florida-quarterback-aaron-philo-exits-3rd-quarter",
+      "description": "In the regular-season finale for both teams, Florida quarterback Aaron Philo was knocked out of the Gators' 26-10 win over the Florida State Seminoles in the third quarter after taking a hard hit following a run, and he was replaced by Tramell Jones Jr.",
+      "pubDate": "2026-11-28T06:56:32Z",
+      "source": "ESPN College Football · Andrea Adelson",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1127/r1752260_600x600_1-1.jpg"
+    },
+    {
+      "title": "Greg Byrne shares wise words from Nick Saban, talks staffing process",
+      "link": "https://www.espn.com/video/clip/_/id/50619408/greg-byrne-shares-wise-words-nick-saban-talks-staffing-process",
+      "description": "Bama AD Byrne says that Nick Saban taught him to constantly be evolving and he carries that into navigating the changing NIL landscape and hiring the right people.",
+      "pubDate": "2026-11-28T06:10:54Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1128/dm_261128_SEC_NCF_Interview_Bama_AD_on_PFS_261128/dm_261128_SEC_NCF_Interview_Bama_AD_on_PFS_261128.jpg"
+    },
+    {
+      "title": "Devon Dampier shines with 5 TDs as Utah continues its undefeated season",
+      "link": "https://www.espn.com/video/clip/_/id/50619324/devon-dampier-shines-5-tds-utah-continues-undefeated-season",
+      "description": "Devon Dampier shines with 5 TDs as Utah continues its undefeated season",
+      "pubDate": "2026-11-28T06:01:03Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1128/62260a0085054a4abb2fc459a184b80d59/62260a0085054a4abb2fc459a184b80d59.jpg"
+    },
+    {
+      "title": "2026 Conference Championship Scenarios: Who Can Clinch On Last Day Of Regular Season",
+      "link": "https://www.foxsports.com/stories/college-football/2026-conference-championship-scenarios-every-team-can-clinch-week-13",
+      "description": "Here are the clinching scenarios for every team that can secure a spot in a conference championship on the last Saturday of the regular season.",
+      "pubDate": "2026-11-28T05:47:45+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/ebe3f4e5-clinching-scenarios-cfb-16x9-3.jpg"
+    },
+    {
+      "title": "Arch Manning and No. 5 Texas grind past Texas A&M 16-6 to secure SEC title game spot",
+      "link": "http://www.espn.com/ncf/recap?gameId=401856756",
+      "description": "— Texas coach Steve Sarkisian wanted to make sure his team wasn't looking ahead and was only focused on Texas A&M on Friday night.",
+      "pubDate": "2026-11-28T05:41:33Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856756.png?templateId=espn.applewatch.awayhome.1"
+    },
+    {
+      "title": "Illinois vs. Northwestern Prediction, Odds, Picks For College Football Week 13",
+      "link": "https://www.foxsports.com/stories/college-football/illinois-vs-northwestern",
+      "description": "Get the latest Illinois vs. Northwestern odds, prediction and pick for College Football Week 13, plus kickoff time, TV channel and streaming information.",
+      "pubDate": "2026-11-28T05:30:07+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/2026-11-28-ill-vs-nu-prediction-1920x1080-1.png"
+    },
+    {
+      "title": "Baylor expected to hire UTSA's Jeff Traylor as Bears' next coach, sources say",
+      "link": "https://www.espn.com/college-football/story/_/id/50617811/baylor-expected-hire-utsa-coach-jeff-traylor",
+      "description": "Baylor, which fired Dave Aranda last month, is expected to hire UTSA coach Jeff Traylor as the school's next coach, sources told ESPN's Pete Thamel Friday, hours after the Traylor's Roadrunners improved to 10-2 with a 28-22 win over Tulsa in San Antonio.",
+      "pubDate": "2026-11-28T05:07:07Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1128/r1752317_600x600_1-1.jpg"
+    },
+    {
+      "title": "Ohio State vs. Michigan Prediction, Odds, Pick For College Football Week 13",
+      "link": "https://www.foxsports.com/stories/college-football/ohio-state-vs-michigan-prediction-odds-pick-college-football-week-13",
+      "description": "Get the latest odds, prediction and pick for the Week 13 Ohio State vs. Michigan game, as well as information on how to watch.",
+      "pubDate": "2026-11-28T05:00:58+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/2026-11-28-mich-vs-osu-prediction-1920x1080-1.png"
+    },
+    {
+      "title": "UConn vs. Wyoming Prediction, Odds, Picks For College Football Week 13",
+      "link": "https://www.foxsports.com/stories/college-football/uconn-vs-wyoming-prediction-odds-picks-college-football-week-13",
+      "description": "Get the latest UConn vs. Wyoming odds, prediction and pick for College Football Week 13, plus kickoff time, TV channel and streaming information.",
+      "pubDate": "2026-11-28T05:00:29+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/2026-11-28-conn-vs-wyo-prediction-1920x1080-1.png"
+    },
+    {
+      "title": "Big Ten Championship Scenarios: How UCLA, Indiana, Oregon, Iowa Can Clinch",
+      "link": "https://www.foxsports.com/stories/college-football/2026-big-ten-championship-scenarios-how-ucla-indiana-oregon-iowa-can-clinch",
+      "description": "Here are the scenarios in which several teams can clinch a spot in the Big Ten title game entering the final Saturday of the regular season.",
+      "pubDate": "2026-11-28T04:53:39+00:00",
+      "source": "FOX Sports",
+      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/big-horz.jpg"
+    },
+    {
+      "title": "Texas' jab at Texas A&M leads college football rivalry week trolls",
+      "link": "https://www.espn.com/college-football/story/_/id/50613517/college-football-rivalry-week-trolls",
+      "description": "The sport's annual showcase of some of its most intense rivalries did not disappoint in the postgame troll department.",
+      "pubDate": "2026-11-28T04:50:42Z",
+      "source": "ESPN College Football · ESPN staff",
+      "thumbnail": "https://a.espncdn.com/photo/2026/1128/r1752337_608x342_16-9.jpg"
+    },
+    {
+      "title": "Steve Sarkisian praises Texas' resilience, looks to SEC title game",
+      "link": "https://www.espn.com/video/clip/_/id/50618646/steve-sarkisian-praises-texas-resilience-looks-sec-title-game",
+      "description": "After clinching a spot in the SEC Championship, Sarkisian reflects on the No. 3 Longhorns' determination through adversity as he looks ahead to adjust for the conference title.",
+      "pubDate": "2026-11-28T04:27:38Z",
+      "source": "ESPN College Football",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/dm_261127_SEC_NCF_Interview_Sarkisian_postgame_261127/dm_261127_SEC_NCF_Interview_Sarkisian_postgame_261127.jpg"
+    },
+    {
+      "title": "What are the conference title game clinching scenarios in Week 13?",
+      "link": "https://www.espn.com/college-football/story/_/id/50583399/conference-title-game-clinching-scenarios-week-13",
+      "description": "Plenty of spots are still up for grabs entering the final week of the regular season.",
+      "pubDate": "2026-11-28T04:21:58Z",
+      "source": "ESPN College Football · ESPN",
+      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/dm_261123_SEC_NCF_Analysis_SEC_Champ_Game_261123/dm_261123_SEC_NCF_Analysis_SEC_Champ_Game_261123.jpg"
+    },
     {
       "title": "Tim Tebow reveals 'welcome to the rivalry moment' from time as a Gator",
       "link": "https://www.espn.com/video/clip/_/id/50617539/tim-tebow-reveals-welcome-rivalry-moment-gator",
@@ -418,14 +578,6 @@
       "pubDate": "2026-11-28T01:58:32Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401856759.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "What are the conference title game clinching scenarios in Week 13?",
-      "link": "https://www.espn.com/college-football/story/_/id/50583399/conference-title-game-clinching-scenarios-week-13",
-      "description": "Plenty of spots are still up for grabs entering the final week of the regular season.",
-      "pubDate": "2026-11-28T01:47:44Z",
-      "source": "ESPN College Football · ESPN",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1123/dm_261123_SEC_NCF_Analysis_SEC_Champ_Game_261123/dm_261123_SEC_NCF_Analysis_SEC_Champ_Game_261123.jpg"
     },
     {
       "title": "Lauren Sisler highlights what's at stake in the Governor's Cup",
@@ -474,14 +626,6 @@
       "pubDate": "2026-11-28T00:51:34Z",
       "source": "ESPN College Football",
       "thumbnail": "https://s.espncdn.com/stitcher/sports/football/college-football/events/401864549.png?templateId=espn.applewatch.awayhome.1"
-    },
-    {
-      "title": "Florida QB Aaron Philo injured, exits in third quarter of win over Florida State",
-      "link": "https://www.espn.com/college-football/story/_/id/50616023/injured-florida-quarterback-aaron-philo-exits-3rd-quarter",
-      "description": "In the regular-season finale for both teams, Florida quarterback Aaron Philo was knocked out of the Gators' 26-10 win over the Florida State Seminoles in the third quarter after taking a hard hit following a run, and he was replaced by Tramell Jones Jr.",
-      "pubDate": "2026-11-28T00:50:24Z",
-      "source": "ESPN College Football · Andrea Adelson",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1127/r1752260_600x600_1-1.jpg"
     },
     {
       "title": "Temple rallies from 17 down in 4th quarter to stun Memphis 35-31 in regular-season finale",
@@ -658,153 +802,25 @@
       "pubDate": "2026-11-27T20:46:40Z",
       "source": "ESPN College Football",
       "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1127/825c65b9-2fc9-4fa1-a721-b39ffd026072/825c65b9-2fc9-4fa1-a721-b39ffd026072.jpg"
-    },
-    {
-      "title": "Ole Miss hits infamous 'urinating dog' celly after final TD",
-      "link": "https://www.espn.com/video/clip/_/id/50613810/ole-miss-hits-infamous-urinating-dog-celly-final-td",
-      "description": "New Video",
-      "pubDate": "2026-11-27T20:46:14Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/b87cd39ecaeb4ecfb00aad7e3a047692942/b87cd39ecaeb4ecfb00aad7e3a047692942.jpg"
-    },
-    {
-      "title": "Nebraska Cornhuskers vs. Iowa Hawkeyes: Game Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/50613790/game-highlights",
-      "description": "Nebraska Cornhuskers vs. Iowa Hawkeyes: Game Highlights",
-      "pubDate": "2026-11-27T20:43:41Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1127/7ee485d0-d931-4ced-825f-7f37179fb95d/7ee485d0-d931-4ced-825f-7f37179fb95d.jpg"
-    },
-    {
-      "title": "Tulsa Golden Hurricane vs. UTSA Roadrunners: Full Highlights",
-      "link": "https://www.espn.com/video/clip/_/id/50613839/full-highlights",
-      "description": "Tulsa Golden Hurricane vs. UTSA Roadrunners: Full Highlights",
-      "pubDate": "2026-11-27T20:43:12Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/wsc/2026/1127/75684a65-260b-437f-84cd-cdc0b51160d5/75684a65-260b-437f-84cd-cdc0b51160d5.jpg"
-    },
-    {
-      "title": "Rivalry Week live: Top plays and playoff analysis",
-      "link": "https://www.espn.com/college-football/story/_/id/50596213/rivalry-week-live-cfp-takeaways",
-      "description": "It's the final week of the regular season. Here are the best plays, moments and CFP implications.",
-      "pubDate": "2026-11-27T20:37:42Z",
-      "source": "ESPN College Football · ESPN staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1127/r1752024_608x342_16-9.jpg"
-    },
-    {
-      "title": "Who are the winningest college football coaches of all time?",
-      "link": "https://www.espn.com/college-football/story/_/id/39283806/who-winningest-college-football-coaches-all",
-      "description": "From Saban to Paterno, there are many legendary college football coaches. Who has the best career record? Check out who has the most wins now.",
-      "pubDate": "2026-11-27T20:18:28Z",
-      "source": "ESPN College Football · ESPN",
-      "thumbnail": "https://a.espncdn.com/photo/2012/0523/ncf_u_saban1x_800.jpg"
-    },
-    {
-      "title": "2026 College Football Odds: Will Head Coach Kyle Whittingham Leave Michigan?",
-      "link": "https://www.foxsports.com/stories/college-football/fired-coach-odds-kyle-whittingham-leave-michigan",
-      "description": "As Michigan prepares to face Ohio State in another historic edition of The Game, could Kyle Whittingham be fired after one season? See the latest odds.",
-      "pubDate": "2026-11-27T19:10:50+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/gettyimages-2294976999-scaled.jpg"
-    },
-    {
-      "title": "What the world looked like the last time Texas A&M beat Texas",
-      "link": "https://www.espn.com/college-football/story/_/id/47109982/texas-aggies-lone-star-showdown-last-win-2010",
-      "description": "It has been 15 years since Texas A&M came out on top on the gridiron against its rivals to the southwest.",
-      "pubDate": "2026-11-27T17:36:28Z",
-      "source": "ESPN College Football · J.J. Post",
-      "thumbnail": "https://a.espncdn.com/photo/2024/1202/r1422413_608x342_16-9.jpg"
-    },
-    {
-      "title": "2026 College Football Hot Seat Odds: Which Coaches Could Be Out?",
-      "link": "https://www.foxsports.com/stories/college-football/cfb-coaches-hot-seat-odds-fired",
-      "description": "Which college football coaches are on the hottest seats heading into rivalry weekend? See the latest odds.",
-      "pubDate": "2026-11-27T17:35:57+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/16x9_1024.png"
-    },
-    {
-      "title": "2026 'College GameDay' Week 13: Duke vs. Wake Forest",
-      "link": "https://www.espn.com/college-football/story/_/id/50612493/2026-college-gameday-week-13-duke-vs-wake-forest",
-      "description": "\"College GameDay\" heads to Wake Forest University for Week 13.",
-      "pubDate": "2026-11-27T17:21:43Z",
-      "source": "ESPN College Football · ESPN",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1006/r1726946_608x342_16-9.jpg"
-    },
-    {
-      "title": "Future Headlines: Stein downs alma mater, Sellers ends Swinney era",
-      "link": "https://www.espn.com/video/clip/_/id/50612518/stein-downs-alma-mater-sellers-ends-swinney-era",
-      "description": "SEC This Morning's Peter Burns and Chris Doering look into their crystal ball ahead of rivalry weekend and predict the conference will continue its impressive season.",
-      "pubDate": "2026-11-27T17:18:28Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/dm_261127_SEC_NCF_Analysis_Future_headlines_261127/dm_261127_SEC_NCF_Analysis_Future_headlines_261127.jpg"
-    },
-    {
-      "title": "Arkansas' David Oke helps feed the Fayetteville community",
-      "link": "https://www.espn.com/video/clip/_/id/50612430/arkansas-david-oke-helps-feed-fayetteville-community",
-      "description": "Monique Jones shares the mission of Squire Jehagen Outreach Center Food Pantry and discusses how Oke and other amazing volunteers help strengthen their community.",
-      "pubDate": "2026-11-27T17:18:15Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/dm_261127_SEC_NCF_Feature_Oke_gives_back_261127/dm_261127_SEC_NCF_Feature_Oke_gives_back_261127.jpg"
-    },
-    {
-      "title": "Michigan Reportedly Starting QB Bryce Underwood Against Ohio State",
-      "link": "https://www.foxsports.com/stories/college-football/michigan-wolverines-ohio-state-buckeyes-tommy-carr-the-game",
-      "description": "Michigan has reportedly made a decision on which of Bryce Underwood or Tommy Carr will start The Game against Ohio State.",
-      "pubDate": "2026-11-27T17:17:25+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/underwoodh1.jpg"
-    },
-    {
-      "title": "How every 2027 five-star college football prospect will fit",
-      "link": "https://www.espn.com/college-football/recruiting/story/_/id/48543549/college-football-recruiting-2027-prospects-five-star-scouts-take",
-      "description": "There are 23 five-star players in the class, and we scout each one's game for the next level.",
-      "pubDate": "2026-11-27T17:00:30Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0217/r1616334_608x342_16-9.jpg"
-    },
-    {
-      "title": "Top DE D.J. Jacobs commits to Miami hours after pulling Ohio State commitment",
-      "link": "https://www.espn.com/college-football/story/_/id/50606746/top-de-recruit-dj-jacobs-commits-miami-hours-decommitting-ohio-state",
-      "description": "Five-star defensive end D.J. Jacobs, the No. 2 overall recruit in the 2027 class, committed to Miami on Thursday hours after pulling his commitment from Ohio State.",
-      "pubDate": "2026-11-27T17:00:19Z",
-      "source": "ESPN College Football · Eli Lederman",
-      "thumbnail": "https://a.espncdn.com/photo/2026/0217/r1616334_600x400_3-2.jpg"
-    },
-    {
-      "title": "How much margin for error does Texas have?",
-      "link": "https://www.espn.com/video/clip/_/id/50612381/how-much-margin-error-does-texas-have",
-      "description": "How much margin for error does Texas have?",
-      "pubDate": "2026-11-27T16:53:36Z",
-      "source": "ESPN College Football",
-      "thumbnail": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1127/ss_20261127_114421285_3762991/ss_20261127_114421285_3762991.jpg"
-    },
-    {
-      "title": "2026 College Football Week 13: Best Games To Watch This Weekend",
-      "link": "https://www.foxsports.com/stories/college-football/2026-college-football-week-13-best-games-watch-weekend",
-      "description": "Which teams get in the win column in college football Week 13? Here are the five best games to watch this weekend.",
-      "pubDate": "2026-11-27T15:41:21+00:00",
-      "source": "FOX Sports",
-      "thumbnail": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/4cca59ea-16x9-21.jpg"
-    },
-    {
-      "title": "Houston, rivalry color rushes lead top uniforms of CFB Week 13",
-      "link": "https://www.espn.com/college-football/story/_/id/50598211/college-football-uniforms-week-13-houston",
-      "description": "Just because it's rivalry week doesn't mean teams still can't put their best foot forward with uniform swag.",
-      "pubDate": "2026-11-27T15:00:13Z",
-      "source": "ESPN College Football · ESPN staff",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1125/r1751351_608x342_16-9.jpg"
-    },
-    {
-      "title": "Best friends Pat Surtain II, Jaylen Waddle ecstatic about reuniting on Broncos",
-      "link": "https://www.espn.com/nfl/story/_/id/50595313/pat-surtain-ii-jaylen-waddle-broncos-alabama-best-friends",
-      "description": "Surtain and Waddle bonded immediately at Alabama six years ago and have embraced the chance to play together again in Denver on a team with Super Bowl hopes.",
-      "pubDate": "2026-11-27T14:58:48Z",
-      "source": "ESPN College Football · Jeff Legwold",
-      "thumbnail": "https://a.espncdn.com/photo/2026/1123/nfl_eplus_waddle_surtain_16x9_608x342.jpg"
     }
   ],
   "insider": [
+    {
+      "title": "Rams guard Bill Murray out for season after torn Achilles in first career start",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-guard-bill-murray-out-for-season-after-torn-achilles-in-first-career-start",
+      "description": "A former undrafted rookie defensive lineman, Murray worked for years to reach the point where he could start on the offensive line....",
+      "pubDate": "2026-11-28T08:41:33+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
+    {
+      "title": "Mike McCarthy admits he hasn't spent enough time with the defense",
+      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-admits-he-hasnt-spent-enough-time-with-the-defense",
+      "description": "McCarthy vows to take a closer look at the situation in the offseason....",
+      "pubDate": "2026-11-28T04:46:15+00:00",
+      "source": "ProFootballTalk",
+      "thumbnail": ""
+    },
     {
       "title": "Fantasy football Week 12 inactives: Who's in and who's out?",
       "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50595780/fantasy-football-injuries-nfl-week-12-inactive-active",
@@ -1058,22 +1074,6 @@
       "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/denzel-boston-listed-as-questionable-after-missing-fridays-practice",
       "description": "The Browns will be on Sunday Night Football this weekend, but it remains to be seen if rookie wide receiver Denzel Boston will be in their lineup....",
       "pubDate": "2026-11-27T18:38:37+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Broncos, under Bo Nix, are much better at home than on the road",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-under-bo-nix-are-much-better-at-home-than-on-the-road",
-      "description": "Lost in the ongoing drama in Pittsburgh is that they play the 8-2 Broncos today....",
-      "pubDate": "2026-11-27T18:32:58+00:00",
-      "source": "ProFootballTalk",
-      "thumbnail": ""
-    },
-    {
-      "title": "Christian Barmore questionable for Patriots, Alijah Vera-Tucker will travel to L.A.",
-      "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/christian-barmore-questionable-for-patriots-alijah-vera-tucker-will-travel-to-l-a",
-      "description": "Patriots defensive tackle Christian Barmore was added to the team's injury report on Friday and his status for Sunday's game against the Chargers is uncertain as a result....",
-      "pubDate": "2026-11-27T18:29:54+00:00",
       "source": "ProFootballTalk",
       "thumbnail": ""
     },
